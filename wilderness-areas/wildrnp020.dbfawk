@@ -1,0 +1,38 @@
+# $Id: tgrwat.dbfawk,v 1.2 2003/09/09 13:56:57 n2ygk Exp $
+# This dbfawk file is used to map arbitrary dbf data that accompanies
+# a shapefile into Xastir canoncical values of:
+#   key     - search key
+#   lanes   - width of feature (usually a road but applies to rivers, etc. too)
+#   color   - color to draw the road
+#   name    - name of the road for labels
+#   filled  - whether a polygon is drawn filled or not
+#   pattern - line pattern for road, river, etc.
+#   display_level - highest zoom level at which to display the feature
+#   label_level - highest zoom level at which to display the label
+#   symbol  - 3 char 'TIO': table, ID, overlay
+#
+# NOTE: This file format is modeled after awk but is nowhere near awk
+#  compatible.
+#
+# This file is used for a simple coastline shapefile produces from a 
+# GRASS vector layer
+
+# BEGIN is called once per dbf file which contains multiple records.
+BEGIN {
+# dbfinfo is the "signature" of the dbf file listing the column names in order.
+# dbfinfo should match the dbf file that we say this dbfawk file goes with.
+dbfinfo="AREA:PERIMETER:WILDRNP020:FEATURE:AGBUR:URL:NAME:STATE:STATE_FIPS";
+# dbffields is which of the above fields we actually want to look at.
+# Note that the order we list these is important since we are appending the
+# word County or Parish depending on what state the county is in.
+dbffields="NAME:STATE";
+}
+
+# BEGIN_RECORD is called once per dbf record which contains multiple fields.
+# Use this rule to re-initialize variables between records.
+BEGIN_RECORD {key=""; lanes=1; fill_color=100; label_color=100; name=""; filled=1; pattern=0; display_level=262144; label_level=1024; symbol=""; font_size=4}
+
+# don't need special end case handling...
+/^NAME=(.*)$/ {name="$1";next;}
+#END_RECORD {name="$name ($key)";}
+#END {}

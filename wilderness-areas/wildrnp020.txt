@@ -1,0 +1,611 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date: 200211
+      Title: Wilderness Areas of the United States
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: U.S. Geological Survey
+      Online_Linkage: http://nationalatlas.gov/atlasftp.html
+  Description:
+    Abstract:
+      This data set consists of National Wilderness Preservation System areas 
+      of the United States.  The data set was created by extracting these 
+      wilderness areas from the National Atlas map layer, Federal Lands and 
+      Indian Reservations of the United States.
+    Purpose:
+      These data are intended for geographic display and analysis at the 
+      national level, and for large regional areas.  The data should be 
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale 
+      data.  No responsibility is assumed by the U.S. Geological Survey in 
+      the use of these data.    
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1972
+        Ending_Date: 2002
+    Currentness_Reference: Ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 170
+      East_Bounding_Coordinate: -64
+      North_Bounding_Coordinate: 72
+      South_Bounding_Coordinate: 17
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Federal lands
+      Theme_Keyword: Wilderness
+      Theme_Keyword: Wilderness Areas
+      Theme_Keyword: BLM
+      Theme_Keyword: FS
+      Theme_Keyword: FWS
+      Theme_Keyword: NPS
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: USA 
+      Place_Keyword: United States
+    Place:
+      Place_Keyword_Thesaurus:
+        U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of 
+        Special Sovereignty, and Their Principal Administrative Divisions 
+        (Federal Information Processing Standard 10-4):  Washington, DC, 
+        National Institute of Standards and Technology.
+      Place_Keyword: Alabama 
+      Place_Keyword: Alaska 
+      Place_Keyword: Arizona 
+      Place_Keyword: Arkansas 
+      Place_Keyword: California 
+      Place_Keyword: Colorado 
+      Place_Keyword: Connecticut 
+      Place_Keyword: Delaware 
+      Place_Keyword: District of Columbia 
+      Place_Keyword: Florida 
+      Place_Keyword: Georgia 
+      Place_Keyword: Hawaii 
+      Place_Keyword: Idaho 
+      Place_Keyword: Illinois 
+      Place_Keyword: Indiana 
+      Place_Keyword: Iowa 
+      Place_Keyword: Kansas 
+      Place_Keyword: Kentucky 
+      Place_Keyword: Louisiana 
+      Place_Keyword: Maine 
+      Place_Keyword: Maryland 
+      Place_Keyword: Massachusetts 
+      Place_Keyword: Michigan 
+      Place_Keyword: Minnesota 
+      Place_Keyword: Mississippi 
+      Place_Keyword: Missouri 
+      Place_Keyword: Montana 
+      Place_Keyword: Nebraska 
+      Place_Keyword: Nevada 
+      Place_Keyword: New Hampshire 
+      Place_Keyword: New Jersey 
+      Place_Keyword: New Mexico 
+      Place_Keyword: New York 
+      Place_Keyword: North Carolina 
+      Place_Keyword: North Dakota 
+      Place_Keyword: Ohio 
+      Place_Keyword: Oklahoma 
+      Place_Keyword: Oregon 
+      Place_Keyword: Pennsylvania 
+      Place_Keyword: Rhode Island 
+      Place_Keyword: South Carolina 
+      Place_Keyword: South Dakota 
+      Place_Keyword: Tennessee 
+      Place_Keyword: Texas 
+      Place_Keyword: Utah 
+      Place_Keyword: Vermont 
+      Place_Keyword: Virginia 
+      Place_Keyword: Washington 
+      Place_Keyword: West Virginia 
+      Place_Keyword: Wisconsin 
+      Place_Keyword: Wyoming 
+      Place_Keyword: Puerto Rico 
+      Place_Keyword: Virgin Islands 
+      Place_Keyword: U.S. Virgin Islands
+  Access_Constraints: None
+  Use_Constraints:
+    None.  Acknowledgment of the National Atlas of the United States of 
+    America and (or) the U.S. Geological Survey would be appreciated in 
+    products derived from these data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Steve Kambly
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 561 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-5094
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+Data_Quality_Information:
+  Logical_Consistency_Report:
+    Using ESRI's Arc/INFO GIS software, the data set was checked for label 
+    errors, dangling nodes, and intersections.  Polygon topology was built 
+    for the data set using the BUILD command.
+  Completeness_Report:
+    This data set includes National Wilderness Preservation System areas for 
+    all 50 of the United States, the District of Columbia, Puerto Rico, and 
+    the U.S. Virgin Islands.  The minimum map resolution is 640 acres or one 
+    square mile.  Generally, features under this size are not shown.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 200010
+          Title: Federal Lands and Indian Reservations of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 2000
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: ATLAS-FEDLN00
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Forest Service
+          Publication_Date: 2001
+          Title: Priest and Three Ridges Wilderness
+          Publication_Information:
+            Publication_Place: Bridgewater, VA
+            Publisher: U.S. Forest Service
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: Arc/INFO Export file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2001
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: PTRWILD
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Forest Service
+          Publication_Date: 2001
+          Title: Spanish Peaks Wilderness
+          Publication_Information:
+            Publication_Place: Golden, CO
+            Publisher: U.S. Forest Service
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: Arc/INFO Export file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2001
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: SPWILD
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Bureau of Land Management
+          Publication_Date: 2001
+          Title: Black Ridge Canyons
+          Publication_Information:
+            Publication_Place: Grand Junction, CO
+            Publisher: Bureau of Land Management
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: Arc/INFO Export file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2001
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: BRCWILD
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Bureau of Land Management
+          Publication_Date: 2001
+          Title: 
+            Black Rock Desert-High Rock Canyon Emigrant Trails Conservation 
+            Area
+          Publication_Information:
+            Publication_Place: Reno, NV
+            Publisher: Bureau of Land Management
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: Arc/INFO Export file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2001
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: NCAWILD
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Bureau of Land Management
+          Publication_Date: 2002
+          Title: Steens Mountain Wilderness
+          Publication_Information:
+            Publication_Place: Burns District BLM, Hines, Oregon
+            Publisher: Bureau of Land Management
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2002
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: STEENSWLD
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Forest Service
+          Publication_Date: 2000
+          Title: Mud Swamp/New River Wilderness
+          Publication_Information:
+            Publication_Place: Tallahassee, FL 
+            Publisher: U.S. Forest Service
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: Arc/INFO Interchange file 
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2000
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: MSWILD
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Forest Service
+          Publication_Date: 2000
+          Title: Bob Marshall Wilderness
+          Publication_Information:
+            Publication_Place: Kalispell, MT 
+            Publisher: U.S. Forest Service
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: Arc/INFO Interchange file 
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2000
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: BMWIILD
+      Source_Contribution: Spatial and attribute information
+
+    Process_Step:
+      Process_Description:
+        Wilderness areas were extracted from the National Atlas Federal Lands 
+        and Indian Reservations map layer.  Attributes for feature type, 
+        feature name, agency ownership, URL, State, and State FIPS codes were 
+        retained.
+
+        Fifteen new wilderness areas were added:
+        > 1) Priest Wilderness, Virginia (from PTRWILD)
+        > 2) Three Ridges Wilderness, Virginia (from PTRWILD)
+        > 3) Spanish Peaks Wilderness, Colorado (from SPWILD)
+        > 4) Black Ridge Canyons Wilderness, Colorado (from BRCWILD)
+        > 5) Black Rock Desert Wilderness, Nevada (from NCAWILD)
+        > 6) Little High Rock Canyon Wilderness, Nevada (from NCAWILD)
+        > 7) Calico Mountains Wilderness, Nevada (from NCAWILD)
+        > 8) East Fork High Rock Canyon Wilderness, Nevada (from NCAWILD)
+        > 9) High Rock Canyon Wilderness, Nevada (from NCAWILD)
+        > 10) High Rock Lake Wilderness, Nevada (from NCAWILD)
+        > 11) North Black Rock Range Wilderness, Nevada (from NCAWILD)
+        > 12) North Jackson Mountains Wilderness, Nevada (from NCAWILD)
+        > 13) Pahute Peak Wilderness, Nevada (from NCAWILD)
+        > 14) South Jackson Mountains Wilderness, Nevada (from NCAWILD)
+        > 15) Steens Mountain Wilderness, Oregon (from STEENSWLD)
+
+        The boundary of Mud Swamp/New River Wilderness, Florida was adjusted 
+        using MSWILD, and the boundary of Bob Marshall Wilderness, Montana 
+        was adjusted using BMWILD.  The Southern portion of Buckhorn 
+        Wilderness, which had been incorrectly identified as Colonel Bob 
+        Wilderness, was corrected.
+
+      Source_Used_Citation_Abbreviation: ATLAS-FEDLN00
+      Source_Used_Citation_Abbreviation: PTRWILD
+      Source_Used_Citation_Abbreviation: SPWILD
+      Source_Used_Citation_Abbreviation: BRCWILD
+      Source_Used_Citation_Abbreviation: NCAWILD
+      Source_Used_Citation_Abbreviation: STEENSWLD
+      Source_Used_Citation_Abbreviation: MSWILD
+      Source_Used_Citation_Abbreviation: BMWILD
+      Process_Date: 2002
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 1220
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000278
+      Longitude_Resolution: 0.000278
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Wilderness area (described by Wildrnp020.dbf)
+      Entity_Type_Definition: 
+        Areas of 640 acres or more established by the Wilderness Act of 1964. 
+        These areas are owned or administered by the Bureau of Land 
+        Management, the Fish and Wildlife Service, the Forest Service, or 
+        the National Park Service.
+      Entity_Type_Definition_Source: U.S. Geological Survey
+    Attribute: 
+      Attribute_Label: Shape 
+      Attribute_Definition: The representation of the entity in the data. 
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: Polygon 
+          Enumerated_Domain_Value_Definition: 2-dimensional element 
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software 
+    Attribute:
+      Attribute_Label: Area
+      Attribute_Definition: The size of the shape in square coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 6.557
+    Attribute:
+      Attribute_Label: Perimeter
+      Attribute_Definition: The perimeter of shape in coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.013
+          Range_Domain_Maximum: 28.158
+    Attribute:
+      Attribute_Label: Wildrnp020#
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 2
+          Range_Domain_Maximum: 1221
+    Attribute:
+      Attribute_Label: Feature
+      Attribute_Definition: The type of feature in the dataset.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Non-Wilderness
+          Enumerated_Domain_Value_Definition: 
+            An area which is completely surrounded by a wilderness but which 
+            is not part of the wilderness.  These areas are all Federally 
+            owned or administered.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Wilderness
+          Enumerated_Domain_Value_Definition: 
+            An area established by the Wilderness Act of 1964 (P.L. 88-577) 
+            which created the National Wilderness Preservation System.  This 
+            act defines wilderness as "...an area of undeveloped Federal land 
+            retaining its primeval character and influence, without permanent 
+            improvements or human habitation, which is protected and managed 
+            so as to preserve its natural conditions..."
+          Enumerated_Domain_Value_Definition_Source:
+            Public Law 88-577 (16 U.S. C. 1131-1136) 88th Congress, Second 
+            Session September 3, 1964.  This act may be cited as the 
+            "Wilderness Act."
+    Attribute:
+      Attribute_Label: Agbur
+      Attribute_Definition: A code for the owning or administering agency.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The area is not a wilderness area.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BLM
+          Enumerated_Domain_Value_Definition: 
+            The wilderness area is owned or administered by the Bureau of 
+            Land Management.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: FS
+          Enumerated_Domain_Value_Definition: 
+            The wilderness area is owned or administered by the Forest 
+            Service.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: FWS
+          Enumerated_Domain_Value_Definition: 
+            The wilderness area is owned or administered by the Fish and 
+            Wildlife Service.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: NPS
+          Enumerated_Domain_Value_Definition: 
+            The wilderness area is owned or administered by the National Park 
+            Service.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Url
+      Attribute_Definition: 
+        The URL, or Uniform Resource Locator, is the address of a page on the 
+        World Wide Web.  The address, which provides the basis for 
+        establishing an electronic link from a client to the physical 
+        location of the page on an Internet server, consists of a server 
+        name, file path, and the page's file name.  A URL in this data set is 
+        usually the address of a Federal agency website.  For example, 
+        http://www.wilderness.net/nwps/wild_view.cfm?wname=Cabeza%20Prieta 
+        is the address of a page that describes the Cabeza Prieta 
+        Wilderness.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The area is not a wilderness area.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Unrepresentable_Domain:
+          There is no predefined set of valid Uniform Resource Locators.
+    Attribute:
+      Attribute_Label: Name
+      Attribute_Definition: The name of the wilderness area.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The area is not a wilderness area.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Unrepresentable_Domain: There is no predefined set of valid names.
+    Attribute:
+      Attribute_Label: State
+      Attribute_Definition: 
+        The two character State code for the State in which the wilderness 
+        area is located.  Where the wilderness area falls in more than one 
+        State, the codes are separated by dashes: MT-WY.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The area is not a wilderness area.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Codeset_Domain:
+          Codeset_Name:
+            Codes for the Identification of the States, the District of 
+            Columbia and the Outlying Areas of the United States, and 
+            Associated Areas; FIPS PUB 5-2.
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology 
+    Attribute:
+      Attribute_Label: State_fips
+      Attribute_Definition: 
+          The two digit State code for the State in which the wilderness area 
+          is located.  Where the wilderness area falls in more than one 
+          State, the codes are separated by dashes: 30-56.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The area is not a wilderness area.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Codeset_Domain:
+          Codeset_Name: 
+            Codes for the Identification of the States, the District of 
+            Columbia and the Outlying Areas of the United States, and 
+            Associated Areas; FIPS PUB 5-2.
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology 
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary: 
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions: 
+        In addition to the address above there are other ESIC offices 
+        throughout the country.  A full list of these offices is at 
+        http://mapping.usgs.gov/esic/esic_index.html.
+  Distribution_Liability: 
+    Although these data have been processed successfully on a computer system 
+    at the U.S. Geological Survey, no warranty expressed or implied is made 
+    by the U.S. Geological Survey regarding the utility of the data on any 
+    other system, nor shall the act of distribution constitute any such 
+    warranty.  No responsibility is assumed by the U.S. Geological Survey in 
+    the use of these data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: 
+                http://nationalatlas.gov/atlasftp.html
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD_ROM
+          Recording_Format: tar
+    Digital_Form: 
+      Digital_Transfer_Information: 
+        Format_Name: SDTS 
+      Digital_Transfer_Option: 
+        Online_Option: 
+          Computer_Contact_Information: 
+            Network_Address: 
+              Network_Resource_Name:
+                http://nationalatlas.gov/atlasftp.html
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD_ROM
+          Recording_Format: tar
+    Fees:
+      There is no charge for the online option.  For National Atlas files 
+      ordered on CD-ROM there is a base price of $45.00 per disc, a handling 
+      fee of $5.00, and a per-file charge based on file size.  The charge for 
+      files less than 10 megabytes in size is $1.00.  The charge for files 
+      that range in size from 10 to 150 megabytes is $7.50.  The charge for 
+      files of 150 megabytes or larger is $15.00.  The charge is $1.00 for 
+      the Wilderness Areas of the United States data set.
+    Ordering_Instructions:
+      To order files on CD-ROM, please see
+      http://nationalatlas.gov/atlasftp.html#q12.
+Metadata_Reference_Information:
+  Metadata_Date: 20021118
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Peg Rawson
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 561 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-4183
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: 
+    FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
+
+
+
+
+
