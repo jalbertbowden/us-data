@@ -1,0 +1,16 @@
+Downloading Flash Flood Guidance Data
+
+There are six files (five required and one optional) for using NWS Flash Flood Guidance shapefile data:
+nws_ffg.sbn -- REQUIRED
+nws_ffg.sbx -- REQUIRED
+nws_ffg.shp -- REQUIRED
+nws_ffg.shx -- REQUIRED
+nws_ffg.dbf -- REQUIRED
+nws_ffg_legend.avl -- optional
+The first four (sbn, sbx, shp and shx extensions) are static; you only need to download them once. Click on the link below to download a ZIP file with these files (2.5MB compressed, 7.4MB uncompressed). 
+
+The dbf file (520K) is routinely updated several times per day. 
+
+The optional legend file (also included in the nws_ffg.zip) will help you reproduce the color scheme we are using. If using ArcView, you will need to copy it into your c:\esri\av_gis30\arcview\legend_avl\ directory and load it manually through the legend editor. 
+
+http://www.srh.noaa.gov/rfcshare/ffg_download/ffg_download.php
