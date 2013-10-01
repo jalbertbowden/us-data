@@ -1,0 +1,214 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Valerie Paskevich
+      Publication_Date: Unpublished Material
+      Title: STATE_BOUNDS: internal US state boundaries
+      Edition: 1.0
+      Geospatial_Data_Presentation_Form: vector digital data
+      Online_Linkage: http://coastalmap.marine.usgs.gov/GISdata/basemaps/boundaries/state_bounds/state_bounds.zip
+  Description:
+    Abstract: This ArcView shapefile represents the internal boundaries of the United States and the political boundaries between the US, Canada and Mexico.
+    Purpose: This data layer includes the internal boundaries for the United States and the political boundaries of the US, Canada and Mexico.  The state boundaries are drawn to the US coastline and does not include any coastline or islands.  This data layer may be used with the high resolution NOS80K coastline (allus80k.shp) which does not include any internal boundaries.
+    Supplemental_Information: This dataset was created to be used with the NOS80K coastline (allus80k.shp) to provide state bounds without redrawing the coastline.  In creating the data layer, some issues of the NOS80K coastline became apparent.  One example, is the US/Mexico boundary.  The NOS80K coastline closes and draws a straight line well below the Texas border.  The same type of problem can be seen around the US/Canada boundary of the Great Lakes.  The state_bounds.shp will draw the political boundaries while the allus80k.shp file will display the US beyond the political boundaries.  If this is unacceptable to the user, they should consider masking the annexed US possession.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 20021004
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -124.211606
+      East_Bounding_Coordinate: -67.158958
+      North_Bounding_Coordinate: 49.384359
+      South_Bounding_Coordinate: 25.837377
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: General
+      Theme_Keyword: U. S. Geological Survey
+      Theme_Keyword: USGS
+      Theme_Keyword: Coastal and Marine Geology Program
+      Theme_Keyword: CMGP
+      Theme_Keyword: Woods Hole Field Center
+      Theme_Keyword: Geographic Information System
+      Theme_Keyword: GIS
+      Theme_Keyword: ArcView shapefile
+      Theme_Keyword: polyline
+      Theme_Keyword: state bounds
+      Theme_Keyword: US and Canada boundary
+      Theme_Keyword: US and Mexico boundary
+      Theme_Keyword: internal boundaries
+    Place:
+      Place_Keyword_Thesaurus: General
+      Place_Keyword: North America
+      Place_Keyword: United States
+      Place_Keyword: US
+      Place_Keyword: contiguous 48 states
+  Access_Constraints: None
+  Use_Constraints: None
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Valerie Paskevich
+        Contact_Organization: U. S. Geological Survey
+      Contact_Position: Computer Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2281
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+  Browse_Graphic:
+    Browse_Graphic_File_Name: state_bounds
+    Browse_Graphic_File_Description: Image showing extent and coverage of the state_bounds shapefile with large US lakes.
+    Browse_Graphic_File_Type: GIF
+  Data_Set_Credit: The true origin of this dataset is compiled from ESRI's 50 individual state 'trct' files.  Please view the Source Information for more details
+  Native_Data_Set_Environment: Microsoft Windows 2000 Version 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 8.2.0.700
+Data_Quality_Information:
+  Logical_Consistency_Report: No additional checks for topological consistency were performed on this data set.
+  Completeness_Report: This data set contains the internal boundaries for the continental US and the US/Canada and US/Mexico political boundaries.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Valerie Paskevich
+          Publication_Date: Unpublished Material
+          Title: USA: United States basemap data layer
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: vector digital data
+          Online_Linkage: http://coastalmap.marine.usgs.gov/GISdata/basemaps/coatlines/nos80k/allus80k.htm
+      Type_of_Source_Media: disc
+      Source_Citation_Abbreviation: usa.shp
+      Source_Contribution: The compiled usa.shp file was used as the source for this new data layer.
+    Process_Step:
+      Process_Description: The usa.shp file was copied and edit ted to remove the coastline and islands.  Because the file contained shapes for the individual states, duplicate common boundaries were numerous.  The file was edited further to remove these duplicate shapes and remove the original table information.  A final clean-up was done to combine (UNION) line segments and reduce the number of individual shapes.
+      Source_Used_Citation_Abbreviation: usa.shp
+      Process_Date: 20021003
+      Process_Time: 1440
+      Source_Produced_Citation_Abbreviation: state_bounds.shp
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Valerie Paskevich
+            Contact_Organization: U.S. Geological Survey
+          Contact_Position: Computer Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 384 Woods Hole Road
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+            Country: USA
+          Contact_Voice_Telephone: (508) 548-8700 x2281
+          Contact_Facsimile_Telephone: (508) 457-2310
+          Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: String
+      Point_and_Vector_Object_Count: 19
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000001
+      Longitude_Resolution: 0.000001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: state_bounds.dbf
+      Entity_Type_Definition: Shapefile Attribute Table
+      Entity_Type_Definition_Source: ESRI
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: ID
+      Attribute_Definition: Assigned feature id and has no applicable relevance to the data.
+      Attribute_Definition_Source: User Defined
+    Attribute:
+      Attribute_Label: LENGTH
+      Attribute_Definition: Length of line in native units
+      Attribute_Definition_Source: User Defined
+  Overview_Description:
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+        Contact_Person: Valerie Paskevich
+      Contact_Position: Computer Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2281
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+  Resource_Description: Downloadable Data
+  Distribution_Liability: Although this derived data set and it's lineage dataset have been used by the  USGS, no warranty, expressed or implied, is made by the USGS as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Shapefile
+        Format_Version_Number: ArcView 3.2
+        Format_Specification: ESRI shapefile
+        Format_Information_Content: The seven files that comprise the ArcView shapefile: state_bounds.dbf, state_bounds.shp, state_bounds.shx, state_bounds.prj, state_bounds.avl, state_bounds. state_bounds.sbx, state_bounds.sbn
+        File_Decompression_Technique: zip
+        Transfer_Size: 2.743
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://coastalmap.marine.usgs.gov/GISdata/basemaps/boundaries/state_bounds/state_bounds.zip
+          Access_Instructions: USGS-WHFC internal access ONLY
+    Fees: none
+  Technical_Prerequisites: The base map overlay is available as an ArcView shapefile format. The user must have ESRI's ArcView 3.0 or greater software to read and process the data file. In lieu of Arcview, the user may utilize another GIS application package capable of importing the data.
+Metadata_Reference_Information:
+  Metadata_Date: 20031209
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+        Contact_Person: Valerie Paskevich
+      Contact_Position: Computer Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2281
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
