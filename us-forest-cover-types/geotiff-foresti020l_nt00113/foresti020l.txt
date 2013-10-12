@@ -1,0 +1,600 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: USDA Forest Service
+      Originator: U.S. Geological Survey
+      Publication_Date: 200212
+      Title: Forest Cover Types
+      Edition: 3
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+  Description:
+    Abstract:
+      This map layer portrays general forest cover types for the United States. 
+      Data were derived from Advanced Very High Resolution Radiometer (AVHRR) 
+      composite images recorded during the 1991 growing season, with the 
+      exception of Puerto Rico, for which Landsat Thematic Mapper (TM) data were 
+      used.  A total of 25 classes of forest cover types were interpreted from 
+      the AVHRR and TM imagery, aided by field observations and refined with 
+      ancillary data from digital elevation models. The data available through
+      the National Atlas of the United States are in GeoTIFF format.  This is a 
+      revised version of the May 2002 map layer, with a corrected shoreline for 
+      Greenland.
+
+    Purpose:
+      The forest cover types map layer was developed to portray broad 
+      distribution patterns of forest cover in the United States. The data 
+      should be displayed at scales appropriate for 1:7,500,000-scale data. 
+      No responsibility is assumed by the U.S. Geological Survey in the 
+      use of these data.
+
+    Supplemental_Information:
+      This map layer was combined with a shaded relief backdrop to produce a 
+      printed map of forest cover types.  The original forest type 
+      classification was developed by the U.S. Forest Service to accompany a 
+      report on forest resources of the U.S. as mandated by the 1974 Forest and 
+      Rangeland Renewable Resources Planning Act (PL 93-378).  Information on
+      the report, "Forest Resources of the United States, 1997", may be obtained 
+      from the U.S. Department of Agriculture Forest Service 
+      (<http://fia.fs.fed.us/>).  Details on development of the forest cover 
+      types map layer are in Zhu, Z. and Evans, D.L., 1994, U.S. Forest Types 
+      and Predicted Percent Forest Cover from AVHRR Data: Photogrammetric 
+      Engineering and Remote Sensing, v. 60, No. 5, p. 525-531.
+
+      The associated world file is included as part of the GeoTIFF.  The 
+      contents of the world file are:
+      >1000.0000
+      >0.000000
+      >0.000000
+      >-1000.0000
+      >-6086629.0000
+      >4488761.0000
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2002
+    Currentness_Reference: Publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 172
+      East_Bounding_Coordinate: -66
+      North_Bounding_Coordinate: 72
+      South_Bounding_Coordinate: 18
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: Imagery/Base maps/Earth cover
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Forest Cover Types
+      Theme_Keyword: Forest Cover
+      Theme_Keyword: Land Cover
+      Theme_Keyword: Vegetation
+      Theme_Keyword: Trees
+      Theme_Keyword: Forests
+      Theme_Keyword: Advanced Very High Resolution Radiometer
+      Theme_Keyword: AVHRR
+      Theme_Keyword: Thematic Mapper
+      Theme_Keyword: TM
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: North America
+      Place_Keyword: United States
+      Place_Keyword: Puerto Rico
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+
+  Access_Constraints: None.
+  Use_Constraints:
+    None.  Acknowledgment of the National Atlas of the United States, the USDA 
+    Forest Service,  and (or) the U.S. Geological Survey would be appreciated in 
+    products derived from these data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Zhiliang Zhu
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: USGS Center for EROS
+        City: Sioux Falls
+        State_or_Province: SD
+        Postal_Code: 57198-0001
+        Country: USA
+      Contact_Voice_Telephone: 605-594-6131
+      Contact_Electronic_Mail_Address: zhu@usgs.gov
+  Data_Set_Credit: 
+    This image incorporates field data collected by the USDA Forest Service.
+  Native_Data_Set_Environment: 
+    1-band TIFF format with color look-up table, both created using Arc/INFO
+    8.0.1. The data available through the National Atlas of the United States
+    are in GeoTIFF format.
+Data_Quality_Information:
+  Logical_Consistency_Report:
+    No tests for logical consistency have been performed on this map layer.
+  Completeness_Report:
+    This map layer includes forest cover types for all 50 of the United States 
+    and Puerto Rico.  Forest cover data were not available for the U.S. Virgin 
+    Islands.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Zhu, Z.
+          Originator: Evans, D.L. 
+          Publication_Date: 1994
+          Title: 
+            U.S. Forest Types and Predicted Percent Forest Cover from AVHRR 
+            Data
+          Series_Information:
+            Series_Name: Photogrammetric Engineering and Remote Sensing
+            Issue_Identification: v. 60, No. 5, p. 525-531.
+          Publication_Information:
+            Publication_Place: Bethesda, MD
+            Publisher: American Society for Photogrammetry & Remote Sensing
+      Type_of_Source_Media: Internal data base
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1994
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: USForest
+      Source_Contribution: Forest cover types information.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: USDA Forest Service
+          Originator: U.S. Geological Survey 
+          Publication_Date: 2000
+          Title: Forest Cover Types
+          Edition: 1
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2000
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: FOREST_IMAGE2000
+      Source_Contribution: Forest cover types TIFF image.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 200205
+          Title: North America Land/Water Mask
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Type_of_Source_Media: ftp site
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 200205
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GRDMSKI 
+      Source_Contribution: shoreline information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: USDA Forest Service
+          Originator: U.S. Geological Survey
+          Publication_Date: 200205
+          Title: Forest Cover Types
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time: 
+            Calendar_Date: 2002 
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: FOREST_IMAGE200205
+      Source_Contribution: Forest cover types TIFF image.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Imagery and Mapping Agency 
+          Publication_Date: 1990
+          Title: World Vector Shoreline
+          Publication_Information:
+            Publication_Place: Bethesda, MD
+            Publisher: National Imagery and Mapping Agency
+          Online_Linkage:
+            <http://www.ngdc.noaa.gov/mgg/shorelines/shorelines.html>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time: 
+            Calendar_Date: 1990 
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: WVS 
+      Source_Contribution: Shoreline information.
+
+
+    Process_Step:
+      Process_Description:
+        A detailed description of how the forest cover classes were derived from 
+        the AVHRR and TM source data may be found in USForest.  This image
+        was concatenated from the four images used to create the printed map in 
+        USForest: one image each for the 48 conterminous United States, Alaska,
+        Hawaii, and Puerto Rico, respectively.  Pixel values in the final image
+        and their associated class names and red-green-blue color values are:
+        
+        >Value     Class name                              RGB values
+        >----------------------------------------------------------------
+        >0         ocean fill                              132  193  255
+        >1         non-U.S. land                           204  204  204
+        >2         White-red-jack pine                     102  204  204
+        >3         Spruce-fir                              255  255   51
+        >4         Longleaf-slash pine                     255  153  102
+        >5         Loblolly-shortleaf pine                 255  204  153
+        >6         Oak-pine                                102  153  102
+        >7         Oak-hickory                             153  255  153
+        >8         Oak-gum-cypress                         102  153  153
+        >9         Elm-ash-cottonwood                      153  102   51
+        >10        Maple-beech-birch                       153  204  153
+        >11        Aspen-birch                             153  102  153
+        >12        Douglas-fir                             204  255  204
+        >13        Hemlock-Sitka spruce                    102  204  102
+        >14        Ponderosa pine                          153  204  102
+        >15        Western white pine                      102  153  204
+        >16        Lodgepole pine                          204  153  102
+        >17        Larch                                   204  102   51
+        >18        Fir-spruce                              255  204   51
+        >19        Redwood                                  51  153   51
+        >20        Chaparral                               153  153  102
+        >21        Pinyon-juniper                          153  255  102
+        >22        Western hardwoods                       204  153  153
+        >23        U.S. non-forest                         255  255  255
+        >24        Lakes                                   132  193  255
+        >25        Alaska Spruce-birch                     204  102  102
+        >26        Hawaii native forest                    102  204  102
+        >27        Hawaii mixed forest                     204  204  102
+        >28        Puerto Rico evergreen broadleaf forest    0  153  102
+        >
+      Source_Used_Citation_Abbreviation: USForest
+      Process_Date: 2000
+      Source_Produced_Citation_Abbreviation: FOREST_IMAGE2000
+
+    Process_Step:
+      Process_Description:
+        Coastlines in Canada, Mexico, Russia, and in the Caribbean were
+        corrected.  A GeoTIFF Revision 1.0 header was added and PackBits
+        compression was applied to the image.
+      Source_Used_Citation_Abbreviation: FOREST_IMAGE2000
+      Source_Used_Citation_Abbreviation: GRDMSKI
+      Process_Date: 200205
+      Source_Produced_Citation_Abbreviation: FOREST_IMAGE200205
+
+    Process_Step:
+      Process_Description:
+        The coastline of Greenland was replaced by a new, corrected 
+        version derived from World Vector Shoreline (WVS). This image 
+        contains no thematic data for Greenland; the new data were 
+        inserted only to maintain consistency with other National Atlas 
+        data layers.
+      Source_Used_Citation_Abbreviation: FOREST_IMAGE200205
+      Source_Used_Citation_Abbreviation: WVS
+      Process_Date: 200212
+
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+  Raster_Object_Information:
+    Raster_Object_Type: Grid Cell
+    Row_Count: 7273
+    Column_Count: 10366
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Lambert Azimuthal Equal Area
+        Lambert_Azimuthal_Equal_Area:
+          Longitude_of_Projection_Center: -100.00
+          Latitude_of_Projection_Center: 45.00
+          False_Easting: 0.0
+          False_Northing: 0.0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Row and column
+        Coordinate_Representation:
+          Abscissa_Resolution: 1000.0
+          Ordinate_Resolution: 1000.0
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: None
+      Ellipsoid_Name: Sphere
+      Semi-major_Axis: 6370997.0
+      Denominator_of_Flattening_Ratio: 1.0
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Forest cover types grid cell
+      Entity_Type_Definition: 
+        Any of the grid cell elements in the forest cover types raster file.
+      Entity_Type_Definition_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: 
+        Forest cover types grid cell value
+      Attribute_Definition: 
+        Each grid cell value represents one of 25 forest cover type classes, or 
+        one of 4 additional classes for oceans, lakes, non-U.S. land, and U.S. 
+        non-forested land.  
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: ocean fill
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: non-U.S. land
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: White-red-jack pine
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3
+          Enumerated_Domain_Value_Definition: Spruce-fir
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4
+          Enumerated_Domain_Value_Definition: Longleaf-slash pine
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 5
+          Enumerated_Domain_Value_Definition: Loblolly-shortleaf pine
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 6
+          Enumerated_Domain_Value_Definition: Oak-pine
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 7
+          Enumerated_Domain_Value_Definition: Oak-hickory
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 8
+          Enumerated_Domain_Value_Definition: Oak-gum-cypress
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 9
+          Enumerated_Domain_Value_Definition: Elm-ash-cottonwood
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 10
+          Enumerated_Domain_Value_Definition: Maple-beech-birch
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 11
+          Enumerated_Domain_Value_Definition: Aspen-birch
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 12
+          Enumerated_Domain_Value_Definition: Douglas-fir
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 13
+          Enumerated_Domain_Value_Definition: Hemlock-Sitka spruce
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 14
+          Enumerated_Domain_Value_Definition: Ponderosa pine
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 15
+          Enumerated_Domain_Value_Definition: Western white pine
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 16
+          Enumerated_Domain_Value_Definition: Lodgepole pine
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 17
+          Enumerated_Domain_Value_Definition: Larch
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 18
+          Enumerated_Domain_Value_Definition: Fir-spruce
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 19
+          Enumerated_Domain_Value_Definition: Redwood
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 20
+          Enumerated_Domain_Value_Definition: Chaparral
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 21
+          Enumerated_Domain_Value_Definition: Pinyon-juniper
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 22
+          Enumerated_Domain_Value_Definition: Western hardwoods
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 23
+          Enumerated_Domain_Value_Definition: U.S. non-forest
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 24
+          Enumerated_Domain_Value_Definition: Lakes
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 25
+          Enumerated_Domain_Value_Definition: Alaska Spruce-birch
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 26
+          Enumerated_Domain_Value_Definition: Hawaii native forest
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 27
+          Enumerated_Domain_Value_Definition: Hawaii mixed forest
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 28
+
+          Enumerated_Domain_Value_Definition: 
+            Puerto Rico evergreen broadleaf forest
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey and USDA Forest Service
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+        Country: USA
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions:
+        In addition to the address above there are other ESIC offices throughout 
+        the country.  A full list of these offices is at 
+        <http://geography.usgs.gov/esic/esic_index.html>.
+  Distribution_Liability:
+    Although these data have been processed successfully on a computer system at 
+    the U.S. Geological Survey, no warranty expressed or implied is made by the 
+    U.S. Geological Survey or the USDA Forest Service regarding the utility of 
+    the data on any other system, nor shall the act of distribution constitute 
+    any such warranty.  Use of trademarks or formats does not constitute 
+    endorsement by the U.S. Geological Survey or the USDA Forest Service.  There 
+    are no copyright restrictions on the use, redistribution, or further 
+    processing of this map layer.  No responsibility is assumed by the U.S. 
+    Geological Survey or the USDA Forest Service in the use of these data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: TIFF
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name:
+                <http://nationalatlas.gov/atlasftp.html>
+    Fees: There is no charge for the map layer.  
+
+Metadata_Reference_Information:
+  Metadata_Date: 20050921
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Peg Rawson
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Drive
+        Address: MS-561 
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+        Country: USA
+      Contact_Voice_Telephone: 703-648-4183
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: 
+    FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
+
