@@ -1,0 +1,399 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Atlas of the United States
+      Publication_Date: 201110
+      Title: Revenues from Gambling, by State
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: <http://nationalatlas.gov/pros.htm>
+  Description:
+    Abstract:
+      This data set reports the revenues generated from gambling establishments by US state,  for the year 2007.
+      Revenues are listed in thousands of dollars.
+
+    Purpose:
+      These data are intended for geographic display and analysis at the national level, and for large regional areas.
+      The data should be displayed and analyzed at scales appropriate for 1:1,000,000-scale data.
+      No responsibility is assumed by the National Atlas of the United States in the use of these data.
+
+    Supplemental_Information:
+      Code:    7132 Title Gambling industries Definition:
+      This industry group comprises establishments (except casino hotels) primarily engaged in operating gambling facilities,
+      such as casinos, bingo halls, and video gaming terminals, or in the provision of gambling services,
+      such as lotteries and off-track betting. Casino hotels are classified in Industry 72112
+
+      Nonemployer Statistics (NES)
+      U.S. and sub-national economic data by industry for nonemployer businesses.
+      A nonemployer business is one that has no paid employees, has annual business receipts of $1,000 or more ($1 or more in the construction industries),
+      and is subject to federal income taxes.
+      Nonemployer Statistics cover all sectors of the economy and are available for the U.S., states, metro areas, and counties, but not for places.
+      Nonemployer Statistics have been released every 5 years since 1972, for years ending in "2" and "7" for selected industries in conjunction
+      with the Economic Census. Beginning with reference year 1998, the Nonemployer Statistics have been released as an annual data series.
+
+      Some data is suppressed  for the following reasons:
+      Withheld to avoid disclosing data for individual companies; data are included in higher level totals.
+      Not available or not comparable.
+      Withheld because estimate did not meet publication standards.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2007
+    Currentness_Reference: Ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 170
+      East_Bounding_Coordinate: -64
+      North_Bounding_Coordinate: 72
+      South_Bounding_Coordinate: 17
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: Economy
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Gambling
+      Theme_Keyword: State
+
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: USA
+      Place_Keyword: United States
+    Place:
+      Place_Keyword_Thesaurus:
+        U.S. Department of Commerce, 1987, Codes for the Identification of the
+        States, the District of Columbia and the Outlying Areas of The United
+        States, and Associated Areas (FIPS 5-2):  Washington, DC, National
+        Institute of Standards and Technology.
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+
+  Access_Constraints: None
+  Use_Constraints:
+    None.  Acknowledgment of The National Atlas of the United States of
+    America and (or) the Census Bureau would be appreciated in products derived from these data.
+
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jay Donnelly
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Dr
+        Address: Room MS 511
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-5395
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+Data_Quality_Information:
+  Logical_Consistency_Report: No checks for logical consistency were performed on this data set.
+  Completeness_Report:
+    This data set includes 2007 data from "The Economic Census", for the  fifty
+    States in the United States, the District of Columbia.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            The Census Bureau
+            http://factfinder.census.gov/servlet/IQRSelectIndustryServlet?ds_name=EC0700A1&_lang=en&_ts=334837455468
+          Publication_Date: 2007
+          Title: The Economic Census of The United States
+          Publication_Information:
+            Publication_Place: Washington DC
+            Publisher: The Census Bureau
+      Type_of_Source_Media: On line data download
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 20110921
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Economic Census
+      Source_Contribution: attribute information
+
+    Process_Step:
+      Process_Description:
+        Using Census Bureau query located at http://factfinder.census.gov/servlet/IQRSelectIndustryServlet?ds_name=EC0700A1&_lang=en&_ts=334837455468
+        1. Selected sector 71.
+        2. Selected sub-sector 713.
+        3. selected industry 7132.
+        3. Downloaded table to CSV file.
+        4 Converted CSV file to Excel file.
+        5 Manually inserted state FIPS code to excel file.
+        6. Created new fields for Total Establishments and Total Revenues.
+        7. Added figures from paid & unpaid categories for totals.
+        8.  Populated  records that contained suppressed fields with -9999 in those suppressed fields.
+        9. Created fields to indicate whether data was complete or partial. Any record that contained only partial data was identified as incomplete.
+        10. Imported Excel file into Arc Map. Export to DBF file.
+        11. Joined DBF file to state shape file for display on Map Maker.
+      Source_Used_Citation_Abbreviation: 2007 Economic Census
+      Process_Date: 201109
+
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference:
+    U.S. Department of Commerce, 1987, Codes for the Identification of the
+    States, the District of Columbia and the Outlying Areas of the United
+    States, and Associated Areas (FIPS 5-2): Washington, DC, National
+    Institute of Standards and Technology.
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Gambling establishments and revenues by state.
+      Entity_Type_Definition: Revenues obtained from gambling in establishments engaged in gambling as their primary source of revenue.
+      Entity_Type_Definition_Source: National Atlas of the United States
+    Attribute:
+      Attribute_Label: State
+      Attribute_Definition: The 2-character abbreviation of the State or State equivalent.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name:
+            Codes for the Identification of the States, the District of
+            Columbia and the Outlying Areas of the United States, and
+            Associated Areas, FIPS 5-2.
+          Codeset_Source:
+            U.S. Department of Commerce, National Institute of Standards and
+            Technology
+    Attribute:
+      Attribute_Label: State_fips
+      Attribute_Definition: The 2-digit FIPS code of the State or State equivalent.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name:
+            Codes for the Identification of the States, the District of
+            Columbia and the Outlying Areas of the United States, and
+            Associated Areas, FIPS 5-2.
+          Codeset_Source:
+            U.S. Department of Commerce, National Institute of Standards and
+            Technology
+    Attribute:
+      Attribute_Label: EMP_EST
+      Attribute_Definition: The number of establishments engaged in gambling, as a primary source of revenue,  that retain paid employees.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -9999
+          Enumerated_Domain_Value_Definition: Data not available
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 299
+    Attribute:
+      Attribute_Label: NEMP_EST
+      Attribute_Definition: The number of establishments engaged in gambling, as a primary source of revenue,  that do not employ paid employees.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 13
+          Range_Domain_Maximum: 1607
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -9999
+          Enumerated_Domain_Value_Definition: Data not available
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+    Attribute:
+      Attribute_Label: TTL_EST
+      Attribute_Definition: The total number of gambling establishments.  This is a calculated field (EMP_EST + NEMP_EST).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 8
+          Range_Domain_Maximum: 1607
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -9999
+          Enumerated_Domain_Value_Definition: Data not available
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+    Attribute:
+      Attribute_Label: EST_COM
+      Attribute_Definition: Designates if the data for the number of establishments is complete. Y = complete,  N= Not Complete
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: N
+          Enumerated_Domain_Value_Definition: Complete data was not provided in the Economic Census.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Y
+          Enumerated_Domain_Value_Definition: Complete data was provided in the Economic Census.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+    Attribute:
+      Attribute_Label: EMP_REV
+      Attribute_Definition: The amount of  revenues from gambling, generated in a primarily gambling establishment, with paid workers expressed in thousands of dollars.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -9999
+          Enumerated_Domain_Value_Definition: Data not provided.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 6958
+          Range_Domain_Maximum: 5847374
+    Attribute:
+      Attribute_Label: NEMP_REV
+      Attribute_Definition: The amount of  revenues from gambling, generated in a primarily gambling establishment, with unpaid workers expressed in thousands of dollars.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -9999
+          Enumerated_Domain_Value_Definition: Data not provided.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 812
+          Range_Domain_Maximum: 217404
+    Attribute:
+      Attribute_Label: TTL_REV
+      Attribute_Definition: The amount of  revenues from gambling, generated in a primarily gambling establishment, with both paid and unpaid workers expressed in thousands of dollars.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -9999
+          Enumerated_Domain_Value_Definition: Data not provided.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 812
+          Range_Domain_Maximum: 6025983
+    Attribute:
+      Attribute_Label: REV_COM
+      Attribute_Definition: Designates if the data for the revenue data generated at gambling establishments has been rcompletely reported. Y = complete,  N= Not Complete
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: N
+          Enumerated_Domain_Value_Definition: Complete data was not provided in the Economic Census.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Y
+          Enumerated_Domain_Value_Definition: Complete data was provided in the Economic Census.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: USGS National Center
+        Address: 12201 Sunrise Valley Drive
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions: 
+        In addition to the address above there are other SIC offices throughout 
+        the country.  A full list of these offices is at <http:/www.usgs.gov/ask>
+  Distribution_Liability:
+    Although these data have been processed successfully on a computer system at
+    the U.S. Geological Survey, no warranty expressed or implied is made by the
+    U.S. Geological Survey regarding the utility of the data on any other
+    system, nor shall the act of distribution constitute any such warranty.  No
+    responsibility is assumed by the U.S. Geological Survey in the use of these
+    data.
+
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: dBASE IV file
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Web Map Service (WMS)
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/infodocs/wms_intro.html>
+    Fees: There is no charge for the map layer.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20110923
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Diana Williams
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 1400 Independence Ave
+        City: Rolla
+        State_or_Province: MO
+        Postal_Code: 65401
+      Contact_Voice_Telephone: 573-308-3839
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
+
