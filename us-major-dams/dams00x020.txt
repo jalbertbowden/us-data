@@ -1,0 +1,934 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Atlas of the United States
+      Publication_Date: 200603
+      Title: Major Dams of the United States
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater>
+
+  Description:
+    Abstract:
+      This map layer portrays major dams of the United States, including Puerto 
+      Rico and the U.S. Virgin Islands.  The map layer was created by extracting 
+      dams 50 feet or more in height, or with a normal storage capacity of 5,000 
+      acre-feet or more, or with a maximum storage capacity of 25,000 acre-feet 
+      or more, from the 79,777 dams in the U.S. Army Corps of Engineers National 
+      Inventory of Dams.  This is a replacement for the April 1994 map layer.
+    Purpose:
+      These data are intended for geographic display and analysis at the 
+      national level, and for large regional areas.  The data should be 
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale data.  
+      No responsibility is assumed by the National Atlas of the United States in 
+      the use of these data.
+    Supplemental_Information: 
+      In the online National Atlas of the United States Map Maker, at scales 
+      smaller than 1:4,850,000 the data is thinned for display purposes.  For
+      scales between 1: 4,850,000 and 1:22,000,000, dams are only shown if they 
+      have a height of 500 feet or more, or a normal storage capacity of 50,000 
+      acre-feet or more, or a maximum storage capacity of 250,000 acre-feet or 
+      more (1280 dams).  At scales smaller than 1:22,000,000, dams are only 
+      shown if they have a height of 5000 feet or more, or a normal storage 
+      capacity of 500,000 acre-feet or more, or a maximum storage capacity of 
+      2,500,000 acre-feet or more (290 dams).
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 200202
+        Ending_Date: 200412
+    Currentness_Reference: Dates of source material
+
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -163
+      East_Bounding_Coordinate: -66
+      North_Bounding_Coordinate: 69
+      South_Bounding_Coordinate: 18
+
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: Inland Waters
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Hydrography
+      Theme_Keyword: Dams
+      Theme_Keyword: Dam safety
+      Theme_Keyword: Reservoirs
+      Theme_Keyword: Reservoir capacity
+      Theme_Keyword: Reservoir storage
+      Theme_Keyword: Surface water
+    Theme:
+      Theme_Keyword_Thesaurus: 
+        Tri-Service Spatial Data Standard
+      Theme_Keyword: Improvement
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: USA
+      Place_Keyword: Alaska
+      Place_Keyword: Alabama
+      Place_Keyword: Arkansas
+      Place_Keyword: Arizona
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Iowa
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Massachusetts
+      Place_Keyword: Maryland
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Missouri
+      Place_Keyword: Mississippi
+      Place_Keyword: Montana
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Nebraska
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: Nevada
+      Place_Keyword: New York
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: United States
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wyoming
+      Place_Keyword: Puerto Rico
+      Place_Keyword: Virgin Islands
+      Place_Keyword: U.S. Virgin Islands
+
+  Access_Constraints: None
+  Use_Constraints:
+    None.  Acknowledgment of the National Atlas of the United States of America 
+    would be appreciated in products derived from these data.
+
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Peg Rawson
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Drive
+        Address: MS-561 
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-4183
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+
+  Native_Data_Set_Environment: ESRI shapefile format
+
+Data_Quality_Information: 
+  Logical_Consistency_Report: None
+  Completeness_Report: 
+    This file contains those dams from the National Inventory of Dams with a 
+    height of 50 feet or more, or with a normal storage capacity of 5000 acre-
+    feet or more, or with a maximum storage capacity of 25,000 acre-feet or 
+    more.  Dams outside of the 50 States, Puerto Rico, and the U.S. Virgin 
+    Islands are not included, nor are dams for which there is no positional 
+    information in the National Inventory of Dams.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: 
+            U.S. Army Corps of Engineers in cooperation with FEMA's National Dam 
+            Safety Program
+          Publication_Date: 20050209
+          Title: National Inventory of Dams, Water Control Infrastructure
+          Publication_Information:
+            Publication_Place: Alexandria, VA
+            Publisher: U.S. Army Corps of Engineers
+          Online_Linkage: <http://crunch.tec.army.mil/nid/webpages/nid.cfm>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 200202
+            Ending_Date: 200412
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: NID
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 200506
+          Title: County Boundaries of the United States, 2001
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+          Online_Linkage: 
+            <http://nationalatlas.gov/atlasftp.html?openChapters=chpbound#chpbound>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 2001
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: Atlas-Cnty
+      Source_Contribution: Attribute information
+
+    Process_Step:
+      Process_Description: 
+        The full National Inventory of Dams (NID) was downloaded from the NID 
+        web site in shapefile format and loaded into ArcView.  Using an 
+        ArcView query, major dams were selected and placed in a new shapefile.  
+        Major dams were defined as dams with a height of 50 feet or more, or 
+        with a normal storage capacity of 5,000 acre-feet or more, or with a 
+        maximum storage capacity of 25,000 acre-feet or more.  (The 
+        International Committee on Large Dams considers dams over 50 feet to be 
+        large dams.  The USGS Water Resources Division considers large 
+        reservoirs to be those with a normal storage capacity of 5,000 acre-feet 
+        or more, or with a maximum storage capacity of 25,000 acre-feet or 
+        more.)  
+
+        One dam in Guam and one dam in the Trust Territories were deleted.  
+        Eighty-nine dams without valid latitude/longitude coordinates were also 
+        deleted.  
+
+        Because the text fields contained entries in a mix of formats, some in 
+        all capitals and some in capitals and lower-case, all text entries were 
+        changed to all capitals.
+
+        Some dams were missing county attribute values.  The appropriate values 
+        were determined by comparing the dam locations to the Atlas-Cnty file.  
+        One dam was deleted because it was described as being in Maryland but 
+        had coordinates that placed it in Virginia.
+ 
+        Invalid values for owner type (197 records), dam type (10 records), and 
+        year completed (3 records) were changed to blanks to indicate that the 
+        values are unknown.  The attribute Purposes contained some invalid 
+        codes; these were removed but valid codes and duplicate codes were 
+        retained.  Thirty-nine records contained a value of -9.9 for Nid_height.  
+        The appropriate value for each record was determined by looking at the 
+        dam height, structural height, and hydraulic height values in the source 
+        data.  One invalid value for hazard was changed to U to indicate that 
+        the hazard potential is unknown.
+
+        The shape file was converted to an ArcInfo coverage and then converted 
+        to NAD 83 for display purposes.  The result was then converted back to 
+        shapefile format.
+      Source_Used_Citation_Abbreviation: NID05
+      Source_Used_Citation_Abbreviation: Atlas-Cnty
+      Process_Date: 200512
+    Process_Step:
+      Process_Description: 
+        An attribute was added to the shapefile to allow for symbolization in the 
+        National Atlas Map Maker.
+      Process_Date: 20060320
+
+
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference:
+    U.S. Department of Commerce, 1987, Codes for the Identification of the 
+    States, the District of Columbia and the Outlying Areas of the United 
+    States, and Associated Areas (FIPS 5-2): Washington, DC, National Institute 
+    of Standards and Technology. 
+
+    U.S. Department of Commerce, 1990, Counties and Equivalent Entities of the 
+    United States, Its Possessions, and Associated Areas (FIPS 6-4): Washington, 
+    DC, National Institute of Standards and Technology.
+
+  Direct_Spatial_Reference_Method: Point
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Point
+      Point_and_Vector_Object_Count: 8121
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000278
+      Longitude_Resolution: 0.000278
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257222
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Dam
+      Entity_Type_Definition: 
+        Any artificial barrier, including appurtenant works, which impounds or 
+        diverts water, and which (1) is twenty-five feet or more in height from 
+        the natural bed of the stream or watercourse measured at the downstream 
+        toe of the barrier, or from the lowest elevation of the outside limit of 
+        the barrier, if it is not across a stream channel or watercourse, to the 
+        maximum water storage elevation or (2) has an impounding capacity at 
+        maximum water storage elevation of fifty acre-feet or more.  This Act 
+        does not apply to any such barrier which is not in excess of six feet in 
+        height, regardless of storage capacity or which has a storage capacity 
+        at maximum water storage elevation not in excess of fifteen acre-feet, 
+        regardless of height, unless such barrier, due to its location or other 
+        physical characteristic, is likely to pose a significant threat to human 
+        life or property in the event of its failure.
+      Entity_Type_Definition_Source: 
+        Dam Safety Act of 1972 (P.L. 92-367) and Dam Safety Act of 1986 (P.L. 
+        99-662)
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Point
+          Enumerated_Domain_Value_Definition: 0-dimensional element
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Dams00x020
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 8121
+    Attribute:
+      Attribute_Label: Dam_name
+      Attribute_Definition: 
+        The official name of the dam.  For dams that do not have an official 
+        name, the popular name is used.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: 
+          There is no predefined set of valid dam names.  The attribute contains 
+          the official name of the dam, or the popular name if there is no 
+          official name.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The name of the dam is not provided in the National Inventory of 
+            Dams.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+    Attribute:
+      Attribute_Label: Other_name
+      Attribute_Definition: 
+        The reservoir name or names in common use other than the official name 
+        of the dam.  Names are separated with semicolons.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: 
+          There is no predefined set of reservoir or common use names.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            There are no other names for the dam, or the other names are 
+            unknown.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+    Attribute:
+      Attribute_Label: Nidid
+      Attribute_Definition: 
+        The official National Inventory of Dams identification number for the 
+        dam, known formerly as the National Id.  The first two characters of the 
+        identity are the State two letter abbreviation, based on the location of 
+        the dam.  The last five characters of the identity are a unique number 
+        (AB#####).
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: AK00001
+          Range_Domain_Maximum: WY83004
+    Attribute:
+      Attribute_Label: Longitude
+      Attribute_Definition: Dam longitude as a single value, in decimal degrees.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -162.87781
+          Range_Domain_Maximum: -66.015000
+    Attribute:
+      Attribute_Label: Latitude
+      Attribute_Definition: Dam latitude as a single value, in decimal degrees.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 18.017300
+          Range_Domain_Maximum: 68.069400
+    Attribute:
+      Attribute_Label: County
+      Attribute_Definition: 
+        The name of the county in which the dam is located.  If the dam falls in 
+        more than one county, the names may be separated by a slash, a comma, or 
+        a semicolon.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The name of the county is not provided in the National Inventory of 
+            Dams.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Codeset_Domain:
+          Codeset_Name: 
+            Counties and Equivalent Areas of the United States, Its Possessions, 
+            and Associated Areas, FIPS PUB 6-4.
+          Codeset_Source: U.S. Department of Commerce
+    Attribute:
+      Attribute_Label: River
+      Attribute_Definition: 
+        The official name of the river or stream on which the dam is built.  If 
+        the stream is unnamed, it is identified as a tributary ("TR") to a named 
+        river.  If the dam is located offstream, the name of the river or stream 
+        is entered plus "-OS" or "OFFSTREAM".
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The name of the river is not provided in the National Inventory of 
+            Dams.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Unrepresentable_Domain: 
+          There is no predefined set of valid river or stream names.
+    Attribute:
+      Attribute_Label: City
+      Attribute_Definition: 
+        The name of the nearest city, town, or village that is most likely to be 
+        affected by floods resulting from the failure of the dam.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The name of the city is not provided in the National Inventory of 
+            Dams.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Unrepresentable_Domain: There is no predefined set of valid city names.
+    Attribute:
+      Attribute_Label: Own_name
+      Attribute_Definition: The name of the owner of the dam.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The name of the owner is not provided in the National Inventory of 
+            Dams.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Unrepresentable_Domain: There is no predefined set of valid owner names.
+    Attribute:
+      Attribute_Label: Own_type
+      Attribute_Definition: A term indicating owner type.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: The owner type is unknown.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: F
+          Enumerated_Domain_Value_Definition: 
+            The dam is owned by a Federal agency.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: L
+          Enumerated_Domain_Value_Definition: 
+            The dam is owned by a County, City, Regional, or other similar local
+            government or government agency.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: P
+          Enumerated_Domain_Value_Definition: 
+            The dam is owned by an individual or individuals, or by a private 
+            company.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: S
+          Enumerated_Domain_Value_Definition: 
+            The dam is owned by a State or by a State agency.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: U
+          Enumerated_Domain_Value_Definition: 
+            The dam is owned by a public utility.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+    Attribute:
+      Attribute_Label: Dam_type
+      Attribute_Definition: 
+        A code or codes indicating the dam type, in order of importance.  Codes 
+        are concatenated if the dam is a combination of several types.  For 
+        example, CNCB would indicate a concrete buttress type dam.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: The dam type is unknown.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CB
+          Enumerated_Domain_Value_Definition: Buttress
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CN
+          Enumerated_Domain_Value_Definition: Concrete
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ER
+          Enumerated_Domain_Value_Definition: Rockfill
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MS
+          Enumerated_Domain_Value_Definition: Masonry
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MV (or MultiArch)
+          Enumerated_Domain_Value_Definition: Multi-arch
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: OT
+          Enumerated_Domain_Value_Definition: Other
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: PG
+          Enumerated_Domain_Value_Definition: Gravity
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: RE
+          Enumerated_Domain_Value_Definition: Earth
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ST
+          Enumerated_Domain_Value_Definition: Stone
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: TC
+          Enumerated_Domain_Value_Definition: Timber crib
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: VA
+          Enumerated_Domain_Value_Definition: Arch
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+    Attribute:
+      Attribute_Label: Purposes
+      Attribute_Definition: 
+        A code or codes indicating the purposes for which reservoir is used, in 
+        order of importance.  The codes are concatenated if the dam has multiple 
+        purposes.  For example, SCR would indicate the primary purposes of Water 
+        Supply and Flood Control and Storm Water Management, followed by 
+        Recreation.  The data may contain words or abbreviations that were used 
+        instead of the appropriate codes; these have been retained.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The purpose of the dam is not provided in the National Inventory of 
+            Dams.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: C
+          Enumerated_Domain_Value_Definition: 
+            Flood control and storm water management
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: D
+          Enumerated_Domain_Value_Definition: Debris control
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: F
+          Enumerated_Domain_Value_Definition: Fish and wildlife pond
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: H
+          Enumerated_Domain_Value_Definition: Hydroelectric
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: I
+          Enumerated_Domain_Value_Definition: Irrigation
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: N
+          Enumerated_Domain_Value_Definition: Navigation
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: O
+          Enumerated_Domain_Value_Definition: Other
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: P
+          Enumerated_Domain_Value_Definition: 
+            Fire protection, stock, or small farm pond
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: R
+          Enumerated_Domain_Value_Definition: Recreation
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: S
+          Enumerated_Domain_Value_Definition: Water supply
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: T
+          Enumerated_Domain_Value_Definition: Tailings
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers
+    Attribute:
+      Attribute_Label: Yr_compl
+      Attribute_Definition: 
+        The year when the main dam structure was completed.  A value of 0 
+        indicates that the year is unknown.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1800
+          Range_Domain_Maximum: 2003
+    Attribute:
+      Attribute_Label: Nid_height
+      Attribute_Definition: 
+        The maximum of either the dam height (the vertical distance between the 
+        lowest point on the crest of the dam and the lowest point in the 
+        original streambed), the hydraulic height (the vertical distance between 
+        the maximum designed water level and the lowest point in the original 
+        streambed), or the structural height (the vertical distance between the 
+        lowest point of the excavated foundation and the top of the dam) of the 
+        dam.  The height is given in feet, to the nearest foot.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0.00000000000
+          Enumerated_Domain_Value_Definition: The height is unknown.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Range_Domain:
+          Range_Domain_Minimum: 3.000000000000
+          Range_Domain_Maximum: 770.00000000000
+    Attribute:
+      Attribute_Label: Max_stor
+      Attribute_Definition: 
+        The maximum storage in acre-feet.  Maximum storage is the total storage 
+        space in a reservoir below the maximum attainable water surface 
+        elevation, including any surcharge storage.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0.00000000000
+          Enumerated_Domain_Value_Definition: The maximum storage is unknown.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Range_Domain:
+          Range_Domain_Minimum: 1.00000000000
+          Range_Domain_Maximum: 9700000000.00000000
+    Attribute:
+      Attribute_Label: Normal_sto
+      Attribute_Definition: 
+        The normal storage in acre-feet.  Normal storage is the total storage 
+        space in a reservoir below the normal retention level, including dead 
+        and inactive storage and excluding any flood control surcharge storage.  
+        A value of 0 may indicate that the normal storage is unknown or may 
+        indicate that the dam is normally dry.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00000000000
+          Range_Domain_Maximum: 9700000000.00000000
+    Attribute:
+      Attribute_Label: Surf_area
+      Attribute_Definition: 
+        The surface area, in acres, of the impoundment at its normal retention 
+        level.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0.00000000000
+          Enumerated_Domain_Value_Definition: The surface area is unknown.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Range_Domain:
+          Range_Domain_Minimum: 0.01000000000
+          Range_Domain_Maximum: 20358400.0000000000
+    Attribute:
+      Attribute_Label: Drain_area
+      Attribute_Definition: 
+        The drainage area of the dam in square miles.  It is defined as the area 
+        that drains to a particular point (in this case, the dam) on a river or 
+        stream.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0.00000000000
+          Enumerated_Domain_Value_Definition: The drainage area is unknown.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Range_Domain:
+          Range_Domain_Minimum: 0.00156250000
+          Range_Domain_Maximum: 1250000.00000000000
+    Attribute:
+      Attribute_Label: Hazard
+      Attribute_Definition: 
+        A term indicating the potential hazard to the downstream area resulting 
+        from failure or mis-operation of the dam or facilities.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: L
+          Enumerated_Domain_Value_Definition: 
+            The potential hazard is low.  A dam where failure or misoperation 
+            results in no probable loss of human life and low economic and/or 
+            environmental loss.  Losses are principally limited to the owner's 
+            property.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: S
+          Enumerated_Domain_Value_Definition: 
+            The potential hazard is significant.  A dam where failure or 
+            misoperation results in no probable loss of human life but can cause 
+            economic loss, environmental damage, disruption of lifeline 
+            facilities, or impact other concerns.  These dams are often located 
+            in predominantly rural or agricultural areas but could be located in 
+            areas with population and significant infrastructure.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: H
+          Enumerated_Domain_Value_Definition: 
+            The potential hazard is high.  A dam where failure or misoperation 
+            will probably cause loss of human life.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+        Enumerated_Domain:
+          Enumerated_Domain_Value: U
+          Enumerated_Domain_Value_Definition: The potential hazard is unknown.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Army Corps of Engineers     
+    Attribute:
+      Attribute_Label: State
+      Attribute_Definition: 
+        The two letter abbreviation for the State in which the dam is located.
+      Attribute_Definition_Source: U.S. Army Corps of Engineers
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Codes for the Identification of the States, the District of Columbia 
+            and the Outlying Areas of the United States, and Associated Areas, 
+            FIPS PUB 5-2.
+          Codeset_Source: U.S. Department of Commerce
+    Attribute:
+      Attribute_Label: Symbol
+      Attribute_Definition: 
+        A code indicating how the dam is symbolized in the National Atlas Map Maker.  
+        The symbol is determined from the primary Purpose code given for the dam, 
+        which is the first or only code listed under the attribute Purpose.  Where 
+        the Purpose attribute contains a word or abbreviation instead of the 
+        appropriate code, the first letter of the Purpose value was still used to 
+        determine the symbol code.  In these cases the symbol may not accurately 
+        represent the true primary purpose of the dam.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The dam has an unknown purpose.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: C
+          Enumerated_Domain_Value_Definition: 
+            The dam is for flood control and storm water management.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: D
+          Enumerated_Domain_Value_Definition: 
+            The dam is for debris control.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: F
+          Enumerated_Domain_Value_Definition: 
+            The dam contains a fish and wildlife pond.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: H
+          Enumerated_Domain_Value_Definition: 
+            The dam is for hydroelectric power.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: I
+          Enumerated_Domain_Value_Definition: 
+            The reservoir contained by the dam is for irrigation.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: N
+          Enumerated_Domain_Value_Definition: 
+            The dam is for navigation.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: O
+          Enumerated_Domain_Value_Definition: 
+            The dam or reservoir contained by the dam has a primary purpose other 
+            than flood control and storm water management; debris control; fish and 
+            wildlife pond; hydroelectric; irrigation; navigation; fire protection, 
+            stock, or small farm pond; recreation; water supply; or tailings
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: P
+          Enumerated_Domain_Value_Definition: 
+            The dam contains a fire protection, stock, or small farm pond
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: R
+          Enumerated_Domain_Value_Definition: 
+            The reservoir contained by the dam is for recreation.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: S
+          Enumerated_Domain_Value_Definition: 
+            The reservoir contained by the dam is for water supply.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: T
+          Enumerated_Domain_Value_Definition: 
+            The dam contains a tailings pond.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions: 
+        In addition to the address above there are other ESIC offices throughout 
+        the country.  A full list of these offices is at 
+        <http://ask.usgs.gov/esic_index.html>.
+  Distribution_Liability: 
+    Although these data have been processed successfully on a computer system at 
+    the U.S. Geological Survey, no warranty expressed or implied is made by the 
+    U.S. Geological Survey regarding the utility of the data on any other 
+    system, nor shall the act of distribution constitute any such warranty.  No 
+    responsibility is assumed by the U.S. Geological Survey in the use of these 
+    data.
+
+  Standard_Order_Process: 
+    Digital_Form: 
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile 
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name:
+                <http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater>
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SDTS
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: 
+                <http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater>
+    Fees:
+      There is no charge for the map layer.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20060321
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Peg Rawson
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Drive
+        Address: MS-561 
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-4183
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: 
+    FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
