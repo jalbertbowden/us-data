@@ -1,0 +1,723 @@
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: National Atlas of the United States
+        Publication_Date: 200512
+        Title: 
+          Federal Land Features of the United States - Parkways and Scenic
+          Rivers
+        Publication_Information:
+          Publication_Place: Reston, VA
+          Publisher: National Atlas of the United States
+        Online_Linkage: http://nationalatlas.gov/atlasftp.html
+    Description:
+      Abstract:
+        This map layer portrays the linear federally-owned land features (i.e.,
+        national parkways, wild and scenic rivers, etc.) of the United States,
+        Puerto Rico, and the U.S. Virgin Islands.  The map layer was created by
+        extracting linear federal land features from the 1:2,000,000-scale
+        individual State DLG files produced by the U.S. Geological Survey.
+        These files were then merged into a single map layer.  This is a revised
+        version of the July 2001 map layer.
+      Purpose:
+        These data are intended for geographic display and analysis at the
+        national level, and for large regional areas.  The data should be
+        displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
+        No responsibility is assumed by the National Atlas of the United States 
+        in the use of these data.
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Range_of_Dates/Times:
+          Beginning_Date: 1972
+          Ending_Date: 2005
+      Currentness_Reference: Ground condition
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: Irregular
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: -170
+        East_Bounding_Coordinate: -64
+        North_Bounding_Coordinate: 72
+        South_Bounding_Coordinate: 17
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: Boundaries
+        Theme_Keyword: Inland Waters
+        Theme_Keyword: Society
+        Theme_Keyword: Transportation
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: Federal lands
+        Theme_Keyword: Parkways
+        Theme_Keyword: Rivers
+        Theme_Keyword: Scenic Rivers
+        Theme_Keyword: Wild and Scenic Rivers
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of
+          Special Sovereignty, and Their Principal Administrative Divisions
+          (Federal Information Processing Standard (FIPS) 10-4): Washington,
+          D.C., National Institute of Standards and Technology.
+        Place_Keyword: United States
+      Place:
+        Place_Keyword_Thesaurus: None
+        Place_Keyword: USA
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce, 1987, Codes for the Identification of the
+          States, the District of Columbia and the Outlying Areas of The United
+          States, and Associated Areas (Federal Information Processing Standard
+          (FIPS) 5-2): Washington, D.C., National Institute of Standards and
+          Technology.
+        Place_Keyword: Alabama
+        Place_Keyword: Alaska
+        Place_Keyword: Arizona
+        Place_Keyword: Arkansas
+        Place_Keyword: California
+        Place_Keyword: Colorado
+        Place_Keyword: Connecticut
+        Place_Keyword: Delaware
+        Place_Keyword: District of Columbia
+        Place_Keyword: Florida
+        Place_Keyword: Georgia
+        Place_Keyword: Hawaii
+        Place_Keyword: Idaho
+        Place_Keyword: Illinois
+        Place_Keyword: Indiana
+        Place_Keyword: Iowa
+        Place_Keyword: Kansas
+        Place_Keyword: Kentucky
+        Place_Keyword: Louisiana
+        Place_Keyword: Maine
+        Place_Keyword: Maryland
+        Place_Keyword: Massachusetts
+        Place_Keyword: Michigan
+        Place_Keyword: Minnesota
+        Place_Keyword: Mississippi
+        Place_Keyword: Missouri
+        Place_Keyword: Montana
+        Place_Keyword: Nebraska
+        Place_Keyword: Nevada
+        Place_Keyword: New Hampshire
+        Place_Keyword: New Jersey
+        Place_Keyword: New Mexico
+        Place_Keyword: New York
+        Place_Keyword: North Carolina
+        Place_Keyword: North Dakota
+        Place_Keyword: Ohio
+        Place_Keyword: Oklahoma
+        Place_Keyword: Oregon
+        Place_Keyword: Pennsylvania
+        Place_Keyword: Rhode Island
+        Place_Keyword: South Carolina
+        Place_Keyword: South Dakota
+        Place_Keyword: Tennessee
+        Place_Keyword: Texas
+        Place_Keyword: Utah
+        Place_Keyword: Vermont
+        Place_Keyword: Virginia
+        Place_Keyword: Washington
+        Place_Keyword: West Virginia
+        Place_Keyword: Wisconsin
+        Place_Keyword: Wyoming
+        Place_Keyword: Puerto Rico
+        Place_Keyword: U.S. Virgin Islands
+    Access_Constraints: None
+    Use_Constraints:
+      None.  Acknowledgment of the National Atlas of the United States of
+      America and (or) the U.S. Geological Survey would be appreciated in
+      products derived from these data.
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Woodley Chu
+          Contact_Organization: National Atlas of the United States
+        Contact_Address:
+          Address_Type: Mailing and physical address
+          Address: 12201 Sunrise Valley Drive
+          Address: MS 561
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 703-648-6375
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+
+  Data_Quality_Information:
+    Logical_Consistency_Report:
+      No additional checks for topological consistency were performed on this
+      map layer.
+    Completeness_Report:
+      This map layer includes linear Federal Lands for all 50 States, Puerto
+      Rico, and the U.S. Virgin Islands.  Data completeness generally reflects
+      the content of the original DLG files.
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: 1995
+            Title: 1:2,000,000-scale Digital Line Graph Data - Boundaries
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: U.S. Geological Survey
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: CD-ROM
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Range_of_Dates/Times:
+              Beginning_Date: 1970
+              Ending_Date: 1995
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: 2MILBD
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 1998
+            Title: Linear Federal Land Features of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 1998
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-FEDL98
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Park Service
+            Publication_Date: Unknown
+            Title: Wild and Scenic Rivers
+            Publication_Information:
+              Publication_Place: Washington, D.C.
+              Publisher: National Park Service
+            Online_Linkage: http://www.nps.gov/rivers/index.html
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: Unknown
+          Source_Currentness_Reference: 
+            Date of most recent update is provided on the web page
+        Source_Citation_Abbreviation: Wild and Scenic Rivers web site
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 1998
+            Title: Hydrography Features of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 1998
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-HY
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 1998
+            Title: Major roads of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 1998
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-RD
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 1999
+            Title: Linear Federal Land Features of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 1999
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-FEDL99
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 20000403
+            Title:
+              Federal Land Features of the United States - Parkways and Scenic
+              Rivers
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 20000403
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-FEDL00
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Park Service
+            Publication_Date: 200106
+            Title: National Park Guide
+            Publication_Information:
+              Publication_Place: Washington, D.C.
+              Publisher: National Park Service
+            Online_Linkage: http://www.nps.gov/parks.html
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 200106
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Park Guide web site
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200107
+            Title:
+              Federal Land Features of the United States - Parkways and Scenic
+              Rivers
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 200107
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-FEDL01
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200512
+            Title:
+              Federal Lands of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Range_of_Dates/Times:
+              Beginning_Date: 1972
+              Ending_Date: 2005
+          Source_Currentness_Reference: Ground condition
+        Source_Citation_Abbreviation: ATLAS-FEDP05
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200301
+            Title:
+              Streams and Waterbodies of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Range_of_Dates/Times:
+              Beginning_Date: 1972
+              Ending_Date: 2003
+          Source_Currentness_Reference: Ground condition
+        Source_Citation_Abbreviation: ATLAS-HY03
+        Source_Contribution: Spatial information
+
+      Process_Step:
+        Process_Description:
+          The 2MILBD file was originally digitized by the National Mapping 
+          Division based on the sectional maps contained in 'The National Atlas 
+          of the United States of America' published by the USGS in 1970.  The
+          sectional maps were updated during 1978-1981 and digitized in the
+          early 1980's.  The data were updated in 1995 using 1:1,000,000-scale
+          and 1:2,000,000 scale Bureau of Land Management State base maps. 
+          These data were published on CD-ROM in 1995. Using Arc/INFO software,
+          the DLG optional format files were converted to Arc/INFO coverages
+          using the DLGARC command.  Only linear Federal land features and
+          attribute information were extracted for inclusion.  The individual
+          State coverages were then merged together using the Arc/INFO command
+          APPEND.
+        Source_Used_Citation_Abbreviation: 2MILBD
+        Process_Date: 1998
+        Source_Produced_Citation_Abbreviation: ATLAS-FEDL98
+
+      Process_Step:
+        Process_Description:
+          The spatial and attribute information were updated using the Wild and 
+          Scenic Rivers web site.  The data were aligned with ATLAS-HY and
+          ATLAS-RD.
+        Source_Used_Citation_Abbreviation: ATLAS-FEDL98
+        Source_Used_Citation_Abbreviation: Wild and Scenic Rivers web site
+        Source_Used_Citation_Abbreviation: ATLAS-HY
+        Source_Used_Citation_Abbreviation: ATLAS-RD
+        Process_Date: 1999
+        Source_Produced_Citation_Abbreviation: ATLAS-FEDL99
+
+      Process_Step:
+        Process_Description:
+          Sudbury, Assabet, and Concord Wild and Scenic Rivers, MA were added.
+        Source_Used_Citation_Abbreviation: ATLAS-FEDL99
+        Source_Used_Citation_Abbreviation: Wild and Scenic Rivers web site
+        Source_Used_Citation_Abbreviation: ATLAS-HY
+        Process_Date: 2000
+        Source_Produced_Citation_Abbreviation: ATLAS-FEDL00
+
+      Process_Step:
+        Process_Description:
+          Wilson Creek Wild and Scenic River, NC was added.  Baltimore
+          Washington Parkway, MD and Suitland Parkway, MD were added.
+        Source_Used_Citation_Abbreviation: ATLAS-FEDL00
+        Source_Used_Citation_Abbreviation: Wild and Scenic Rivers web site
+        Source_Used_Citation_Abbreviation: National Park Guide web site
+        Source_Used_Citation_Abbreviation: ATLAS-HY
+        Source_Used_Citation_Abbreviation: ATLAS-RD
+        Process_Date: 2001
+        Source_Produced_Citation_Abbreviation: ATLAS-FEDL01
+
+      Process_Step:
+        Process_Description:
+          Parkways and scenic rivers were aligned with ATLAS-HY03 within the
+          National Park areas in ATLAS-FEDP05, and were also aligned with
+          National Park boundaries in ATLAS-FEDP05 as part of a National Parks
+          update to ATLAS-FEDP05.  The file was processed as a geodatabase
+          before it was converted to a shapefile.
+        Source_Used_Citation_Abbreviation: ATLAS-FEDL01
+        Source_Used_Citation_Abbreviation: ATLAS-FEDP05
+        Source_Used_Citation_Abbreviation: ATLAS-HY03
+        Process_Date: 200509
+
+  Spatial_Data_Organization_Information:
+    Direct_Spatial_Reference_Method: Vector
+    Point_and_Vector_Object_Information:
+      SDTS_Terms_Description:
+        SDTS_Point_and_Vector_Object_Type: complete chain
+        Point_and_Vector_Object_Count: 353
+
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Geographic:
+        Latitude_Resolution: 0.000278
+        Longitude_Resolution: 0.000278
+        Geographic_Coordinate_Units: Decimal Degrees
+      Geodetic_Model:
+        Horizontal_Datum_Name: North American Datum of 1983
+        Ellipsoid_Name: GRS1980
+        Semi-major_Axis: 6378137
+        Denominator_of_Flattening_Ratio: 298.257222
+
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Linear Federal Lands (described by fedlanl020.dbf)
+        Entity_Type_Definition:
+          Linear federally-owned land features (i.e., national parkways, wild
+          and scenic rivers, etc.) of the United States, Puerto Rico, and the
+          U.S. Virgin Islands.
+        Entity_Type_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Shape
+        Attribute_Definition: The representation of the entity in the data.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: PolyLine
+            Enumerated_Domain_Value_Definition:
+              1-dimensional element that may or may not surround a 2-dimensional
+              element.
+            Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+      Attribute:
+        Attribute_Label: Fnode#
+        Attribute_Definition: Internal number of the from-node.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 543
+      Attribute:
+        Attribute_Label: Tnode#
+        Attribute_Definition: Internal number of the to-node.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 2
+            Range_Domain_Maximum: 543
+      Attribute:
+        Attribute_Label: Length
+        Attribute_Definition: The length of the arc in coverage units.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.280
+            Range_Domain_Maximum: 277760.000
+      Attribute:
+        Attribute_Label: Fedlanl020
+        Attribute_Definition: Internal feature number.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 353
+      Attribute:
+        Attribute_Label: Name
+        Attribute_Definition: The name of the Federal land feature.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: 
+            There is no predefined set of valid Federal land feature names.
+      Attribute:
+        Attribute_Label: Feature
+        Attribute_Definition: The type of Federal land feature.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Monument NPS
+            Enumerated_Domain_Value_Definition:
+              Landmarks, structures, and other objects of historic or scientific
+              interest situated on lands owned or controlled by the government.
+              Managed by the National Park Service.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Park Service
+              http://www.nps.gov/legacy/nomenclature.html
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Park NPS
+            Enumerated_Domain_Value_Definition:
+              Generally large natural places having a wide variety of
+              attributes, at times including significant historic assets.
+              Managed by the National Park Service.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Park Service
+              http://www.nps.gov/legacy/nomenclature.html
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Parkway NPS
+            Enumerated_Domain_Value_Definition:
+              A roadway and the parkland paralleling the roadway, that is
+              intended for scenic motoring along a protected corridor and often
+              connecting cultural sites.  Managed by the National Park Service.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Park Service 
+              http://www.nps.gov/legacy/nomenclature.html
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Wild and Scenic River ACOE/USFS
+            Enumerated_Domain_Value_Definition:
+              Certain selected rivers of the Nation which, with their immediate
+              environments, possess outstandingly remarkable scenic,
+              recreational, geologic, fish and wildlife, historic, cultural, or
+              other similar values.  Managed by the Army Corps of Engineers and
+              the U.S. Forest Service.
+            Enumerated_Domain_Value_Definition_Source: 
+              Wild and Scenic River Act (P.L. 90-542)
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Wild and Scenic River BLM
+            Enumerated_Domain_Value_Definition:
+              Certain selected rivers of the Nation which, with their immediate
+              environments, possess outstandingly remarkable scenic,
+              recreational, geologic, fish and wildlife, historic, cultural, or
+              other similar values.  Managed by the Bureau of Land Management.
+            Enumerated_Domain_Value_Definition_Source: 
+              Wild and Scenic River Act (P.L. 90-542)
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Wild and Scenic River BLM/NPS
+            Enumerated_Domain_Value_Definition:
+              Certain selected rivers of the Nation which, with their immediate
+              environments, possess outstandingly remarkable scenic,
+              recreational, geologic, fish and wildlife, historic, cultural, or
+              other similar values.  Managed by the Bureau of Land Management
+              and the National Park Service.
+            Enumerated_Domain_Value_Definition_Source: 
+              Wild and Scenic River Act (P.L. 90-542)
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Wild and Scenic River BLM/NPS/USFS
+            Enumerated_Domain_Value_Definition:
+              Certain selected rivers of the Nation which, with their immediate
+              environments, possess outstandingly remarkable scenic,
+              recreational, geologic, fish and wildlife, historic, cultural, or
+              other similar values.  Managed by the Bureau of Land Management,
+              the National Park Service, and the U.S. Forest Service.
+            Enumerated_Domain_Value_Definition_Source: 
+              Wild and Scenic River Act (P.L. 90-542)
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Wild and Scenic River BLM/USFS
+            Enumerated_Domain_Value_Definition:
+              Certain selected rivers of the Nation which, with their immediate
+              environments, possess outstandingly remarkable scenic,
+              recreational, geologic, fish and wildlife, historic, cultural, or
+              other similar values.  Managed by the Bureau of Land Management
+              and the U.S. Forest Service.
+            Enumerated_Domain_Value_Definition_Source: 
+              Wild and Scenic River Act (P.L. 90-542)
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Wild and Scenic River BLM/USFWS
+            Enumerated_Domain_Value_Definition:
+              Certain selected rivers of the Nation which, with their immediate
+              environments, possess outstandingly remarkable scenic,
+              recreational, geologic, fish and wildlife, historic, cultural, or
+              other similar values.  Managed by the Bureau of Land Management
+              and the U.S. Fish and Wildlife Service.
+            Enumerated_Domain_Value_Definition_Source: 
+              Wild and Scenic River Act (P.L. 90-542)
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Wild and Scenic River NPS
+            Enumerated_Domain_Value_Definition:
+              Certain selected rivers of the Nation which, with their immediate
+              environments, possess outstandingly remarkable scenic,
+              recreational, geologic, fish and wildlife, historic, cultural, or
+              other similar values.  Managed by the National Park Service.
+            Enumerated_Domain_Value_Definition_Source: 
+              Wild and Scenic River Act (P.L. 90-542)
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Wild and Scenic River NPS/USFS
+            Enumerated_Domain_Value_Definition:
+              Certain selected rivers of the Nation which, with their immediate
+              environments, possess outstandingly remarkable scenic,
+              recreational, geologic, fish and wildlife, historic, cultural, or
+              other similar values.  Managed by the National Park Service and
+              the U.S. Forest Service.
+            Enumerated_Domain_Value_Definition_Source: 
+              Wild and Scenic River Act (P.L. 90-542)
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Wild and Scenic River NPS/USFWS
+            Enumerated_Domain_Value_Definition:
+              Certain selected rivers of the Nation which, with their immediate
+              environments, possess outstandingly remarkable scenic,
+              recreational, geologic, fish and wildlife, historic, cultural, or
+              other similar values.  Managed by the National Park Service and
+              the U.S. Fish and Wildlife Service.
+            Enumerated_Domain_Value_Definition_Source: 
+              Wild and Scenic River Act (P.L. 90-542)
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Wild and Scenic River USFS
+            Enumerated_Domain_Value_Definition:
+              Certain selected rivers of the Nation which, with their immediate
+              environments, possess outstandingly remarkable scenic,
+              recreational, geologic, fish and wildlife, historic, cultural, or
+              other similar values.  Managed by the U.S. Forest Service.
+            Enumerated_Domain_Value_Definition_Source: 
+              Wild and Scenic River Act (P.L. 90-542)
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Wild and Scenic River USFWS
+            Enumerated_Domain_Value_Definition:
+              Certain selected rivers of the Nation which, with their immediate
+              environments, possess outstandingly remarkable scenic,
+              recreational, geologic, fish and wildlife, historic, cultural, or
+              other similar values.  Managed by the U.S. Fish and Wildlife
+              Service.
+            Enumerated_Domain_Value_Definition_Source: 
+              Wild and Scenic River Act (P.L. 90-542)
+
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: 
+            Earth Science Information Center, U.S. Geological Survey
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: 507 National Center
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Voice_Telephone: 703-648-5920
+        Contact_Instructions:
+          In addition to the address above there are other ESIC offices
+          throughout the country. A full list of these offices is at
+          http://geography.usgs.gov/esic/esic_index.html.
+    Distribution_Liability:
+      Although these data have been processed successfully on a computer system
+      at the U.S. Geological Survey, no warranty expressed or implied is made by
+      the U.S. Geological Survey regarding the utility of the data on any other
+      system, nor shall the act of distribution constitute any such warranty. 
+      No responsibility is assumed by the U.S. Geological Survey in the use of
+      these data.
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: ESRI Shapefile
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://nationalatlas.gov/atlasftp.html
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: SDTS
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://nationalatlas.gov/atlasftp.html
+      Fees:
+        There is no charge for the map layer.
+
+  Metadata_Reference_Information:
+    Metadata_Date: 20051117
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Peg Rawson
+          Contact_Organization: National Atlas of the United States 
+        Contact_Address:
+          Address_Type: Mailing and physical address
+          Address: 12201 Sunrise Valley Drive
+          Address: MS 561
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 703-648-4183
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+    Metadata_Standard_Name: 
+      FGDC Content Standards for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Security_Information:
+      Metadata_Security_Classification_System: None
+      Metadata_Security_Classification: Unclassified
+      Metadata_Security_Handling_Description: None
