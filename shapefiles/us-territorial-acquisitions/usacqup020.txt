@@ -1,0 +1,560 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Atlas of the United States
+      Publication_Date: 200506
+      Title: Territorial Acquisitions of the United States
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+  Description:
+    Abstract:
+      This map layer portrays the major acquisitions of territory by the United
+      States of America.  Only areas in North America, the Caribbean, and Hawaii 
+      are included.  Also shown are areas that were part of the United States at 
+      one time but which have been ceded to other countries.
+    Purpose:
+      These data are intended for geographic display and analysis at the 
+      national level, and for large regional areas.  The data should be 
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale data.  
+      No responsibility is assumed by the National Atlas of the United States in 
+      the use of these data.  
+    Supplemental_Information:
+      The United States also includes additional territories not shown in this 
+      map layer.  The following areas are or have been territories of the United 
+      States:
+
+      American Samoa <http://www.doi.gov/oia/Islandpages/asgpage.htm> was 
+      acquired under the 1899 Treaty of Berlin between Germany, Great Britain, 
+      and the United States.  The islands are now an unorganized and 
+      unincorporated territory of the United States and are administered by the 
+      U.S. Department of the Interior <http://www.doi.gov/>, Office of Insular 
+      Affairs <http://www.doi.gov/oia/>.
+
+      The Federated States of Micronesia 
+      <http://www.doi.gov/oia/Islandpages/fsmpage.htm> was part of the Trust 
+      Territory of the Pacific Islands, but in November 1986 became a fully 
+      independent country in free association with the United States.  While the 
+      country is independent, the United States provides defense and some 
+      financial assistance, and in return is allowed military use of the 
+      islands.
+
+      Guam <http://www.doi.gov/oia/Islandpages/gumpage.htm> became a territory 
+      of the United States after the Spanish-American War.  Under the December 
+      10, 1898 Treaty of Paris, Spain ceded the island to the United States.  
+      Guam was captured by Japan in 1941 but was retaken by the United States in 
+      1944.  It became an organized, unincorporated territory of the United 
+      States in August, 1950, and is administered by the U.S. Department of the 
+      Interior <http://www.doi.gov/>, Office of Insular Affairs 
+      <http://www.doi.gov/oia/>.
+
+      The Northern Mariana Islands 
+      <http://www.doi.gov/oia/Islandpages/cnmipage.htm>  were part of the Trust 
+      Territory of the Pacific Islands, and became a self-governing United 
+      States commonwealth in 1986.
+
+      The Republic of the Marshall Islands 
+      <http://www.doi.gov/oia/Islandpages/rmipage.htm> was part of the Trust 
+      Territory of the Pacific Islands, but in November 1986 became a fully 
+      independent republic in free association with the United States.  While 
+      the country is independent, the United States provides defense and some 
+      financial assistance, and in return is allowed military use of the 
+      islands.
+
+      The Republic of Palau <http://www.doi.gov/oia/Islandpages/palaupage.htm> 
+      was part of the Trust Territory of the Pacific Islands, but in October 
+      1994 it became a fully independent republic in free association with the 
+      United States.  While the country is independent, the United States 
+      provides defense and some financial assistance, and in return is allowed 
+      military use of the islands.
+
+      The minor outlying islands which are territories of the United States 
+      include Midway Atoll <http://www.doi.gov/oia/Islandpages/midwaypage.htm> 
+      (1867), Palmyra Atoll <http://www.doi.gov/oia/Islandpages/palmyrapage.htm> 
+      (1898, with Hawaii), and Wake Atoll 
+      <http://www.doi.gov/oia/Islandpages/wakepage.htm>  (1899), Baker Island 
+      and Howland Island <http://www.doi.gov/oia/Islandpages/bhpage.htm> (1857), 
+      Jarvis Island <http://www.doi.gov/oia/Islandpages/jarvispage.htm> (1858), 
+      Johnston Atoll <http://www.doi.gov/oia/Islandpages/johnstonpage.htm> 
+      (1858), Kingman Reef <http://www.doi.gov/oia/Islandpages/kingmanpage.htm> 
+      (1922), and Navassa Island 
+      <http://www.doi.gov/oia/Islandpages/navassapage.htm> (1857).
+ 
+      The Philippines became a territory of the United States after the Spanish-
+      American War.  Under the December 10, 1898 Treaty of Paris, Spain ceded 
+      the islands to the United States for $20 million.  In 1935 the Philippines 
+      became a self-governing commonwealth.  Japan took over the Philippines 
+      from 1942-1944, but the United States regained the islands in 1945, and 
+      full independence was granted in July, 1946.
+ 
+  Time_Period_of_Content:
+    Time_Period_Information:
+        Single_Date/Time:
+          Calendar_Date: 2005
+    Currentness_Reference: Ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 170
+      East_Bounding_Coordinate: -64
+      North_Bounding_Coordinate: 72
+      South_Bounding_Coordinate: 17
+
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: Boundaries
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Territory acquisition
+      Theme_Keyword: Territorial acquisition
+      Theme_Keyword: Territorial growth
+      Theme_Keyword: Territorial expansion
+      Theme_Keyword: Boundaries
+      Theme_Keyword: Boundaries of the United States
+
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: United States
+      Place_Keyword: USA
+    Place:
+      Place_Keyword_Thesaurus:  
+        U.S. Department of Commerce, 1987, Codes for the Identification of the 
+        States, the District of Columbia and the Outlying Areas of The United 
+        States, and Associated Areas (Federal Information Processing Standard
+        5-2):  Washington, DC, National Institute of Standards and Technology.
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+      Place_Keyword: Puerto Rico
+      Place_Keyword: Virgin Islands
+      Place_Keyword: U.S. Virgin Islands
+
+  Access_Constraints: None
+  Use_Constraints: 
+    None.  Acknowledgment of the National Atlas of the United States of America 
+    would be appreciated in products derived from these data.  
+
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Gita Urban-Mathieux
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Dr
+        Address: MS 561
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-5175
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+Data_Quality_Information:
+  Logical_Consistency_Report: 
+    The map layer was checked for topological consistency using ArcGIS software 
+    from Environmental Systems Research Institute, Inc.  No other checks for 
+    logical consistency were performed on this map layer.
+  Completeness_Report:
+    This map layer includes territorial acquisitions of the United States from 
+    1783 to the present, in North America, Hawaii, and the Caribbean.  Included 
+    are areas that were part of the United States at one time but which have 
+    been ceded to other countries.
+
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 200301
+          Title: Streams and Waterbodies of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information: 
+          Range_of_Dates/Times: 
+            Beginning_Date: 1995
+            Ending_Date: 2002
+        Source_Currentness_Reference: Ground condition 
+      Source_Citation_Abbreviation: ATLAS-Streams
+      Source_Contribution: Spatial information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 200211
+          Title: 1:2,000,000-Scale Hydrologic Unit Boundaries
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information: 
+          Single_Date/Time: 
+            Calendar_Date: 19981001
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: ATLAS-HUC
+      Source_Contribution: Spatial information 
+
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: National Atlas of the United States 
+          Publication_Date: 200506
+          Title: State Boundaries of the United States 
+          Publication_Information: 
+            Publication_Place: Reston, VA 
+            Publisher: National Atlas of the United States 
+      Source_Scale_Denominator: 2000000 
+      Type_of_Source_Media: Online 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Range_of_Dates/Times: 
+            Beginning_Date: 1972
+            Ending_Date: 2005
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: ATLAS-States
+      Source_Contribution: Spatial information
+
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: 
+            Government of Canada, Natural Resources Canada, Canada Centre for 
+            Remote Sensing, The Atlas of Canada 
+          Publication_Date: 2003
+          Title: Drainage Areas 
+          Publication_Information: 
+            Publication_Place: Ottawa, Ontario, Canada 
+            Publisher: 
+              Government of Canada, Natural Resources Canada, Canada Centre for 
+              Remote Sensing, The Atlas of Canada 
+          Online_Linkage:
+            <http://geogratis.cgdi.gc.ca/download/frameworkdata/hydrology/> 
+      Type_of_Source_Media: Online 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Single_Date/Time: 
+            Calendar_Date: 2002
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: Canada-HUC 
+      Source_Contribution: Spatial information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1978
+          Title: 
+            United States of America Showing the Extent of Public Lands Surveys
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 3168000
+      Type_of_Source_Media: Paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1978
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: PLSS_Map
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1976
+          Title: 
+            Boundaries of the United States and the Several States 
+          Series_Information:
+            Series_Name: U.S. Geological Survey Professional Paper
+            Issue_Identification: 909
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Type_of_Source_Media: Booklet
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1976
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Boundary_Booklet
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: Melvin Y. Ellis
+          Publication_Date: 200312
+          Title: Territorial Expansion of the United States 
+          Publication_Information: 
+            Publication_Place: Reston, VA 
+            Publisher: U.S. Geological Survey
+      Type_of_Source_Media: Internal text document 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Single_Date/Time: 
+            Calendar_Date: 200312
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: Territorial_Expansion 
+      Source_Contribution: Attribute and spatial information
+
+    Process_Step:
+      Process_Description:
+        Using the historical boundaries shown on the PLSS_Map as a guide, lines 
+        from ATLAS-States, ATLAS-HUC, ATLAS-Streams, and Canada-HUC were copied
+        into a new GIS dataset.  The polygons were labeled with information 
+        derived from the PLSS-Map, the Boundary_Booklet, and the 
+        Territorial_Expansion document.
+      Source_Used_Citation_Abbreviation: ATLAS-Streams
+      Source_Used_Citation_Abbreviation: ATLAS-HUC
+      Source_Used_Citation_Abbreviation: ATLAS-States
+      Source_Used_Citation_Abbreviation: Canada-HUC
+      Source_Used_Citation_Abbreviation: PLSS_Map
+      Source_Used_Citation_Abbreviation: Boundary_Booklet
+      Source_Used_Citation_Abbreviation: Territorial_Expansion
+      Process_Date: 200503
+
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference:
+    U.S. Department of Commerce, 1987, Codes for the Identification of the 
+    States, the District of Columbia and the Outlying Areas of the United 
+    States, and Associated Areas (FIPS 5-2): Washington, DC, National 
+    Institute of Standards and Technology.           
+
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 2834
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000278
+      Longitude_Resolution: 0.000278
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257222
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Territorial area (described by Usacqup020.dbf)
+      Entity_Type_Definition: 
+        An area of territory acquired by the United States of America.
+      Entity_Type_Definition_Source: National Atlas of the United States
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Polygon
+          Enumerated_Domain_Value_Definition: 2-dimensional element
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Area
+      Attribute_Definition:
+        The size of the shape in square coverage units.  In the distributed 
+        file, coverage units represent square decimal degrees.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 267.35422
+    Attribute:
+      Attribute_Label: Perimeter
+      Attribute_Definition: 
+        The perimeter of shape in coverage units.  In the distributed file, 
+        coverage units represent decimal degrees.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+       Range_Domain:
+          Range_Domain_Minimum: 0.00962
+          Range_Domain_Maximum: 374.68023
+    Attribute:
+      Attribute_Label: Usacqup020
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 2
+          Range_Domain_Maximum: 2835
+    Attribute: 
+      Attribute_Label: Date 
+      Attribute_Definition: 
+        The date(s) of the acquisition of the territory, or the date when the 
+        territory was ceded to another country.  This refers to the date when a 
+        treaty was signed or when another form of agreement occurred.
+      Attribute_Definition_Source: National Atlas of the United States 
+      Attribute_Domain_Values: 
+        Range_Domain:
+          Range_Domain_Minimum: 1783
+          Range_Domain_Maximum: 1917
+    Attribute:
+      Attribute_Label: Name
+      Attribute_Definition: 
+        The name(s) of the acquisition.  The date of the treaty or other form of 
+        agreement is included.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: 
+          There is no predefined set of valid acquisition names.
+    Attribute:
+      Attribute_Label: Notes
+      Attribute_Definition: 
+        A brief note about the territorial acquisition.  It includes the name of 
+        the treaty or the form of agreement.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: 
+          There is no predefined set of valid acquisition notes.
+    Attribute:
+      Attribute_Label: Water
+      Attribute_Definition: 
+        An indication of whether the territory is water or land.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: The area is land. 
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: The area is water. 
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions: 
+        In addition to the address above there are other ESIC offices throughout 
+        the country.  A full list of these offices is at
+        <http://geography.usgs.gov/esic/esic_index.html>.
+
+  Distribution_Liability: 
+    Although these data have been processed successfully on a computer system at 
+    the U.S. Geological Survey, no warranty expressed or implied is made by the 
+    U.S. Geological Survey regarding the utility of the data on any other  
+    system, nor shall the act of distribution constitute any such warranty.  No 
+    responsibility is assumed by the U.S. Geological Survey in the use of these 
+    data.  
+
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+    Digital_Form: 
+      Digital_Transfer_Information: 
+        Format_Name: SDTS 
+      Digital_Transfer_Option: 
+        Online_Option: 
+          Computer_Contact_Information: 
+            Network_Address: 
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+
+    Fees:
+      There is no charge for this map layer. 
+
+Metadata_Reference_Information:
+  Metadata_Date: 20050412
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Gita Urban-Mathieux
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Dr
+        Address: MS 561
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-5175
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: 
+    FGDC Content Standards for Digital Geospatial Metadata 
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information: 
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
