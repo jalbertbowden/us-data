@@ -1,0 +1,1218 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: John Watermolen, U.S. Geological Survey
+      Publication_Date: 200506
+      Title: 1:2,000,000-Scale Hydrologic Unit Boundaries
+      Edition: Version 2.4
+      Geospatial_Data_Presentation_Form: Map
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: 
+        <http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater>
+  Description:
+    Abstract:
+      This map layer contains hydrologic unit boundaries and codes for the 
+      United States, Puerto Rico, and the U.S. Virgin Islands.  It was revised 
+      for inclusion in the National Atlas of the United States of America, and 
+      updated to match the streams file created by the USGS National Mapping 
+      Division (NMD) for the National Atlas of the United States of America. 
+      This is a revised version of the November 2002 map layer.
+    Purpose:
+      These data are intended for geographic display and analysis at the 
+      national level, and for large regional areas.  The data should be
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale data. 
+      No responsibility is assumed by the U.S. Geological Survey or the National 
+      Atlas of the United States in the use of these data.
+    Supplemental_Information:
+      Any use of trade, product, or firm names is for descriptive purposes only 
+      and does not imply endorsement by the U.S. Government.
+
+      Although this Federal Geographic Data Committee-compliant metadata file is 
+      intended to document the map layer in nonproprietary form, as well as in 
+      ArcInfo format, this metadata file may include some ArcInfo-specific 
+      terminology.
+
+      Hydrologic Unit Code (HUC) areas in this file do not necessarily match 
+      those published in Water-Supply Paper 2294 (Seaber et al).  The file has 
+      finer resolution than the maps used to determine areas published in the 
+      Water-Supply Paper.
+
+      The ArcInfo version of this file contains two additional annotation 
+      layers.  One layer is called anno.maplabel1, and contains the first six 
+      digits for each accounting unit.  The labels for Accounting Regions 1 
+      though 9 have a "0" in front of the number.  The second layer is called
+      anno.catnum, and contains the last two digits for each cataloging unit.  
+      All numbers were checked manually against a 1:2,000,000-scale plot of the 
+      data.
+  
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 200505
+    Currentness_Reference: Ground condition
+
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 170.87
+      East_Bounding_Coordinate: -66.88
+      North_Bounding_Coordinate: 71.77
+      South_Bounding_Coordinate: 17.68
+
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: Inland waters
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Hydrologic Unit Boundaries
+      Theme_Keyword: Hydrologic Unit Codes
+      Theme_Keyword: Drainage Basins
+      Theme_Keyword: Cataloging Units
+      Theme_Keyword: Hydrologic Units
+      Theme_Keyword: Watersheds
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: United States
+      Place_Keyword: Alabama      
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia    
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming      
+      Place_Keyword: Puerto Rico
+      Place_Keyword: Virgin Islands
+      Place_Keyword: U.S. Virgin Islands  
+
+  Access_Constraints: None
+
+  Use_Constraints: 
+    None.  Acknowledgment of the National Atlas of the United States of America 
+    and (or) the U.S. Geological Survey would be appreciated in products derived 
+    from these data.
+
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: CAPP Chief
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 505 Science Dr.
+        City: Madison
+        State_or_Province: WI
+        Postal_Code: 53711-1061
+        Country: USA
+      Contact_Voice_Telephone: 608-238-9333
+      Contact_Facsimile_Telephone: 608-238-9334
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+
+  Data_Set_Credit:
+    Others who have helped with this map layer and the metadata include Steve 
+    Denowski, Greg Allord, Curtis Price, Ken Lanfear and David Lorenz, in 
+    addition to other colleagues within the U.S. Geological Survey.
+
+  Native_Data_Set_Environment: 
+    The file is stored in Windows NT 4.0 Intel, ArcInfo version 7.1.1.
+
+  Cross_Reference:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date: 1974-1987
+      Title: State Hydrologic Unit Map (for each State)
+      Geospatial_Data_Presentation_Form: Map
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: U.S. Geological Survey
+      Online_Linkage: <http://water.usgs.gov/GIS/huc.html>
+
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      The arc attributes were manually checked by assigning unique line weights 
+      and colors to the values, and then plotting the data.  The plots were then 
+      compared to the source.
+
+      The polygon attributes were checked by comparing a 1:2,000,000-scale plot 
+      to the source.  The attribute accuracy is estimated at 99%.
+  Logical_Consistency_Report:
+    Polygon and chain-node topology are present.  All polygons are labeled and 
+    were tested by using the ArcInfo command labelerrors.  All polygons were 
+    checked for closure and intersections by using the ArcInfo intersecterr 
+    command.  The file is clean.
+  Completeness_Report:
+    This file contains hydrologic unit boundaries and codes for all 50 States, 
+    Puerto Rico, and the U.S. Virgin Islands.  Boundaries and codes are included 
+    for regions, subregions, accounting units, and cataloging units.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        The accuracy of the original map layer was checked by comparing the 
+        digital files to several data sources.  First, both the line work and 
+        the polygon labels were checked against the source compilation.  No 
+        digitization errors were found during this phase.
+
+        Next, the hydrologic unit boundaries were compared to the 1970 
+        1:2,000,000-scale DLG stream file and the 1:500,000-scale Hydrologic 
+        Unit Maps.  Plots containing both the streams and the hydrologic unit 
+        boundaries were made at a scale of 1:2,000,000.  Hydrologic unit 
+        boundary intersections were checked, as well as problem areas such as 
+        points where streams crossed hydrologic unit boundaries on the plot but 
+        not on the hydrologic unit map.  More than 400 errors were found.  All 
+        errors that could be corrected were corrected.  The remaining errors
+        could not be corrected because the streams were in error rather than the 
+        hydrologic unit boundaries. 
+
+        Finally, the hydrologic unit boundaries were plotted at 1:2,000,000 
+        scale and compared to the NMD 1998 1:2,000,000-scale hydrologic data 
+        set.  Any discrepancies were addressed by reference to either the 
+        1:500,000-scale or the 1:100,000-scale maps.  The exceptions to this 
+        were the hydrologic unit boundaries for Alaska, Hawaii, Puerto Rico, and 
+        the U.S. Virgin Islands.  The Alaska boundaries were checked on a 
+        1:2,500,000-scale plot but not modified, because the boundaries cross 
+        glaciers, and it is difficult to distinguish flow from the glaciers.
+        The Hawaii hydrologic unit boundaries were not reviewed because each 
+        island represents a cataloging unit.  The Puerto Rico and U.S. Virgin 
+        Islands boundaries were not plotted but were reviewed on-screen using a 
+        1:1,000,000 hydrologic map layer created for the 1991 National Water
+        Summary.
+
+        The horizontal positional accuracy of the data matches the positional 
+        accuracy of the original compilation.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1974-1987
+          Title: State Hydrologic Unit Maps (for each State)
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: 
+              U.S. Geological Survey, Office of Water Data Coordination
+          Online_Linkage: <http://water.usgs.gov/GIS/huc.html>
+      Source_Scale_Denominator: 500,000
+      Type_of_Source_Media: Mylar separate
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1974
+            Ending_Date: 1987
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: HUCmaps
+      Source_Contribution: Linework for the map layer.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Seaber, Paul R.
+          Originator: Kapinos, F. Paul
+          Originator: Knapp, George L.
+          Publication_Date: 1987
+          Title: Hydrologic Unit Maps 
+          Series_Information:
+            Series_Name: Water-Supply Paper
+            Issue_Identification: 2294
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+          Online_Linkage: <http://water.usgs.gov/GIS/huc.html>
+      Type_of_Source_Media: Paper map
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1987
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Seaber
+      Source_Contribution: Cataloging unit names for all States except Alaska.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1987
+          Title: Alaska State Hydrologic Unit Map
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+          Online_Linkage: <http://water.usgs.gov/GIS/huc.html>
+      Source_Scale_Denominator: 2,500,000
+      Type_of_Source_Media: Mylar separate
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1987
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: HUCAKmap
+      Source_Contribution: 
+        The source contributed line work and names for hydrologic units in 
+        Alaska.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1972-1980
+          Title: 1:2,000,000 DLG Hydrography
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2,000,000
+      Type_of_Source_Media: Digital file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 1980
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: DLGHY
+      Source_Contribution: Location of streams for accuracy testing.
+   
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1986
+          Title: Hydrologic Unit Codes map
+          Edition: Version 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2,000,000
+      Type_of_Source_Media: Digital file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1986
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: HUCS10
+      Source_Contribution: Intermediate digital file.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1992
+          Title: Hydrologic Unit Codes map
+          Edition: Version 1.1
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2,000,000
+      Type_of_Source_Media: Digital file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1992
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: HUCS11 
+      Source_Contribution: Intermediate digital file.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1994
+          Title: Hydrologic Unit Codes map
+          Edition: Version 1.1.1
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2,000,000
+      Type_of_Source_Media: Digital file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1994
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: HUCS111
+      Source_Contribution: Intermediate digital file.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1989
+          Title: 1:2,000,000 County Boundaries
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2,000,000
+      Type_of_Source_Media: Digital file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1989
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: DLGCO
+      Source_Contribution: 
+        Determination of boundaries for identification of offshore and onshore 
+        areas.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Environmental Protection Agency
+          Publication_Date: 1975
+          Title: Reach File Version 1.0 Alpha
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: U.S. Environmental Protection Agency
+      Type_of_Source_Media: Digital file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1975
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: RF1
+      Source_Contribution: Information on flow between cataloging units.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1998
+          Title: State Boundaries of the United States
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2,000,000
+      Type_of_Source_Media: Digital file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 1998
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: NAStates
+      Source_Contribution: Coastline information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1998
+          Title: Hydrography Features of the United States (linear)
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2,000,000
+      Type_of_Source_Media: Digital file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1985
+            Ending_Date: 1998
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: NAHydro
+      Source_Contribution: Coastline information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 19990401
+          Title: 1:2,000,000-Scale Hydrologic Unit Boundaries
+          Edition: Version 2.0
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2,000,000
+      Type_of_Source_Media: Digital file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 19981001
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: HUCS20
+      Source_Contribution: Spatial and attribute information.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 200104
+          Title: 1:2,000,000-Scale Hydrologic Unit Boundaries
+          Edition: Version 2.1
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2,000,000
+      Type_of_Source_Media: Digital file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 19981001
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: HUCS21
+      Source_Contribution: Spatial and attribute information.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 200201
+          Title: 1:2,000,000-Scale Hydrologic Unit Boundaries
+          Edition: Version 2.2
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2,000,000
+      Type_of_Source_Media: Digital file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 19981001
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: HUCS22
+      Source_Contribution: Spatial and attribute information.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 200211
+          Title: 1:2,000,000-Scale Hydrologic Unit Boundaries
+          Edition: Version 2.3
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2,000,000
+      Type_of_Source_Media: Digital file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 19981001
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: HUCS23
+      Source_Contribution: Spatial and attribute information.
+
+    Process_Step:
+      Process_Description:
+        The original hydrologic unit boundaries file (HUCS10) was created 
+        through the following steps:
+        >a) 1:2,000,000-scale stable-base map plots of drainage (streams) and 
+        >the latitude/longitude grid were obtained from the USGS National 
+        >Mapping Division (NMD).  These plots were in the Lambert Conformal 
+        >Conic projection, and used 1:500,000-scale State base map projection 
+        >parameters.  Fifteen sections were plotted using 1970 National Atlas 
+        >1:2,000,000-scale sectional boundaries.
+        >
+        >b) Individual State 1:500,000-scale hydrologic unit maps in the Lambert 
+        >Conformal Conic projection were photoreduced to 1:2,000,000.
+        >
+        >c) Hydrologic unit boundaries were compiled and the edges were matched 
+        >on scale-stable 1:2,000,000 plots.  The boundaries were combined with 
+        >the streams plots for digitizing.
+        >
+        >d) The hydrologic unit boundaries were digitized by Automated Datatron, 
+        >Hyattsville, MD, which digitizes materials on contract for NMD.
+        >
+        >e) Digital data from Automated Datatron was converted to an ArcInfo 
+        >coverage, then checked and corrected.
+        >
+        >f) A detailed, annotated list was compiled, listing locations where 
+        >hydrologic unit boundaries and streams were coincident, or where 
+        >1:2,000,000-scale DLG streams were in error.  Wherever possible, 
+        >conflicts and errors were resolved.
+      Source_Used_Citation_Abbreviation: HUCmaps
+      Source_Used_Citation_Abbreviation: DLGHY
+      Process_Date: 1985-1992
+      Source_Produced_Citation_Abbreviation: HUCS10
+    Process_Step:
+      Process_Description:
+        HUCS11 was created by modifying and correcting the HUCS10 file in 
+        ArcInfo, and combining it with a 1:2,000,000-scale U.S. counties file 
+        to identify onshore and offshore areas.  Other county attributes were
+        excluded.  This process was done in ArcInfo, and used a fuzzy tolerance 
+        of 2 meters.  A small part of the original map, which laid on top of 
+        part of the Canadian Great Lakes, was deleted.  The attributes were 
+        renamed and expanded.
+      Source_Used_Citation_Abbreviation: HUCS10
+      Source_Used_Citation_Abbreviation: DLGCO
+      Process_Date: 1992
+      Source_Produced_Citation_Abbreviation: HUCS11
+    Process_Step:
+      Process_Description:
+        A HUCs_2M.TRACE file was created from the River Reach 1 (rf1) coverage, 
+        which includes a pointer to the next downstream segment of each reach.  
+        The resulting file was added to INFO, along with an index created using 
+        the INDEX_HUC.AML.  These files are included in HUCS111 only and are not 
+        in the distributed version of the Hydrologic Unit Boundaries map layer.
+      Source_Used_Citation_Abbreviation: HUCS11
+      Source_Used_Citation_Abbreviation: RF1
+      Process_Date: 1994
+      Source_Produced_Citation_Abbreviation: HUCS111
+    Process_Step:
+      Process_Description:
+        Using ArcInfo, HUCS111 was compared with the most recent 1:2,000,000-
+        scale streams file created by the USGS National Mapping Division (NMD) 
+        for inclusion in the National Atlas of the United States of America.  
+        Where a stream crossed a hydrologic unit boundary, the boundary was 
+        compared to the 1:500,000-scale State hydrologic unit map (Seaber).  If 
+        a stream and hydrologic unit boundary intersection could not be resolved 
+        by this comparison, the USGS 1:100,000-scale topographic quadrangles 
+        were used.  All corrected hydrologic unit boundaries were given a value 
+        of 5 for the Error_type attribute.  The boundaries were changed by 
+        moving vertices to include the stream in the appropriate hydrologic 
+        unit.  All editing was done on-screen.  This step happened May 22, 1998 
+        and November 10, 1998.  
+
+        The Region, Subregion, Accounting unit, and Cataloging unit names from 
+        Seaber were added to the map layer and spot-checked.  Cataloging unit 
+        names for Alaska were added from the Alaska Hydrologic Unit Map
+        (HUCAKmap).
+
+        Values for BNDTYPE were determined from the bounding polygons using 
+        INDEX_HUC.AML.  The attributes Error_type, Reg_name, Map_label,
+        Cat_Name, and Cat_num were added to the file.
+
+        Two annotation layers were also added to the coverage.  One layer is 
+        called anno.maplabel1, which shows the first six digits for each 
+        accounting unit.  The labels for accounting Regions 1 though 9 have the 
+        "0" in front of the number.  The second annotation layer is anno.catnum,
+        and this layer has the last 2 digit codes for each cataloging unit.  All 
+        numbers were checked manually on a 1:2,000,000-scale plot of the data 
+        set.  The cataloging unit names were spot-checked.  The file was 
+        modified to agree with the official National Atlas coastline (NAStates)
+
+        The ArcInfo coverage was exported to create the shapefiles and SDTS 
+        files.
+      Source_Used_Citation_Abbreviation: HUCS111
+      Source_Used_Citation_Abbreviation: Seaber
+      Source_Used_Citation_Abbreviation: HUCAKmap
+      Source_Used_Citation_Abbreviation: NAStates
+      Source_Used_Citation_Abbreviation: NAHydro
+      Process_Date: 1998
+      Source_Produced_Citation_Abbreviation: HUCS20
+
+    Process_Step:
+      Process_Description:
+        The HUCS20 file was modified and corrected in ArcInfo.  Two Hydrologic 
+        unit codes were corrected.  The first error was in western Illinois, 
+        Region 07, Subregion 08, Accounting unit 01, where cataloging unit 04 
+        was incorrectly tagged 07.  The second error was in northeastern
+        Missouri, Region 07, Subregion 11, Accounting unit 00, Cataloging unit 
+        01, where the subregion was incorrectly tagged 10.
+        
+        Misspelled names in sub_name, acc_name, and cat_name were corrected.
+        The file was exported to create new shapefiles and SDTS files.
+      Source_Used_Citation_Abbreviation: HUCS20
+      Process_Date: 2001
+      Source_Produced_Citation_Abbreviation: HUCS21
+
+    Process_Step:
+      Process_Description:
+        The HUCS21 file was modified and corrected in ArcGIS.  One Hydrologic 
+        Unit code was corrected in Oregon.  Region 17, Subregion 07, Accounting 
+        unit 03, Cataloging unit 01 had all user-defined attribute items 
+        incorrectly valued as Region 17, Subregion 09, Accounting unit 00, 
+        Cataloging unit 05.
+      Source_Used_Citation_Abbreviation: HUCS21
+      Process_Date: 200201
+      Source_Produced_Citation_Abbreviation: HUCS22
+
+    Process_Step:
+      Process_Description:
+        The HUCS22 file was modified and corrected in ArcGIS.  One cataloging 
+        unit name was corrected in Oregon.  Region 17, Subregion 10, Accounting 
+        unit 02, Cataloging unit 03 had the attribute CAT_NAME incorrectly 
+        valued as Wilson-Trusk-Nestuccu, Oregon. It was corrected to 
+        Wilson-Trask-Nestucca, Oregon.
+      Source_Used_Citation_Abbreviation: HUCS22
+      Process_Date: 200211
+      Source_Produced_Citation_Abbreviation: HUCS23
+
+
+    Process_Step:
+      Process_Description:
+        The HUCS23 file was modified and corrected in ArcGIS.  Cataloging unit 
+        03050201 had the attribute CAT_NAME incorrectly valued as Copper, South 
+        Carolina.  It was corrected to Cooper, South Carolina.  HUC 1103 
+        Sub_name was incorrectly valued as Middel Arkansas.  It was corrected to 
+        Middle Arkansas.  The codes and all attributes in the following basins 
+        were corrected: Cataloging unit 9030006 corrected from 9030004, 
+        Cataloging unit 12100204 corrected from 12100303, and Cataloging unit 
+        17060206 corrected from 17060203.
+      Source_Used_Citation_Abbreviation: HUCS23
+      Process_Date: 200505
+
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Area point
+      Point_and_Vector_Object_Count: 5348
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Complete chain
+      Point_and_Vector_Object_Count: 11576
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 5348
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.0000716142749
+      Longitude_Resolution: 0.0000716142749
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137.0
+      Denominator_of_Flattening_Ratio: 298.257222
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: 
+        Hydrologic Unit (described by HUCS00P020.PAT or Hucs00p020.dbf)
+      Entity_Type_Definition: 
+        A subdivision of the Earth, used for the collection and organization of 
+        hydrologic data.  Regions, subregions, accounting units, and cataloging
+        units are all types of hydrologic units.
+      Entity_Type_Definition_Source: National Atlas of the United States
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Polygon
+          Enumerated_Domain_Value_Definition: 2-dimensional element
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Area
+      Attribute_Definition: 
+        The size of the shape in coverage units.  In the distributed 
+        file, coverage units represent square decimal degrees.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 9.069
+    Attribute:
+      Attribute_Label: Perimeter
+      Attribute_Definition: 
+        The perimeter of the shape in coverage units.  In the distributed file, 
+        coverage units represent decimal degrees.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+       Range_Domain:
+          Range_Domain_Minimum: 0.004
+          Range_Domain_Maximum: 41.175
+    Attribute:
+      Attribute_Label: HUCS00M020# or Hucs00m020
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 2
+          Range_Domain_Maximum: 5348
+    Attribute:
+      Attribute_Label: HUCS00M020-ID (Included in Export format file only.)
+      Attribute_Definition: User-assigned feature number.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 5345
+    Attribute:
+      Attribute_Label: Plytype
+      Attribute_Definition: 
+        A code indicating the classification of offshore polygons.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: Land, including islands.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: Open water.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Huc
+      Attribute_Definition: 
+        The Hydrologic Unit Code.  The code is 8 digits and can be subdivided as 
+        follows:
+        >Digits   Type
+        >1-2      Water Resource Region
+        >1-4      Subregion
+        >1-6      Accounting Unit
+        >1-8      Cataloging Unit
+        >
+        This is the same as Cat.  There are six polygons in the file with a Huc 
+        of 0; these polygons are not assigned to any hydrologic unit.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1010001
+          Range_Domain_Maximum: 21020002
+    Attribute:
+      Attribute_Label: Reg_name
+      Attribute_Definition: The Water Resource Region name.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Hydrologic Unit Maps: Seaber, P.R., Kapinos, F.P., and Knapp, G.L.: 
+            U.S. Geological Survey Water-supply Paper 2294; 1987
+          Codeset_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Alaska State Hydrologic Unit Map, U.S. Geological Survey map; 1987
+          Codeset_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Map_label
+      Attribute_Definition: 
+        A 6-digit character string of the hydrologic unit code. This was created 
+        to help map production and a zero was added in front of the single digit 
+        regions.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 010100
+          Range_Domain_Maximum: 210200
+    Attribute:
+      Attribute_Label: Sub_name
+      Attribute_Definition: The Subregion name.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Hydrologic Unit Maps: Seaber, P.R., Kapinos, F.P., and Knapp, G.L.: 
+            U.S. Geological Survey Water-supply Paper 2294; 1987
+          Codeset_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Alaska State Hydrologic Unit Map, U.S. Geological Survey map; 1987
+          Codeset_Source: U.S. Geological Survey 
+    Attribute:
+      Attribute_Label: Acc_name
+      Attribute_Definition: The Accounting Unit name.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Hydrologic Unit Maps: Seaber, P.R., Kapinos, F.P., and Knapp, G.L.: 
+            U.S. Geological Survey Water-supply Paper 2294; 1987
+          Codeset_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Alaska State Hydrologic Unit Map, U.S. Geological Survey map; 1987
+          Codeset_Source: U.S. Geological Survey 
+    Attribute:
+      Attribute_Label: Cat_name
+      Attribute_Definition: 
+        The Cataloging Unit name.  Except in Alaska, this includes the State(s) 
+        in which the unit is located. The State name is spelled out except where 
+        the cataloging unit name is very long and the cataloging unit is located 
+        in several States, in which case the State names are abbreviated with 
+        the 2-letter State FIPS code.  Occasionally, State names are truncated 
+        rather than abbreviated.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Hydrologic Unit Maps: Seaber, P.R., Kapinos, F.P., and Knapp, G.L.: 
+            U.S. Geological Survey Water-supply Paper 2294; 1987
+          Codeset_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Alaska State Hydrologic Unit Map, U.S. Geological Survey map; 1987
+          Codeset_Source: U.S. Geological Survey 
+    Attribute:
+      Attribute_Label: Huc2
+      Attribute_Definition: 
+        The number of the Water Resource Region.  This is also the first two
+        digits of the Hydrologic Unit Code and is the same as Reg.  A region is
+        one of 21 major geographic areas within the U.S. or Caribbean area which 
+        contains either the drainage area of a major river or the combined 
+        drainage area of a series of rivers.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 21
+    Attribute:
+      Attribute_Label: Huc4
+      Attribute_Definition: 
+        The number of the Subregion.  This is also the first four digits of the 
+        Hydrologic Unit Code and is the same as Sub. A subregion is a 
+        subdivision of a region and includes the area drained by a river system, 
+        a reach of a river and its tributaries in that reach, a closed basin, or 
+        a group of streams forming a coastal drainage area.  There are 222 
+        subregions.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 101
+          Range_Domain_Maximum: 2102
+    Attribute:
+      Attribute_Label: Huc6
+      Attribute_Definition: 
+        The number of the Accounting Unit.  This is also the first six digits of 
+        the Hydrologic Unit Code and is the same as Act.  The accounting units 
+        nest within or are equivalent to the subregions.  There are 352 
+        accounting units.  If the last two digits of this number are 00, the 
+        accounting unit and subregion are the same.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 10100
+          Range_Domain_Maximum: 210200
+    Attribute:
+      Attribute_Label: Reg
+      Attribute_Definition: 
+        The number of the Water Resource Region.  This is also the first two 
+        digits of the Hydrologic Unit Code, and is the same as Huc2.  A region
+        is one of 21 major geographic areas within the U.S. or Caribbean area 
+        which contains either the drainage area of a major river or the combined 
+        drainage area of a series of rivers.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 21
+    Attribute:
+      Attribute_Label: Sub
+      Attribute_Definition: 
+        The number of the Subregion.  This is also the first four digits of the 
+        Hydrologic Unit Code and is the same as Huc4.  A subregion is a 
+        subdivision of a region and includes the area drained by a river system,
+        a reach of a river and its tributaries in that reach, a closed basin, or 
+        a group of streams forming a coastal drainage area.  There are 222 
+        subregions.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 101
+          Range_Domain_Maximum: 2102
+    Attribute:
+      Attribute_Label: Acc
+      Attribute_Definition: 
+        The number of the Accounting Unit.  This is also the first six digits of 
+        the Hydrologic Unit Code and is the same as Huc6.  The accounting units 
+        nest within or are equivalent to the subregions.  There are 352 
+        accounting units.  If the last two digits of this number are 00, the 
+        accounting unit and subregion are the same.
+      Attribute_Definition_Source: National Atlas of the United States 
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 10100
+          Range_Domain_Maximum: 210200
+    Attribute:
+      Attribute_Label: Cat
+      Attribute_Definition:
+        The number of the Cataloging Unit.  This is the same as Huc.  A 
+        cataloging unit is currently the smallest element in the hierarchy of 
+        hydrologic units, and represents part or all of a surface drainage
+        basin, a combination of drainage basins, or a distinct hydrologic 
+        feature.  There are 2,264 cataloging units.  If the last two digits of 
+        this number are 00, the cataloging unit and accounting unit are the 
+        same.  Cataloging units may also be referred to as watersheds.  There 
+        are 6 polygons in the file with a Cat of 0; these polygons are not 
+        assigned to any hydrologic unit.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1010001
+          Range_Domain_Maximum: 21020002
+    Attribute:
+      Attribute_Label: Cat_num
+      Attribute_Definition: 
+        The number of the Cataloging Unit.  This is a redefined Huc or Cat 
+        number changed into a character string. 
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1010001
+          Range_Domain_Maximum: 21020002
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: 
+        Hydrologic Unit Boundary (described by HUCS00L020.AAT or Hucs00l020.dbf)
+      Entity_Type_Definition: A boundary between hydrologic units.
+      Entity_Type_Definition_Source: National Atlas of the United States
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Polyline
+          Enumerated_Domain_Value_Definition: 
+            1-dimensional element that surrounds a 2-dimensional element.
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Fnode# or Fnode_
+      Attribute_Definition: Internal sequence number of the from-node.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 9039
+    Attribute:
+      Attribute_Label: Tnode# or Tnode_
+      Attribute_Definition: Internal sequence number of the to-node.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 9039
+    Attribute:
+      Attribute_Label: Lpoly# or Lpoly_
+      Attribute_Definition: Internal sequence number of the left polygon.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 5348
+    Attribute:
+      Attribute_Label: Rpoly# or Rpoly_
+      Attribute_Definition: Internal sequence number of the right polygon.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 5347
+    Attribute:
+      Attribute_Label: Length
+      Attribute_Definition: 
+        The length of the line in coverage units.  In the distributed file, 
+        coverage units represent decimal degrees.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 6.143
+    Attribute:
+      Attribute_Label: US_HUCS_ALB# or Hucs00m020
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 11576
+    Attribute:
+      Attribute_Label: US_HUCS_ALB-ID (Included in Export format file only.)
+      Attribute_Definition: User-assigned feature number.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 11576
+    Attribute:
+      Attribute_Label: Bndtype
+      Attribute_Definition: 
+        The code number describing the location or type of the hydrologic unit 
+        boundary.  Boundaries occur between hydrologic units and between onshore 
+        and offshore parts of the same hydrologic unit.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: 
+            Coastline or International Boundary separating offshore and onshore 
+            parts of the same hydrologic unit.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: 
+            Land and occasionally water boundary between two Water Resource 
+            Regions.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4
+          Enumerated_Domain_Value_Definition: 
+            Land and occasionally water boundary between two Subregions.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 6
+          Enumerated_Domain_Value_Definition: 
+            Land and occasionally water boundary between two Accounting Units.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 8
+          Enumerated_Domain_Value_Definition: 
+            Land and occasionally water boundary between two Cataloging Units.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Error_type
+      Attribute_Definition: 
+        A code indicating the type of conflict between the streams file and the 
+        hydrologic unit boundary.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: No conflict exists.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4
+          Enumerated_Domain_Value_Definition: 
+            There was an error in the streams file.  The hydrologic unit 
+            Boundary was not changed.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 5
+          Enumerated_Domain_Value_Definition: 
+            There was a conflict between the NMD streams data and the
+            1:500,000-scale Hydrologic Unit Boundaries map.  The hydrologic unit 
+            boundary was changed to agree with the streams.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+    
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+        Country: USA
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions: 
+        In addition to the address above there are other ESIC offices throughout 
+        the country.  A full list of these offices is at
+        <http://ask.usgs.gov/esic_index.html>.
+  Distribution_Liability:
+    Although these data have been processed successfully on a computer system at 
+    the U.S. Geological Survey, no warranty expressed or implied is made by the 
+    U.S. Geological Survey regarding the utility of the data on any other 
+    system, nor shall the act of distribution constitute any such warranty.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ARCE
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: 
+                <http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater>
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: 
+                <http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater>
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SDTS
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name:
+                <http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater>
+    Fees:
+      There is no charge for the map layer.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20060324
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: CAPP Chief
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 505 Science Dr.
+        City: Madison
+        State_or_Province: WI
+        Postal_Code: 53711-1061
+        Country: USA
+      Contact_Voice_Telephone: 608-238-9333
+      Contact_Facsimile_Telephone: 608-238-9334
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
+

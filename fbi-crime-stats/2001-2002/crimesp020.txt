@@ -1,0 +1,1034 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Atlas of the United States
+      Publication_Date: 200506
+      Title: United States Crimes Database 1994-2000
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+  Description:
+    Abstract:
+      This map layer shows crime statistics for the United States for the
+      years 1994-2000, drawn from the Uniform Crime Reporting Program data
+      compiled by the Federal Bureau of Investigation and archived at the
+      Inter-university Consortium for Political and Social Research (ICPSR).
+      Crime data are reported by county and are provided for eight crimes:
+      murder, forcible rape, robbery, aggravated assault, burglary, larceny,
+      motor vehicle theft, and arson.  Statewide allocation data are not
+      included in this map layer.  Crime data are adjusted to compensate for
+      incomplete reporting by individual law enforcement agencies.  See the
+      online codebook at 
+      <http://www.icpsr.umich.edu/cgi-bin/bob/archive2?study=3451&path=NACJD&docsonly=yes>
+      for more information.  This is an update of the January 2003, map layer; 
+      fields for the above crime statistics, normalized by crime population, have 
+      been added.
+    Purpose:
+      These data are intended for geographic display and analysis at the
+      national level, and for large regional areas.  The data should be
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
+      No responsibility is assumed by the Department of Justice, the National 
+      Atlas of the United States, or the ICPSR in the use of these data.
+    Supplemental_Information: 
+      Some of the crime data reported in this file was estimated.  Where
+      agencies reported for 12 months, the data were included as reported.
+      Where agencies reported for between three and eleven months, the data
+      were increased by a weight of (12/months reported).  Where agencies
+      reported for one or two months, the actual data were not included,
+      but estimated data for the entire year were calculated based on rates
+      computed using data from 12-month reporting agencies within the same
+      geographic stratum (defined by population group) within that State.
+      Where agencies did not report at all, no estimations were performed.
+      For more information on imputation procedures please see 
+      <http://www.icpsr.umich.edu/cgi-bin/bob/archive2?study=3451&path=NACJD&docsonly=yes>
+      to access the Codebook for ICPSR Study Number 3451.
+
+      For additional information on the Uniform Crime Reporting Program,
+      please see <http://www.icpsr.umich.edu/NACJD/ucr.html>.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1994
+        Ending_Date: 2000
+    Currentness_Reference: Ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 172
+      East_Bounding_Coordinate: -66
+      North_Bounding_Coordinate: 72
+      South_Bounding_Coordinate: 18
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: Society
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Crime
+      Theme_Keyword: Arrests
+      Theme_Keyword: Murder
+      Theme_Keyword: Forcible rape
+      Theme_Keyword: Rape
+      Theme_Keyword: Robbery
+      Theme_Keyword: Aggravated assault
+      Theme_Keyword: Assault
+      Theme_Keyword: Burglary
+      Theme_Keyword: Larceny
+      Theme_Keyword: Motor vehicle theft
+      Theme_Keyword: Theft
+      Theme_Keyword: Arson
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: USA
+      Place_Keyword: United States
+    Place:
+      Place_Keyword_Thesaurus:
+        U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of
+        Special Sovereignty, and Their Principal Administrative Divisions
+        (Federal Information Processing Standard (FIPS) 10-4): Washington,
+        DC, National Institute of Standards and Technology.
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+  Access_Constraints: None
+  Use_Constraints:
+    None.  Acknowledgment of the National Atlas of the United States of
+    America, the ICPSR, and (or) the U.S. Dept. of Justice, Federal Bureau of 
+    Investigation would be appreciated in products derived from these data.
+
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Inter-university Consortium for Political and Social Research 
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: NACJD, ICPSR
+        Address: University of Michigan
+        Address: 311 Maynard
+        City: Ann Arbor
+        State_or_Province: MI
+        Postal_Code: 48104
+      Contact_Voice_Telephone: 800-999-0960
+      Contact_Facsimile_Telephone: 734-998-9905
+      Contact_Electronic_Mail_Address: nacjd@icpsr.umich.edu
+  Cross_reference:
+    Citation_Information:
+      Originator: National Atlas of the United States
+      Publication_Date: 200506
+      Title: United States Crimes Database 2001-2002
+      Geospatial_Data_Presentation_Form: Map
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+
+Data_Quality_Information:
+  Logical_Consistency_Report:
+    No checks for logical consistency were performed on this map layer.  For
+    information on data imputation procedures used in areas where reporting
+    was less than 100 percent, please see 
+    <http://www.icpsr.umich.edu/cgi-bin/bob/archive2?study=3451&path=NACJD&docsonly=yes> 
+    to access the Codebook for ICPSR Study Number 3451.
+  Completeness_Report:
+    This map layer includes crime statistics for the 50 United States as
+    collected by the Federal Bureau of Investigation, from reports submitted
+    by agencies and States participating in the Uniform Crime Reporting
+    Program.  This is a voluntary program so the data may not include reports
+    from all law enforcement agencies.  Data collected for a State but not
+    attributable to a specific county (Statewide allocations) are not
+    included.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Department of Justice, Federal Bureau of Investigation
+          Publication_Date: 1997
+          Title:
+            Uniform Crime Reporting Program Data [United States]: County-Level
+            Detailed Arrest and Offense Data, 1994; Study Number 6669
+          Publication_Information:
+            Publication_Place: Ann Arbor, MI
+            Publisher: 
+              Inter-university Consortium for Political and Social Research
+          Online_Linkage: 
+            <http://www.icpsr.umich.edu/cgi-bin/bob/newark?study=6669&path=NACJD> 
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1994
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: Crime94
+      Source_Contribution: Crime statistics for 1994
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Department of Justice, Federal Bureau of Investigation
+          Publication_Date: 1997
+          Title:
+            Uniform Crime Reporting Program Data [United States]: County-Level
+            Detailed Arrest and Offense Data, 1995; Study Number 6850
+          Publication_Information:
+            Publication_Place: Ann Arbor, MI
+            Publisher: 
+              Inter-university Consortium for Political and Social Research
+          Online_Linkage: 
+            <http://www.icpsr.umich.edu/cgi-bin/bob/newark?study=6850&path=NACJD>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1995
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: Crime95
+      Source_Contribution: Crime statistics for 1995
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Department of Justice, Federal Bureau of Investigation
+          Publication_Date: 1998
+          Title:
+            Uniform Crime Reporting Program Data [United States]: County-Level
+            Detailed Arrest and Offense Data, 1996; Study Number 2389
+          Publication_Information:
+            Publication_Place: Ann Arbor, MI
+            Publisher: 
+              Inter-university Consortium for Political and Social Research
+          Online_Linkage: 
+            <http://www.icpsr.umich.edu/cgi-bin/bob/newark?study=2389&path=NACJD>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1996
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: Crime96
+      Source_Contribution: Crime statistics for 1996
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Department of Justice, Federal Bureau of Investigation
+          Publication_Date: 1999
+          Title:
+            Uniform Crime Reporting Program Data [United States]: County-Level
+            Detailed Arrest and Offense Data, 1997; Study Number 2764
+          Publication_Information:
+            Publication_Place: Ann Arbor, MI
+            Publisher: 
+              Inter-university Consortium for Political and Social Research
+          Online_Linkage: 
+            <http://www.icpsr.umich.edu/cgi-bin/bob/newark?study=2764&path=NACJD>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1997
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: Crime97
+      Source_Contribution: Crime statistics for 1997
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Department of Justice, Federal Bureau of Investigation
+          Publication_Date: 2000
+          Title:
+            Uniform Crime Reporting Program Data [United States]: County-Level
+            Detailed Arrest and Offense Data, 1998; Study Number 2910
+          Publication_Information:
+            Publication_Place: Ann Arbor, MI
+            Publisher: 
+              Inter-university Consortium for Political and Social Research
+          Online_Linkage: 
+            <http://www.icpsr.umich.edu/cgi-bin/bob/newark?study=2910&path=NACJD>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1998
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: Crime98
+      Source_Contribution: Crime statistics for 1998
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 2000
+          Title: 1990 County Boundaries of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+          Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 1990
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: ATLAS-CNTY1990
+      Source_Contribution: Spatial information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 200103
+          Title: United States Crimes Database
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+          Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1994
+            Ending_Date: 1998
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: ATLAS-CRIMES9498
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 200301
+          Title: United States Crimes Database
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+          Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1994
+            Ending_Date: 2000
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: ATLAS-CRIMES9400
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: 
+            U.S. Department of Justice, Federal Bureau of Investigation
+          Publication_Date: 2002
+          Title:
+            Uniform Crime Reporting Program Data [United States]: County-Level
+            Detailed Arrest and Offense Data, 1999; Study Number 3167
+          Publication_Information:
+            Publication_Place: Ann Arbor, MI
+            Publisher: 
+              Inter-university Consortium for Political and Social Research
+          Online_Linkage: 
+            <http://www.icpsr.umich.edu/cgi-bin/bob/newark?study=3167&path=NACJD>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1999
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: Crime99
+      Source_Contribution: Crime statistics for 1999
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: 
+            U.S. Department of Justice, Federal Bureau of Investigation
+          Publication_Date: 2002
+          Title:
+            Uniform Crime Reporting Program Data [United States]: County-Level
+            Detailed Arrest and Offense Data, 2000; Study Number 3451
+          Publication_Information:
+            Publication_Place: Ann Arbor, MI
+            Publisher: 
+              Inter-university Consortium for Political and Social Research
+          Online_Linkage: 
+            <http://www.icpsr.umich.edu/cgi-bin/bob/newark?study=3451&path=NACJD>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2000
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: Crime00
+      Source_Contribution: Crime statistics for 2000
+
+    Process_Step:
+      Process_Description:
+        Comma-delimited text files for individual years, containing selected
+        attributes, were received from the Bureau of Justice Statistics data
+        archive (ICPSR) at the University of Michigan.  The text files were
+        loaded into Excel and output in dBase IV format, then loaded into
+        ArcView for processing.  FIPS codes in the data were converted to
+        strings and leading zeros added as appropriate.  The FIPS code for
+        Dade County, FL was changed in the 1994, 1995, and 1996 files to match
+        the new FIPS code for Miami-Dade County, FL.  Attribute names were
+        modified to allow combination of data from several years.  The
+        individual year files were merged into one large file and saved in
+        dBase IV format.
+
+        The county boundaries file was loaded into ArcView and the FIPS code
+        for Dade County was changed to the new code for Miami-Dade County.
+        The name was also changed.  The area of Skagway-Yakatut-Angoon Census
+        Area, Alaska was divided into Yakatut Borough and Skagway-Hoonah-
+        Angoon Census Area, and the FIPS codes were adjusted.  County
+        boundaries for Puerto Rico and the U.S. Virgin Islands were deleted.
+        Twelve polygons that represented water areas were also deleted.
+
+        The crimes database was joined to the edited county boundaries file
+        and the result saved in shapefile format.
+      Source_Used_Citation_Abbreviation: Crime94
+      Source_Used_Citation_Abbreviation: Crime95
+      Source_Used_Citation_Abbreviation: Crime96
+      Source_Used_Citation_Abbreviation: Crime97
+      Source_Used_Citation_Abbreviation: Crime98
+      Source_Used_Citation_Abbreviation: ATLAS-CNTY1990
+      Process_Date: 2000
+      Source_Produced_Citation_Abbreviation: ATLAS-CRIMES9498
+
+    Process_Step:
+      Process_Description:
+        Comma-delimited text files for 1999 and 2000, containing selected
+        attributes, were received from the Bureau of Justice Statistics data
+        archive (ICPSR) at the University of Michigan.  The text files were
+        loaded into Excel and output in dBase IV format, then loaded into
+        ArcView for processing.  FIPS codes in the data were converted to
+        strings and leading zeros added as appropriate.  Attribute names were
+        modified as necessary and the files were merged with ATLAS-CRIMES9498.
+        The resulting file was saved as a new shapefile.
+      Source_Used_Citation_Abbreviation: ATLAS-CRIMES9498
+      Source_Used_Citation_Abbreviation: Crime99
+      Source_Used_Citation_Abbreviation: Crime00
+      Process_Date: 200212
+      Source_Produced_Citation_Abbreviation: ATLAS-CRIMES9400
+
+    Process_Step:  
+      Process_Description:
+        The ATLAS-CRIMES9400 shapefile was loaded into ArcGIS for processing 
+        and editing.  A query was run to select records for each year where
+        the coverage index for a year was greater than zero and the crime
+        population for the same year was zero, resulting in about 20 selections 
+        for each year.  Where there were crime statistics for a particular year 
+        in the selected records, the arrest population value for that year was 
+        substituted for the zero value in the crime population field.  If there 
+        were no crime statistics for a particular year in the selected records, 
+        the coverage index was reset to zero.  New fields were added for each 
+        crime normalized by population.  Queries were run for each year to 
+        detect records with missing data (coverage index was zero, crime 
+        population was zero, and all crime statistics were zero.)  The new 
+        fields were populated with the value -9999 for records with no data 
+        available (referred to as missing data by NACJD).  For records with 
+        data, the values for the new fields were calculated by dividing the 
+        crime population for a particular year into the crime statistic for that 
+        year and then multiplying the result by 100.
+      Source_Used_Citation_Abbreviation: ATLAS-CRIMES9400
+      Process_Date: 200504
+    	      
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference:
+    U.S. Department of Commerce, 1987, Codes for the Identification of the
+    States, the District of Columbia and the Outlying Areas of the United
+    States, and Associated Areas (FIPS 5-2): Washington, DC, National
+    Institute of Standards and Technology.
+      
+    U.S. Department of Commerce, 1990, Counties and Equivalent Entities of the
+    United States, Its Possessions, and Associated Areas (FIPS 6-4):
+    Washington, DC, National Institute of Standards and Technology.
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 6007
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000278
+      Longitude_Resolution: 0.000278
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257222
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Crime statistics by county
+      Entity_Type_Definition:
+        The incidence in the United States of Part I offences (murder, rape,
+        robbery, aggravated assault, burglary, larceny, auto theft, and
+        arson), as defined and collected by the United States Department of
+        Justice.
+      Entity_Type_Definition_Source: National Atlas of the United States
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Polygon
+          Enumerated_Domain_Value_Definition: 2-dimensional element.
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Fid
+      Attribute_Definition: Feature identification number
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 6006
+    Attribute:
+      Attribute_Label: State
+      Attribute_Definition: The two-character code for the State.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name:
+            Codes for the Identification of the States, the District of
+            Columbia and the Outlying Areas of the United States, and
+            Associated Areas; (Federal Information Processing  Standard (FIPS)
+            5-2): Washington, DC, National Institute of Standards and
+            Technology.
+          Codeset_Source: U.S. Department of Commerce
+    Attribute:
+      Attribute_Label: County
+      Attribute_Definition: The name of the county or county equivalent.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name:
+            Counties and Equivalent Entities of the United States, Its
+            Possessions, and Associated Areas (Federal Information Processing
+            Standard (FIPS) 6-4): Washington, DC, National Institute of
+            Standards and Technology.
+          Codeset_Source: U.S. Department of Commerce
+    Attribute:
+      Attribute_Label: Fips
+      Attribute_Definition:
+        The 5-digit FIPS code indicating the State and county to which the
+        statistics apply.  The first two digits are the State code, and the
+        last three digits are the county code.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name:
+            Counties and Equivalent Entities of the United States, Its
+            Possessions, and Associated Areas (Federal Information Processing
+            Standard (FIPS) 6-4): Washington, DC, National Institute of
+            Standards and Technology.
+          Codeset_Source: U.S. Department of Commerce
+    Attribute:
+      Attribute_Label: State_fips
+      Attribute_Definition: The two-digit code for the State.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name:
+            Codes for the Identification of the States, the District of
+            Columbia and the Outlying Areas of the United States, and
+            Associated Areas; (Federal Information Processing  Standard (FIPS)
+            5-2): Washington, DC, National Institute of Standards and
+            Technology.
+          Codeset_Source: U.S. Department of Commerce
+    Attribute:
+      Attribute_Label: Study_noXX
+      Attribute_Definition:
+        The four-digit ICPSR identification number for the study number of the 
+        crimes-reported data, for the year ending in XX.  The map layer includes 
+        data for the years from 1994 (XX=94) to 2000 (XX=00).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 2389
+          Range_Domain_Maximum: 6850
+    Attribute:
+      Attribute_Label: EditionXX
+      Attribute_Definition: 
+        The edition of the crimes-reported data, for the year ending in XX.  The 
+        map layer includes data for the years from 1994 (XX=94) to 2000 (XX=00).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: 
+            The source was the first edition of the crimes-reported data.
+          Enumerated_Domain_Value_Definition_Source: 
+            Inter-university Consortium for Political and Social Research
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: 
+            The source was the second edition of the crimes-reported data.
+          Enumerated_Domain_Value_Definition_Source: 
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Case_idXX
+      Attribute_Definition: 
+        The ICPSR sequential case ID number, for the year ending in XX.  The 
+        map layer includes data for the years from 1994 (XX=94) to 2000 (XX=00).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 3145
+    Attribute:
+      Attribute_Label: Pop_arrXX
+      Attribute_Definition:
+        The population within the county that is served by the agencies
+        reporting arrests, for the year ending in XX.  The map layer includes 
+        data for the years from 1994 (XX=94) to 2000 (XX=00).  Populations of 
+        jurisdictions that span county lines are allocated by the FBI to the 
+        county that contains the largest proportion of the jurisdiction's 
+        population.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 9519338
+    Attribute:
+      Attribute_Label: Pop_criXX
+      Attribute_Definition:
+        The population within the county that is served by the agencies that
+        actually reported crime data, for the year ending in XX.  The map layer 
+        includes data for the years from 1994 (XX=94) to 2000 (XX=00).  If all 
+        law enforcement agencies within a county reported crime data, then this
+        value will be the same as Pop_arrXX for the same year.  If some agencies 
+        did not report, then the population served by the non-reporting agencies 
+        was not present in the original FBI file and is not included in the 
+        Pop_criXX value.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 9519338
+    Attribute:
+      Attribute_Label: Ag_arrXX
+      Attribute_Definition:
+        The number of agencies in the county that reported arrests, for the
+        year ending in XX.  The map layer includes data for the years from 1994 
+        (XX=94) to 2000 (XX=00).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 146
+    Attribute:
+      Attribute_Label: Ag_criXX
+      Attribute_Definition:
+        The number of agencies in the county that reported crimes, for the
+        year ending in XX.  The map layer includes data for the years from 1994 
+        (XX=94) to 2000 (XX=00).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 113
+    Attribute:
+      Attribute_Label: Cov_indXX
+      Attribute_Definition:
+        An indication of the proportion of the data that is not estimated, for
+        the year ending in XX.  The map layer includes data for the years from 
+        1994 (XX=94) to 2000 (XX=00).  A value of 100 indicates that all 
+        agencies in the county reported for 12 months of the year, and none of 
+        the data were estimated.  A value of 0 indicates that all data for the 
+        county are based on estimates rather than reported data.  The coverage 
+        indicator (CI) for each county is calculated as follows:
+        >CI = (1-(sum((agency pop/pop_arrXX)((12-months reported)/12))))*100
+        Where agency pop is the population represented by the reporting
+        agency for that year, and pop_arrXX is the total population for the 
+        county (as defined above).  The value for "months reported" will be 0 
+        for agencies reporting 1-2 months of data, because any data provided by
+        these agencies was set to zero and the data were estimated using the
+        procedure described above.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.0000
+          Range_Domain_Maximum: 100.000
+    Attribute:
+      Attribute_Label: IndexXX
+      Attribute_Definition:
+        The total number of Uniform Crime Reports (UCR) Index crimes,
+        excluding arson, for the year ending in XX.  The map layer includes data 
+        for the years from 1994 (XX=94) to 2000 (XX=00).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 591795
+    Attribute:
+      Attribute_Label: Mod_indexXX
+      Attribute_Definition:
+        The total number of Uniform Crime Reports (UCR) Index crimes,
+        including arson, for the year ending in XX.  The map layer includes data 
+        for the years from 1994 (XX=94) to 2000 (XX=00).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 598717
+    Attribute:
+      Attribute_Label: MurdXX
+      Attribute_Definition:
+        The total number of murders, for the year ending in XX.  The map layer 
+        includes data for the years from 1994 (XX=94) to 2000 (XX=00).  Murder 
+        is defined as the willful (non-negligent) killing of one human being by 
+        another.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 1678
+    Attribute:
+      Attribute_Label: MurdppXX
+      Attribute_Definition:
+        The number of murders, for the year ending in XX, normalized by the 
+        crime population for the year ending in XX.  The map layer includes 
+        data for the years from 1994 (XX=94) to 2000 (XX=00).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 0.381
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: RapeXX
+      Attribute_Definition:
+        The total number of forcible rapes, for the year ending in XX.  The map 
+        layer includes data for the years from 1994 (XX=94) to 2000 (XX=00).  
+        Forcible rape is defined as the carnal knowledge of a person, forcibly 
+        and (or) against that person's will; or not forcibly or against the 
+        person's will where the victim is incapable of giving consent.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 3188
+    Attribute:
+      Attribute_Label: RapeppXX
+      Attribute_Definition:
+        The number of rapes, for the year ending in XX, normalized by the crime 
+        population for the year ending in XX.  The map layer includes data for 
+        the years from 1994 (XX=94) to 2000 (XX=00).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 0.985
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: RobbXX
+      Attribute_Definition:
+        The total number of robberies, for the year ending in XX.  The map layer 
+        includes data for the years from 1994 (XX=94) to 2000 (XX=00).  Robbery 
+        is defined as the taking, or attempting to take, or anything of value 
+        under confrontational circumstances, by force or threat of force or
+        violence.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 56116
+    Attribute:
+      Attribute_Label: RobbppXX
+      Attribute_Definition:
+        The number of robberies, for the year ending in XX, normalized by the 
+        crime population for the year ending in XX.  The map layer includes 
+        data for the years from 1994 (XX=94) to 2000 (XX=00).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 3.226
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: AssaXX
+      Attribute_Definition:
+        The total number of aggravated assaults, for the year ending in XX.  The 
+        map layer includes data for the years from 1994 (XX=94) to 2000 (XX=00).
+        Aggravated assault is defined as an attack by one person on another,
+        where the offender uses a weapon or displays it in a threatening
+        manner, or where the victim suffers severe bodily injury.  This
+        includes assault with a disease.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 77026
+    Attribute:
+      Attribute_Label: AssappXX
+      Attribute_Definition:
+        The number of aggravated assaults, for the year ending in XX, normalized 
+        by the crime population for the year ending in XX.  The map layer 
+        includes data for the years from 1994 (XX=94) to 2000 (XX=00).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 12.903
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: BurgXX
+      Attribute_Definition:
+        The total number of burglaries, for the year ending in XX.  The map 
+        layer includes data for the years from 1994 (XX=94) to 2000 (XX=00).  
+        Burglary is defined as the unlawful entry into a building or other 
+        structure with the intent to commit a felony or a theft.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 104011
+    Attribute:
+      Attribute_Label: BurgppXX
+      Attribute_Definition:
+        The number of burglaries, for the year ending in XX, normalized by the 
+        crime population for the year ending in XX.  The map layer includes data 
+        for the years from 1994 (XX=94) to 2000 (XX=00).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 29.032
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: LarcXX
+      Attribute_Definition:
+        The total number of larcenies, for the year ending in XX.  The map layer 
+        includes data for the years from 1994 (XX=94) to 2000 (XX=00).  Larceny 
+        is defined as the unlawful taking of property from another person, and 
+        is also called theft.  Motor vehicle thefts are not included.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 236758
+    Attribute:
+      Attribute_Label: LarcppXX
+      Attribute_Definition:
+        The number of larcenies, for the year ending in XX, normalized by the 
+        crime population for the year ending in XX.  The map layer includes data 
+        for the years from 1994 (XX=94) to 2000 (XX=00).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 28.541
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Mv_thXX
+      Attribute_Definition:
+        The total number of motor vehicle thefts, for the year ending in XX.  
+        The map layer includes data for the years from 1994 (XX=94) to 2000 
+        (XX=00).  Motor vehicle theft is defined as the theft of an automobile, 
+        bus, recreational vehicle, truck, or other motor vehicle.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 113027
+    Attribute:
+      Attribute_Label: MvthppXX
+      Attribute_Definition:
+        The number of motor vehicle thefts, for the year ending in XX, 
+        normalized by the crime population for the year ending in XX.  The map 
+        layer includes data for the years from 1994 (XX=94) to 2000 (XX=00).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 6.452
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: ArsoXX
+      Attribute_Definition:
+        The total number of arsons, for the year ending in XX.  The map layer 
+        includes data for the years from 1994 (XX=94) to 2000 (XX=00).  Arson is 
+        defined as unlawfully and intentionally damaging or attempting to 
+        damage, real or personal property, by fire or incendiary device.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 6922
+    Attribute:
+      Attribute_Label: ArsoppXX
+      Attribute_Definition:
+        The number of Arsons, for the year ending in XX, normalized by the crime 
+        population for the year ending in XX.  The map layer includes data for 
+        the years from 1994 (XX=94) to 2000 (XX=00).
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 2.457
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions:
+        In addition to the address above there are other ESIC offices
+        throughout the country.  A full list of these offices is at
+        <http://geography.usgs.gov/esic/esic_index.html>.
+  Distribution_Liability:
+    Although these data have been processed successfully on a computer system
+    at the U.S. Geological Survey, no warranty expressed or implied is made by
+    the U.S. Geological Survey regarding the utility of the data on any other
+    system, nor shall the act of distribution constitute any such warranty.
+    No responsibility is assumed by the U.S. Geological Survey in the use of
+    these data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SDTS
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+    Fees:
+      There is no charge for this map layer.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20050520
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Peg Rawson
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Drive
+        Address: MS-561 
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-4183
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
+
