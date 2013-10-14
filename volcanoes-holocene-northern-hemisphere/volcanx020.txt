@@ -1,0 +1,791 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: National Atlas of the United States
+        Publication_Date: 200509	
+        Title: Volcanoes
+        Publication_Information:
+          Publication_Place: Reston, VA
+          Publisher: National Atlas of the United States
+        Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+    Description:
+      Abstract:
+        This map layer includes Holocene volcanoes, which are those thought to 
+        be active in the last 10,000 years, that are within an extended area of 
+        the northern hemisphere centered on the United States.  The data are a 
+        subset of data available from the Global Volcanism Program, Smithsonian 
+        Institution at <http://www.volcano.si.edu/world/summary.cfm>.  This 
+        file is a replacement for the April 2004 map layer.
+      Purpose:
+        These data are intended for geographic display and analysis at the
+        national level, and for large regional areas.  The data should be
+        displayed and analyzed at scales appropriate for 1:2,000,000-scale 
+        data.  No responsibility is assumed by the National Atlas of the 
+        United States in the use of these data.
+      Supplemental_Information:
+        Further information on the Global Volcanism Program of the 
+        Smithsonian Institution is available at <http://www.volcano.si.edu/>.
+
+        A glossary of volcano terminology is available at
+        <http://vulcan.wr.usgs.gov/Glossary/volcano_terminology.html>.
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Single_Date/Time:
+          Calendar_Date: 2005
+      Currentness_Reference: Publication date
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: Irregular
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: 120
+        East_Bounding_Coordinate: 7
+        North_Bounding_Coordinate: 90
+        South_Bounding_Coordinate: 10
+
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: Geoscientific information
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: Volcanoes
+        Theme_Keyword: Eruptions
+        Theme_Keyword: Calderas
+        Theme_Keyword: Cinder cones
+        Theme_Keyword: Complex volcanoes
+        Theme_Keyword: Crater rows
+        Theme_Keyword: Fissure vents
+        Theme_Keyword: Fumarole field
+        Theme_Keyword: Hydrothermal field
+        Theme_Keyword: Lava domes
+        Theme_Keyword: Maars
+        Theme_Keyword: Pyroclastic cones
+        Theme_Keyword: Scoria cones
+        Theme_Keyword: Shield volcanoes
+        Theme_Keyword: Stratovolcanoes
+        Theme_Keyword: Subglacial volcanoes
+        Theme_Keyword: Submarine volcanoes
+        Theme_Keyword: Tuff cones
+        Theme_Keyword: Tuff rings
+        Theme_Keyword: Volcanic fields
+      Place:
+        Place_Keyword_Thesaurus: None
+        Place_Keyword: Asia
+        Place_Keyword: Atlantic
+        Place_Keyword: Canada
+        Place_Keyword: Caribbean
+        Place_Keyword: Europe
+        Place_Keyword: Iceland
+        Place_Keyword: Mexico
+        Place_Keyword: United States
+        Place_Keyword: USA
+        Place_Keyword: West Indies
+
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce, 1987, Codes for the Identification of 
+          the States, the District of Columbia and the Outlying Areas of the 
+          United States, and Associated Areas (Federal Information Processing 
+          Standard (FIPS) 5-2): Washington, DC, National Institute of 
+          Standards and Technology.
+        Place_Keyword: Alabama
+        Place_Keyword: Alaska
+        Place_Keyword: Arizona
+        Place_Keyword: Arkansas
+        Place_Keyword: California
+        Place_Keyword: Colorado
+        Place_Keyword: Connecticut
+        Place_Keyword: Delaware
+        Place_Keyword: District of Columbia
+        Place_Keyword: Florida
+        Place_Keyword: Georgia
+        Place_Keyword: Hawaii
+        Place_Keyword: Idaho
+        Place_Keyword: Illinois
+        Place_Keyword: Indiana
+        Place_Keyword: Iowa
+        Place_Keyword: Kansas
+        Place_Keyword: Kentucky
+        Place_Keyword: Louisiana
+        Place_Keyword: Maine
+        Place_Keyword: Maryland
+        Place_Keyword: Massachusetts
+        Place_Keyword: Michigan
+        Place_Keyword: Minnesota
+        Place_Keyword: Mississippi
+        Place_Keyword: Missouri
+        Place_Keyword: Montana
+        Place_Keyword: Nebraska
+        Place_Keyword: Nevada
+        Place_Keyword: New Hampshire
+        Place_Keyword: New Jersey
+        Place_Keyword: New Mexico
+        Place_Keyword: New York
+        Place_Keyword: North Carolina
+        Place_Keyword: North Dakota
+        Place_Keyword: Ohio
+        Place_Keyword: Oklahoma
+        Place_Keyword: Oregon
+        Place_Keyword: Pennsylvania
+        Place_Keyword: Rhode Island
+        Place_Keyword: South Carolina
+        Place_Keyword: South Dakota
+        Place_Keyword: Tennessee
+        Place_Keyword: Texas
+        Place_Keyword: Utah
+        Place_Keyword: Vermont
+        Place_Keyword: Virginia
+        Place_Keyword: Washington
+        Place_Keyword: West Virginia
+        Place_Keyword: Wisconsin
+        Place_Keyword: Wyoming
+        Place_Keyword: Puerto Rico
+        Place_Keyword: U.S. Virgin Islands 
+    Access_Constraints: None
+    Use_Constraints:
+      None.  Acknowledgment of the National Atlas of the United States of 
+      America and the Global Volcanism Program, Smithsonian Institution would 
+      be appreciated in products derived from these data.
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Gita Urban-Mathieux
+          Contact_Organization: National Atlas of the United States
+        Contact_Address:
+          Address_Type: Mailing and physical address
+          Address: 12201 Sunrise Valley Drive
+          Address: MS 561
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 703-648-5175
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Data_Quality_Information:
+    Logical_Consistency_Report: 
+      No tests for logical consistency were performed on this map layer.
+    Completeness_Report:
+      This map layer includes all volcanoes thought to be active in the last
+      10,000 years in the United States, Canada, Iceland, the West Indies,
+      Mexico, Central America, Europe, and eastern Asia.
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: Global Volcanism Program, Smithsonian Institution
+            Publication_Date: 2004
+            Title: Volcanoes of the World
+            Publication_Information:
+              Publication_Place: Washington, DC
+              Publisher: Smithsonian Institution
+            Online_Linkage: <http://www.volcano.si.edu/world/summary.cfm>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2004
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: VOL
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 2002
+            Title: Shorelines for the National Atlas
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Type_of_Source_Media: Internal file
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2002
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: SHORE
+        Source_Contribution: Geographic extent information
+
+      Process_Step:
+        Process_Description:
+          The Excel spreadsheet of Volcanoes of the World (VOL) was 
+          downloaded from the Global Volcanism Program Web site and converted 
+          to a dBASE IV file.  West longitude and south latitude values were 
+          converted to negative values.  The points that are within the 
+          geographic extent of the National Atlas SHORE file were extracted.  
+          The file was loaded into ArcView and a shapefile was created.
+        Source_Used_Citation_Abbreviation: VOL
+        Source_Used_Citation_Abbreviation: SHORE
+        Process_Date: 200507
+
+  Spatial_Data_Organization_Information:
+    Direct_Spatial_Reference_Method: Vector
+    Point_and_Vector_Object_Information:
+      SDTS_Terms_Description:
+        SDTS_Point_and_Vector_Object_Type: Point
+        Point_and_Vector_Object_Count: 722
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Geographic:
+        Latitude_Resolution: 0.01
+        Longitude_Resolution: 0.01
+        Geographic_Coordinate_Units: Decimal degrees
+      Geodetic_Model:
+        Horizontal_Datum_Name: North American Datum of 1983
+        Ellipsoid_Name: GRS1980
+        Semi-major_Axis: 6378137
+        Denominator_of_Flattening_Ratio: 298.257222
+
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Volcano (described by volcanx020.dbf)
+        Entity_Type_Definition:
+          A vent or opening in the surface of the Earth through which magma
+          erupts; it is also the landform that is constructed by the erupted
+          material.  This map layer includes volcanoes thought to be active 
+          in the last 10,000 years (Holocene).
+        Entity_Type_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Shape
+        Attribute_Definition: The representation of the entity in the data.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Point
+            Enumerated_Domain_Value_Definition: 0-dimensional element
+            Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+      Attribute:
+        Attribute_Label: Volcanx020
+        Attribute_Definition: Internal feature number.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 722
+      Attribute:
+        Attribute_Label: Number
+        Attribute_Definition:
+          The volcano number, based on a system developed by the Catalog of
+          Active Volcanoes of the World (CAVW), in the format ####-##-.  The 
+          first two numerals identify the region, the next two identify the 
+          subregion, and the last two or three (after the hyphen) identify 
+          individual volcanoes in that subregion.  When there are three final 
+          characters and the last character is "=", the number is the same as 
+          that found in the CAVW; where the last character is "-", the number 
+          is not found in the CAVW because the region was not numbered in the 
+          CAVW or has been renumbered for this map layer; where the last 
+          character is a number, the volcano is in an area included in the 
+          CAVW but the number is a new one that does not appear in the CAVW.  
+          See <http://www.volcano.si.edu/world/summcrit.cfm#VolcanoNumber> 
+          for more information.
+        Attribute_Definition_Source: 
+          Global Volcanism Program, Smithsonian Institution
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Catalog of Active Volcanoes of the World (CAVW)
+            Codeset_Source: Global Volcanism Program, Smithsonian Institution
+      Attribute:
+        Attribute_Label: Name
+        Attribute_Definition:
+          The name of the volcano.  See
+          <http://www.volcano.si.edu/world/summcrit.cfm#VolcanoName> for more
+          information.
+        Attribute_Definition_Source: 
+          Global Volcanism Program, Smithsonian Institution
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: There is no predefined set of valid names.
+      Attribute:
+        Attribute_Label: Location
+        Attribute_Definition: 
+          The location of the volcano by geographical and (or) political 
+          area.
+        Attribute_Definition_Source: 
+          Global Volcanism Program, Smithsonian Institution
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: 
+            There is no predefined set of valid locations.
+      Attribute:
+        Attribute_Label: Status
+        Attribute_Definition: 
+          The type of evidence used to determine volcanic activity.
+        Attribute_Definition_Source: 
+          Global Volcanism Program, Smithsonian Institution
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Anthropology
+            Enumerated_Domain_Value_Definition:
+              Volcanoes with undated but recent activity described in native
+              legends as well as activity dated by buried artifacts.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Dendrochronology
+            Enumerated_Domain_Value_Definition:
+              Volcanoes for which dating of eruptions is based on the study 
+              of tree ring growth.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Fumarolic
+            Enumerated_Domain_Value_Definition:
+              Volcanoes for which evidence of activity is based on steam and
+              volcanic gas, or fume, reaching the surface.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Historical
+            Enumerated_Domain_Value_Definition:
+              Volcanoes with eruptions documented during or shortly after
+              observation.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Holocene
+            Enumerated_Domain_Value_Definition:
+              Volcanoes without dated products but that are virtually certain 
+              to have been active in postglacial time.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Holocene?
+            Enumerated_Domain_Value_Definition:
+              Volcanoes without dated products but where there is some 
+              certainty that they have been active in postglacial time.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Hot Springs
+            Enumerated_Domain_Value_Definition:
+              Volcanoes for which evidence of activity is based on a large 
+              amount of hot water at the surface.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Hydrophonic
+            Enumerated_Domain_Value_Definition:
+              Volcanoes for which evidence of activity and dating is based on
+              hydrophonic methods that use information recorded under water.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Pleistocene-Fumarolic
+            Enumerated_Domain_Value_Definition:
+              Volcanoes for which evidence of activity is based on 
+              postglacial steam and volcanic gas, or fume, reaching the 
+              surface.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Potassium-Argon
+            Enumerated_Domain_Value_Definition:
+              Volcanoes for which evidence of activity and dating is based on
+              potassium-argon dating methods.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Radiocarbon
+            Enumerated_Domain_Value_Definition:
+              Volcanoes for which evidence of activity and dating is based on
+              radiocarbon methods.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Seismicity
+            Enumerated_Domain_Value_Definition:
+              Volcanoes for which evidence of activity and dating is based on
+              seismic activity.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Tephrochronology
+            Enumerated_Domain_Value_Definition:
+              Volcanoes for which evidence of activity and dating is based on
+              volcanic ash beds and tuffs.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Uncertain
+            Enumerated_Domain_Value_Definition:
+              Volcanoes with possible Holocene activity, but with 
+              questionable documentation.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Varve Count
+            Enumerated_Domain_Value_Definition:
+              Volcanoes for which evidence of activity and dating is based on
+              annual layers of sediment.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+      Attribute:
+        Attribute_Label: Elev
+        Attribute_Definition: 
+          The summit elevation in meters above or below sea level.
+        Attribute_Definition_Source: 
+          Global Volcanism Program, Smithsonian Institution
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: -6000
+            Range_Domain_Maximum: 5675
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: The elevation is unknown.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+      Attribute:
+        Attribute_Label: Type
+        Attribute_Definition: The shape and size of the volcano (morphology).
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Caldera(s)
+            Enumerated_Domain_Value_Definition:
+              A large volcanic collapse depression, commonly circular or
+              elliptical when seen from above.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Cinder cone(s)
+            Enumerated_Domain_Value_Definition:
+              A steep-sided volcano formed by the explosive eruption of 
+              cinders that form around a vent.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Complex volcano(es)
+            Enumerated_Domain_Value_Definition:
+              A volcano composed of a mixture of landforms.  In most cases, 
+              they occur because of changes either in eruptive habit or in 
+              location of the principal vent area.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Compound volcano
+            Enumerated_Domain_Value_Definition:
+              A volcano composed of a mixture of landforms.  In most cases, 
+              they occur because of changes either in eruptive habit or in 
+              location of the principal vent area.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Cones
+            Enumerated_Domain_Value_Definition:
+              Volcanic cones composed of fragmented material ejected from a
+              volcano.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Crater rows
+            Enumerated_Domain_Value_Definition:
+              An area of congealed lava produced by isolated lava fountains 
+              along a fissure (volcanic vent).
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Fissure vent(s)
+            Enumerated_Domain_Value_Definition:
+              Linear volcanic vents through which lava erupts, usually 
+              without any explosive activity.  The vents are usually a few 
+              meters wide and may be many kilometers long.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Fumarole field
+            Enumerated_Domain_Value_Definition:
+              Areas where there are cracks in the ground that allow gases to
+              reach the surface.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Hydrothermal field
+            Enumerated_Domain_Value_Definition:
+              An area where water heated by magma or in association with 
+              magma reaches the surface.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Lava dome(s)
+            Enumerated_Domain_Value_Definition:
+              A rounded, steep-sided mount that forms when very viscous lava 
+              is extruded from a volcanic vent.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Maar(s)
+            Enumerated_Domain_Value_Definition:
+              Shallow, flat-floored craters formed above diatremes (volcanic 
+              vents or pipes drilled through rocks by the explosive energy of 
+              gas-charged magmas) as a result of a violent expansion of 
+              magmatic gas or steam.  Maars often fill with water to form a 
+              lake.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Pyroclastic cone(s)
+            Enumerated_Domain_Value_Definition:
+              A volcanic cone composed of fragmented material ejected from a
+              volcano.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Pyroclastic shield
+            Enumerated_Domain_Value_Definition:
+              A volcano with long, gentle slopes composed of ejected 
+              fragmental material.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Scoria cones
+            Enumerated_Domain_Value_Definition:
+              A steep-sided volcano formed by the explosive eruption of 
+              scoria.  Scoria is formed when blobs of gas-charged lava are 
+              thrown into the air during an eruption and cool in flight, 
+              falling as dark volcanic rock containing cavities created by 
+              trapped gas bubbles.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Shield volcano(es)
+            Enumerated_Domain_Value_Definition:
+              A volcano that resembles an inverted warrior's shield, with 
+              broad, gentle slopes, built by multiple eruptions of fluid 
+              basalt lava.  Basalt lava tends to build enormous, low-angle 
+              cones because it flows across the ground easily and can form 
+              lava tubes that enable lava to flow tens of kilometers from an 
+              erupting vent with very little cooling.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Somma volcano(es)
+            Enumerated_Domain_Value_Definition:
+              A large volcanic collapse depression that is partially filled 
+              by a new central cone.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Stratovolcano(es)
+            Enumerated_Domain_Value_Definition:
+              A steep-sided volcano built by lava flows and tephra deposits.
+              Tephra is solid material of all sizes explosively ejected from 
+              a volcano into the atmosphere.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Stratovolcano ?
+            Enumerated_Domain_Value_Definition:
+              A steep-sided volcano possibly built by lava flows and tephra
+              deposits.  Tephra is solid material of all sizes explosively 
+              ejected from a volcano into the atmosphere.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Subglacial volcano
+            Enumerated_Domain_Value_Definition:
+              A volcanic form produced by eruptions beneath a glacier or 
+              beneath the surface of a lake within a glacier.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Submarine volcano(es)
+            Enumerated_Domain_Value_Definition: 
+              A volcanic form produced by eruptions in the ocean.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Submarine volcano ?
+            Enumerated_Domain_Value_Definition: 
+              A possible volcanic form produced by eruptions in the ocean.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Tuff cone(s)
+            Enumerated_Domain_Value_Definition:
+              A volcanic cone formed by the interaction of basaltic magma and
+              water.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Tuff rings
+            Enumerated_Domain_Value_Definition:
+              Shallow, flat-floored craters formed by the interaction of 
+              magma and water.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Unknown
+            Enumerated_Domain_Value_Definition: 
+              The volcano morphology is not known.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Volcanic field
+            Enumerated_Domain_Value_Definition: 
+              A collection of cinder cones and (or) lava flows.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+      Attribute:
+        Attribute_Label: Timeframe
+        Attribute_Definition: Age of the volcanic eruption
+        Attribute_Definition_Source: 
+          Global Volcanism Program, Smithsonian Institution
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: D
+            Enumerated_Domain_Value_Definition: 
+              Last known eruption B.C. (Holocene)
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: D1
+            Enumerated_Domain_Value_Definition: 
+              Last known eruption in 1964 or later.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: D2
+            Enumerated_Domain_Value_Definition: 
+              Last known eruption from 1900-1963, inclusive.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: D3
+            Enumerated_Domain_Value_Definition: 
+              Last known eruption from 1800-1899, inclusive.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: D4
+            Enumerated_Domain_Value_Definition: 
+              Last known eruption from 1700-1799, inclusive.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: D5
+            Enumerated_Domain_Value_Definition: 
+              Last known eruption from 1500-1699, inclusive.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: D6
+            Enumerated_Domain_Value_Definition: 
+              Last known eruption from A.D. 1-1499, inclusive.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: D7
+            Enumerated_Domain_Value_Definition: 
+              Last known eruption B.C. (Holocene)
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Q
+            Enumerated_Domain_Value_Definition:
+              Quaternary eruption(s) with the only known Holocene activity 
+              being hydrothermal.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: U
+            Enumerated_Domain_Value_Definition: 
+              Undated, but probable Holocene eruption.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+          Enumerated_Domain:
+            Enumerated_Domain_Value: ?
+            Enumerated_Domain_Value_Definition: Uncertain Holocene eruption.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Volcanism Program, Smithsonian Institution
+      Attribute:
+        Attribute_Label: Long
+        Attribute_Definition: 
+          The volcano longitude as a single value, in decimal degrees 
+          (NAD83).
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: -178.794
+            Range_Domain_Maximum: 179.580
+      Attribute:
+        Attribute_Label: Lat
+        Attribute_Definition: 
+          The volcano latitude as a single value, in decimal degrees (NAD83).
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 10.030
+            Range_Domain_Maximum: 88.270
+
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: 
+            Earth Science Information Center, U.S. Geological Survey
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: 507 National Center
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Voice_Telephone: 703-648-5920
+        Contact_Instructions:
+          In addition to the address above, there are other ESIC offices
+          throughout the country.  A full list of these offices is at
+          <http://geography.usgs.gov/esic/esic_index.html>.
+    Distribution_Liability:
+      Although these data have been processed successfully on a computer 
+      system at the U.S. Geological Survey, no warranty expressed or implied 
+      is made by the U.S. Geological Survey regarding the utility of the data 
+      on any other system, nor shall the act of distribution constitute any  
+      such warranty.  No responsibility is assumed by the U.S. Geological 
+      Survey in the use of these data.
+
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: ESRI Shapefile
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: 
+                  <http://nationalatlas.gov/atlasftp.html>
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: SDTS
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: 
+                  <http://nationalatlas.gov/atlasftp.html>
+      Fees:
+        There is no charge for the map layer.
+
+  Metadata_Reference_Information:
+    Metadata_Date: 20050830
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Peg Rawson
+          Contact_Organization: National Atlas of the United States
+        Contact_Address:
+          Address_Type: Mailing and physical address
+          Address: 12201 Sunrise Valley Drive
+          Address: MS 561
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 703-648-4183
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+    Metadata_Standard_Name: 
+      FGDC Content Standards for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Security_Information:
+      Metadata_Security_Classification_System: None
+      Metadata_Security_Classification: Unclassified
+      Metadata_Security_Handling_Description: None
+
