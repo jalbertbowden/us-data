@@ -1,0 +1,380 @@
+﻿<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+        <origin>U.S. Bureau of the Census (BOC)</origin>
+        <pubdate>20000101</pubdate>
+        <title>hydropol</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Suitland, MD</pubplace>
+          <publish>U.S. Bureau of the Census (BOC)</publish>
+        </pubinfo>
+        <othercit>Compiled by the University of Tennessee Center for Transportation Research GIS GROUP from the TIGER/Line machine readable files, U.S. Bureau of the Census (BOC)</othercit>
+        <lworkcit>
+          <citeinfo>
+            <origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+            <pubdate>20110101</pubdate>
+            <title>National Transportation Atlas Databases (NTAD) 2013</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Washington DC</pubplace>
+              <publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
+            </pubinfo>
+            <onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The hydro polygon/arc coverages were created using TIGER/LINE 2000 shapefile data gathered from ESRI's Geography Network. The individual county hydrography line shapefiles were processed into Arc/Info coverages and then appended together to create complete state coverages. They were then edited to remove unwanted features, leaving a state-by-state database of both important and navigable water features. Attributes were added to denote navigable features and names. Also, an attribute was added to the polygons to denote which were water and which were land features. The state databases were then appended together to create a single, nationwide hydrography network containing named arcs and polygons. These features also contain a state FIPS. Because some of the hydro features are represented by lines instead of polygons, the complete hydro dataset consists of 2 shapefiles, one for lines and one for polygons. They must be used together to paint a complete picture.</abstract>
+      <purpose>The RITA/BTS desires a single nationwide database that has polygons/attributes for major rivers and lakes, is consistent across state lines, and has the most accurate data available. This database will be used primarily for map production, basic queries, and will be distributed as part of the National Transportation Atlas Database (NTAD) 2013.</purpose>
+      <supplinf>The RITA/BTS HYDRO Database contains TIGER 2000 geometry and attributes. UTCTR flagged this database to represent major water features and edited the geometry to insure polygons would fill for cartographic representation. To find out more about TIGER/Line files and other Census TIGER data base derived data sets visit http://www.census.gov/geo/www/tiger.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20110101</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-179.252851</westbc>
+        <eastbc>179.830623</eastbc>
+        <northbc>71.441056</northbc>
+        <southbc>17.831509</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>polygon</themekt>
+        <themekey>line</themekey>
+        <themekey>polygon</themekey>
+        <themekey>hydrography</themekey>
+        <themekey>water</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>environment</themekey>
+        <themekey>inlandWaters</themekey>
+        <themekey>oceans</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>US</placekey>
+        <placekey>United States</placekey>
+        <placekey>United States of America</placekey>
+        <placekey>USA</placekey>
+      </place>
+      <stratum>
+        <stratkt>None</stratkt>
+        <stratkey>ground</stratkey>
+      </stratum>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2011</tempkey>
+        <tempkey>2009</tempkey>
+        <tempkey>2010</tempkey>
+        <tempkey>2007</tempkey>
+        <tempkey>2000</tempkey>
+        <tempkey>2008</tempkey>
+        <tempkey>2012</tempkey>
+        <tempkey>2013</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Acknowledgement of the Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS) National Transportation Atlas Databases (NTAD) 2013 would be appreciated in products derived from these data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+          <cntper>Office of Geospatial Information Systems</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1200 New Jersey Ave., SE</address>
+          <city>Washington</city>
+          <state>DC</state>
+          <postal>20590</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>202-366-DATA</cntvoice>
+        <cntemail>answers@bts.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <secinfo>
+      <secsys>none</secsys>
+      <secclass>Unclassified</secclass>
+      <sechandl>N/A</sechandl>
+    </secinfo>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.1.0.3035</native>
+    <crossref>
+      <citeinfo>
+        <origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+        <pubdate>20110101</pubdate>
+        <title>National Transportation Atlas Databases (NTAD) 2013</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Washington, DC</pubplace>
+          <publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
+        </pubinfo>
+        <othercit>Compiled by the University of Tennessee Center for Transportation Research GIS GROUP from the TIGER/Line machine readable files, U.S. Bureau of the Census (BOC)</othercit>
+        <onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>None</attraccr>
+      <qattracc>
+        <attraccv>unknown</attraccv>
+        <attracce>None</attracce>
+      </qattracc>
+    </attracc>
+    <logic>All node-link and polygon topological relationships are created and verified using computer algorithms. Unique entity identifiers were similarly verified by computer algorithm.</logic>
+    <complete>Attributes for the hydrography data set were created using ARC/INFO, a Geographic Information System. All area and distance values were calculated to the nearest 50m.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Consistent with TIGER 2000</horizpar>
+        <qhorizpa>
+          <horizpav>1:</horizpav>
+          <horizpae>1: = Unknown</horizpae>
+        </qhorizpa>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>University of Tennessee Center for Transportation Research GIS GROUP</origin>
+            <pubdate>20010101</pubdate>
+            <title>Nationwide Hydrographic Database</title>
+            <onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>100</srcscale>
+        <typesrc>None</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20110101</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>HYDRO</srccitea>
+        <srccontr>Unknown</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>When UTN processed the TIGER dataset for State, County and Hydrographic (lines and polygons), a 3-mile buffer was created around the Texas shorelines. This buffer removed the island off the coast of Texas. To correct this error, BTS used ARC/INFO to remove the 3-mile buffer to capture the islands along Texas. To capture the islands, the state dataset needed to be reselected by selecting: code = 1. This process created a few inaccurate polygons and they were removed. To create the final datasets, the datasets were dissolved and regions created on STFIPS and County FIPS.</procdesc>
+        <procdate>20030301</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>1) Downloaded zipped shapefiles from www.geographynetwork.com; 2) Converted the Shapefiles to Coverages; 3) Removed all intermittent water features H02, H12, H22, H32, H42, H60, H71, H72, H80, and H81 from the database coverages; 4) Flagged arcs to be retained in the output coverage based on relative importance and research using the Internet and state maps; 5) Added attributes to polygons to denote name description and land/water. These attributes were then populated by user input using mapping resources such as state and county maps; 6) Added attribute to both arcs and polygons to denote navigable waterways. For single line features, the arcs were flagged. If a feature contained polygons, the polygons only were flagged; 7) States were then appended, extra items dropped, data released.</procdesc>
+        <srcused>TIGER</srcused>
+        <procdate>20060101</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>57364</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.983152841195215e-009</latres>
+        <longres>8.983152841195215e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>hydropol</enttypl>
+        <enttypd>ESRI Shapefile of hydrographic features (polygon)</enttypd>
+        <enttypds>ESRI and RITA/BTS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>A "polygon" is an area feature comprised of points and line segments.</codesetn>
+            <codesets>ESRI</codesets>
+          </codesetd>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LANDCODE</attrlabl>
+        <attrdef>Determines if feature is Land or Water</attrdef>
+        <attrdefs>UTCTR and RITA/BTS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>water</edomvd>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>land or island</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DESCRIPT</attrlabl>
+        <attrdef>Feature Name</attrdef>
+        <attrdefs>UTCTR and BOC</attrdefs>
+        <attrdomv>
+          <udom>free text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAVIGABLE</attrlabl>
+        <attrdef>Navigable Waterway Network</attrdef>
+        <attrdefs>U.S. Army Corps of Engineers (USACE)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>not navigable</edomvd>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>navigable</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STFIPS</attrlabl>
+        <attrdef>State FIPS code</attrdef>
+        <attrdefs>U.S. Bureau of the Census (BOC)</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS), Publication 6-4</codesetn>
+            <codesets>National Institute for Standards and Technology (NIST)</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STPOSTAL</attrlabl>
+        <attrdef>U.S. Postal Service two letter state abbreviation.</attrdef>
+        <attrdefs>USPS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Official List of State Postal Abbreviations</codesetn>
+            <codesets>U.S. Postal Service</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+          <cntper>Office of Geospatial Information Systems</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1200 New Jersey Ave., SE</address>
+          <city>Washington</city>
+          <state>DC</state>
+          <postal>20590</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>202-366-DATA</cntvoice>
+        <cntemail>answers@bts.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>National Transportation Atlas Database (NTAD) 2013</resdesc>
+    <distliab>None</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>ESRI Shapefile</formname>
+          <formvern>2013</formvern>
+          <filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
+          <transize>161.164</transize>
+        </digtinfo>
+        <digtopt>
+          <offoptn>
+            <offmedia>dvd</offmedia>
+            <reccap>
+              <recden>650</recden>
+              <recdenu>megabytes</recdenu>
+            </reccap>
+            <recfmt>ISO 9660</recfmt>
+          </offoptn>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Call (202-366-DATA), or E-mail (answers@bts.gov) RITA/BTS to request the National Transportation Atlas Databases (NTAD) 2013 DVD. The NTAD DVD can be ordered from the online bookstore at www.bts.gov. Individual datasets from the NTAD can also be downloaded from the Office of Geospatial Information Systems website at http://www.bts.gov/programs/geographic_information_services/.</ordering>
+    </stdorder>
+    <availabl>
+      <timeinfo>
+        <sngdate>
+          <caldate>20110101</caldate>
+        </sngdate>
+      </timeinfo>
+    </availabl>
+  </distinfo>
+  <metainfo>
+    <metd>20130423</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+          <cntper>Office of Geospatial Information Systems</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1200 New Jersey Ave., SE</address>
+          <city>Washington</city>
+          <state>DC</state>
+          <postal>20590</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>202-366-DATA</cntvoice>
+        <cntemail>answers@bts.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metscs>none</metscs>
+      <metsc>Unclassified</metsc>
+      <metshd>None</metshd>
+    </metsi>
+  </metainfo>
+</metadata>
