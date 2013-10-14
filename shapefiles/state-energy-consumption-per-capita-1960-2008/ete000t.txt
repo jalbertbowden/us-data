@@ -1,0 +1,498 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Atlas of the United States
+      Publication_Date: 201007
+      Title: Energy Consumption – Estimated Energy per Capita, 1960-2008
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+  Description:
+    Abstract: 
+      This data set portrays per capita energy consumption estimates for each 
+      of the fifty individual States, for the District of Columbia, and in 
+      aggregate for the United States, for the years 1960 to 2008.  The 
+      estimates are given in British Thermal Units (Btu).  Included are 
+      estimates for four energy-consuming sectors, which include residential, 
+      commercial, industrial, and transportation.  Also included is an estimate 
+      of total energy consumption that combines the four energy-consuming 
+      sectors.  This is a replacement for the July 2010 data set.
+
+      The residential sector consists of living quarters for private households.  
+      Common uses of energy associated with this sector include space heating, 
+      water heating, air conditioning, lighting, refrigeration, cooking, and 
+      running a variety of other appliances.  The residential sector excludes 
+      institutional living quarters. 
+
+      The commercial sector consists of service-providing facilities and 
+      equipment for businesses; Federal, State, and local governments; and other 
+      private and public organizations, such as religious, social, or fraternal 
+      groups.  The commercial sector includes institutional living quarters.  It 
+      also includes sewage treatment facilities.  Common uses of energy 
+      associated with this sector include space heating, water heating, air 
+      conditioning, lighting, refrigeration, cooking, and running a wide variety 
+      of other equipment.  It also includes generators that produce electricity 
+      and/or useful thermal output primarily to support the activities of the 
+      above-mentioned commercial establishments. 
+
+      The industrial sector consists of all facilities and equipment used for 
+      producing, processing, or assembling goods.  The industrial sector 
+      encompasses the following types of activity: manufacturing; agriculture, 
+      forestry, fishing and hunting; mining, including oil and gas extraction; 
+      natural gas distribution; and construction.  Overall energy use in this 
+      sector is largely for process heat and cooling and powering machinery, 
+      with lesser amounts used for facility heating, air conditioning, and 
+      lighting.  Fossil fuels are also used as raw material inputs to 
+      manufactured products.  This sector includes generators that produce 
+      electricity and/or useful thermal output primarily to support the above-
+      mentioned industrial activities.
+
+      The transportation sector consists of all vehicles whose primary purpose 
+      is transporting people and/or goods from one physical location to another.  
+      Included are automobiles; trucks; buses; motorcycles; trains, subways, and 
+      other rail vehicles; aircraft; and ships, barges, and other waterborne 
+      vehicles. 
+
+    Purpose: 
+      These data are intended for geographic display and analysis at the 
+      national level, and for large regional areas.  The data should be 
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
+      No responsibility is assumed by the National Atlas of the United States
+      in the use of these data.
+
+    Supplemental_Information:
+      The Energy Consumption data set consists of five database files that are 
+      distributed together.  The five files are:
+      >etetpbt   Energy Consumption – Total Estimated Energy per Capita
+      >eterpbt   Energy Consumption – Residential Energy Per Capita
+      >etecpbt   Energy Consumption - Commercial Energy Per Capita
+      >eteipbt   Energy Consumption – Industrial Energy Per Capita
+      >eteapbt   Energy Consumption - Transportation Energy Per Capita
+
+      To create the maps in the National Atlas Map Maker,
+      <http://nationalatlas.gov/natlas/Natlasstart.asp>, the database files can 
+      be joined to the State boundaries available from the National Atlas raw 
+      data download page, <http://nationalatlas.gov/atlasftp.html>. 
+
+      The data originally came from the Energy Information Administration's 
+      State Energy Data 2001 Consumption tables at:
+      <http://www.eia.doe.gov/emeu/states/_seds.html>.  The 
+      date on the posted files was June 30, 2010.  For additional 
+      information on Energy Information Administration definitions and 
+      statistics, see their Web page at: <http://eia.doe.gov/>.
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1960
+        Ending_Date: 2008
+    Currentness_Reference: Ground condition
+
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 170
+      East_Bounding_Coordinate: -64
+      North_Bounding_Coordinate: 72
+      South_Bounding_Coordinate: 17 
+  Keywords:
+    Theme: 
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category 
+      Theme_Keyword: Society 
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Energy consumption
+      Theme_Keyword: Energy 
+      Theme_Keyword: Energy consumption per capita
+      Theme_Keyword: Total Energy consumption per capita
+      Theme_Keyword: Residential
+      Theme_Keyword: Residential energy consumption per capita
+      Theme_Keyword: Commercial 
+      Theme_Keyword: Commercial energy consumption per capita
+      Theme_Keyword: Industrial 
+      Theme_Keyword: Industrial energy consumption per capita
+      Theme_Keyword: Transportation
+      Theme_Keyword: Transportation energy consumption per capita
+
+    Place:
+      Place_Keyword_Thesaurus: None 
+      Place_Keyword: USA
+      Place_Keyword: United States
+    Place:
+      Place_Keyword_Thesaurus:  
+        U.S. Department of Commerce, 1987, Codes for the Identification of the 
+        States, the District of Columbia and the Outlying Areas of The United 
+        States, and Associated Areas (FIPS 5-2):  Washington, DC, National 
+        Institute of Standards and Technology.
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+
+  Access_Constraints: None
+  Use_Constraints:  
+    None.  Acknowledgment of the Energy Information Administration and (or) the 
+    National Atlas of the United States would be appreciated in products derived 
+    from these data.  
+
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jay Donnelly 
+        Contact_Organization: National Atlas of the United States 
+      Contact_Address: 
+        Address_Type: Mailing and physical address 
+        Address: 12201 Sunrise Valley Drive 
+        Address: Room 2D200 
+        City: Reston 
+        State_or_Province: VA 
+        Postal_Code: 20192 
+      Contact_Voice_Telephone: 703-648-5395
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+
+Data_Quality_Information:
+  Logical_Consistency_Report: 
+    No checks for logical consistency were performed on this data set.
+  Completeness_Report:
+    This data set includes estimates of per capita energy consumption for each 
+    of the fifty States, the District of Columbia, and in aggregate for the 
+    United States, from 1960 to 2008.
+
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:  
+            Energy Information Administration, U.S. Department of Energy 
+          Publication_Date: 20100630
+          Title:  Consumption, British Thermal Units, 1960-2008
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: Energy Information Administration 
+          Online_Linkage: 
+            <http://www.eia.doe.gov/emeu/states/_seds.html>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 20100630
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Energy Consumption
+      Source_Contribution: Spatial and attribute information
+
+    Process_Step:
+      Process_Description: 
+        The file containing Consumption, British Thermal Units, 1960-2008,
+        the file use_all_btu.csv was downloaded from the Energy Information 
+        Administration web site.   
+
+        To create the database of total per capita estimated energy consumption, 
+        the fields containing estimated energy consumption per capita were 
+        extracted from use_all_btu.csv and saved to a dBASE IV file.   Fields 
+        for the State FIPS code and the State name were added.  
+
+        To create the other four database files, both files were loaded into a 
+        Microsoft Excel spreadsheet.  
+
+        For residential per capita estimated energy consumption, the fields 
+        containing residential sector total energy consumed (TERCB) data and 
+        resident population for each State (TPOPP) were extracted from 
+        use_all_btu.csv.  Residential energy consumption per capita was calculated 
+        by dividing TPOPP into TERCB.  The resulting Excel spreadsheet was 
+        saved as a comma-delimited file, loaded into ArcMap, and saved as a dBASE IV file.  
+        Fields for the State FIPS code and the State name were added.         
+
+        For commercial per capita estimated energy consumption, the fields 
+        containing commercial sector total energy consumed (TECCB) data and 
+        resident population for each State (TPOPP) were extracted from 
+        use_all_btu.csv.  Commercial energy consumption per capita was calculated 
+        by dividing TPOPP into TECCB.  The resulting Excel spreadsheet was 
+        saved as a comma-delimited file, loaded into ArcMap, and saved as a dBASE IV file.  
+        Fields for the State FIPS code and the State name were added.         
+
+        For industrial per capita estimated energy consumption, the fields 
+        containing industrial sector total energy consumed (TEICB) data and 
+        resident population for each State (TPOPP) were extracted from 
+        use_all_btu.csv. Industrial energy consumption per capita was calculated 
+        by dividing TPOPP into TEICB.  The resulting Excel spreadsheet was 
+        saved as a comma-delimited file, loaded into ArcMap, and saved as a dBASE IV file.  
+        Fields for the State FIPS code and the State name were added. 
+
+        For transportation per capita estimated energy consumption, the fields 
+        containing transportation sector total energy consumed (TEACB) data and 
+        resident population for each State (TPOPP) were extracted from 
+        use_all_btu.csv.  Transportation energy consumption per capita was calculated 
+        by dividing TPOPP into TEACB.  The resulting Excel spreadsheet was 
+        saved as a comma-delimited file, loaded into ArcMap, and saved as a dBASE IV file.  
+        Fields for the State FIPS code and the State name were added. 
+      Source_Used_Citation_Abbreviation: Energy Consumption
+      Process_Date: 201007
+
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference:  
+    U.S. Department of Commerce, 1987, Codes for the Identification of the 
+    States, the District of Columbia and the Outlying Areas of the United 
+    States, and Associated Areas (FIPS 5-2): Washington, DC, National 
+    Institute of Standards and Technology.
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: 
+        Estimated energy consumption per capita, 1960-2008
+      Entity_Type_Definition: 
+        The file of total consumption per capita energy consumption contains 
+        estimates for all energy-consuming sectors, which include residential, 
+        commercial, industrial, and transportation.  
+
+        The file of residential consumption per capita energy consumption 
+        contains estimates for the residential sector, which includes living 
+        quarters for private households.  Common uses of energy associated with 
+        this sector include space heating, water heating, air conditioning, 
+        lighting, refrigeration, cooking, and running a variety of other 
+        appliances.  The residential sector excludes institutional living quarters.
+
+        The file of commercial consumption per capita energy consumption 
+        contains estimates for the commercial sector, which includes service-
+        providing facilities and equipment for businesses; Federal, State, and 
+        local governments; and other private and public organizations, such as 
+        religious, social, or fraternal groups.  The commercial sector includes 
+        institutional living quarters, sewage treatment facilities, and 
+        generators that produce electricity and/or useful thermal output 
+        primarily to support the activities of the above-mentioned commercial
+        establishments.  
+
+        The file of industrial consumption per capita energy consumption 
+        contains estimates for the industrial sector, which includes all 
+        facilities and equipment used for producing, processing, or assembling 
+        goods.  The industrial sector encompasses the following types of 
+        activity: manufacturing; agriculture, forestry, fishing and hunting; 
+        mining, including oil and gas extraction; natural gas distribution; and 
+        construction.  This sector includes generators that produce electricity 
+        and/or useful thermal output primarily to support the activities of the 
+        above-mentioned commercial establishments.
+
+        The file of transportation consumption per capita energy contains
+        consumption estimates for the transportation sector, which includes all 
+        vehicles whose primary purpose is transporting people and/or goods from 
+        one physical location to another.  Included are automobiles; trucks; 
+        buses; motorcycles; trains, subways, and other rail vehicles; aircraft; 
+        and ships, barges, and other waterborne vehicles.  Vehicles whose primary 
+        purpose is not transportation (e.g., construction cranes and bulldozers, 
+        farming vehicles, and warehouse tractors and forklifts) are classified in the 
+        sector of their primary use. Natural gas used in the operation of natural gas 
+        pipelines is included in the transportation sector.
+
+        The data are given for each State, the District of Columbia, and the 
+        United States as a whole, and are for the years 1960 to 2008.
+      Entity_Type_Definition_Source: National Atlas of the United States
+    Attribute:
+      Attribute_Label: St
+      Attribute_Definition: 
+        The 2-character FIPS code of the State or State equivalent.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Codes for the Identification of the States, the District of Columbia
+            and the Outlying Areas of the United States, and Associated Areas,
+            FIPS 5-2. 
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: US
+          Enumerated_Domain_Value_Definition: The United States
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+    Attribute:
+      Attribute_Label: State_fips
+      Attribute_Definition: 
+        The 2-digit FIPS code of the State or State equivalent.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Codes for the Identification of the States, the District of Columbia
+            and the Outlying Areas of the United States, and Associated Areas,
+            FIPS 5-2. 
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: The United States
+          Enumerated_Domain_Value_Definition_Source:
+            National Atlas of the United States
+    Attribute: 
+      Attribute_Label: State 
+      Attribute_Definition: The name of the State or State equivalent. 
+      Attribute_Definition_Source: National Atlas of the United States 
+      Attribute_Domain_Values: 
+        Codeset_Domain: 
+          Codeset_Name: 
+            Codes for the Identification of the States, the District of Columbia 
+            and the Outlying Areas of the United States, and Associated Areas, 
+            FIPS 5-2. 
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: The United States
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+    Attribute:
+      Attribute_Label: Msn
+      Attribute_Definition: 
+        The State Energy Data System (SEDS) identifying code.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (see below)
+          Enumerated_Domain_Value_Definition:
+            The is the State Energy Data System (SEDS) identifying code for the 
+            energy estimate, as follows:
+            >TETPB  estimated energy consumption per capita represented in 
+            >       British Thermal Units (Btu)
+            >TERPB  residential sector estimated energy consumption per capita 
+            >       represented in British Thermal Units (Btu)
+            >TECPB  commercial sector estimated energy consumption per capita
+            >       represented in British Thermal Units (Btu)
+            >TEIPB  industrial sector estimated energy consumption per capita
+            >       represented in British Thermal Units (Btu)
+            >TEAPB  transportation sector estimated energy consumption per 
+            >       capita represented in British Thermal Units (Btu)
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+    Attribute:
+      Attribute_Label: Zxxx
+      Attribute_Definition: 
+        For the sector, the estimated energy consumed per person for the year 
+        ending in xxx (1960 to 2008).  The values are in millions and are given 
+        in British Thermal Units (Btu), which is the quantity of heat required 
+        to raise the temperature of 1 pound of liquid water 1 degree Fahrenheit 
+        at the temperature at which water has its greatest density 
+        (approximately 39 degrees Fahrenheit).        
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 6.163379103
+          Range_Domain_Maximum: 1192.800360
+
+Distribution_Information: 
+  Distributor: 
+    Contact_Information: 
+      Contact_Organization_Primary: 
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey 
+      Contact_Address: 
+        Address_Type: Mailing address 
+        Address: 507 National Center 
+        City: Reston 
+        State_or_Province: VA 
+        Postal_Code: 20192 
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747) 
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions: 
+        In addition to the address above there are other ESIC offices throughout 
+        the country.  A full list of these offices is at 
+        <http://geography.usgs.gov/esic/esic_index.html>.
+
+  Distribution_Liability: 
+    Although these data have been processed successfully on a computer system at 
+    the U.S. Geological Survey, no warranty expressed or implied is made by the 
+    U.S. Geological Survey regarding the utility of the data on any other 
+    system, nor shall the act of distribution constitute any such warranty.  No 
+    responsibility is assumed by the U.S. Geological Survey in the use of these 
+    data.
+
+  Standard_Order_Process: 
+    Digital_Form: 
+      Digital_Transfer_Information: 
+        Format_Name: dBASE IV file 
+      Digital_Transfer_Option: 
+        Online_Option: 
+          Computer_Contact_Information: 
+            Network_Address: 
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html> 
+    Fees: 
+      There is no charge for the data set.  
+
+Metadata_Reference_Information:
+  Metadata_Date: 20100713
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Terry Higgins
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 1400 Independence Road
+        City: Rolla
+        State_or_Province: MO
+        Postal_Code: 65401
+      Contact_Voice_Telephone: 573-308-3592
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name:
+    FGDC Content Standards for Digital Geospatial Metadata 
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information: 
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
+
