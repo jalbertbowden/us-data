@@ -1,0 +1,17 @@
+http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_atlas_database/2013/points.html
+Points
+Public-Use Airports (ZIP - 1.66MB)
+Alternative Fuels Stations (ZIP - 2.04MB)
+Amtrak Stations (ZIP - 72KB)
+U.S. Border Crossings (ZIP - 29KB)
+Dams (ZIP - 805KB)
+Intermodal Terminal Facilities (ZIP - 463KB)
+Intermodal Passenger Connectivity (ZIP - 771KB)
+National inventory of navigable inland waterway locks (ZIP - 771KB)
+National Bridge Inventory (ZIP - 65.72MB)
+National Populated Places (ZIP - 1.28MB)
+U.S. Army Corps of Engineers Ports (ZIP - 4.43MB)
+U.S. Army Corps of Engineers Ports (ZIP - 22KB)
+Railroad Bridges (ZIP - 181KB)
+Highway-Rail Grade Crossings (ZIP - 9.51MB)
+Travel Monitoring Analysis System (TMAS) (ZIP - 1.08MB)
