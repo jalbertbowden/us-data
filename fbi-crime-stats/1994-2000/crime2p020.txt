@@ -1,0 +1,1181 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Atlas of the United States
+      Publication_Date: 200506
+      Title: United States Crimes Database 2001-2002
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+  Description:
+    Abstract:
+      This map layer shows crime statistics for the United States for the
+      years 2001-2002, drawn from the Uniform Crime Reporting Program data
+      compiled by the Federal Bureau of Investigation and archived at the
+      Inter-university Consortium for Political and Social Research (ICPSR).
+      Crime data are reported by county and are provided for eight crimes:
+      murder, forcible rape, robbery, aggravated assault, burglary, larceny,
+      motor vehicle theft, and arson.  Statewide allocation data are not
+      included in this map layer.  Crime data are adjusted to compensate for
+      incomplete reporting by individual law enforcement agencies.  See the 
+      online codebook at 
+      <http://www.icpsr.umich.edu/cgi- bin/bob/archive2?study=4009&path=NACJD&docsonly=yes> 
+      for more information.  
+    Purpose:
+      These data are intended for geographic display and analysis at the
+      national level, and for large regional areas.  The data should be
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
+      No responsibility is assumed by the Department of Justice, the National
+      Atlas of the United States, or the ICPSR in the use of these data.
+    Supplemental_Information:
+      Some of the crime data reported in this file was estimated.  Where
+      agencies reported for 12 months, the data were included as reported.
+      Where agencies reported for between three and eleven months, the data
+      were increased by a weight of (12/months reported).  Where agencies
+      reported for one or two months, the actual data were not included,
+      but estimated data for the entire year were calculated based on rates
+      computed using data from 12-month reporting agencies within the same
+      geographic stratum (defined by population group) within that State.
+      Where agencies did not report at all, no estimations were performed.
+      For New York City in 2001, the total number of murders in the FBI
+      data files is 3,452, which includes 2,823 victims of the September 11 
+      bombing.  For more information on imputation procedures please see 
+      <http://www.icpsr.umich.edu/cgi-bin/bob/archive2?study=4009&path=NACJD&docsonly=yes>
+      to access the Codebook for ICPSR Study Number 4009.
+
+      For additional information on the Uniform Crime Reporting Program,
+      please see <http://www.icpsr.umich.edu/NACJD/ucr.html>.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 2001
+        Ending_Date: 2002
+    Currentness_Reference: Ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 172
+      East_Bounding_Coordinate: -66
+      North_Bounding_Coordinate: 72
+      South_Bounding_Coordinate: 18
+
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: Society
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Crime
+      Theme_Keyword: Arrests
+      Theme_Keyword: Murder
+      Theme_Keyword: Forcible rape
+      Theme_Keyword: Rape
+      Theme_Keyword: Robbery
+      Theme_Keyword: Aggravated assault
+      Theme_Keyword: Assault
+      Theme_Keyword: Burglary
+      Theme_Keyword: Larceny
+      Theme_Keyword: Motor vehicle theft
+      Theme_Keyword: Theft
+      Theme_Keyword: Arson
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: USA
+      Place_Keyword: United States
+    Place:
+      Place_Keyword_Thesaurus:
+        U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of
+        Special Sovereignty, and Their Principal Administrative Divisions
+        (Federal Information Processing Standard (FIPS) 10-4): Washington,
+        DC, National Institute of Standards and Technology.
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+
+  Access_Constraints: None
+  Use_Constraints:
+    None.  Acknowledgment of the National Atlas of the United States of
+    America, the ICPSR, and (or) the U.S. Dept. of Justice, Federal Bureau of 
+    Investigation would be appreciated in products derived from these data.
+
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Inter-university Consortium for Political and Social Research
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: NACJD, ICPSR
+        Address: University of Michigan
+        Address: 311 Maynard
+        City: Ann Arbor
+        State_or_Province: MI
+        Postal_Code: 48104
+      Contact_Voice_Telephone: 800-999-0960
+      Contact_Facsimile_Telephone: 734-998-9905
+      Contact_Electronic_Mail_Address: nacjd@icpsr.umich.edu
+  Cross_reference:
+    Citation_Information:
+      Originator: National Atlas of the United States
+      Publication_Date: 200506
+      Title: United States Crimes Database 1994-2000
+      Geospatial_Data_Presentation_Form: Map
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+
+Data_Quality_Information:
+  Logical_Consistency_Report:
+    No checks for logical consistency were performed on this map layer.  For
+    information on data imputation procedures used in areas where reporting
+    was less than 100 percent, please see 
+    <http://www.icpsr.umich.edu/cgi-bin/bob/archive2?study=4009&path=NACJD&docsonly=yes>
+    to access the Codebook for ICPSR Study Number 4009.
+  Completeness_Report:
+    This map layer includes crime statistics for the 50 United States as
+    collected by the Federal Bureau of Investigation, from reports submitted
+    by agencies and States participating in the Uniform Crime Reporting
+    Program.  This is a voluntary program so the data may not include reports
+    from all law enforcement agencies.  Data collected for a State but not
+    attributable to a specific county (Statewide allocations) are not
+    included.  Limited offense data were available for Kentucky, Mississippi,
+    Montana, and South Dakota.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Department of Justice, Federal Bureau of Investigation
+          Publication_Date: 2003
+          Title:
+            Uniform Crime Reporting Program Data [United States]: County-Level
+            Detailed Arrest and Offense Data, 2001; Study Number 3721
+          Publication_Information:
+            Publication_Place: Ann Arbor, MI
+            Publisher: 
+              Inter-university Consortium for Political and Social Research
+          Online_Linkage:
+            <http://www.icpsr.umich.edu/cgi-bin/bob/newark?study=3721&path=NACJD>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2001
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: Crime01
+      Source_Contribution: Crime statistics for 2001
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Department of Justice, Federal Bureau of Investigation
+          Publication_Date: 2004
+          Title:
+            Uniform Crime Reporting Program Data [United States]: County-Level
+            Detailed Arrest and Offense Data, 2002; Study Number 4009
+          Publication_Information:
+            Publication_Place: Ann Arbor, MI
+            Publisher: 
+              Inter-university Consortium for Political and Social Research
+          Online_Linkage: 
+            <http://www.icpsr.umich.edu/cgi-bin/bob/newark?study=4009&path=NACJD>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2002
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: Crime02
+      Source_Contribution: Crime statistics for 2002
+   
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 200411
+          Title: 2001 County Boundaries of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+          Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 2001
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: ATLAS-CNTY2001
+      Source_Contribution: Spatial information
+
+    Source_Information:  
+      Source_Citation:  
+        Citation_Information:  
+          Originator: National Atlas of the United States  
+          Publication_Date: 200301
+          Title: Streams and Waterbodies of the United States 
+          Publication_Information: 
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States 
+      Source_Scale_Denominator: 2000000 
+      Type_of_Source_Media: Online 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Single_Date/Time: 
+            Calendar_Date: 200301
+        Source_Currentness_Reference: Publication date 
+      Source_Citation_Abbreviation: ATLAS-hydro
+      Source_Contribution: Spatial and attribute information 
+    
+    Process_Step:
+      Process_Description:
+        Comma-delimited text files for individual years, containing selected
+        attributes, were received from the Bureau of Justice Statistics data
+        archive (ICPSR) at the University of Michigan.  The text files were
+        loaded into Access and output in dBASE V format, then loaded into
+        ArcMap for processing.  State and County FIPS code fields were combined
+        into one FIPS field and were converted to text.  Attribute names
+        were modified to conform to the attribute names from previous
+        years.  The FIPS code for Dade County, FL was changed to match the
+        new FIPS code for Miami-Dade County, FL.  The dBASE files did not contain 
+        records for Denali, Alaska, so one was added to each file with all values 
+        set to zero.
+        
+        The county boundaries file was loaded into ArcMAP, joined to the dBASE V 
+        crime files, and the result was exported to a new shapefile.
+
+        A query was run on the shapefile to select records for each year where the 
+        coverage index for that year was greater than zero and the crime 
+        population for the same year was zero, resulting in about 20 selections 
+        for each year.  Where the selected records included crime statistics for a 
+        particular year, the arrest population value for that year was substituted 
+        for the zero value in the crime population field.  If the selected records  
+        included no crime statistics for a particular year, the coverage index was 
+        reset to zero.  New fields were added for crime normalized by population. 
+        Queries were run for each year to detect records with missing data 
+        (coverage index was zero, crime population was zero, and all crime 
+        statistics were zero.)  The new fields were populated with the value -9999 
+        for records with no data available (referred to as missing data by NACJD).  
+        For records with data, the values for the new fields were calculated by 
+        dividing the crime population for a particular year into the crime 
+        statistic for that year and then multiplying the result by 100.
+      Source_Used_Citation_Abbreviation: Crime01
+      Source_Used_Citation_Abbreviation: Crime02
+      Source_Used_Citation_Abbreviation: ATLAS-CNTY2001
+      Process_Date: 200504
+    Process_Step:
+      Process_Description:
+        Polygons for Puerto Rico and the Virgin Islands were removed, and two line 
+        segments along the Texas/Mexico border were modified to align to ATLAS-
+        hydro.
+      Source_Used_Citation_Abbreviation: ATLAS-hydro
+      Process_Date: 200505
+
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference:
+    U.S. Department of Commerce, 1987, Codes for the Identification of the
+    States, the District of Columbia and the Outlying Areas of the United
+    States, and Associated Areas (FIPS 5-2): Washington, DC, National
+    Institute of Standards and Technology.
+    
+    U.S. Department of Commerce, 1990, Counties and Equivalent Entities of the
+    United States, Its Possessions, and Associated Areas (FIPS 6-4):
+    Washington, DC, National Institute of Standards and Technology.
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-polygon
+      Point_and_Vector_Object_Count: 6008
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000278
+      Longitude_Resolution: 0.000278
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257222
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Crime statistics by county
+      Entity_Type_Definition:
+        The incidence in the United States of Part I offences (murder, rape,
+        robbery, aggravated assault, burglary, larceny, auto theft, and
+        arson), as defined and collected by the United States Department of
+        Justice.
+      Entity_Type_Definition_Source: National Atlas of the United States
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number
+      Attribute_definition_source: ESRI
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 6007
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Polygon
+          Enumerated_Domain_Value_Definition: 2-dimensional element.
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: State
+      Attribute_Definition: The two-character code for the State.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name:
+            Codes for the Identification of the States, the District of
+            Columbia and the Outlying Areas of the United States, and
+            Associated Areas; (Federal Information Processing  Standard (FIPS)
+            5-2): Washington, DC, National Institute of Standards and
+            Technology.
+          Codeset_Source: U.S. Department of Commerce
+    Attribute:
+      Attribute_Label: County
+      Attribute_Definition: The name of the county or county equivalent.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name:
+            Counties and Equivalent Entities of the United States, Its
+            Possessions, and Associated Areas (Federal Information Processing
+            Standard (FIPS) 6-4): Washington, DC, National Institute of
+            Standards and Technology.
+          Codeset_Source: U.S. Department of Commerce
+    Attribute:
+      Attribute_Label: Fips
+      Attribute_Definition:
+        The 5-digit FIPS code indicating the State and county to which the
+        statistics apply.  The first two digits are the State code, and the
+        last three digits are the county code.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name:
+            Counties and Equivalent Entities of the United States, Its
+            Possessions, and Associated Areas (Federal Information Processing
+            Standard (FIPS) 6-4): Washington, DC, National Institute of
+            Standards and Technology.
+          Codeset_Source: U.S. Department of Commerce
+    Attribute:
+      Attribute_Label: State_fips
+      Attribute_Definition: The two-digit code for the State.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name:
+            Codes for the Identification of the States, the District of
+            Columbia and the Outlying Areas of the United States, and
+            Associated Areas; (Federal Information Processing  Standard (FIPS)
+            5-2): Washington, DC, National Institute of Standards and
+            Technology.
+          Codeset_Source: U.S. Department of Commerce
+    Attribute:
+      Attribute_Label: Study_no01
+      Attribute_Definition:
+        The four-digit ICPSR identification number for the study number of the 
+        crimes-reported data, for the year 2001.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3721
+          Enumerated_Domain_Value_Definition: The Study Number is 3721.
+          Enumerated_Domain_Value_Definition_Source: 
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Edition01
+      Attribute_Definition: 
+        The edition of the crimes-reported data, for the year 2001.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: 
+            The source was the first edition of the crimes-reported data.
+          Enumerated_Domain_Value_Definition_Source: 
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Case_id01
+      Attribute_Definition: 
+        The ICPSR sequential case ID number, for the year 2001.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 3148
+    Attribute:
+      Attribute_Label: Pop_arr01
+      Attribute_Definition:
+        The population within the county that is served by the agencies
+        reporting arrests, for the year 2001.  Populations of jurisdictions
+        that span county lines are allocated by the FBI to the county that
+        contains the largest proportion of the jurisdiction's population.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 9696252
+    Attribute:
+      Attribute_Label: Pop_cri01
+      Attribute_Definition:
+        The population within the county that is served by the agencies that
+        actually reported crime data, for the year 2001.  If all law
+        enforcement agencies within a county reported crime data, then this
+        value will be the same as Pop_arr01.  If some agencies did not report,
+        then the population served by the non-reporting agencies was not
+        present in the original FBI file and is not included in the Pop_cri01
+        value.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 9696252
+    Attribute:
+      Attribute_Label: Ag_arr01
+      Attribute_Definition:
+        The number of agencies in the county that reported arrests, for the
+        year 2001.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 146
+    Attribute:
+      Attribute_Label: Ag_cri01
+      Attribute_Definition:
+        The number of agencies in the county that reported crimes, for the
+        year 2001.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 103
+    Attribute:
+      Attribute_Label: Cov_ind00
+      Attribute_Definition:
+        An indication of the proportion of the data that is not estimated, for
+        the year 2001.  A value of 100 indicates that all agencies in the
+        county reported for 12 months of the year, and none of the data were
+        estimated.  A value of 0 indicates that all data for the county are
+        based on estimates rather than reported data.  The coverage indicator
+        (CI) for each county is calculated as follows:
+        >CI = (1-(sum((agency pop/pop_arr01)((12-months reported)/12))))*100
+        Where agency pop is the population represented by the reporting
+        agency, and pop_arr01 is the total population for the county (as
+        defined above).  The value for "months reported" will be 0 for
+        agencies reporting 1-2 months of data, because any data provided by
+        these agencies was set to zero and the data were estimated using the
+        procedure described above.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.0000
+          Range_Domain_Maximum: 100.000
+    Attribute:
+      Attribute_Label: Index01
+      Attribute_Definition:
+        The total number of Uniform Crime Reports (UCR) Index crimes,
+        excluding arson, for the year 2001.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 391068
+    Attribute:
+      Attribute_Label: Mod_index01
+      Attribute_Definition:
+        The total number of Uniform Crime Reports (UCR) Index crimes,
+        including arson, for the year 2001.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 395468
+    Attribute:
+      Attribute_Label: Murd01
+      Attribute_Definition:
+        The total number of murders, for the year 2001.  Murder is defined as
+        the willful (non-negligent) killing of one human being by another.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 1074
+    Attribute:
+      Attribute_Label: Murdpp01
+      Attribute_Definition:
+        The number of murders for the year 2001, normalized by the crime 
+        population for the year 2001.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 0.491
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Rape01
+      Attribute_Definition:
+        The total number of forcible rapes, for the year 2001.  Forcible rape
+        is defined as the carnal knowledge of a person, forcibly and (or)
+        against that person's will; or not forcibly or against the person's
+        will where the victim is incapable of giving consent.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 2790
+    Attribute:
+      Attribute_Label: Rapepp01
+      Attribute_Definition:
+        The number of rapes for the year 2001, normalized by the crime population 
+        for the year 2001.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 0.361
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Robb01
+      Attribute_Definition:
+        The total number of robberies, for the year 2001.  Robbery is defined
+        as the taking, or attempting to take, or anything of value under
+        confrontational circumstances, by force or threat of force or
+        violence.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 30254
+    Attribute:
+      Attribute_Label: robbpp01
+      Attribute_Definition:
+        The number of robberies for the year 2001, normalized by the crime 
+        population for the year 2001.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 0.896
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Assa01
+      Attribute_Definition:
+        The total number of aggravated assaults, for the year 2001.
+        Aggravated assault is defined as an attack by one person on another,
+        where the offender uses a weapon or displays it in a threatening
+        manner, or where the victim suffers severe bodily injury.  This
+        includes assault with a disease.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 55730
+    Attribute:
+      Attribute_Label: Assapp01
+      Attribute_Definition:
+        The number of aggravated assaults for the year 2001, normalized by the 
+        crime population for the year 2001.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 7.726
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Burg01
+      Attribute_Definition:
+        The total number of burglaries, for the year 2001.  Burglary is
+        defined as the unlawful entry into a building or other structure with
+        the intent to commit a felony or a theft.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 61526
+    Attribute:
+      Attribute_Label: Burgpp01
+      Attribute_Definition:
+        The number of burglaries for the year 2001, normalized by the crime 
+        population for the year 2001.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 3.641
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Larc01
+      Attribute_Definition:
+        The total number of larcenies, for the year 2001.  Larceny is defined
+        as the unlawful taking of property from another person, and is also
+        called theft.  Motor vehicle thefts are not included.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 171785
+    Attribute:
+      Attribute_Label: Larcpp01
+      Attribute_Definition:
+        The number of larcenies for the year 2001, normalized by the crime 
+        population for the year 2001.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 10.010
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Mv_th01
+      Attribute_Definition:
+        The total number of motor vehicle thefts, for the year 2001.  Motor
+        vehicle theft is defined as the theft of an automobile, bus,
+        recreational vehicle, truck, or other motor vehicle.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 679069
+    Attribute:
+      Attribute_Label: Mvthpp01
+      Attribute_Definition:
+        The number of motor vehicle thefts for the year 2001, normalized by the 
+        crime population for the year 2001.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 2.524
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Arso01
+      Attribute_Definition:
+        The total number of arsons, for the year 2001.  Arson is defined as
+        unlawfully and intentionally damaging or attempting to damage, real or
+        personal property, by fire or incendiary device.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 4400
+    Attribute:
+      Attribute_Label: Arsopp01
+      Attribute_Definition:
+        The number of arsons for the year 2001, normalized by the crime population 
+        for the year 2001.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 0.374
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Study_no02
+      Attribute_Definition:
+        The four-digit ICPSR identification number for the study number of the 
+        crimes-reported data, for the year 2002.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4009
+          Enumerated_Domain_Value_Definition: The Study Number is 4009.
+          Enumerated_Domain_Value_Definition_Source: 
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Edition02
+      Attribute_Definition: 
+        The edition of the crimes-reported data, for the year 2002.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: 
+            The source was the first edition of the crimes-reported data.
+          Enumerated_Domain_Value_Definition_Source: 
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Case_id02
+      Attribute_Definition: 
+        The ICPSR sequential case ID number, for the year 2002.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 3148
+    Attribute:
+      Attribute_Label: Pop_arr02
+      Attribute_Definition:
+        The population within the county that is served by the agencies
+        reporting arrests, for the year 2002.  Populations of jurisdictions
+        that span county lines are allocated by the FBI to the county that
+        contains the largest proportion of the jurisdiction's population.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 9869056
+    Attribute:
+      Attribute_Label: Pop_cri02
+      Attribute_Definition:
+        The population within the county that is served by the agencies that
+        actually reported crime data, for the year 2002.  If all law
+        enforcement agencies within a county reported crime data, then this
+        value will be the same as Pop_arr02.  If some agencies did not report,
+        then the population served by the non-reporting agencies was not
+        present in the original FBI file and is not included in the Pop_cri02
+        value.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 9869056
+    Attribute:
+      Attribute_Label: Ag_arr02
+      Attribute_Definition:
+        The number of agencies in the county that reported arrests, for the
+        year 2002.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 146
+    Attribute:
+      Attribute_Label: Ag_cri02
+      Attribute_Definition:
+        The number of agencies in the county that reported crimes, for the
+        year 2002.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 103
+    Attribute:
+      Attribute_Label: Cov_ind02
+      Attribute_Definition:
+        An indication of the proportion of the data that is not estimated, for
+        the year 2002.  A value of 100 indicates that all agencies in the
+        county reported for 12 months of the year, and none of the data were
+        estimated.  A value of 0 indicates that all data for the county are
+        based on estimates rather than reported data.  The coverage indicator
+        (CI) for each county is calculated as follows:
+        >CI = (1-(sum((agency pop/pop_arr02)((12-months reported)/12))))*100
+        Where agency pop is the population represented by the reporting
+        agency, and pop_arr02 is the total population for the county (as
+        defined above).  The value for "months reported" will be 0 for
+        agencies reporting 1-2 months of data, because any data provided by
+        these agencies was set to zero and the data were estimated using the
+        procedure described above.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+    Attribute:
+      Attribute_Label: Index02
+      Attribute_Definition:
+        The total number of Uniform Crime Reports (UCR) Index crimes,
+        excluding arson, for the year 2002.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 394591
+    Attribute:
+      Attribute_Label: Mod_index02
+      Attribute_Definition:
+        The total number of Uniform Crime Reports (UCR) Index crimes,
+        including arson, for the year 2002.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 398758
+    Attribute:
+      Attribute_Label: Murd02
+      Attribute_Definition:
+        The total number of murders, for the year 2002.  Murder is defined as
+        the willful (non-negligent) killing of one human being by another.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 1162
+    Attribute:
+      Attribute_Label: Murdpp02
+      Attribute_Definition:
+        The number of murders for the year 2002, normalized by the crime 
+        population for the year 2002.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 0.155
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Rape02
+      Attribute_Definition:
+        The total number of forcible rapes, for the year 2002.  Forcible rape
+        is defined as the carnal knowledge of a person, forcibly and (or)
+        against that person's will; or not forcibly or against the person's
+        will where the victim is incapable of giving consent.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 2895
+    Attribute:
+      Attribute_Label: Rapepp02
+      Attribute_Definition:
+        The number of rapes for the year 2002, normalized by the crime population 
+        for the year 2002.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 0.246
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Robb02
+      Attribute_Definition:
+        The total number of robberies, for the year 2002.  Robbery is defined
+        as the taking, or attempting to take, or anything of value under
+        confrontational circumstances, by force or threat of force or
+        violence.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 29994
+    Attribute:
+      Attribute_Label: Robbpp02
+      Attribute_Definition:
+        The number of robberies for the year 2002, normalized by the crime 
+        population for the year 2002.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 0.798
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Assa02
+      Attribute_Definition:
+        The total number of aggravated assaults, for the year 2002.
+        Aggravated assault is defined as an attack by one person on another,
+        where the offender uses a weapon or displays it in a threatening
+        manner, or where the victim suffers severe bodily injury.  This
+        includes assault with a disease.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 55008
+    Attribute:
+      Attribute_Label: Assapp02
+      Attribute_Definition:
+        The number of aggravated assaults for the year 2002, normalized by the 
+        crime population for the year 2002.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 4.364
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Burg02
+      Attribute_Definition:
+        The total number of burglaries, for the year 2002.  Burglary is
+        defined as the unlawful entry into a building or other structure with
+        the intent to commit a felony or a theft.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 62055
+    Attribute:
+      Attribute_Label: Burgpp02
+      Attribute_Definition:
+        The number of burglaries for the year 2002, normalized by the crime 
+        population for the year 2002.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 5.569
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Larc02
+      Attribute_Definition:
+        The total number of larcenies, for the year 2002.  Larceny is defined
+        as the unlawful taking of property from another person, and is also
+        called theft.  Motor vehicle thefts are not included.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 171510
+    Attribute:
+      Attribute_Label: Larcpp02
+      Attribute_Definition:
+        The number of larcenies for the year 2002, normalized by the crime 
+        population for the year 2002.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 15.847
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Mv_th02
+      Attribute_Definition:
+        The total number of motor vehicle thefts, for the year 2002.  Motor
+        vehicle theft is defined as the theft of an automobile, bus,
+        recreational vehicle, truck, or other motor vehicle.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 71967
+    Attribute:
+      Attribute_Label: Mvthpp02
+      Attribute_Definition:
+        The number of motor vehicle thefts for the year 2002, normalized by the 
+        crime population for the year 2002.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 2.906
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+    Attribute:
+      Attribute_Label: Arso02
+      Attribute_Definition:
+        The total number of arsons, for the year 2002.  Arson is defined as
+        unlawfully and intentionally damaging or attempting to damage, real or
+        personal property, by fire or incendiary device.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 4167    
+    Attribute:
+      Attribute_Label: Arsopp02
+      Attribute_Definition:
+        The number of arsons for the year 2002, normalized by the crime population 
+        for the year 2002.  
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 0.224
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: -9999         
+          Enumerated_Domain_Value_Definition: No data available
+          Enumerated_Domain_Value_Definition_Source:
+            Inter-university Consortium for Political and Social Research
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions:
+        In addition to the address above there are other ESIC offices
+        throughout the country.  A full list of these offices is at
+        <http://geography.usgs.gov/esic/esic_index.html>.
+  Distribution_Liability:
+    Although these data have been processed successfully on a computer system
+    at the U.S. Geological Survey, no warranty expressed or implied is made by
+    the U.S. Geological Survey regarding the utility of the data on any other
+    system, nor shall the act of distribution constitute any such warranty.
+    No responsibility is assumed by the U.S. Geological Survey in the use of
+    these data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SDTS
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+
+    Fees:
+      There is no charge for this map layer.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20050525
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Peg Rawson
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Drive
+        Address: MS-561 
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-4183
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
+
