@@ -1,0 +1,1682 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date: 200310
+      Title: 
+        Principal Aquifers of the 48 Conterminous United States, Hawaii, Puerto 
+        Rico, and the U.S. Virgin Islands 
+      Edition: Version 1.0
+      Publication_Information:
+        Publication_Place: Madison, WI, USA
+        Publisher: U.S. Geological Survey
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+  Description:
+    Abstract:
+      This map layer contains the shallowest principal aquifers of the 
+      conterminous United States, Hawaii, Puerto Rico, and the U.S. Virgin 
+      Islands, portrayed as polygons.  The map layer was developed as part of 
+      the effort to produce the maps published at 1:2,500,000 in the printed 
+      series "Ground Water Atlas of the United States".  The published maps 
+      contain base and cultural features not included in these data.  This is a 
+      replacement for the July 1998 map layer called Principal Aquifers of the 
+      48 Conterminous United States.
+    Purpose:
+      These data are intended for use in publications, at a scale of 1:2,500,000 
+      or smaller.  Due to the small scale, the primary intended use is for 
+      regional and national data display and analysis, rather than specific 
+      local data analysis.
+    Supplemental_Information:
+      The Ground Water Atlas of the United States (GWA) chapters include 
+      additional information that may be relevant to the use of this map layer, 
+      such as maps of alluvial and glacial aquifers that overlie the aquifers in 
+      this map layer, as well as other information described below. 
+
+      The areal extent of the aquifers, as shown in this map layer, represents 
+      the area in which a named aquifer is the shallowest of the principal 
+      aquifers.  These aquifer areas are not necessarily the only areas in which 
+      ground water can be withdrawn, for two reasons:  1) The aquifers shown may 
+      have a larger areal extent than is represented here.  The boundaries in 
+      this map layer generally represent an interpretation of the surface 
+      location (outcrop), or near-surface location (shallow subcrop) of the 
+      uppermost principal aquifer for the area.  An aquifer may extend beyond 
+      the area shown, but be overlain by one or more other aquifers, and (or) 
+      low-permeability material.  2) There may be areas of water-bearing 
+      surficial material not shown in this map layer.  Major alluvial aquifers 
+      that occur along main watercourses are not shown.  Significant 
+      unconsolidated sand and gravel aquifers, that are not indicated in this 
+      map layer but are important sources of water, may occur locally in 
+      glaciated regions.  The user of this map layer is advised that to get 
+      complete information regarding areas that serve as sources of water, more
+      information about surficial aquifers needs to be obtained, particularly in 
+      glaciated areas.
+
+      This map layer was constructed by combining data created for or from the 
+      regional GWA chapters.  Minor aquifers that are important local sources of 
+      water were mapped in some regions, so the regional maps in the GWA may 
+      show more detail than this map layer.  The data were reviewed, adjusted, 
+      and published based on new information provided by national, State, and 
+      local scientists.  The juxtaposition of regionally mapped aquifers has led 
+      to some instances where an aquifer outcrop or shallow subcrop is bounded 
+      by a State line.  This is a result of the regional mapping and national 
+      categorization methods used and is not meant to imply a hydrogeologic 
+      change coincident with a State boundary.
+
+      The aquifer outcrop and shallow subcrop boundaries represent broad, 
+      regional categories and should not be interpreted as site-specific.  
+      Comments regarding the names of aquifers or the hydrogeologic 
+      interpretation of the aquifers can be directed to the U.S. Geological 
+      Survey, Water Resources Division, Office of Ground Water, 
+      ogw_webmaster@usgs.gov.
+
+      This map layer was used as part of the effort to publish a 1:5,000,000-
+      scale 'Principal Aquifers' map in the National Atlas of the United States 
+      of America series of printed maps.  The printed map can be considered  a 
+      representation of this map layer with the exceptions of: the smaller 
+      scale, slight differences in the coastline due to generalization, base and 
+      cultural information, and delineation of the glacial-deposit area.
+
+      These data were developed in conjunction with the publication of the GWA.  
+      For documentation purposes, areas are referred to by their corresponding 
+      GWA chapter letter, or by State.  This list shows the relationship between
+      State names and GWA chapters:
+      >HA 730-B        Segment 1-California, Nevada
+      >HA 730-C        Segment 2-Colorado, Utah, New Mexico, Arizona
+      >HA 730-D        Segment 3-Kansas, Missouri, Nebraska
+      >HA 730-E        Segment 4-Texas, Oklahoma
+      >HA 730-F        Segment 5-Arkansas, Louisiana, Mississippi
+      >HA 730-G        Segment 6-Alabama, Florida, Georgia, South Carolina
+      >HA 730-H        Segment 7-Idaho, Oregon, Washington
+      >HA 730-I        Segment 8-Montana, North Dakota, South Dakota, Wyoming
+      >HA 730-J        Segment 9-Iowa, Michigan, Minnesota, Wisconsin
+      >HA 730-K        Segment 10-Illinois, Indiana, Kentucky, Ohio, Tennessee
+      >HA 730-L        Segment 11-Delaware, Maryland, New Jersey, North 
+      >                           Carolina, Pennsylvania, Virginia, West 
+      >                           Virginia
+      >HA 730-M        Segment 12-Connecticut, Maine, Massachusetts, New 
+      >                           Hampshire, New York, Rhode Island, Vermont
+      >HA 730-N        Segment 13-Alaska, Hawaii, Puerto Rico, and the U.S. 
+      >                           Virgin Islands
+      Refer to <http://capp.water.usgs.gov/gwa/gwa.html> for a graphic depiction 
+      of the GWA chapter regions, as well as more information about the GWA.
+
+      It may be helpful to refer to the printed GWA chapters when using the 
+      Data, however, there are significant differences between this national 
+      map layer and the printed chapters.  Because the GWA regional chapters 
+      were written by different authors, there were areas of different 
+      interpretations and category delineations, aquifer names, etc., that 
+      became apparent when combining the regions. 
+
+      The following listings show the differences between aquifer names in the 
+      GWA chapters and the aq_name and aq_code used in this map layer.  See the 
+      Entity and Attribute Information section for definitions of the data 
+      attributes.
+
+      >GWA chapter HA 730-B
+      >Name from fig 11, page B4     aq_code-aq_name
+      >____________________________________________________________
+      >Basin and Range volcanic-     601-Southern Nevada
+      >rock aquifers                     volcanic-rock aquifers
+      >
+      >Coastal Basins aquifers       103-California Coastal Basin
+      >                                  aquifers
+      >
+      >Northern California Basin     104-Pacific Northwest
+      >fill aquifers                     basin-fill aquifers
+      >
+      >
+      >GWA chapter HA 730-C
+      >Name from fig 11, page C4
+      >____________________________________________________________
+      >Names and categories the same
+      >
+      >
+      >GWA chapter HA 730-D
+      >Name from fig 5, page D4      aq_code-aq_name
+      >____________________________________________________________
+      >Mississippi embayment         109-Mississippi River Valley
+      >aquifer system                    alluvial aquifer
+      >
+      >Great Plains aquifer          304-Lower Cretaceous
+      >                                  aquifers     
+      >
+      >Confining unit                999-Other rocks
+      >
+      >Dune sand                     107-High Plains aquifer
+      >
+      >
+      >GWA chapter HA 730-E
+      >Name from fig 4, page E3      aq_code-aq_name
+      >____________________________________________________________
+      >EDWARDS-TRINITY AQUIFER SYSTEM
+      >Edwards-Trinity aquifer       501-Edwards-Trinity aquifer
+      >                                  system
+      >
+      >Edwards aquifer               501-Edwards-Trinity aquifer
+      >                                  system
+      >
+      >Trinity aquifer               501-Edwards-Trinity aquifer
+      >                                  system
+      >
+      >Confining unit                999-Other rocks
+      >
+      >
+      >GWA chapter HA 730-F
+      >Name from fig 7, page 4       aq_code-aq_name
+      >____________________________________________________________
+      >MAJOR AQUIFER SYSTEMS
+      >Surficial aquifer system      109-Mississippi River Valley
+      >                                  alluvial aquifer
+      >                              203-Mississippi embayment
+      >                                  aquifer system
+      >                              501-Edwards-Trinity aquifer
+      >                                  system
+      >                              999-Other rocks
+      >
+      >Mississippi embayment         109-Mississippi River Valley
+      >aquifer system                    alluvial aquifer
+      >                              203-Mississippi embayment
+      >                                  aquifer system
+      >                              204-Southeastern Coastal
+      >                                  Plain aquifer system
+      >                              999-Other rocks
+      >
+      >Tokio-Woodbine aquifer        999-Other rocks
+      >
+      >Ouachita Mountains aquifer    999-Other rocks
+      >
+      >CONFINING SYSTEMS AND CONFINING UNITS
+      >Western Interior Plains       999-Other rocks
+      >confining systems
+      >
+      >Confining unit                109-Mississippi River Valley
+      >                                  alluvial aquifer
+      >                              203-Mississippi embayment
+      >                                  aquifer system
+      >                              999-Other rocks
+      >
+      >
+      >GWA chapter HA 730-G
+      >Name from fig 3, page 3       aq_code-aq_name
+      >____________________________________________________________
+      >Sand and gravel aquifer       201-Coastal lowlands aquifer
+      >                                  system
+      >
+      >Piedmont and Blue Ridge       611-Piedmont and Blue Ridge
+      >aquifers                          crystalline-rock aquifers
+      >
+      >Appalachian Plateaus          310-Pennsylvanian aquifers
+      >aquifers
+      >
+      >Interior Low Plateaus         503-Mississippian aquifers
+      >aquifers
+      >
+      >Confining unit                999-Other rocks
+      >
+      >
+      >GWA chapter HA 730-H
+      >Name from fig 5, page H4      aq_code-aq_name
+      >____________________________________________________________
+      >Unconsolidated-deposit        101-Basin and Range basin-fill 
+      > aquifers                         aquifers 
+      >                              104-Pacific Northwest
+      >                                  basin-fill aquifers
+      >                              105-Northern Rocky Mountains
+      >                                  Intermontane Basins
+      >                                  aquifer system
+      >                              112-Puget Sound aquifer system
+      >                              
+      >
+      >Pliocene and younger          606-Snake River Plain
+      >basaltic-rock aquifers            basaltic-rock aquifers
+      >                              610-Pacific Northwest
+      >                                  basaltic-rock aquifers
+      >
+      >Miocene basaltic-rock         606-Snake River Plain 
+      >aquifers                          basaltic-rock aquifers
+      >                              607-Columbia Plateau basaltic-rock
+      >                                  aquifers
+      >                              610-Pacific Northwest
+      >                                  basaltic-rock aquifers
+      >
+      >Aquifers in pre-Miocene       401-Basin and Range
+      >rocks                             carbonate-rock aquifers
+      >                              999-Other rocks
+      >
+      >
+      >GWA chapter HA 730-I.  See Process Description regarding
+      >differences between this data and the printed Ground Water
+      >Atlas chapter in Western Montana
+      >Name from fig 7, page I4      aq_code-aq_name
+      >____________________________________________________________
+      >Quaternary volcanic and       610-Pacific Northwest 
+      >sedimentary rock aquifers         basaltic-rock aquifers
+      >
+      >Upper Tertiary aquifers       105-Northern Rocky Mountains
+      >                                  Intermontane Basins
+      >                                  aquifer system
+      >                              107-High Plains aquifer
+      >                              314-Lower Tertiary aquifers
+      >                              316-Wyoming Tertiary aquifers
+      >
+      >Lower Tertiary aquifers       107-High Plains aquifer
+      >                              314-Lower Tertiary aquifers
+      >
+      >Upper Cretaceous aquifers     301-Colorado Plateaus
+      >                                  aquifers
+      >                              315-Upper Cretaceous
+      >                                  aquifers
+      >
+      >Lower Cretaceous aquifers     301-Colorado Plateaus
+      >                                  aquifers
+      >                              304-Lower Cretaceous aquifers
+      >
+      >Confining unit                301-Colorado Plateaus
+      >                                  aquifers
+      >
+      >
+      >GWA chapter HA 730-J
+      >Name from fig 7, page J4      aq_code-aq_name
+      >____________________________________________________________
+      >Cretaceous aquifer            304-Lower Cretaceous
+      >                                  aquifers
+      >
+      >MISSISSIPPIAN AQUIFER
+      >Carbonate rocks               503-Mississippian aquifers
+      >
+      >Sandstone                     311-Marshall aquifer
+      >
+      >Crystalline-rock aquifer      999-Other rocks
+      >
+      >Confining unit                312-Cambrian-Ordovician
+      >                                  aquifer system
+      >                              999-Other rocks
+      >                              
+      >
+      >GWA chapter HA 730-K
+      >Name from fig 5, page K4      aq_code-aq_name
+      >____________________________________________________________
+      >Blue Ridge aquifers           611-Piedmont and Blue Ridge
+      >                                  crystalline-rock aquifers
+      >
+      >MISSISSIPPI EMBAYMENT AQUIFER SYSTEM
+      >Upper Claiborne, middle       109-Mississippi River Valley
+      >Claiborne, middle Wilcox,         alluvial aquifer
+      >and lower Wilcox              203-Mississippi embayment
+      >                                  aquifer system
+      >
+      >McNairy-Nacatoch              204-Southeastern Coastal
+      >                                  Plain aquifer system
+      >
+      >Pennsylvanian aquifers        999-Other rocks 
+      >
+      >Confining unit                999-Other rocks
+      >
+      >
+      >GWA chapter HA 730-L
+      >Name from fig 7, page L4      aq_code-aq_name
+      >____________________________________________________________
+      >NORTHERN ATLANTIC COASTAL PLAIN AQUIFER SYSTEM
+      >Surficial aquifer             111-Surficial aquifer system
+      >                              205-Northern Atlantic
+      >                                  Coastal Plain aquifer
+      >                                  system
+      >
+      >Chesapeake aquifer            205-Northern Atlantic
+      >                                  Coastal Plain aquifer
+      >                                  system
+      >
+      >Castle Hayne-Aquia aquifer    418-Castle Hayne aquifer
+      >
+      >Severn-Magothy aquifer        205-Northern Atlantic
+      >                                  Coastal Plain aquifer
+      >                                  system
+      >
+      >Peedee-upper Cape Fear        205-Northern Atlantic
+      >aquifer                           Coastal Plain aquifer
+      >                                  system
+      >
+      >Potomac aquifer               205-Northern Atlantic
+      >                                  Coastal Plain aquifer
+      >                                  system
+      >
+      >PIEDMONT AND BLUE RIDGE AQUIFERS
+      >Aquifers in early Mesozoic    308-Early Mesozoic basin
+      >basins                            aquifers
+      >
+      >Carbonate-rock aquifers       417-Piedmont and Blue Ridge
+      >                                  carbonate-rock aquifers
+      >
+      >Crystalline-rock aquifers     611-Piedmont and Blue Ridge
+      >                                  crystalline-rock aquifers
+      >
+      >Valley and Ridge              416-New York and New England
+      >carbonate-rock aquifers           carbonate-rock aquifers
+      >                              505-Valley and Ridge
+      >                                  carbonate-rock aquifers
+      >
+      >APPALACHIAN PLATEAUS
+      >Permian and Pennsylvanian     310-Pennsylvanian aquifers
+      >aquifers
+      >
+      >Not a principal aquifer       611-Piedmont and Blue Ridge
+      >                                  crystalline-rock aquifers
+      >
+      >
+      >GWA chapter HA 730-M
+      >Name from fig 10, page M5     aq_code-aq_name
+      >____________________________________________________________
+      >SANDSTONE AQUIFERS
+      >Mesozoic sandstone and        308-Early Mesozoic basin
+      >basalt of the Newark              aquifers
+      >Supergroup
+      >
+      >Lower Paleozoic               309-New York sandstone
+      >                                  aquifers
+      >
+      >CRYSTALLINE-ROCK AQUIFERS
+      >Adirondack                    999-Other rocks
+      >
+      >
+      >GWA chapter HA 730-N
+      >Hawaii name from fig 35, 
+      >page N14 
+      >Puerto Rico name from
+      >fig 71, page N24              aq_code-aq_name
+      >____________________________________________________________
+      >Volcanic rock aquifers        608-Hawaiian Volcanic-rock
+      >                                  aquifers
+      >                              609-Hawaiian Sedimentary
+      >                                  deposit aquifers
+      >
+      >MINOR AQUIFERS
+      >Coastal embayment aquifers    999-Other rocks
+      >Volcaniclastic-, igneous-, 
+      >and sedimentary-rock aquifers
+      >
+      >Confining unit                999-Other rocks
+      >
+      >NORTHCOAST LIMESTONE AQUIFER SYSTEM
+      >Upper aquifer                 419-Puerto Rico North Coast Limestone
+      >                                  aquifer system
+      >
+      >Lower aquifer                 419-Puerto Rico North Coast Limestone
+      >                                  aquifer system
+      >
+      Related Spatial and Tabular Data Sets
+
+      A map layer showing the areal extent of sand and gravel aquifers of 
+      alluvial and glacial origin north of the line of Quaternary continental 
+      glaciation is included in the online, interactive National Atlas of the 
+      United States.  This map layer ends at the southern limit of 
+      glaciation in the United States; areas north of the limit line contain
+      significant sand and gravel glacial deposits that are important sources of 
+      water for local areas.
+
+      For additional information on principal aquifers, please see the Aquifer 
+      Basics page at <http://capp.water.usgs.gov/aquiferBasics/index.html>.
+
+      The final data are being served to the public in the following formats: 
+      Spatial Data Transfer Standard (SDTS), Arc/INFO Export, or ArcView 
+      Shapefile.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 200310
+    Currentness_Reference: Publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -124.755908
+      East_Bounding_Coordinate: -66.939561
+      North_Bounding_Coordinate: 49.385619
+      South_Bounding_Coordinate: 24.518322
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: Geoscientific information
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Aquifer
+      Theme_Keyword: Groundwater
+      Theme_Keyword: Hydrogeology 
+      Theme_Keyword: Geohydrology
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Alabama
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+      Place_Keyword: Puerto Rico
+      Place_Keyword: U.S. Virgin Islands
+      Place_Keyword: United States
+  Access_Constraints: None
+  Use_Constraints: 
+    None.  Acknowledgment of the Ground Water Atlas of the United States and 
+    (or) the National Atlas of the United States of America would be appreciated 
+    in products derived from these data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+        Contact_Person: 
+          Chief, Cartographic and Publications Program, Water Resources Division
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 505 Science Drive
+        City: Madison
+        State_or_Province: WI
+        Postal_Code: 53711-1061
+        Country: USA
+      Contact_Voice_Telephone: 608-238-9333
+  Data_Set_Credit:
+    This map layer was created and modified over a period of at least five years 
+    by several staff members of the U.S. Geological Survey Water Resources 
+    Discipline, Cartographic and Publications Program in Madison, Wisconsin.  
+    Completion of this map layer and associated metadata was funded, in part, 
+    under a cooperative joint funding agreement between the U.S. Geological 
+    Survey and the U.S. Environmental Protection Agency.
+  Native_Data_Set_Environment: 
+    SDTS, Arc/GIS 8.0.1, and ESRI Shapefile format.
+
+  Cross_Reference:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date: 200209
+      Title: Aquifers of Alluvial and Glacial Origin 
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+
+Data_Quality_Information:
+  Logical_Consistency_Report:
+    Polygon and chain-node topology are present.  Each polygon is closed and has 
+    one label point.
+  Completeness_Report: 
+    This map layer includes aquifer information for the 48 conterminous United 
+    States, the District of Columbia, Hawaii, Puerto Rico, and the U.S. Virgin 
+    Islands.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Planert, M. (comp.)
+          Originator: Williams, J.S. (comp.)
+          Publication_Date: 1995
+          Title: 
+            Ground Water Atlas of the United States-Segment 1: California, 
+            Nevada
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Hydrologic Investigations Atlas
+            Issue_Identification: HA 730-B
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1995
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GWA HA 730-B
+      Source_Contribution: Aquifer data for California and Nevada
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Robson, S.G. (comp.)
+          Originator: Banta, E.R. (comp.)
+          Publication_Date: 1995
+          Title: 
+            Ground Water Atlas of the United States-Segment 2: Arizona, 
+            Colorado, New Mexico, Utah
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Hydrologic Investigations Atlas
+            Issue_Identification: HA 730-C
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1995
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GWA HA 730-C
+      Source_Contribution: 
+        Aquifer data for Arizona, Colorado, New Mexico, and Utah
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Miller, J.A. (comp.)
+          Originator: Appel, C.L. (comp.)
+          Publication_Date: 1998
+          Title: 
+            Ground Water Atlas of the United States-Segment 3: Kansas, Missouri, 
+            Nebraska
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Hydrologic Investigations Atlas
+            Issue_Identification: HA 730-D
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1998
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GWA HA 730-D
+      Source_Contribution: Aquifer data for Kansas, Missouri, and Nebraska
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Ryder, P.D. (comp.)
+          Publication_Date: 1996
+          Title: 
+            Ground Water Atlas of the United States-Segment 4: Oklahoma, Texas
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Hydrologic Investigations Atlas
+            Issue_Identification: HA 730-E
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1996
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GWA HA 730-E
+      Source_Contribution: Aquifer data for Oklahoma and Texas
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Renken, R.A. (comp.)
+          Publication_Date: 1998                  
+          Title: 
+            Ground Water Atlas of the United States-Segment 5: Arkansas, 
+            Louisiana, Mississippi
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Hydrologic Investigations Atlas
+            Issue_Identification: HA 730-F
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1998
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GWA HA 730-F
+      Source_Contribution: Aquifer data for Arkansas, Louisiana, and Mississippi
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Miller, J.A. (comp.)
+          Publication_Date: 1990
+          Title: 
+            Ground Water Atlas of the United States-Segment 6: Alabama, Florida, 
+            Georgia, and South Carolina
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Hydrologic Investigations Atlas
+            Issue_Identification: HA 730-G
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1990
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GWA HA 730-G
+      Source_Contribution: 
+        Aquifer data for Alabama, Florida, Georgia, and South Carolina
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Whitehead, R.L. (comp.)
+          Publication_Date: 1994
+          Title: 
+            Ground Water Atlas of the United States-Segment 7: Idaho, Oregon, 
+            Washington
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Hydrologic Investigations Atlas
+            Issue_Identification: HA 730-H
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1994
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GWA HA 730-H
+      Source_Contribution: Aquifer data for Idaho, Oregon, and Washington
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Whitehead, R.L. (comp.)
+          Publication_Date: 1996
+          Title: 
+            Ground Water Atlas of the United States-Segment 8: Montana, North 
+            Dakota, South Dakota, Wyoming
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Hydrologic Investigations Atlas
+            Issue_Identification: HA 730-I
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1996
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GWA HA 730-I
+      Source_Contribution: 
+        Aquifer data for Montana, North Dakota, South Dakota, and Wyoming
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Olcott, P.G. (comp.)
+          Publication_Date: 1992
+          Title: 
+            Ground Water Atlas of the United States-Segment 9: Iowa, Michigan, 
+            Minnesota, Wisconsin
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Hydrologic Investigations Atlas
+            Issue_Identification: HA 730-J
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1992
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GWA HA 730-J
+      Source_Contribution: 
+        Aquifer data for Iowa, Michigan, Minnesota, and Wisconsin
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Lloyd, O.B., Jr. (comp.)
+          Originator: Lyke, W.L. (comp.)
+          Publication_Date: 1995
+          Title: 
+            Ground Water Atlas of the United States-Segment 10: Illinois, 
+            Indiana, Kentucky, Ohio, Tennessee
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Hydrologic Investigations Atlas
+            Issue_Identification: HA 730-K
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1995
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GWA HA 730-K
+      Source_Contribution: 
+        Aquifer data for Illinois, Indiana, Kentucky, Ohio, and Tennessee
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Trapp, H., Jr. (comp.)
+          Originator: Horn, M.A. (comp.)
+          Publication_Date: 1997
+          Title: 
+            Ground Water Atlas of the United States-Segment 11: Delaware, 
+            Maryland, New Jersey, North Carolina, Pennsylvania, Virginia, West 
+            Virginia
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Hydrologic Investigations Atlas
+            Issue_Identification: HA 730-L
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1997
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GWA HA 730-L
+      Source_Contribution: 
+        Aquifer data for Delaware, Maryland, New Jersey, North Carolina, 
+        Pennsylvania, Virginia, and West Virginia
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Olcott, P.G. (comp.)
+          Publication_Date: 1995
+          Title: 
+            Ground Water Atlas of the United States-Segment 12: Connecticut, 
+            Maine, Massachusetts, New Hampshire, New York, Rhode Island, Vermont
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Hydrologic Investigations Atlas
+            Issue_Identification: HA 730-M
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1995
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GWA HA 730-M
+      Source_Contribution: 
+        Aquifer data for Connecticut, Maine, Massachusetts, New Hampshire, New 
+        York, Rhode Island, and Vermont
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey, Water Resources Division
+          Publication_Date: Unpublished material
+          Title: National aquifers file
+          Geospatial_Data_Presentation_Form: Map
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Internal file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1990
+            Ending_Date: 1993
+        Source_Currentness_Reference: Publication or compilation date
+      Source_Citation_Abbreviation: National aquifers file
+      Source_Contribution: 
+        Preliminary aquifer map of the 48 conterminous States.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 1998
+          Title: State Boundaries of the United States
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Reston,VA
+            Publisher: U.S. Geological Survey
+          Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1998
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Atlas-State boundaries
+      Source_Contribution: Coastline and international boundary
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: James. A. Miller (comp.)
+          Publication_Date: 19980701
+          Title: Principal Aquifers of the Conterminous United States
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Madison, WI, USA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 19980701
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Atlas-principal aquifers_1998
+      Source_Contribution: 
+        Aquifer data for the conterminous United States.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Oki, D.S. (comp.)
+          Originator: Gingerich, S.B. (comp.)
+          Originator: Whitehead, R.L. (comp.)
+          Publication_Date: 1999
+          Title: 
+            Ground Water Atlas of the United States-Segment 13: Alaska, Hawaii,
+            Puerto Rico and the U.S. Virgin Islands
+          Edition: 2.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Hydrologic Investigations Atlas
+            Issue_Identification: HA 730-N
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 1000000
+      Type_of_Source_Media: Stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1999
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GWA HA 730-N-HI
+      Source_Contribution: Aquifer data for Hawaii.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Olcott, P.G. (comp.)
+          Publication_Date: 1999
+          Title: 
+            Ground Water Atlas of the United States-Segment 13: Alaska, Hawaii,
+            Puerto Rico and the U.S. Virgin Islands
+          Edition: 2.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Hydrologic Investigations Atlas
+            Issue_Identification: HA 730-N
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 500000
+      Type_of_Source_Media: Stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1999
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GWA HA 730-N-PR
+      Source_Contribution: 
+        Aquifer data for Puerto Rico and the U.S. Virgin Islands.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Vaccaro, J.J. (comp.)
+          Originator: Jones, M.A. (comp.)
+          Publication_Date: 1998
+          Title: 
+            Hydrogeologic framework of the Puget Sound Aquifer system, 
+            Washington and British Columbia
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Professional Paper
+            Issue_Identification: PP 1424-D
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1998
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: PP 1424-D
+      Source_Contribution: 
+        Dividing line between the Puget Sound Aquifer system and the Willamette 
+        Lowland basin-fill aquifers.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Woodward, D.G. (comp.)
+          Originator: Gannett, M.W. (comp.)
+          Originator: Vaccaro, J.J. (comp.)
+          Publication_Date: 1998
+          Title: 
+            Hydrogeologic framework of the Willamette Lowland aquifer system, 
+            Oregon and Washington 
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Professional Paper
+            Issue_Identification: PP 1424-B
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 250000
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1998
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: PP 1424-B
+      Source_Contribution: 
+        Dividing line between the Puget Sound Aquifer system and the Willamette 
+        Lowland basin-fill aquifers.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Westjohn, D.B. (comp.)
+          Originator: Weaver, T.L. (comp.)
+          Publication_Date: 1998
+          Title: 
+            Hydrogeologic framework of the Michigan Basin regional aquifer 
+            System.
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Professional Paper
+            Issue_Identification: PP 1418
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1998
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: PP 1418
+      Source_Contribution: Name change for the Marshall aquifer.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Batten, W.G. (comp.)
+          Originator: Brown, T.A. (comp.)
+          Originator: Mills, P.C. (comp.)
+          Originator: Sabin, T.J. (comp.)
+          Publication_Date: 1997
+          Title: 
+            Rock-stratigraphic nomenclature, lithology, and subcrop area of the 
+            Galena-Platteville bedrock unit in Illinois and Wisconsin.
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Map
+          Series_Information:
+            Series_Name: Water Resources Investigations Report
+            Issue_Identification: WRIR 97-4054-B, 1 sheet
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 500000
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1997
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: WRIR
+      Source_Contribution: 
+        Aquifer data for the Cambrian-Ordovician Aquifer System extension in 
+        Illinois.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: Unpublished material
+          Title: Hawaii Aquifers
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Internal file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2000
+        Source_Currentness_Reference: Compilation date
+      Source_Citation_Abbreviation: Hawaii aquifers 
+      Source_Contribution: Aquifers for Hawaii.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: Unpublished material
+          Title: Caribbean Aquifers
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Internal file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2000
+        Source_Currentness_Reference: Compilation date
+      Source_Citation_Abbreviation: Caribbean aquifers 
+      Source_Contribution: Aquifers for Puerto Rico and the U.S. Virgin Islands.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: Unpublished material
+          Title: Principal Aquifers intermediate file
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Internal file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2001
+        Source_Currentness_Reference: Compilation date
+      Source_Citation_Abbreviation: Principal aquifers 2001 intermediate file
+      Source_Contribution: 
+        Aquifer data for the conterminous United States.
+
+    Process_Step:
+      Process_Description:  
+        Aquifer outcrop line work for each GWA chapter was compiled on mylar at 
+        a scale of 1:2,000,000, and reduced to 1:2,500,000 for further
+        production work.  For chapters HA 730-G, -H, and -J, the outcrop lines 
+        were scribed at a line width of 0.006 inch.  Film positives made from 
+        the scribed materials were scanned on a drum scanner, vectorized, and 
+        converted to Arc/INFO coverages.  For chapters HA 730-B, -C, -D, -E, -F, 
+        -I, -K, -L, and -M, the aquifer compilation was either hand digitized, 
+        and (or) scanned on a drum scanner, vectorized and converted to Arc/INFO 
+        coverages.  The data were then checked, cleaned up, and attribute
+        creation was done.
+
+        The Arc/INFO coverages were plotted and checked against the source 
+        compilations.  Polygons were attributed using Arcedit.  The coverages 
+        for GWA chapters HA 730-B, -C, -D, -E, -F, -I, -K, -L, and -M were used 
+        to generate output files that were imported into Adobe Illustrator
+        for map publication.  Each completed map, at a scale of 1:2,500,000, was 
+        reviewed for content and accuracy by the chapter lead cartographer, 
+        Water Resources Discipline Geohydrologic Map Editor, and chapter author.
+
+        Individual chapter coverages were appended into one continuous coverage.  
+        Arcedit was used for edgematching and to remove duplicate labels.  No 
+        DISSOLVE was done on the coverage; an equivalent of a DISSOLVE was done
+        manually in Arcedit in conjunction with attribute checking, by removing 
+        arcs that divided adjacent polygons with the same attributes.  Several 
+        iterations of editing were performed.  These mostly involved ensuring 
+        all polygons had labels and aquifer information and ensuring polygons 
+        had correct aquifer information.  No polygons were removed for 
+        generalization.
+      Source_Used_Citation_Abbreviation: HA 730-B
+      Source_Used_Citation_Abbreviation: HA 730-C
+      Source_Used_Citation_Abbreviation: HA 730-D
+      Source_Used_Citation_Abbreviation: HA 730-E
+      Source_Used_Citation_Abbreviation: HA 730-F
+      Source_Used_Citation_Abbreviation: HA 730-G
+      Source_Used_Citation_Abbreviation: HA 730-H
+      Source_Used_Citation_Abbreviation: HA 730-I
+      Source_Used_Citation_Abbreviation: HA 730-J
+      Source_Used_Citation_Abbreviation: HA 730-K
+      Source_Used_Citation_Abbreviation: HA 730-L
+      Source_Used_Citation_Abbreviation: HA 730-M
+      Process_Date: 1993
+      Source_Produced_Citation_Abbreviation: National aquifers file
+    Process_Step:
+      Process_Description:  
+        Plots of the national aquifers file were made at 1:2,500,000, covering 
+        the areas of the regional GWA chapters.  Each plot was compared to the
+        printed GWA chapter aquifer maps.  Where applicable (chapters HA 730-B, 
+        -C, -D, -E, -F, -I, -K, - L, and -M), an Adobe Illustrator file of the 
+        coverage data was compared on-screen with the Illustrator file used to
+        print the published map.  Discrepancies between the coverage file and 
+        print file were noted, and the coverage updated to match the published 
+        map.  Where a line appeared to shift noticeably (approximately 1/8 inch 
+        at a scale of 1:2,500,000) across the boundary of two adjacent GWA 
+        chapter regions, the line was adjusted for a smoother appearance.  The 
+        adjustments may have been made on one or both sides of the region 
+        boundary, depending on a cartographic assessment of the instance.
+
+        Coastline Location
+
+        The 1:2,500,000 principal aquifer maps in the Ground Water Atlas 
+        publications used a coastline and international boundary, derived either 
+        from the map separates from the National Atlas of the United States of
+        America (published 1970), or from the Digital Line Graph (DLG) data 
+        created from the 1970 National Atlas.  GWA chapters HA 730-G, -J, and -H 
+        used coastline and boundary filmwork  photo-mechanically reduced from 
+        the 1:2,000,000 National Atlas map separates.  The remaining chapters
+        used coastline and boundary data from the DLG's.  A revision of the DLG 
+        data took place in 1997, after the creation of the chapter aquifer map 
+        data. 
+ 
+        After the edgematching, a decision was made to replace the coast and 
+        international boundary of this national-level aquifer data with one 
+        derived from a newer version of 1997 DLG data.  State boundary data from 
+        the National Atlas was used to provide the coastline and two aquifer 
+        boundaries that coincide with State lines.
+
+        The existing outline (coastline and international boundary line) was 
+        removed, the new outline added to the coverage, and the remaining 
+        aquifer contact lines snapped to the new outline.  The coverage was re-
+        cleaned, data categories checked onscreen and with plots, and corrected.  
+        Line and labeling corrections, such as undershoots, overshoots, and 
+        improper labels were corrected in Arcedit.
+
+        There are some slight locational differences between this map layer and 
+        the printed GWA chapters.  For example, there are  several small 
+        differences in the number of small islands in coastal areas and the 
+        categorization of these small islands was assigned to either the nearby
+        principal aquifer category or as Not a principal aquifer, depending on 
+        the location and categorization of similar small islands in the printed 
+        GWA chapters.  There are other differences in the categorization of some
+        land/shoreline-related features. For example, an area symbolized as a 
+        bay in a GWA chapter may be land in this map layer.
+
+        Western Montana
+
+        During the review of a printed map made from this national-level aquifer 
+        data, the compiler, James A. Miller, requested a change in the 
+        representation of aquifers in western Montana.  The area affected is in 
+        the following counties: Lincoln, Flathead, Sanders, Lake, Mineral, 
+        Missoula, Powell, Ravalli, Granite, Lewis and Clark, Deer Lodge, Silver 
+        Bow, Jefferson,  Broadwater, Gallatin, Beavershead, and Madison.  These 
+        areas fall under the Northern Rocky Mountain Intermontane Basins 
+        Regional Aquifer Systems Analysis (RASA).  With one exception, the 
+        aquifers, as shown in GWA chapter I, figure 7 in the listed counties 
+        were removed and replaced with unconsolidated-deposit areas as shown in 
+        GWA chapter HA 730-I, figure 6.  The exception is an area in northern
+        Flathead county, listed as an Upper Tertiary aquifer in GWA chapter I, 
+        figure 7, that was retained as an area but reclassified as a Lower 
+        Tertiary aquifer.
+      Source_Used_Citation_Abbreviation: National aquifer file
+      Source_Used_Citation_Abbreviation: HA 730-B
+      Source_Used_Citation_Abbreviation: HA 730-C
+      Source_Used_Citation_Abbreviation: HA 730-D
+      Source_Used_Citation_Abbreviation: HA 730-E
+      Source_Used_Citation_Abbreviation: HA 730-F
+      Source_Used_Citation_Abbreviation: HA 730-G
+      Source_Used_Citation_Abbreviation: HA 730-H
+      Source_Used_Citation_Abbreviation: HA 730-I
+      Source_Used_Citation_Abbreviation: HA 730-J
+      Source_Used_Citation_Abbreviation: HA 730-K
+      Source_Used_Citation_Abbreviation: HA 730-L
+      Source_Used_Citation_Abbreviation: HA 730-M
+      Source_Used_Citation_Abbreviation: Atlas-State boundaries
+      Process_Date: 1997
+      Source_Produced_Citation_Abbreviation Atlas-principal Aquifers_1998
+
+    Process_Step:
+      Process_Description:  
+        Aquifer data was taken from digital files created in Adobe Illustrator 
+        for Ground Water Atlas chapter HA 730-N of Hawaii, Puerto Rico, and the  
+        U.S. Virgin Islands.  Where polygons ended at the shoreline, National 
+        Atlas State boundaries were used.  The final Illustrator file was 
+        exported into a DXF file.  The DXF file was converted to a coverage. 
+        Using the TRANSFORM command, the coverage containing the aquifer lines 
+        was rubber-sheeted to the coverage containing registration tics, and was 
+        then projected from geographic coordinates to Albers Equal-Area Conic 
+        projection for verification purposes.  The aquifer coverage was cleaned, 
+        the topology was built, and labels were added.  Attributes were added as 
+        necessary. 
+      Source_Used_Citation_Abbreviation: Atlas-State boundaries
+      Source_Used_Citation_Abbreviation: GWA HA 730-N-HI
+      Process_Date: 2000
+      Source_Produced_Citation_Abbreviation: Hawaii aquifers
+
+    Process_Step:
+      Process_Description:  
+        Aquifer data was taken from digital files created in Adobe Illustrator 
+        for Ground Water Atlas chapter HA 730-N of Hawaii, Puerto Rico, and the  
+        U.S. Virgin Islands.  Where polygons ended at the shoreline, National 
+        Atlas State boundaries were used.  The final Illustrator file was 
+        exported into a DXF file.  The DXF file was converted to a coverage. 
+        Using the TRANSFORM command, the coverage containing the aquifer lines 
+        was rubber-sheeted to the coverage containing registration tics, and was 
+        then projected from geographic coordinates to Albers Equal-Area Conic 
+        projection for verification purposes.  The aquifer coverage was cleaned, 
+        the topology was built, and labels were added.  Attributes were added as 
+        necessary. 
+      Source_Used_Citation_Abbreviation: Atlas-State boundaries
+      Source_Used_Citation_Abbreviation: GWA HA 730-N-PR
+      Process_Date: 2000
+      Source_Produced_Citation_Abbreviation: Caribbean aquifers
+
+    Process_Step:
+      Process_Description:  
+        The Principal Aquifers map published in 1998 was reviewed and modified, 
+        resulting in 57 aquifers, 36 of which were the same geographically as in 
+        the 1998 publication.  Aquifers were aggregated, divided, renamed and 
+        updated from more recent publications, using a variety of techniques, 
+        which include scanning, importing unpublished digital data and paper 
+        compilation at 1:2,500,000 scale.  The updated Adobe Illustrator aquifer 
+        data was exported into a DXF file.  The DXF file was converted to a 
+        coverage.  Using the TRANSFORM command, the coverage containing the 
+        aquifer lines was rubber-sheeted to the coverage containing registration 
+        tics, and was then projected from geographic coordinates to Albers 
+        Equal-Area Conic projection for verification purposes.  The aquifer 
+        coverage was cleaned, the topology was built, and labels were added.  
+        Attributes were added as necessary.
+      Source_Used_Citation_Abbreviation: Atlas-principal Aquifers_1998
+      Source_Used_Citation_Abbreviation: HA 730-B
+      Source_Used_Citation_Abbreviation: HA 730-C
+      Source_Used_Citation_Abbreviation: HA 730-D
+      Source_Used_Citation_Abbreviation: HA 730-E
+      Source_Used_Citation_Abbreviation: HA 730-F
+      Source_Used_Citation_Abbreviation: HA 730-G
+      Source_Used_Citation_Abbreviation: HA 730-H
+      Source_Used_Citation_Abbreviation: HA 730-I
+      Source_Used_Citation_Abbreviation: HA 730-J
+      Source_Used_Citation_Abbreviation: HA 730-K
+      Source_Used_Citation_Abbreviation: HA 730-L
+      Source_Used_Citation_Abbreviation: HA 730-M
+      Source_Used_Citation_Abbreviation: PP 1424-D     
+      Source_Used_Citation_Abbreviation: PP 1424-B
+      Source_Used_Citation_Abbreviation: PP 1418
+      Source_Used_Citation_Abbreviation: WRIR
+      Process_Date: 2001
+      Source_Produced_Citation_Abbreviation: 
+        Principal aquifers 2001 intermediate file
+
+    Process_Step:
+      Process_Description:  
+        The Principal Aquifers coverages of Hawaii, Puerto Rico, and the U.S. 
+        Virgin Islands were merged with the coverage of the conterminous United 
+        States.  The coverage was read into ArcGIS and both a personal 
+        geodatabase and a shapefile were created.
+      Source_Used_Citation_Abbreviation: 
+        Principal aquifers 2001 intermediate file
+      Source_Used_Citation_Abbreviation: Hawaii aquifers
+      Source_Used_Citation_Abbreviation: Caribbean aquifers
+      Process_Date: 2003
+
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 4637
+
+Spatial_Reference_Information: 
+  Horizontal_Coordinate_System_Definition: 
+    Geographic: 
+      Latitude_Resolution: 0.000278  
+      Longitude_Resolution: 0.000278  
+      Geographic_Coordinate_Units: Decimal degrees 
+    Geodetic_Model: 
+      Horizontal_Datum_Name: North American Datum of 1983 
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137.0 
+      Denominator_of_Flattening_Ratio: 298.257222
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Aquifer (described by aquifrp025 or aquifrp025.dbf)
+      Entity_Type_Definition: 
+        A formation, group of formations, or part of a formation that contains 
+        sufficient saturated permeable material to yield significant quantities 
+        of water to wells and springs.
+      Entity_Type_Definition_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Objectid
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 4637
+    Attribute:
+      Attribute_Label: Shape 
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Polygon
+          Enumerated_Domain_Value_Definition: 2-dimensional element
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Rock_name
+      Attribute_Definition: 
+        The name of the permeable geologic material that composes the aquifer.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Carbonate-rock aquifers
+          Enumerated_Domain_Value_Definition: 
+            Formations composed of limestone and (or) dolomite.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Igneous and metamorphic-rock aquifers
+          Enumerated_Domain_Value_Definition: 
+            Formations composed of volcanic rocks.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Sandstone and carbonate-rock aquifers
+          Enumerated_Domain_Value_Definition: 
+            Formations composed of sandstone, limestone, and (or) dolomite.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Sandstone aquifers
+          Enumerated_Domain_Value_Definition: Formations composed of sandstone.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Semiconsolidated sand aquifers
+          Enumerated_Domain_Value_Definition: 
+            Formations partially solidified sand.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Unconsolidated sand and gravel aquifers
+          Enumerated_Domain_Value_Definition: 
+            Formations composed of loose sand and gravel.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            Other rocks.  Rocks that are generally poorly permeable but locally 
+            may contain productive aquifers.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Rock_type
+      Attribute_Definition: The code number relating to the rock_name.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 100
+          Enumerated_Domain_Value_Definition: 
+            Unconsolidated sand and gravel aquifers.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 200
+          Enumerated_Domain_Value_Definition: Semiconsolidated sand aquifers.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 300
+          Enumerated_Domain_Value_Definition: Sandstone aquifers.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 400
+          Enumerated_Domain_Value_Definition: Carbonate-rock aquifers.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 500
+          Enumerated_Domain_Value_Definition: 
+            Sandstone and carbonate-rock aquifers.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 600
+          Enumerated_Domain_Value_Definition: 
+            Igneous and metamorphic-rock aquifers.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 999
+          Enumerated_Domain_Value_Definition: Areas that are other rocks.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Aq_name
+      Attribute_Definition: The aquifer unit name.  
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (see table below)
+          Enumerated_Domain_Value_Definition: 
+            The names used in this map layer are listed below.  There should be 
+            a direct correlation between the values of the rock_type and 
+            rock_name attributes, and between the aq_name and aq_code 
+            attributes.  The aq_names are as follows:
+            >aq_code -- aq_name
+            >101 -- Basin and Range basin-fill aquifers
+            >102 -- Rio Grande aquifer system
+            >103 -- California Coastal Basin aquifers
+            >104 -- Pacific Northwest basin-fill aquifers
+            >105 -- Northern Rocky Mountains Intermontane Basins aquifer system
+            >106 -- Central Valley aquifer system
+            >107 -- High Plains aquifer
+            >108 -- Pecos River Basin alluvial aquifer
+            >109 -- Mississippi River Valley alluvial aquifer
+            >110 -- Seymour aquifer
+            >111 -- Surficial aquifer system
+            >112 –- Puget Sound aquifer system
+            >114 –- Puerto Rico south coast aquifer
+            >115 –- Willamette Lowland basin-fill aquifers
+            >116 –- Columbia Plateau basin-fill aquifers
+            >117 –- Snake River Plain basin-fill aquifers
+            >201 -- Coastal lowlands aquifer system
+            >202 -- Texas coastal uplands aquifer system
+            >203 -- Mississippi embayment aquifer system
+            >204 -- Southeastern Coastal Plain aquifer system
+            >205 -- Northern Atlantic Coastal Plain aquifer system
+            >301 -- Colorado Plateaus aquifers
+            >302 -- Denver Basin aquifer system
+            >304 -- Lower Cretaceous aquifers
+            >305 -- Rush Springs aquifer
+            >306 -- Central Oklahoma aquifer
+            >307 -- Ada-Vamoosa aquifer
+            >308 -- Early Mesozoic basin aquifers
+            >309 -- New York sandstone aquifers
+            >310 -- Pennsylvanian aquifers
+            >311 -- Marshall aquifer 
+            >312 -- Cambrian-Ordovician aquifer system
+            >313 -- Jacobsville aquifer
+            >314 -- Lower Tertiary aquifers
+            >315 -- Upper Cretaceous aquifers
+            >316 –- Wyoming Tertiary aquifers
+            >401 -- Basin and Range carbonate-rock aquifers
+            >402 -- Roswell Basin aquifer system
+            >405 -- Ozark Plateaus aquifer system
+            >406 -- Blaine aquifer
+            >407 -- Arbuckle-Simpson aquifer
+            >410 -- Silurian-Devonian aquifers
+            >411 -- Ordovician aquifers
+            >412 -- Upper carbonate aquifer
+            >413 -- Floridan aquifer system
+            >414 -- Biscayne aquifer
+            >416 -- New York and New England carbonate-rock aquifers
+            >417 -- Piedmont and Blue Ridge carbonate-rock aquifers
+            >418 -- Castle Hayne aquifer
+            >419 –- Puerto Rico North Coast Limestone aquifer system
+            >420 -– Kingshill aquifer 
+            >501 -- Edwards-Trinity aquifer system
+            >502 -- Valley and Ridge aquifers
+            >503 -- Mississippian aquifers
+            >504 -- Paleozoic aquifers
+            >505 -- Valley and Ridge carbonate-rock aquifers
+            >601 -- Southern Nevada volcanic-rock aquifers
+            >606 -- Snake River Plain basaltic-rock aquifers
+            >607 -- Columbia Plateau basaltic-rock aquifers
+            >608 -- Hawaiian Volcanic-rock aquifers
+            >609 –- Hawaiian Sedimentary deposit aquifers
+            >610 -– Pacific Northwest basaltic-rock aquifers
+            >611 -– Piedmont and Blue Ridge crystalline-rock aquifers
+            >999 –- Other rocks.  Rocks that are generally poorly permeable but 
+            >         locally may contain productive aquifers.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Aq_code
+      Attribute_Definition: 
+        The code number relating to the aquifer unit name.  There should be a 
+        direct correlation between the values of the Rock_type and Rock_name
+        attributes, and between the Aq_name and Aq_code attributes.  See table 
+        above under Aq_name.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 101
+          Range_Domain_Maximum: 999
+    Attribute:
+      Attribute_Label: Shape_leng
+      Attribute_Definition: 
+        The perimeter of the shape in file units.  In the distributed file, 
+        file units represent decimal degrees.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+       Range_Domain:
+          Range_Domain_Minimum: 0.00227382883
+          Range_Domain_Maximum: 606.73264435600
+    Attribute:
+      Attribute_Label: Shape_area
+      Attribute_Definition: 
+        The size of the shape in file units.  In the distributed file, 
+        file units represent square decimal degrees.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00000020307
+          Range_Domain_Maximum: 56.31953779930
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey, Water Resources Division
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Drive
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+        Country: USA
+      Contact_Voice_Telephone: 1-800-426-9000
+  Distribution_Liability:  
+    Although these data have been processed successfully on a computer system at 
+    the U.S. Geological Survey, no warranty expressed or implied is made by the 
+    U.S. Geological Survey regarding the utility of the data on any other 
+    system, nor shall the act of distribution constitute any such warranty.
+  Standard_Order_Process:
+    Digital_Form: 
+      Digital_Transfer_Information: 
+        Format_Name: ESRI Personal Geodatabase 
+      Digital_Transfer_Option: 
+        Online_Option: 
+          Computer_Contact_Information: 
+            Network_Address: 
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html> 
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SDTS
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+
+    Fees: There is no charge for the map layer.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20050426
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+        Contact_Person: 
+          Chief, Cartographic and Publications Program, Water Resources Division
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 505 Science Drive
+        City: Madison
+        State_or_Province: WI
+        Postal_Code: 53711
+        Country: USA
+      Contact_Voice_Telephone: 608-238-9333
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
