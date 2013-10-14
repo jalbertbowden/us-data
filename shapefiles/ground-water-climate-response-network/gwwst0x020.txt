@@ -1,0 +1,432 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date: 200506
+      Title: Ground-Water Climate Response Network
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+
+  Description:
+    Abstract:
+      This map layer shows the locations of wells maintained by the U.S.
+      Geological Survey (USGS) that are used to monitor the effects of droughts
+      and other climate variability on ground-water levels.  The Ground-Water 
+      Climate Response Network consists of a national network of about 140 wells 
+      monitored as part of the Ground-Water Resources Program.  It is 
+      supplemented by more than 200 wells monitored as part of the Cooperative 
+      Water Program that meet the same network criteria, which are: open to a 
+      single, known hydrogeologic unit; known well construction that allows good 
+      water-level measurements; located in unconfined aquifers or near-surface 
+      confined aquifers that respond to climatic fluctuations; minimally 
+      affected by pumpage and likely to remain so; essentially unaffected by 
+      irrigation, canals, and other potential sources of artificial recharge; 
+      long-term accessibility; and well has never gone dry (not susceptible to 
+      going dry).  
+ 
+    Purpose:
+      These data are intended for geographic display and analysis at the 
+      national level, and for large regional areas.  The data should be 
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale data.  
+      No responsibility is assumed by the National Atlas of the United States 
+      or the U.S. Geological Survey in the use of these data.  
+
+    Supplemental_Information:
+      This map layer represents a 'snapshot' of ground-water levels on a 
+      specific date.  Current ground-water level information, updated on a daily 
+      basis, is available from the Ground-Water Climate Response Network home 
+      page at <http://groundwaterwatch.usgs.gov/>.  More than 200 of the network
+      wells are equipped with telemetry that transmits a reading of water level 
+      to an office by satellite or telephone.  The data typically are updated 
+      every 4 hours.
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 20050301
+    Currentness_Reference: Ground condition
+
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -155
+      East_Bounding_Coordinate: -66
+      North_Bounding_Coordinate: 65
+      South_Bounding_Coordinate: 17
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: Environment
+      Theme_Keyword: Geoscientific information
+
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Ground-water climate response network
+      Theme_Keyword: Ground water
+      Theme_Keyword: Groundwater
+      Theme_Keyword: Ground-water
+      Theme_Keyword: Wells
+      Theme_Keyword: Drought 
+      Theme_Keyword: Water
+      Theme_Keyword: Climate
+    Place:
+      Place_Keyword_Thesaurus:
+        U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of 
+        Special Sovereignty, and Their Principal Administrative Divisions
+        (Federal Information Processing Standard 10-4): Washington, DC, 
+        National Institute of Standards and Technology.
+      Place_Keyword: United States
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: USA
+    Place:
+      Place_Keyword_Thesaurus:
+        U.S. Department of Commerce, 1987, Codes for the Identification of the 
+        States, the District of Columbia and the Outlying Areas of The United
+        States, and Associated Areas (Federal Processing Standard 5-2):  
+        Washington, DC, National Institute of Standards and Technology.
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+      Place_Keyword: Puerto Rico
+      Place_Keyword: Virgin Islands
+      Place_Keyword: Virgin Islands of the United States
+
+  Access_Constraints: None
+  Use_Constraints:
+    None.  Acknowledgment of the National Atlas of the United States of America 
+    and (or) the U.S. Geological Survey would be appreciated in products derived 
+    from these data.
+
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Linda Geiger
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: MS 411 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+        Country: USA
+      Contact_Voice_Telephone: 703-648-5011
+      Contact_Facsimile_Telephone: 703-648-6693
+      Contact_Electronic_Mail_Address: lgeiger@usgs.gov
+
+  Data_Set_Credit:
+    The following U.S. Geological Survey scientists contributed to this 
+    map layer: Xiaodong Jian, George Karavitis.
+
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: 
+      Site information is checked yearly.  Latitude and longitude values may not 
+      be verified.
+  Logical_Consistency_Report:
+      No tests for logical consistency were performed on this data set.
+  Completeness_Report:
+    This map layer contains the locations of the 331 wells that are currently in 
+    the ground-water climate response network.  New sites are added as
+    requested.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 20050301 
+          Title: Ground-Water Wells
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+          Online_Linkage: <http://groundwaterwatch.usgs.gov/>
+      Type_of_Source_Media: Electronic mail
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 20050301 
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: GWW
+      Source_Contribution: Spatial and attribute information.
+
+    Process_Step:
+      Process_Description:
+        A shapefile containing the ground-water wells information was received 
+        and renamed.  Unnecessary attribute fields were deleted.
+      Source_Used_Citation_Abbreviation: GWW
+      Process_Date: 200503
+
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference:
+    U.S. Department of Commerce, 1987, Codes for the Identification of the 
+    States, the District of Columbia and the Outlying Areas of The United 
+    States, and Associated Areas (Federal Information Processing Standard 5-2):  
+    Washington, DC, National Institute of Standards and Technology.
+
+  Direct_Spatial_Reference_Method: Point
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Point
+      Point_and_Vector_Object_Count: 331
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000278
+      Longitude_Resolution: 0.000278
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137.0
+      Denominator_of_Flattening_Ratio: 298.257222
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label:
+        Wells in the Ground-Water Climate Response Network (described by 
+        gwwst0x020.dbf)
+      Entity_Type_Definition:
+        Ground-water wells within the United States that are used for monitoring 
+        climate conditions.
+      Entity_Type_Definition_Source: National Atlas of the United States
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Point
+          Enumerated_Domain_Value_Definition: 0-dimensional element
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Gwwst0x020
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 331
+    Attribute:
+      Attribute_Label: Staid
+      Attribute_Definition: Ground-water well identification number.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 175947066130601
+          Range_Domain_Maximum: 645434147385101
+    Attribute:
+      Attribute_Label: St
+      Attribute_Definition: The State in which the well is located.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name:
+            Codes for the Identification of the States, the District of 
+            Columbia and the Outlying Areas of the United States, and 
+            Associated Areas, FIPS 5-2, 1987.
+          Codeset_Source:
+            U.S. Department of Commerce, National Institute of Standards and
+            Technology
+    Attribute:
+      Attribute_Label: Latdd 
+      Attribute_Definition: 
+        The latitude of the well, in decimal degrees.
+      Attribute_Definition_Source: National Atlas of the United States 
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 17.996
+          Range_Domain_Maximum: 64.909
+    Attribute:
+      Attribute_Label: Longdd
+      Attribute_Definition: 
+        The longitude of the well, in decimal degrees.
+      Attribute_Definition_Source: National Atlas of the United States 
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -155.896
+          Range_Domain_Maximum: -66.216
+    Attribute:
+      Attribute_Label: Latdms
+      Attribute_Definition: 
+        The latitude of the well, in degrees, minutes, and seconds.
+      Attribute_Definition_Source: National Atlas of the United States 
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 175946
+          Range_Domain_Maximum: 645434
+    Attribute:
+      Attribute_Label: Longdms
+      Attribute_Definition: 
+        The longitude of the well, in degrees, minutes, and seconds.  All values
+        represent West longitude.       
+      Attribute_Definition_Source: National Atlas of the United States 
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 661259
+          Range_Domain_Maximum: 1555344
+    Attribute:
+      Attribute_Label: Symbol
+      Attribute_Definition: 
+        An indication of how frequently data are collected from the well.
+      Attribute_Definition_Source: National Atlas of the United States 
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: 
+            Data are collected continuously and values are transmitted via 
+            satellite on a quasi-real-time basis, every four hours, then 
+            processed and stored in the USGS National Water Information System.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: 
+            Data are collected on a continuous basis using onsite 
+            instrumentation.  These data are downloaded to a laptop or over a 
+            phone line at varying frequencies, but, generally about every 6-8 
+            weeks, processed and stored in the USGS National Water Information 
+            System.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: 3
+          Enumerated_Domain_Value_Definition: 
+            Data are manually collected at varying intervals, processed and 
+            stored in the USGS National Water Information System.   
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+    Attribute:
+      Attribute_Label: Url
+      Attribute_Definition: World Wide Web address for the individual well.
+      Attribute_Definition_Source: National Atlas of the United States 
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: 
+          There is no predefined set of valid URLs. 
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions: 
+        In addition to the address above there are other ESIC offices throughout 
+        the country.  A full list of these offices is at 
+        <http://geography.usgs.gov/esic/esic_index.html>.
+
+  Distribution_Liability: 
+    Although these data have been processed successfully on a computer system at 
+    the U.S. Geological Survey, no warranty expressed or implied is made by the 
+    U.S. Geological Survey regarding the utility of the data on any other 
+    system, nor shall the act of distribution constitute any such warranty.  No 
+    responsibility is assumed by the U.S. Geological Survey in the use of these 
+    data.  
+
+  Standard_Order_Process: 
+    Digital_Form: 
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile 
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SDTS
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+    Fees:
+      There is no charge for the map layer.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20050413
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Gita Urban-Mathieux
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Dr
+        Address: MS 561
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-5175
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name:
+    FGDC Content Standards for Digital Geospatial Metadata 
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information: 
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
