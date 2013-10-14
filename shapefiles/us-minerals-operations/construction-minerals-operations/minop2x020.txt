@@ -1,0 +1,473 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date: 200512
+      Title: Construction Minerals Operations
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: http://nationalatlas.gov/atlasftp.html
+
+  Description:
+    Abstract:
+      This map layer includes construction minerals operations in the United
+      States.  The data represent commodities covered by the Minerals 
+      Information Team (MIT) of the U.S. Geological Survey.  The mineral 
+      operations are plants and (or) mines surveyed by the MIT and considered 
+      currently active in 2003.  Excluded are construction sand and gravel and 
+      crushed stone.  This is a replacement for the June 2004 map layer.
+    Purpose: 
+      These data are intended for geographic display and analysis at the 
+      national level, and for large regional areas.  The data should be 
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale 
+      data.  No responsibility is assumed by the U.S. Geological Survey or 
+      the National Atlas of the United States in the use of these data. 
+    Supplemental_Information: 
+      Additional minerals operations information can be obtained from the U.S. 
+      Geological Survey Minerals Information web page at 
+      http://minerals.usgs.gov/minerals/.
+  Time_Period_of_Content:
+    Time_Period_Information:
+        Single_Date/Time:
+          Calendar_Date: 2003
+    Currentness_Reference: Ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -123.0 
+      East_Bounding_Coordinate: -68.0 
+      North_Bounding_Coordinate: 49.0
+      South_Bounding_Coordinate: 25.0
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: Economy
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Minerals
+      Theme_Keyword: Mines
+      Theme_Keyword: Mining operations
+      Theme_Keyword: Minerals operations
+      Theme_Keyword: Processing plants
+      Theme_Keyword: Construction minerals
+      Theme_Keyword: Ball clay
+      Theme_Keyword: Cement
+      Theme_Keyword: Common clay and Shale
+      Theme_Keyword: Dimension stone
+      Theme_Keyword: Gypsum
+      Theme_Keyword: Mica
+      Theme_Keyword: Perlite
+      Theme_Keyword: Pumice
+
+    Place:
+      Place_Keyword_Thesaurus:
+        U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of 
+        Special Sovereignty, and Their Principal Administrative Divisions 
+        (Federal Information Processing Standard (FIPS) 10-4): Washington, DC, 
+        National Institute of Standards and Technology.
+      Place_Keyword: United States
+
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: USA
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Massachusetts
+      Place_Keyword: Maryland
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+
+  Access_Constraints: None
+  Use_Constraints: 
+    None.  Acknowledgment of the National Atlas of the United States of America 
+    and (or) the U.S. Geological Survey would be appreciated in products derived 
+    from these data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Robert M. Callaghan
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 983 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-7709
+      Contact_Electronic_Mail_Address: rcallaghan@usgs.gov
+
+Data_Quality_Information:
+  Logical_Consistency_Report: 
+    No tests for logical consistency were performed on this map layer.
+
+  Completeness_Report:
+    This category includes only economically significant U.S. minerals 
+    operations covered by the Minerals Information Team of the U.S. Geological 
+    Survey and considered currently active in 2003.  No energy minerals 
+    operations are included.  No secondary (recycling, "downstream") operations 
+    are included.  This map layer shows plants and (or) mines in the United 
+    States.
+
+    Clay operations (ball clay, common clay) may have many satellite pits, not 
+    all of which are specifically included.  The points included are 
+    representative of the companies.
+
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: Unpublished material
+          Title: Automated Minerals Information System (AMIS)
+      Type_of_Source_Media: Internal USGS server
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2003
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: AMIS
+      Source_Contribution: Minerals operations descriptions
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 2004
+          Title: U.S. Geological Survey Minerals Yearbook Volume 1
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+          Online_Linkage: http://minerals.usgs.gov/minerals/pubs/commodity/myb
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2003
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: Minerals Yearbook
+      Source_Contribution: 
+        The USGS Minerals Yearbook (MYB) contains statistical data and 
+        information about approximately 90 commodities.  Active operations were 
+        identified from tables and text in the MYB.
+
+    Process_Step:
+      Process_Description: 
+        AMIS contains both proprietary and nonproprietary information.  For each 
+        commodity, the Minerals Information Team (MIT) extracted from AMIS the 
+        nonproprietary information useful for this application and placed this 
+        information in a separate MicroSoft Excel spreadsheet.  The MIT 
+        determined latitude and longitude for each mineral operation from at 
+        least one of the following sources: 
+        > Minerals Availability System/Minerals Industry Location System 
+        > (MAS/MILS) CD-ROM, U.S. Bureau of Mines Special Publication 12-95
+        > http://www.yahoo.com Searches performed on company or operation 
+        > name.
+        > http://www.switchboard.com Searches performed on company or 
+        > operation name.
+        > http://www.epa.gov/enviro/html/multisystem_query_java.html Searches 
+        > performed on company or operation name.
+        >
+        Whenever possible the locational information was checked for accuracy.  
+        The minerals operations were then placed in commodity groupings. 
+        The resulting MicroSoft Excel spreadsheet containing construction 
+        minerals operations was converted to a text file.  The text file was 
+        loaded into ArcView and a shapefile was created.  
+      Source_Used_Citation_Abbreviation: AMIS
+      Source_Used_Citation_Abbreviation: Minerals Yearbook
+      Process_Date: 200511
+
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference:
+    U.S. Department of Commerce, 1987, Codes for the Identification of the 
+    States, the District of Columbia and the Outlying Areas of the United 
+    States, and Associated Areas (FIPS 5-2): Washington, DC, National 
+    Institute of Standards and Technology.
+
+    U.S. Department of Commerce, 1990, Counties and Equivalent Entities of the 
+    United States, Its Possessions, and Associated Areas, (FIPS 6-4): 
+    Washington, DC, National Institute of Standards and Technology.
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 766
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000278
+      Longitude_Resolution: 0.000278
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257222
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: 
+        Construction minerals operations excluding crushed stone and sand and
+        gravel.
+      Entity_Type_Definition: 
+        Facilities that extract, process, and (or) distribute construction 
+        minerals.
+      Entity_Type_Definition_Source: 
+        U.S. Geological Survey, Minerals Information Team
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Point
+          Enumerated_Domain_Value_Definition: 0-dimensional element.
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Minop2x020
+      Attribute_Definition: Internal feature number
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 766
+    Attribute:
+      Attribute_Label: Commodity
+      Attribute_Definition: 
+        The mineral(s) produced or processed by the facility.
+      Attribute_Definition_Source: 
+        U.S. Geological Survey, Minerals Information Team
+      Attribute_Domain_Values:
+        Codeset_Domain: 
+          Codeset_Name: 
+            Mineral Commodity Summaries, 2003
+            http://minerals.usgs.gov/minerals/pubs/mcs/
+          Codeset_Source: 
+            U.S. Geological Survey, Minerals Information Team
+    Attribute:
+      Attribute_Label: Site_name
+      Attribute_Definition: The name of the facility.
+      Attribute_Definition_Source: 
+        U.S. Geological Survey, Minerals Information Team
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: 
+          There is no predefined set of valid facility names.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: The facility name is not known.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey, Minerals Information Team
+    Attribute:
+      Attribute_Label: Company_na
+      Attribute_Definition: 
+        The name of the company which operates the facility.
+      Attribute_Definition_Source: 
+        U.S. Geological Survey, Minerals Information Team
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: 
+          There is no predefined set of valid company names.
+    Attribute:
+      Attribute_Label: State_loca
+      Attribute_Definition: 
+        The State in which the facility is located.
+      Attribute_Definition_Source: 
+        U.S. Geological Survey, Minerals Information Team
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Codes for the Identification of the States, the District of Columbia 
+            and the Outlying Areas of the United States, and Associated Areas, 
+            FIPS 5-2, 1987.
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology
+    Attribute:
+      Attribute_Label: County
+      Attribute_Definition: 
+        The County or County equivalent in which the facility is located.
+      Attribute_Definition_Source: 
+        U.S. Geological Survey, Minerals Information Team
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Counties and Equivalent Entities of the United States, Its 
+            Possessions, and Associated Areas, FIPS 6-4, 1990.
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Various counties
+          Enumerated_Domain_Value_Definition: 
+            The facility is located in several counties.  Points that represent 
+            clay operations may have many satellite pits, not all of which are 
+            specifically included.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey, Minerals Information Team
+    Attribute:
+      Attribute_Label: Latitude
+      Attribute_Definition: 
+        Angular distance measured on a meridian north or south from the equator.
+      Attribute_Definition_Source: 
+        Department of Commerce, 1992, Spatial Data Transfer Standard.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 25.763
+          Range_Domain_Maximum: 48.737
+          Attribute_Units_of_Measure: Decimal degrees
+    Attribute:
+      Attribute_Label: Longitude
+      Attribute_Definition: 
+        Angular distance between the plane of a  meridian east or west from the 
+        plane of the meridian of Greenwich, United Kingdom.
+      Attribute_Definition_Source: 
+        Department of Commerce, 1992, Spatial Data Transfer Standard.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -122.816
+          Range_Domain_Maximum: -68.677
+          Attribute_Units_of_Measure: Decimal degrees
+    Attribute:
+      Attribute_Label: Plant_min
+      Attribute_Definition: 
+        Whether the facility is a plant or a mine.
+      Attribute_Definition_Source: 
+        U.S. Geological Survey, Minerals Information Team
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: M
+          Enumerated_Domain_Value_Definition: The facility is a mine.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey, Minerals Information Team
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: M/P
+          Enumerated_Domain_Value_Definition: 
+            The facility is both a mine and a plant.
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey, Minerals Information Team
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: P
+          Enumerated_Domain_Value_Definition: The facility is a plant.
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey, Minerals Information Team
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions: 
+        In addition to the address above there are other ESIC offices throughout 
+        the country.  A full list of these offices is at
+        http://geography.usgs.gov/esic/esic_index.html
+  Distribution_Liability:  
+    Although these data have been processed successfully on a computer system at 
+    the U.S. Geological Survey, no warranty expressed or implied is made by the 
+    U.S. Geological Survey regarding the utility of the data on any other  
+    system, nor shall the act of distribution constitute any such warranty.  No 
+    responsibility is assumed by the U.S. Geological Survey in the use of these 
+    data.  
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://nationalatlas.gov/atlasftp.html
+    Digital_Form: 
+      Digital_Transfer_Information: 
+        Format_Name: SDTS 
+      Digital_Transfer_Option: 
+        Online_Option: 
+          Computer_Contact_Information:
+            Network_Address: 
+              Network_Resource_Name: http://nationalatlas.gov/atlasftp.html
+    Fees: There is no charge for the map layer.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20051130
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Peg Rawson
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Drive
+        Address: MS-561 
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-4183
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: 
+    FGDC Content Standards for Digital Geospatial Metadata 
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information: 
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+
+    Metadata_Security_Handling_Description: None
+
