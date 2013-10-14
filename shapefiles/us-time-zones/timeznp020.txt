@@ -1,0 +1,947 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: National Atlas of the United States
+        Publication_Date: 200906
+        Title: Time Zones of the United States
+        Publication_Information:
+          Publication_Place: Reston, VA
+          Publisher: National Atlas of the United States
+        Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+
+    Description:
+      Abstract:
+        This map layer portrays the time zones of the United States, Puerto Rico,
+        and the U.S. Virgin Islands.  Also included are the Greenwich Mean Time
+        offset, and areas in the U.S. where daylight saving time is observed.
+        This is a revised version of the June 2005 map layer.
+      Purpose:
+        These data are intended for geographic display and analysis at the
+        national level, and for large regional areas.  The data should be
+        displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
+        No responsibility is assumed by the National Atlas of the United States or
+        the U.S. Geological Survey in the use of these data.
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Range_of_Dates/Times:
+          Beginning_Date: 1972
+          Ending_Date: 2009
+      Currentness_Reference: Ground condition
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: Irregular
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: 170
+        East_Bounding_Coordinate: -64
+        North_Bounding_Coordinate: 72
+        South_Bounding_Coordinate: 17
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: Boundaries
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: Time zones
+        Theme_Keyword: Atlantic
+        Theme_Keyword: Eastern
+        Theme_Keyword: Central
+        Theme_Keyword: Mountain
+        Theme_Keyword: Pacific
+        Theme_Keyword: Alaska
+        Theme_Keyword: Hawaii-Aleutian
+        Theme_Keyword: Greenwich Mean Time
+        Theme_Keyword: Daylight Saving Time
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of
+          Special Sovereignty, and Their Principal Administrative Divisions
+          (Federal Information Processing Standard (FIPS) 10-4): Washington, DC,
+          National Institute of Standards and Technology.
+        Place_Keyword: United States
+      Place:
+        Place_Keyword_Thesaurus: None
+        Place_Keyword: USA
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce, 1987, Codes for the Identification of the
+          States, the District of Columbia and the Outlying Areas of The United
+          States, and Associated Areas (FIPS 5-2):  Washington, DC, National
+          Institute of Standards and Technology.
+        Place_Keyword: Alabama
+        Place_Keyword: Alaska
+        Place_Keyword: Arizona
+        Place_Keyword: Arkansas
+        Place_Keyword: California
+        Place_Keyword: Colorado
+        Place_Keyword: Connecticut
+        Place_Keyword: Delaware
+        Place_Keyword: District of Columbia
+        Place_Keyword: Florida
+        Place_Keyword: Georgia
+        Place_Keyword: Hawaii
+        Place_Keyword: Idaho
+        Place_Keyword: Illinois
+        Place_Keyword: Indiana
+        Place_Keyword: Iowa
+        Place_Keyword: Kansas
+        Place_Keyword: Kentucky
+        Place_Keyword: Louisiana
+        Place_Keyword: Maine
+        Place_Keyword: Maryland
+        Place_Keyword: Massachusetts
+        Place_Keyword: Michigan
+        Place_Keyword: Minnesota
+        Place_Keyword: Mississippi
+        Place_Keyword: Missouri
+        Place_Keyword: Montana
+        Place_Keyword: Nebraska
+        Place_Keyword: Nevada
+        Place_Keyword: New Hampshire
+        Place_Keyword: New Jersey
+        Place_Keyword: New Mexico
+        Place_Keyword: New York
+        Place_Keyword: North Carolina
+        Place_Keyword: North Dakota
+        Place_Keyword: Ohio
+        Place_Keyword: Oklahoma
+        Place_Keyword: Oregon
+        Place_Keyword: Pennsylvania
+        Place_Keyword: Rhode Island
+        Place_Keyword: South Carolina
+        Place_Keyword: South Dakota
+        Place_Keyword: Tennessee
+        Place_Keyword: Texas
+        Place_Keyword: Utah
+        Place_Keyword: Vermont
+        Place_Keyword: Virginia
+        Place_Keyword: Washington
+        Place_Keyword: West Virginia
+        Place_Keyword: Wisconsin
+        Place_Keyword: Wyoming
+        Place_Keyword: Puerto Rico
+        Place_Keyword: Virgin Islands
+        Place_Keyword: U.S. Virgin Islands
+    Access_Constraints: None
+    Use_Constraints:
+      None.  Acknowledgment of the National Atlas of the United States of America
+      and (or) the U.S. Geological Survey would be appreciated in products derived
+      from these data.
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Jay Donnelly 
+          Contact_Organization: National Atlas of the United States 
+        Contact_Address: 
+          Address_Type: Mailing and physical address 
+          Address: 12201 Sunrise Valley Drive 
+          Address: Room 2D200 
+          City: Reston 
+          State_or_Province: VA 
+          Postal_Code: 20192 
+        Contact_Voice_Telephone: 703-648-5395
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+
+  Data_Quality_Information:
+    Logical_Consistency_Report:  
+      No checks for topological consistency were performed on this map layer.
+    Completeness_Report:
+      This map layer includes time zones for the United States, Puerto Rico, and
+      the U.S. Virgin Islands.
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Archives and Records
+            Publication_Date: 1997
+            Title:
+              Code of Federal Regulations, Title 49--Transportation, Subtitle A--
+              Office of the Secretary of Transportation, Part 71--Standard Time
+              Zone Boundaries
+            Publication_Information:
+              Publication_Place: Washington, DC
+              Publisher: National Archives and Records Administration
+            Online_Linkage: <http://www.gpoaccess.gov/cfr/index.html>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 1997
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: CFR-TZ
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Weather Service
+            Publication_Date: 1999
+            Title: Counties of the U.S.
+            Publication_Information:
+              Publication_Place: Silver Spring, MD
+              Publisher: National Weather Service
+            Online_Linkage: <http://www.nws.noaa.gov/geodata/catalog/county/html/county100k.htm>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 1999
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: NWS-CNTY
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 1998
+            Title: County Boundaries of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 1998
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-CNTY
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 1998
+            Title: Hydrography Features of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 1998
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-HY
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 199907
+            Title: Public Land Survey System of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Internal file
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 1999
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-PL
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 1998
+            Title: Railroads of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 1998
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-RR
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: 1985
+            Title: Goose Creek, NE
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: U.S. Geological Survey
+        Source_Scale_Denominator: 100000
+        Type_of_Source_Media: Paper
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 1985
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: GooseCreek-100K
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: 1985
+            Title: Valentine, SD-NE
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: U.S. Geological Survey
+        Source_Scale_Denominator: 100000
+        Type_of_Source_Media: Paper
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 1985
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: Valentine-100K
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200001
+            Title: Time Zones of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 20000110
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-TZ
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Weather Service
+            Publication_Date: 1998
+            Title: CONUS Time Zones - Splits
+            Publication_Information:
+              Publication_Place: Silver Spring, MD
+              Publisher: National Weather Service
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 1998
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: TZ-SPLIT
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Weather Service
+            Publication_Date: 2002
+            Title: CONUS and Non CONUS Counties
+            Publication_Information:
+              Publication_Place: Silver Spring, MD
+              Publisher: National Weather Service
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 20020205
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: C_05FE02
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200205
+            Title: Time Zones of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 200205
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-TZ02
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200208
+            Title: County Boundaries of the United States, 2001
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 200208
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-CNTY01
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200311
+            Title: Time Zones of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 200311
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-TZ03
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 199911
+            Title: Major Roads of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 199911
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-ROAD
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200401
+            Title: Time Zones of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 200401
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-TZ0401
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Institute of Standards and Technology
+            Publication_Date: Unknown
+            Title: Time and Frequency from A to Z
+            Publication_Information:
+              Publication_Place: Boulder, CO
+              Publisher: National Institute of Standards Technology
+            Online_Linkage: <http://www.boulder.nist.gov/timefreq/general/enc-d.htm>
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 200409
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: NIST-TF
+        Source_Contribution: Attibute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200310
+            Title: Federal Lands and Indian Reservations of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 200310
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-FEDLAND
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200409
+            Title: Time Zones of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 200409
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-TZ0409
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200506
+            Title: State Boundaries of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 200506
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-STATES
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200506
+            Title: County Boundaries of the United States, 2001
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 200506
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-CNTY02
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200506
+            Title: Time Zones of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 200506
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ATLAS-TZ0506
+        Source_Contribution: Spatial and attribute information
+
+      Process_Step:
+        Process_Description:
+          Following the written descriptions in CFR-TZ, features coincident with
+          time zone lines were extracted from the National Atlas map layers
+          (ATLAS-CNTY, ATLAS-HY, ATLAS-PL, ATLAS-RR).  The features were merged
+          into a separate Arc/INFO coverage.  Where there were no coincident
+          features, 1:100,000-scale topographic maps (GooseCreek-100K and
+          Valentine-100K) and county data sets (NWS-CNTY) were used as references
+          to digitize the time zone boundaries.  The NWS-CNTY data set was also
+          used as a reference to define time zones where counties were divided by
+          standard time zone boundaries.
+        Source_Used_Citation_Abbreviation: CFR-TZ
+        Source_Used_Citation_Abbreviation: NWS-CNTY
+        Source_Used_Citation_Abbreviation: ATLAS-CNTY
+        Source_Used_Citation_Abbreviation: ATLAS-HY
+        Source_Used_Citation_Abbreviation: ATLAS-PL
+        Source_Used_Citation_Abbreviation: ATLAS-RR
+        Source_Used_Citation_Abbreviation: GooseCreek-100K
+        Source_Used_Citation_Abbreviation: Valentine-100K
+        Process_Date: 20000110
+        Source_Produced_Citation_Abbreviation: ATLAS-TZ
+
+      Process_Step:
+        Process_Description:
+          Several corrections were made using data obtained from the National
+          Weather Service website.  Counties that are split between two time zones
+          were edited using TZ-SPLIT.  Other corrections were made using C_05FE02.
+          These corrections are:
+          >1) addition of a small portion of northwestern Cuberson County, TX to
+          >   the Mountain time zone.
+          >2) adjustment of  a small portion of the Mountain/Central time zone
+          >   boundary along the 138N and 139N Township line to the Missouri River
+          >   just south of Mandan, Morton County, North Dakota.
+          >3) addition of Wayne County, KY, Morgan County, TN, Harrison County,
+          >   IN, Floyd County, IN, and Clark County, IN to the Eastern time zone.
+          In addition, some boundary adjustments were made using National Atlas
+          counties, ATLAS-CNTY, to ensure alignment with county boundaries.
+        Source_Used_Citation_Abbreviation: ATLAS-TZ
+        Source_Used_Citation_Abbreviation: TZ-SPLIT
+        Source_Used_Citation_Abbreviation: C_05FE02
+        Source_Used_Citation_Abbreviation: ATLAS-CNTY
+        Process_Date: 2002
+        Source_Produced_Citation_Abbreviation: ATLAS-TZ02
+
+      Process_Step:
+        Process_Description:
+          The time zone boundary between the Central time zone and the Mountain
+          time zone was adjusted to place Jones County, Mellette County, and Todd
+          County, SD in the Central time zone.  County boundaries were extracted
+          from ATLAS-CNTY01 and used to provide the new time zone boundary.
+        Source_Used_Citation_Abbreviation: ATLAS-TZ02
+        Source_Used_Citation_Abbreviation: ATLAS-CNTY01
+        Process_Date: 200311
+        Source_Produced_Citation_Abbreviation: ATLAS-TZ03
+
+      Process_Step:
+        Process_Description:
+          The time zone boundary between the Central time zone and the Mountain
+          time zone was adjusted to place all of Morton County, ND and part of
+          Sioux County, ND east of highway 31 in the Central time zone.  County
+          boundaries from ATLAS-CNTY01 and a portion of highway 31 from ATLAS-ROAD
+          were extracted and used to provide the new time zone boundary.
+        Source_Used_Citation_Abbreviation: ATLAS-TZ03
+        Source_Used_Citation_Abbreviation: ATLAS-CNTY01
+        Source_Used_Citation_Abbreviation: ATLAS-ROAD
+        Process_Date: 200401
+        Source_Produced_Citation_Abbreviation: ATLAS-TZ0401
+
+      Process_Step:
+        Process_Description:
+          Relying on the information from NIST-TF, the Navajo Indian Reservation
+          within the State of Arizona was brought into ATLAS-TZ0401 from ATLAS-
+          FEDLAND and coded as observing Daylight Saving Time. The Hopi Indian
+          Reservation remains as not observing Daylight Saving Time.
+        Source_Used_Citation_Abbreviation: NIST-TF
+        Source_Used_Citation_Abbreviation: ATLAS-FEDLAND
+        Source_Used_Citation_Abbreviation: ATLAS-TZ0401
+        Process_Date: 200409
+        Source_Produced_Citation_Abbreviation: ATLAS-TZ0409
+
+      Process_Step:
+        Process_Description:
+          To bring the shorelines into better alignment with the rest of the
+          Atlas data and to add 3 missing islands in Puerto Rico, the shorelines
+          in ATLAS-TZ0409 were replaced with shorelines from ATLAS-STATES.
+        Source_Used_Citation_Abbreviation: ATLAS-STATES
+        Source_Used_Citation_Abbreviation: ATLAS-TZ0409
+        Process_Date: 200506
+      
+      Process_Step:
+        Process_Description:
+          Following the written descriptions in CFR-TZ, the time zone boundary 
+          between the Central time zone and the Eastern time zone was adjusted 
+          to place all of Knox County, Daviess County, Martin County, Pike County, 
+          Dubois County, and Pulaski County, IN in the Eastern time zone. The 
+          time zone boundary between the Hawaii-Aleutian time zone and the Alaska 
+          time zone was adjusted to place the part of the Aleutian Islands that
+          is west of 169degrees 30 minutes west longitude in the Hawaii-Aleutian 
+          time zone, and the Pribilof Islands in the Alaska time zone. County 
+          boundaries from ATLAS-CNTY02 were extracted and used to provide the new 
+          time zone boundary.
+        Source_Used_Citation_Abbreviation: ATLAS-TZ0506
+        Source_Used_Citation_Abbreviation: ATLAS-CNTY02
+        Source_Used_Citation_Abbreviation: CFR-TZ
+        Process_Date: 200906
+        
+  Spatial_Data_Organization_Information:
+    Direct_Spatial_Reference_Method: Vector
+    Point_and_Vector_Object_Information:
+      SDTS_Terms_Description:
+        SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+        Point_and_Vector_Object_Count: 2835
+
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Geographic:
+        Latitude_Resolution: 0.000278
+        Longitude_Resolution: 0.000278
+        Geographic_Coordinate_Units: Decimal degrees
+      Geodetic_Model:
+        Horizontal_Datum_Name: North American Datum of 1983
+        Ellipsoid_Name: GRS1980
+        Semi-major_Axis: 6378137
+        Denominator_of_Flattening_Ratio: 298.257222
+
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Time zones (described by timeznp020.dbf)
+        Entity_Type_Definition: Geographic regions within which the same standard time is used.
+        Entity_Type_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Shape
+        Attribute_Definition: The representation of the entity in the data.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Polygon
+            Enumerated_Domain_Value_Definition: 2-dimensional element.
+            Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+      Attribute:
+        Attribute_Label: Area
+        Attribute_Definition:
+          The size of the shape in coverage units.  In the distributed
+          file, coverage units represent square decimal degrees.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.000
+            Range_Domain_Maximum: 306.573
+      Attribute:
+        Attribute_Label: Perimeter
+        Attribute_Definition:
+          The perimeter of shape in coverage units.  In the distributed file,
+          coverage units represent decimal degrees.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.010
+            Range_Domain_Maximum: 374.768
+      Attribute:
+        Attribute_Label: Timeznp020
+        Attribute_Definition: Internal feature number.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 2
+            Range_Domain_Maximum: 2835
+      Attribute:
+        Attribute_Label: Timezone
+        Attribute_Definition: The name of the time zone.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Alaska
+            Enumerated_Domain_Value_Definition:
+              The time zone that includes most of Alaska, as defined in the Code
+              of Federal Regulations, Title 49--Transportation, Subtitle A--Office
+              of the Secretary of Transportation, Part 71--Standard Time Zone
+              Boundaries.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Atlantic
+            Enumerated_Domain_Value_Definition:
+              The time zone that includes Puerto Rico and the U.S. Virgin Islands,
+              as defined in the Code of Federal Regulations, Title 49--
+              Transportation, Subtitle A--Office of the Secretary of
+              Transportation, Part 71--Standard Time Zone Boundaries.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Central
+            Enumerated_Domain_Value_Definition:
+              The time zone that is east of the Mountain time zone and west of the
+              Eastern time zone, as defined in the Code of Federal Regulations,
+              Title 49--Transportation, Subtitle A--Office of the Secretary of
+              Transportation, Part 71--Standard Time Zone Boundaries.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Eastern
+            Enumerated_Domain_Value_Definition:
+              The time zone for the eastern continental United States, between the
+              Atlantic and Central time zones, as defined in the Code of Federal
+              Regulations, Title 49--Transportation, Subtitle A--Office of the
+              Secretary of Transportation, Part 71--Standard Time Zone Boundaries.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Hawaii-Aleutian
+            Enumerated_Domain_Value_Definition:
+              The time zone that includes most of the Aleutian Islands and Hawaii,
+              as defined in the Code of Federal Regulations, Title 49-
+              Transportation, Subtitle A--Office of the Secretary of
+              Transportation, Part 71--Standard Time Zone Boundaries.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Mountain
+            Enumerated_Domain_Value_Definition:
+              The time zone that is east of the Pacific time zone and west of the
+              Central time zone, as defined in the Code of Federal Regulations,
+              Title 49--Transportation, Subtitle A--Office of the Secretary of
+              Transportation, Part 71--Standard Time Zone Boundaries.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Pacific
+            Enumerated_Domain_Value_Definition:
+              The time zone for the western continental United States, west of the
+              Mountain time zone, as defined in the Code of Federal Regulations,
+              Title 49--Transportation, Subtitle A--Office of the Secretary of
+              Transportation, Part 71--Standard Time Zone Boundaries.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Gmt_offset
+        Attribute_Definition: The number of hours the time is offset from Greenwich Mean Time.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: -10
+            Range_Domain_Maximum: -4
+      Attribute:
+        Attribute_Label: Gmt_dst_of
+        Attribute_Definition:
+          The number of hours the time is offset from Greenwich Mean Time when
+          daylight saving time is in effect.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: -9
+            Range_Domain_Maximum: -3
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: no
+            Enumerated_Domain_Value_Definition: Daylight saving time is not observed.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Symbol
+        Attribute_Definition: A code used to determine polygon symbolization for map display.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: AL
+            Enumerated_Domain_Value_Definition: Alaska time zone.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: AT
+            Enumerated_Domain_Value_Definition: Atlantic time zone.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: CE
+            Enumerated_Domain_Value_Definition: Central time zone.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: EA
+            Enumerated_Domain_Value_Definition: Eastern time zone.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: EAno
+            Enumerated_Domain_Value_Definition: Eastern time zone; daylight saving time not observed.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: HA
+            Enumerated_Domain_Value_Definition: Hawaii-Aleutian time zone.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: HAno
+            Enumerated_Domain_Value_Definition: Hawaii-Aleutian time zone; daylight saving time not observed.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: MO
+            Enumerated_Domain_Value_Definition: Mountain time zone.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: MOno
+            Enumerated_Domain_Value_Definition: Mountain time zone; daylight saving time not observed.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: PA
+            Enumerated_Domain_Value_Definition: Pacific time zone.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: Earth Science Information Center, U.S. Geological Survey
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: 507 National Center
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Voice_Telephone: 703-648-5920
+        Contact_Instructions:
+          In addition to the address above there are other ESIC offices throughout
+          the country.  A full list of these offices is at
+          <http://geography.usgs.gov/esic/esic_index.html>.
+    Distribution_Liability:
+      Although these data have been processed successfully on a computer system at
+      the U.S. Geological Survey, no warranty expressed or implied is made by the
+      U.S. Geological Survey regarding the utility of the data on any other
+      system, nor shall the act of distribution constitute any such warranty.  No
+      responsibility is assumed by the U.S. Geological Survey in the use of these
+      data.
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: ESRI Shapefile
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: SDTS
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+      Fees: There is no charge for the map layer.
+
+  Metadata_Reference_Information:
+    Metadata_Date: 20090610
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Terry Higgins
+          Contact_Organization: National Atlas of the United States 
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: 1400 Independence Rd.
+          Address: MS 700
+          City: Rolla
+          State_or_Province: MO
+          Postal_Code: 65401
+        Contact_Voice_Telephone: 573-308-3592
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+    Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Security_Information:
+      Metadata_Security_Classification_System: None
+      Metadata_Security_Classification: Unclassified
+      Metadata_Security_Handling_Description: None
