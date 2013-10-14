@@ -1,0 +1,15 @@
+http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_atlas_database/2013/polygon.html
+Polygon
+Bureau of the Census Urbanized Area Boundaries (ZIP - 55.62MB)
+Core Based Statistical Areas (ZIP - 55.16MB)
+The 113th Congressional Districts Boundaries (ZIP - 45.07MB)
+U.S. County Boundaries (ZIP - 110.58MB)
+U.S. County Political Boundaries (ZIP - 85.13MB)
+Frieght Analysis Framework Regions (ZIP - 24.57MB)
+Hydrographic Features (ZIP - 228.57MB)
+U.S. Military Installations (ZIP - 6.65MB)
+Metropolitan Planning Organization (ZIP - 7.11MB)
+Non Attainment Areas (ZIP - 23.17MB)
+National Park System Boundary Dataset (ZIP - 12.85MB)
+U.S. State Boundaries (ZIP - 36.76MB)
+U.S. State Political Boundaries (ZIP - 10.00MB)
