@@ -1,0 +1,824 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: National Atlas of the United States
+        Publication_Date: 201006
+        Title: Agriculture Census of the United States - 2007
+        Publication_Information:
+          Publication_Place: Reston, VA
+          Publisher: National Atlas of the United States
+        Online_Linkage: <http://nationalatlas.gov/atlasftp.html?openChapters=chpagri#chpagri>
+
+    Description:
+      Abstract:
+        This map layer portrays a selected set of information that was collected
+        for the 2007 Census of Agriculture by the National Agricultural
+        Statistics Service, U.S. Department of Agriculture.  There are 25
+        categories of data which include information about farms, crops,
+        livestock, values of products, and farm operator characteristics.  The
+        data is for the United States and is presented by county.  This is a
+        replacement for the June 2005 Agriculture Census of the United States –
+        2002 map layer.
+
+      Purpose:
+        These data are intended for geographic display and analysis at the
+        national level, and for large regional areas.  The data should be
+        displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
+        No responsibility is assumed by the National Atlas of the United States in
+        the use of these data.
+      Supplemental_Information:
+        The complete information for the 2007 Census of Agriculture is
+        available from the National Agricultural Statistics Service, U.S.
+        Department of Agriculture, <http://www.agcensus.usda.gov/>.  
+        Data for additional years are available from the same site.
+
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Single_Date/Time:
+          Calendar_Date: 2007
+      Currentness_Reference: Ground condition
+
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: None planned
+
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: 170
+        East_Bounding_Coordinate: -64
+        North_Bounding_Coordinate: 72
+        South_Bounding_Coordinate: 17
+
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: farming
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: Census
+        Theme_Keyword: Farms
+        Theme_Keyword: Croplands
+        Theme_Keyword: Crops
+        Theme_Keyword: Agricultural census
+        Theme_Keyword: Agriculture
+        Theme_Keyword: Farm operator
+        Theme_Keyword: Farm machinery
+        Theme_Keyword: Production expenses
+        Theme_Keyword: Market value
+        Theme_Keyword: Chickens
+        Theme_Keyword: Poultry
+        Theme_Keyword: Broilers
+        Theme_Keyword: Corn
+        Theme_Keyword: Wheat
+        Theme_Keyword: Cotton
+        Theme_Keyword: Soybeans
+        Theme_Keyword: Vegetables
+        Theme_Keyword: Cattle
+        Theme_Keyword: Cattle and calves
+        Theme_Keyword: Orchards
+        Theme_Keyword: Tractors
+        Theme_Keyword: Family farm
+        Theme_Keyword: Nursery crops
+        Theme_Keyword: Irrigated land
+        Theme_Keyword: Farm production
+        Theme_Keyword: Milk cows
+        Theme_Keyword: Livestock
+
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of
+          Special Sovereignty, and Their Principal Administrative Divisions
+          (Federal Information Processing Standard (FIPS) 10-4): Washington, DC,
+          National Institute of Standards and Technology.
+        Place_Keyword: United States
+      Place:
+        Place_Keyword_Thesaurus: None
+        Place_Keyword: USA
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce, 1987, Codes for the Identification of the
+          States, the District of Columbia and the Outlying Areas of The United
+          States, and Associated Areas (Federal Information Processing Standard
+          5-2):  Washington, DC, National Institute of Standards and Technology.
+        Place_Keyword: Alabama
+        Place_Keyword: Alaska
+        Place_Keyword: Arizona
+        Place_Keyword: Arkansas
+        Place_Keyword: California
+        Place_Keyword: Colorado
+        Place_Keyword: Connecticut
+        Place_Keyword: Delaware
+        Place_Keyword: District of Columbia
+        Place_Keyword: Florida
+        Place_Keyword: Georgia
+        Place_Keyword: Hawaii
+        Place_Keyword: Idaho
+        Place_Keyword: Illinois
+        Place_Keyword: Indiana
+        Place_Keyword: Iowa
+        Place_Keyword: Kansas
+        Place_Keyword: Kentucky
+        Place_Keyword: Louisiana
+        Place_Keyword: Maine
+        Place_Keyword: Maryland
+        Place_Keyword: Massachusetts
+        Place_Keyword: Michigan
+        Place_Keyword: Minnesota
+        Place_Keyword: Mississippi
+        Place_Keyword: Missouri
+        Place_Keyword: Montana
+        Place_Keyword: Nebraska
+        Place_Keyword: Nevada
+        Place_Keyword: New Hampshire
+        Place_Keyword: New Jersey
+        Place_Keyword: New Mexico
+        Place_Keyword: New York
+        Place_Keyword: North Carolina
+        Place_Keyword: North Dakota
+        Place_Keyword: Ohio
+        Place_Keyword: Oklahoma
+        Place_Keyword: Oregon
+        Place_Keyword: Pennsylvania
+        Place_Keyword: Rhode Island
+        Place_Keyword: South Carolina
+        Place_Keyword: South Dakota
+        Place_Keyword: Tennessee
+        Place_Keyword: Texas
+        Place_Keyword: Utah
+        Place_Keyword: Vermont
+        Place_Keyword: Virginia
+        Place_Keyword: Washington
+        Place_Keyword: West Virginia
+        Place_Keyword: Wisconsin
+        Place_Keyword: Wyoming
+
+    Access_Constraints: None
+    Use_Constraints:
+      None.  Acknowledgment of the National Atlas of the United States of America
+      and (or) the U.S. Department of Agriculture would be appreciated in
+      products derived from these data.
+
+    Point_of_Contact:
+     Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jay Donnelly 
+        Contact_Organization: National Atlas of the United States 
+      Contact_Address: 
+        Address_Type: Mailing and physical address 
+        Address: 12201 Sunrise Valley Drive 
+        Address: Room 2D200 
+        City: Reston 
+        State_or_Province: VA 
+        Postal_Code: 20192 
+      Contact_Voice_Telephone: 703-648-5395
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+
+  Data_Quality_Information:
+    Logical_Consistency_Report:
+      The map layer was checked for topological consistency using the ArcGIS
+      command BUILD.  No other checks for logical consistency were performed on
+      this map layer.
+    Completeness_Report:
+      This map layer includes 25 categories from the National Agricultural
+      Statistics Service, U.S. Department of Agriculture's 2007 Census of
+      Agriculture data.  It is based on county data for all 50 States.
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200208
+            Title: County Boundaries of the United States, 2001
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+            Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 200208
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: Atlas_Cnty2001
+        Source_Contribution: Spatial and attribute information
+        
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+            Publication_Date: 2004
+            Title: 2002 Census of Agriculture
+            Publication_Information:
+              Publication_Place: Washington, DC
+              Publisher: U.S. Department of Agriculture
+            Online_Linkage: <http://www.agcensus.usda.gov/>
+        Type_of_Source_Media: Email
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2007
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: AG-CENSUS2007
+        Source_Contribution: Attribute information
+
+      Process_Step:
+        Process_Description:
+          Atlas_Cnty2001 which is a map layer containing 2001 county boundaries 
+          for the United States, and  AG-CENSUS2007 .dbf files were loaded into 
+          ArcMap.  Tables were joined using the Fips attribute.  New attribute fields
+          were added for each .dbf and field calculations were made for each attribute 
+          field.  The join was then removed.
+        Source_Used_Citation_Abbreviation: Atlas_Cnty2001
+        Source_Used_Citation_Abbreviation: AG-CENSUS2007
+        Process_Date: 201005
+
+  Spatial_Data_Organization_Information:
+    Indirect_Spatial_Reference:
+      U.S. Department of Commerce, 1987, Codes for the Identification of the
+      States, the District of Columbia and the Outlying Areas of the United
+      States, and Associated Areas (FIPS 5-2): Washington, DC, National Institute
+      of Standards and Technology.
+
+      U.S. Department of Commerce, 1990, Counties and Equivalent Entities of the
+      United States, Its Possessions, and Associated Areas (FIPS 6-4): Washington,
+      DC, National Institute of Standards and Technology.
+
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Geographic:
+        Latitude_Resolution: 0.000278
+        Longitude_Resolution: 0.000278
+        Geographic_Coordinate_Units: Decimal degrees
+      Geodetic_Model:
+        Horizontal_Datum_Name: North American Datum of 1983
+        Ellipsoid_Name: GRS1980
+        Semi-major_Axis: 6378137
+        Denominator_of_Flattening_Ratio: 298.257222
+
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Agriculture Census data (described by agcensp020.dbf)
+        Entity_Type_Definition: 2007 agriculture census data by county.
+        Entity_Type_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Shape
+        Attribute_Definition: The representation of the entity in the data.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Polygon
+            Enumerated_Domain_Value_Definition: 2-dimensional element.
+            Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+      Attribute:
+        Attribute_Label: Area
+        Attribute_Definition:
+          The size of the shape in coverage units.  In the distributed file,
+          coverage units represent square decimal degrees.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00001
+            Range_Domain_Maximum: 128.59597
+      Attribute:
+        Attribute_Label: Perimeter
+        Attribute_Definition:
+          The perimeter of the shape in coverage units.  In the distributed
+          file, coverage units represent decimal degrees.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.01191
+            Range_Domain_Maximum: 263.45187
+      Attribute:
+        Attribute_Label: Agcensp020
+        Attribute_Definition: Internal feature number.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 2
+            Range_Domain_Maximum: 5928
+      Attribute:
+        Attribute_Label: State
+        Attribute_Definition: The 2-character FIPS code of the State or State equivalent.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name:
+              Codes for the Identification of the States, the District of Columbia
+              and the Outlying Areas of the United States, and Associated Areas,
+              FIPS 5-2.
+            Codeset_Source:
+              U.S. Department of Commerce, National Institute of Standards and
+              Technology
+      Attribute:
+        Attribute_Label: County
+        Attribute_Definition: The name of the county or county equivalent.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name:
+              Counties and Equivalent Entities of the United States, Its
+              Possessions, and Associated Areas, FIPS 6-4, 1990.
+            Codeset_Source:
+              U.S. Department of Commerce, National Institute of Standards and
+              Technology
+      Attribute:
+        Attribute_Label: Fips
+        Attribute_Definition:
+          The 5-digit FIPS code of the county or county equivalent.  See the
+          description under Process Step, above, for a list of aggregated counties
+          and the FIPS codes used to identify them.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name:
+              Counties and Equivalent Entities of the United States, Its
+              Possessions, and Associated Areas, FIPS 6-4, 1990.
+            Codeset_Source:
+              U.S. Department of Commerce, National Institute of Standards and
+              Technology
+      Attribute:
+        Attribute_Label: St
+        Attribute_Definition: The 2-digit FIPS code of the State or State equivalent.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name:
+              Counties and Equivalent Entities of the United States, Its
+              Possessions, and Associated Areas, FIPS 6-4, 1990.
+            Codeset_Source:
+              U.S. Department of Commerce, National Institute of Standards
+              and Technology
+      Attribute:
+        Attribute_Label: M003_07
+        Attribute_Definition:
+          The average size of farms in acres.  A value of zero may represent a
+          zero data value or may mean that no data are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 47421
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M009_07
+        Attribute_Definition:
+          The percentage of farms with sales less than $10,000.  A value of zero
+          may represent a zero data value or may mean that no data are available
+          for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 100.00
+      Attribute:
+        Attribute_Label: M010_07
+        Attribute_Definition:
+          The percentage of farms with sales of $10,000 to $249,000.  A value of
+          zero may represent a zero data value or may mean that no data are
+          available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 100.00
+      Attribute:
+        Attribute_Label: M013_07
+        Attribute_Definition:
+          The average value of agricultural products sold per farm, in dollars.  A
+          value of zero may represent a zero data value or may mean that no data
+          are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 2896341.62
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M016_07
+        Attribute_Definition:
+          The average value of crops sold per acre for harvested cropland, in
+          dollars.  A value of zero may represent a zero data value or may mean
+          that no data are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 55150.50
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M023_07
+        Attribute_Definition:
+          The value of nursery, greenhouse, floriculture, and sod as a percentage
+          of the total market value of agricultural products sold, in dollars.  A
+          value of zero may represent a zero data value or may mean that no data
+          are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 100.00
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M026_07
+        Attribute_Definition:
+          The value of livestock, poultry, and their products as a percentage of
+          the total market value of agricultural products sold, in dollars.  A
+          value of zero may represent a zero data value or may mean that no data
+          are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 100.00
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M050_07
+        Attribute_Definition:
+          The average total farm production expenses per farm, in dollars.  A
+          value of zero may represent a zero data value or may mean that no data
+          are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 2338797.16
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M086_07
+        Attribute_Definition:
+          The acres of total cropland as a percentage of land area in acres.  A
+          value of zero may represent a zero data value or may mean that no data
+          are available for the county.  The percentage values may be greater than
+          100 because the land area in acres is calculated as the land within the
+          county and the acres of total cropland are calculated for the entire
+          farm, which may include parts of more than one county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 129.65
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M089_07
+        Attribute_Definition:
+          The acres of harvested cropland as a percentage of land in farms
+          acreage.  A value of zero may represent a zero data value or may mean
+          that no data are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 100.00
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M090_07
+        Attribute_Definition:
+          The acres of irrigated harvested cropland as a percentage of all
+          harvested cropland acreage.  A value of zero may represent a zero data
+          value or may mean that no data are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 100.00
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M099_07
+        Attribute_Definition:
+          The average market value of all machinery and equipment per farm, in
+          dollars.  A value of zero may represent a zero data value or may mean
+          that no data are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 461482.00
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M118_07
+        Attribute_Definition:
+          The percentage of farms operated by a family or individual.  A value of
+          zero may represent a zero data value or may mean that no data are
+          available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 100.00
+      Attribute:
+        Attribute_Label: M124_07
+        Attribute_Definition:
+          The average age of principal farm operators.  A value of zero may
+          represent a zero data value or may mean that no data are available for
+          the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 65.41
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M127_07
+        Attribute_Definition:
+          The percentage of farms with female principal operators.  A value of
+          zero may represent a zero data value or may mean that no data are
+          available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 100.00
+      Attribute:
+        Attribute_Label: M136_07
+        Attribute_Definition:
+          The average number of cattle and calves per 100 acres of all land in
+          farms.  A value of zero may represent a zero data value or may mean that
+          no data are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 126.46
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M142_07
+        Attribute_Definition:
+          Milk cows as a percentage of all cattle and calves.  A value of zero may
+          represent a zero data value or may mean that no data are available for
+          the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 65.11
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M147_07
+        Attribute_Definition:
+          Other cattle as a percentage of cattle and calves.  A value of zero may
+          represent a zero data value or may mean that no data are available for
+          the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 100.00
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M163_07
+        Attribute_Definition:
+          Corn for grain, harvested acres.  A value of zero may represent a zero
+          data value or may mean that no data are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 326970
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M172_07
+        Attribute_Definition:
+          All wheat for grain, harvested acres.  A value of zero may represent a
+          zero data value or may mean that no data are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 496014
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M188_07
+        Attribute_Definition:
+          Upland cotton, harvested acres.  A value of zero may represent a zero
+          data value or may mean that no data are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 281712
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M193_07
+        Attribute_Definition:
+          Soybeans for beans, harvested acres.  A value of zero may represent a
+          zero data value or may mean that no data are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 413539
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M217_07
+        Attribute_Definition:
+          Vegetables, acres harvested for sale.  A value of zero may represent a
+          zero data value or may mean that no data are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 253704.00
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M233_07
+        Attribute_Definition:
+          Total acres of land in orchards.  A value of zero may represent a zero
+          data value or may mean that no data are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 471825.00
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+      Attribute:
+        Attribute_Label: M234_07
+        Attribute_Definition:
+          Irrigated land in orchards.  A value of zero may represent a zero data
+          value or may mean that no data are available for the county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 459219.00
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: Data withheld to avoid disclosing information for individual farms.
+            Enumerated_Domain_Value_Definition_Source:
+              U.S. Department of Agriculture, National Agricultural Statistics
+              Service
+
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: Earth Science Information Center, U.S. Geological Survey
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: 507 National Center
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Voice_Telephone: 703-648-5920
+        Contact_Instructions:
+          In addition to the address above there are other ESIC offices throughout
+          the country.  A full list of these offices is at
+          <http://ask.usgs.gov/esic_index.html>.
+
+    Distribution_Liability:
+      Although these data have been processed successfully on a computer system at
+      the U.S. Geological Survey, no warranty expressed or implied is made by the
+      U.S. Geological Survey regarding the utility of the data on any other
+      system, nor shall the act of distribution constitute any such warranty.  No
+      responsibility is assumed by the U.S. Geological Survey in the use of these
+      data.
+
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: ESRI Shapefile
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html?openChapters=chpagri#chpagri>
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: SDTS
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html?openChapters=chpagri#chpagri>
+      Fees: There is no charge for the map layer.
+
+  Metadata_Reference_Information:
+    Metadata_Date: 20100707
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Terry Higgins	
+          Contact_Organization: National Atlas of the United States
+        Contact_Address:
+          Address_Type: Mailing and physical address
+          Address: 1400 Independence Road
+          Address: MS 760
+          City: Rolla
+          State_or_Province: MO
+          Postal_Code: 65401
+          Country: USA
+        Contact_Voice_Telephone: 573-308-3592
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+    Metadata_Standard_Name: FGDC Content Standard For Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Security_Information:
+      Metadata_Security_Classification_System: None
+      Metadata_Security_Classification: Unclassified
+      Metadata_Security_Handling_Description: None
+
