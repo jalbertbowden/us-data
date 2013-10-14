@@ -1,0 +1,598 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+  <title>Food Stamp Recipients in the United States</title>
+  <link rel="schema.dc" href="http://purl.org/metadata/dublin_core"/>
+  <meta name="dc.title" content="Food Stamp Recipients in the United States "/>
+  <meta name="dc.creator" content="National Atlas of the United States "/>
+  <meta name="dc.subject" content="Society "/>
+  <meta name="dc.description" content="This map layer shows the estimated number of Supplemental Nutrition Assistance (food stamp) recipients in the United States, by county, for the years 1989, 1993, 1995, 1997-2002, and 2003-2008.  It is drawn from United States Department of Agriculture, Food and Nutrition Service (USDA/FNS) information on the number of people participating in the food stamp program.  Those data were used in the production of the U.S. Census Bureau's Small Area Income and Poverty estimates.  Food stamp recipient estimates are generally for July of the reference year; in a few cases the States were able to provide data only for other reference periods.  In 2008, the federal Food Stamps Program  was renamed the Supplemental Nutrition Assistance Program (SNAP).  "/>
+  <meta name="dc.publisher" content="National Atlas of the United States"/>
+  <meta name="dc.date" content="201012"/>
+  <meta name="dc.type" content="data.structured-text"/>
+  <meta name="dc.format" content="dBASE IV file"/>
+  <meta name="dc.identifier" content="&lt;http://nationalatlas.gov/atlasftp.html&gt;"/>
+  <meta name="dc.lang" content="en"/>
+  <meta name="dc.coverage.x.min" scheme="DD" content="170"/>
+  <meta name="dc.coverage.x.max" scheme="DD" content="-64"/>
+  <meta name="dc.coverage.y.min" scheme="DD" content="17"/>
+  <meta name="dc.coverage.y.max" scheme="DD" content="72"/>
+  <meta name="dc.coverage.placeName" content="USA"/>
+  <meta name="dc.coverage.placeName" content="United States"/>
+  <meta name="dc.coverage.t.min" content="1989"/>
+  <meta name="dc.coverage.t.max" content="2008"/>
+  <meta name="dc.rights" content="Access constraints: None; Use constraints: None.  Acknowledgment of the National Atlas of the United States of"/>
+  <meta name="generated-from" content="c:/usgs/atlas_downloads/food_stamps/fd8908t.txt"/>
+</head>
+<body>
+<h1>Food Stamp Recipients in the United States</h1>
+Metadata also available as<p>
+<h4>Frequently anticipated questions:</h4>
+<ul>
+  <li><a href="#what">What does this data set describe?</a>
+    <ol>
+      <li><a href="#what.1">How should this data set be cited?</a></li>
+      <li><a href="#what.2">What geographic area does the data set cover?</a></li>
+      <li><a href="#what.3">What does it look like?</a></li>
+      <li><a href="#what.4">Does the data set describe conditions during a particular time period?</a></li>
+      <li><a href="#what.5">What is the general form of this data set?</a></li>
+      <li><a href="#what.6">How does the data set represent geographic features?</a></li>
+      <li><a href="#what.7">How does the data set describe geographic features?</a></li>
+    </ol>
+  </li>
+  <li><a href="#who">Who produced the data set?</a>
+    <ol>
+      <li><a href="#who.1">Who are the originators of the data set?</a></li>
+      <li><a href="#who.2">Who also contributed to the data set?</a></li>
+      <li><a href="#who.3">To whom should users address questions about the data?</a></li>
+    </ol>
+  </li>
+  <li><a href="#why">Why was the data set created?</a></li>
+  <li><a href="#how">How was the data set created?</a>
+    <ol>
+      <li><a href="#how.1">From what previous works were the data drawn?</a></li>
+      <li><a href="#how.2">How were the data generated, processed, and modified?</a></li>
+      <li><a href="#how.3">What similar or related data should the user be aware of?</a></li>
+    </ol>
+  </li>
+  <li><a href="#quality">How reliable are the data; what problems remain in the data set?</a>
+    <ol>
+      <li><a href="#quality.1">How well have the observations been checked?</a></li>
+      <li><a href="#quality.2">How accurate are the geographic locations?</a></li>
+      <li><a href="#quality.3">How accurate are the heights or depths?</a></li>
+      <li><a href="#quality.4">Where are the gaps in the data?  What is missing?</a></li>
+      <li><a href="#quality.5">How consistent are the relationships among the data, including topology?</a></li>
+    </ol>
+  </li>
+  <li><a href="#getacopy">How can someone get a copy of the data set?</a>
+    <ol>
+      <li><a href="#getacopy.0">Are there legal restrictions on access or use of the data?</a></li>
+      <li><a href="#getacopy.1">Who distributes the data?</a></li>
+      <li><a href="#getacopy.2">What's the catalog number I need to order this data set?</a></li>
+      <li><a href="#getacopy.3">What legal disclaimers am I supposed to read?</a></li>
+      <li><a href="#getacopy.4">How can I download or order the data?</a></li>
+    </ol>
+  </li>
+  <li><a href="#metaref">Who wrote the metadata?</a></li>
+</ul>
+<hr/>
+<h3><a name="what">What does this data set describe?</a></h3>
+<div style="margin-left: 2em">
+<dl>
+<dt><em>Title:</em>  Food Stamp Recipients in the United States</dt>
+<dt><em>Abstract:</em>  
+<dd>
+
+This map layer shows the estimated number of Supplemental Nutrition
+Assistance (food stamp) recipients in the United States, by county,
+for the years 1989, 1993, 1995, 1997-2002, and 2003-2008.  It is drawn
+from United States Department of Agriculture, Food and Nutrition Service
+(USDA/FNS) information on the number of people participating in the food
+stamp program.  Those data were used in the production of the U.S.
+Census Bureau's Small Area Income and Poverty estimates.  Food stamp
+recipient estimates are generally for July of the reference year; in a
+few cases the States were able to provide data only for other reference
+periods.  In 2008, the federal Food Stamps Program  was renamed the
+Supplemental Nutrition Assistance Program (SNAP).
+<br/>
+
+</dd>
+<dt><em>Supplemental_Information:</em>  
+<dd>
+
+To create the maps in the National Atlas Map Maker,
+&lt;<a href="http://nationalatlas.gov/mapmaker">http://nationalatlas.gov/mapmaker</a>&gt;, fd8902t.dbf was joined to the
+county boundaries available from the National Atlas data download page,
+&lt;<a href="http://nationalatlas.gov/atlasftp.html">http://nationalatlas.gov/atlasftp.html</a>&gt;.  The 1989 data were joined to
+the 1990 county boundaries (co1990p020), the 1993, 1995, and 1997-1999
+data were joined to the 2000 county boundaries (co2000p020), and the
+2000-2008 data were joined to the 2001 county boundaries (countyp020);
+the more detailed 2012 county boundaries can also be used with these
+data.
+<br/>
+The Supplemental Nutrition Assistance Program (SNAP) is the new name
+for the federal Food Stamp Program, as of October 1, 2008.  Data
+originally came from the U.S. Census Bureau's Small Area Income and
+Poverty Estimates web site,
+&lt;<a href="http://www.census.gov/did/www/saipe/data/model/tables.html">http://www.census.gov/did/www/saipe/data/model/tables.html</a>&gt;.
+<br/>
+Information about National Atlas Web Map Services (WMS) is available on
+the WMS Introduction page at
+&lt;<a href="http://nationalatlas.gov/infodocs/wms_intro.html">http://nationalatlas.gov/infodocs/wms_intro.html</a>&gt;.
+<br/>
+
+</dd>
+</dl>
+</div>
+<ol>
+<li><a name="what.1"><b>How should this data set be cited?</b></a><p>
+<blockquote>
+National Atlas of the United States, 201012, Food Stamp Recipients in the United States: National Atlas of the United States, Reston, VA.<p>
+Online Links:
+<ul>
+<li>&lt;<a href="http://nationalatlas.gov/atlasftp.html">http://nationalatlas.gov/atlasftp.html</a>&gt;
+</ul>
+<p>
+</blockquote>
+<p>
+</li>
+<li><a name="what.2"><b>What geographic area does the data set cover?</b></a><p>
+<dl>
+<dt><em>West_Bounding_Coordinate:</em>  170</dt>
+<dt><em>East_Bounding_Coordinate:</em>  -64</dt>
+<dt><em>North_Bounding_Coordinate:</em>  72</dt>
+<dt><em>South_Bounding_Coordinate:</em>  17</dt>
+</dl>
+<p>
+</li>
+<li><a name="what.3"><b>What does it look like?</b></a><p>
+<p>
+</li>
+<li><a name="what.4"><b>Does the data set describe conditions during a particular time period?</b></a><p>
+<dl>
+<dt>Beginning_Date: 1989<dt>Ending_Date: 2008<dt><em>Currentness_Reference:</em>  Ground condition</dt>
+</dl>
+<p>
+</li>
+<li><a name="what.5"><b>What is the general form of this data set?</b></a><p>
+<dl>
+</dl>
+<p>
+</li>
+<li><a name="what.6"><b>How does the data set represent geographic features?</b></a><p>
+<ol type="a">
+<li><a name="what.6.a"><b>How are geographic features stored in the data set?</b></a><p>
+<dl>
+<dt><em>Indirect_Spatial_Reference:</em>  
+<dd>
+
+U.S. Department of Commerce; 1990; Counties and Equivalent Entities of the
+United States, Its Possessions, and Associated Areas; FIPS 6-4;
+Washington, DC; National Institute of Standards and Technology.
+<br/>
+
+</dd>
+</dl>
+<p>
+</li>
+<li><a name="what.6.b"><b>What coordinate system is used to represent geographic features?</b></a><p>
+</li>
+</ol>
+<p>
+</li>
+<li><a name="what.7"><b>How does the data set describe geographic features?</b></a><p>
+<dl>
+<dt><b><tt>Food Stamp recipient estimates (described by fd8908t.dbf)</tt></b><dd>Estimates of the number of food stamp recipients, by county in the
+United States.  The data are for 1989, 1993, 1995, and 1997-2008.
+  (Source: National Atlas of the United States)
+<p>
+<dl>
+<dt><b><tt>Fips</tt></b><dd>The 5-digit FIPS code of the county or county equivalent.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Formal codeset</th></tr>
+<tr><th>Codeset Name:</th><td>Counties and Equivalent Entities of the United States, Its Possessions, and Associated Areas; Federal Information Processing Standard (FIPS) 6-4; Washington, DC; National Institute of Standards and Technology.</td></tr>
+<tr><th>Codeset Source:</th><td>U.S. Department of Commerce</td></tr>
+</table>
+<p>
+<dt><b><tt>Name</tt></b><dd>The name of the county or county equivalent.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Formal codeset</th></tr>
+<tr><th>Codeset Name:</th><td>Counties and Equivalent Entities of the United States, Its Possessions, and Associated Areas; (Federal Information Processing Standard (FIPS) 6-4): Washington, DC, National Institute of Standards and Technology.</td></tr>
+<tr><th>Codeset Source:</th><td>U.S. Department of Commerce</td></tr>
+</table>
+<p>
+<dt><b><tt>St_fips</tt></b><dd>The 2-character FIPS code of the State or State equivalent.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Formal codeset</th></tr>
+<tr><th>Codeset Name:</th><td>Codes for the Identification of the States, the District of Columbia and the Outlying Areas of the United States, and Associated Areas; FIPS 5-2.</td></tr>
+<tr><th>Codeset Source:</th><td>U.S. Department of Commerce, National Institute of Standards and Technology</td></tr>
+</table>
+<p>
+<dt><b><tt>Foodxxxx</tt></b><dd>The estimated number of food stamp recipients in the county, for the
+year xxxx.  In general, the values reflect an average of monthly
+values from August of the prior year to July of the reference year.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">-9999</td><td>No data
+</td></tr>
+</table>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Range of values</th></tr>
+<tr><th>Minimum:</th><td>0</td></tr>
+<tr><th>Maximum:</th><td>1045474</td></tr>
+</table>
+<p>
+<dt><b><tt>Pexxxx</tt></b><dd>The county population estimate for the year xxxx.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">0</td><td>The county did not exist in the reference year.
+</td></tr>
+<tr><td valign="top">-9999</td><td>No data
+</td></tr>
+</table>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Range of values</th></tr>
+<tr><th>Minimum:</th><td>42</td></tr>
+<tr><th>Maximum:</th><td>9862049</td></tr>
+</table>
+<p>
+<dt><b><tt>Perxxxx</tt></b><dd>The percentage of the population who are food stamp recipients, by
+county for the year xxxx.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">-9.0</td><td>No data
+</td></tr>
+</table>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Range of values</th></tr>
+<tr><th>Minimum:</th><td>0.0</td></tr>
+<tr><th>Maximum:</th><td>57.1</td></tr>
+</table>
+<p>
+</dl>
+<p>
+</dl>
+<p>
+</li>
+</ol>
+<p>
+<hr/>
+<h3><a name="who">Who produced the data set?</a></h3>
+<ol>
+<li><a name="who.1"><b>Who are the originators of the data set?</b></a> (may include formal authors, digital compilers, and editors)<p>
+<ul>
+<li>National Atlas of the United States
+</ul>
+<p>
+</li>
+<li><a name="who.2"><b>Who also contributed to the data set?</b></a><p>
+<p>
+</li>
+<li><a name="who.3"><b>To whom should users address questions about the data?</b></a><p>
+<div style="margin-left: 2em">
+National Atlas of the United States<br/>
+U.S. Geological Survey<br/>
+Reston, VA 20192<br/>
+<p>
+1-888-ASK-USGS (1-888-275-8747) (voice)<br/>
+atlasmail@usgs.gov<br/>
+<dl>
+<dt><em>Contact_Instructions:</em>  
+<dd>
+
+For questions about this map layer or metadata, please contact the
+National Atlas using the information above, or through the U.S.
+Geological Survey contact page at &lt;<a href="http://www.usgs.gov/ask/">http://www.usgs.gov/ask/</a>&gt;.  For
+distribution questions, please see the Distribution Information
+elsewhere in this metadata.
+<br/>
+
+</dd>
+</dl>
+</div>
+<p>
+</li>
+</ol>
+<hr/>
+<h3><a name="why">Why was the data set created?</a></h3>
+<blockquote>
+These data are intended for geographic display and analysis at the
+national level, and for large regional areas.  The data should be
+displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
+No responsibility is assumed by the National Atlas of the United States,
+the United States Department of Agriculture, Food and Nutrition Service,
+or the U.S. Census Bureau in the use of these data.
+<br/>
+</blockquote>
+<p>
+<hr/>
+<h3><a name="how">How was the data set created?</a></h3>
+<ol>
+<li><a name="how.1"><b>From what previous works were the data drawn?</b></a><p>
+<dl>
+<dt><b>Food Stamp 1989-2002</b> (source 1 of 6)
+<dd>
+<blockquote>
+United States Department of Agriculture, Food and Nutrition Service, 2004, County Food Stamp Input Data Files: U.S. Census Bureau, Washington, DC.<p>
+Online Links:
+<ul>
+<li>&lt;<a href="http://www.census.gov/did/www/saipe/data/model/tables.html">http://www.census.gov/did/www/saipe/data/model/tables.html</a>&gt;
+</ul>
+<p>
+</blockquote>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Online</dt>
+<dt><em>Source_Contribution:</em>  Spatial and attribute information</dt>
+</dl>
+<p>
+<dt><b>1989 Population Estimate</b> (source 2 of 6)
+<dd>
+<blockquote>
+U.S. Census Bureau, 2004, 1980 to 1989 Population Estimates of the U.S., States, and Counties: U.S. Census Bureau, Washington, DC.<p>
+Online Links:
+<ul>
+<li>&lt;<a href="http://www.census.gov/popest/data/historical/1980s/county.html">http://www.census.gov/popest/data/historical/1980s/county.html</a>&gt;
+</ul>
+<p>
+</blockquote>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Online</dt>
+<dt><em>Source_Contribution:</em>  Attribute information</dt>
+</dl>
+<p>
+<dt><b>1990s Population Estimates</b> (source 3 of 6)
+<dd>
+<blockquote>
+U.S. Census Bureau, 2004, County Population Estimates and Demographic Components of Population Change: Annual Time Series, July 1, 1990 to July 1, 1999: U.S. Census Bureau, Washington, DC.<p>
+Online Links:
+<ul>
+<li>&lt;<a href="http://www.census.gov/popest/data/historical/1990s/county.html">http://www.census.gov/popest/data/historical/1990s/county.html</a>&gt;
+</ul>
+<p>
+</blockquote>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Online</dt>
+<dt><em>Source_Contribution:</em>  Attribute information</dt>
+</dl>
+<p>
+<dt><b>2000s Population Estimates</b> (source 4 of 6)
+<dd>
+<blockquote>
+U.S. Census Bureau, 2004, Population, Population change and estimated components of population change: April 1, 2000 to July 1, 2004: U.S. Census Bureau, Washington, DC.<p>
+Online Links:
+<ul>
+<li>&lt;<a href="http://www.census.gov/popest/data/historical/2000s/vintage_2004/county.html">http://www.census.gov/popest/data/historical/2000s/vintage_2004/county.html</a>&gt;
+</ul>
+<p>
+</blockquote>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Online</dt>
+<dt><em>Source_Contribution:</em>  Attribute information</dt>
+</dl>
+<p>
+<dt><b>Food Stamp 2003-2008</b> (source 5 of 6)
+<dd>
+<blockquote>
+United States Department of Agriculture, Food and Nutrition Service, 2009, County SNAP benefits data: U.S. Census Bureau, Washington, DC.<p>
+Online Links:
+<ul>
+<li>&lt;<a href="http://www.census.gov/did/www/saipe/data/model/tables.html">http://www.census.gov/did/www/saipe/data/model/tables.html</a>&gt;
+</ul>
+<p>
+</blockquote>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Online</dt>
+<dt><em>Source_Contribution:</em>  Spatial and attribute information</dt>
+</dl>
+<p>
+<dt><b>2000s Population Estimate</b> (source 6 of 6)
+<dd>
+<blockquote>
+U.S. Census Bureau, 2009, Annual Estimates of the Resident Population for Counties, April 1, 2000 to July 1, 2008: U.S. Census Bureau, Washington, DC.<p>
+Online Links:
+<ul>
+<li>&lt;<a href="http://www.census.gov/popest/data/historical/2000s/vintage_2008/county.html">http://www.census.gov/popest/data/historical/2000s/vintage_2008/county.html</a>&gt;
+</ul>
+<p>
+</blockquote>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Online</dt>
+<dt><em>Source_Contribution:</em>  Attribute information</dt>
+</dl>
+<p>
+</dl>
+</li>
+<li><a name="how.2"><b>How were the data generated, processed, and modified?</b></a><p>
+<dl>
+<dt>Date: Aug-2005 (process 1 of 2)
+<dd>
+The Food Stamp data for 1989, 1993, 1995, and 1997-2002 were
+downloaded in Excel format.  A row containing header information was
+added, and the file was loaded into ArcView and saved as a dBASE IV
+file.  The three files containing population estimates were
+downloaded, loaded into ArcView, and saved as dBASE files.  The
+population estimate files were joined to the food stamp file.  Fields
+were added to contain the percentage of food stamp recipients for each
+year.  The values for the new fields were calculated by dividing the
+appropriate population estimate into the number of food stamp
+recipients and multiplying by 100.  Fields that were blank were given
+values of -9999 or -9.0.  A record was added for Yellowstone National
+Park (FIPS 30113).  Records for individual States were deleted.
+<p>
+Data sources used in this process:
+<ul>
+<li>Food Stamp 1989-2002
+<li>1989 Population Estimate
+<li>1990s Population Estimates
+<li>2000s Population Estimates
+</ul>
+<p>
+Data sources produced in this process:
+<ul>
+<li>Food_89_02
+</ul>
+<p>
+<dt>Date: Dec-2010 (process 2 of 2)
+<dd>
+The SNAP data for 2003-2008 were downloaded in Excel format.  The
+files containing the population estimates were also downloaded in
+Excel format.  The population estimate files were joined to the SNAP
+file.  Fields to contain the percentage of food stamp recipients were
+added.  The values for the new fields were calculated by dividing the
+appropriate population estimate into the number of food stamp
+recipients and multiplying by 100.  Fields that were blank were given
+values of -9999 or -9.0.  Records for individual States were deleted.
+The Excel file was joined to the Food_89_02 dBase file and saved as
+Food_89_08.
+<p>
+Data sources used in this process:
+<ul>
+<li>Food_89_02
+<li>Food Stamp 2003-2008
+<li>2000s Population Estimates
+</ul>
+<p>
+Data sources produced in this process:
+<ul>
+<li>Food_89_08
+</ul>
+<p>
+</dl>
+</li>
+<li><a name="how.3"><b>What similar or related data should the user be aware of?</b></a><p>
+</li>
+</ol>
+<p>
+<hr/>
+<h3><a name="quality">How reliable are the data; what problems remain in the data set?</a></h3>
+<ol>
+<li><a name="quality.1"><b>How well have the observations been checked?</b></a><p>
+<p>
+</li>
+<li><a name="quality.2"><b>How accurate are the geographic locations?</b></a><p>
+<p>
+</li>
+<li><a name="quality.3"><b>How accurate are the heights or depths?</b></a><p>
+<p>
+</li>
+<li><a name="quality.4"><b>Where are the gaps in the data?  What is missing?</b></a><p>
+This map layer includes the number of food stamp recipients for 1989,
+1993, 1995, and 1997-2008 by county in the United States, including the
+District of Columbia.
+<br/>
+<p>
+</li>
+<li><a name="quality.5"><b>How consistent are the relationships among the observations, including topology?</b></a><p>
+No checks for logical consistency were performed on this map layer.
+</li>
+</ol>
+<p>
+<hr/>
+<h3><a name="getacopy">How can someone get a copy of the data set?</a></h3>
+<blockquote>
+<a name="getacopy.0"><b>Are there legal restrictions on access or use of the data?</b></a><p>
+<blockquote>
+<dl>
+<dt><em>Access_Constraints:</em>  None</dt>
+<dt><em>Use_Constraints:</em>  
+<dd>
+
+None.  Acknowledgment of the National Atlas of the United States of
+America; United States Department of Agriculture, Food and Nutrition
+Service (USDA/FNS); and (or) U.S. Census Bureau would be appreciated in
+products derived from these data.
+
+</dd>
+</dl>
+</blockquote>
+</blockquote>
+<p>
+<ol>
+<li><a name="getacopy.1"><b>Who distributes the data set?</b></a> (Distributor 1 of 1)<p>
+<div style="margin-left: 2em">
+Earth Explorer, U.S. Geological Survey<br/>
+U.S. Geological Survey<br/>
+Sioux Falls, SD 57198-0001<br/>
+<p>
+605-594-6116 (voice)<br/>
+lpdaac@usgs.gov<br/>
+</div>
+</li>
+<li><a name="getacopy.2"><b>What's the catalog number I need to order this data set?</b></a><p>
+</li>
+<li><a name="getacopy.3"><b>What legal disclaimers am I supposed to read?</b></a><p>
+<blockquote>
+Although these data have been processed successfully on a computer system
+at the U.S. Geological Survey, no warranty expressed or implied is made by
+the U.S. Geological Survey regarding the utility of the data on any other
+system, nor shall the act of distribution constitute any such warranty.
+No responsibility is assumed by the U.S. Geological Survey in the use of
+these data.
+</blockquote>
+<p>
+</li>
+<li><a name="getacopy.4"><b>How can I download or order the data?</b></a><p>
+<ul>
+<li><b>Availability in digital form:</b><p>
+<table border="0" cellpadding="2">
+<tr><th align="left" valign="top">Data&nbsp;format:</th>
+<td>
+dBASE IV file
+
+</td>
+</tr>
+<tr><th align="left" valign="top">Network&nbsp;links:</th>
+<td>
+&lt;<a href="http://nationalatlas.gov/atlasftp.html">http://nationalatlas.gov/atlasftp.html</a>&gt;<br/>
+&lt;<a href="http://webservices.nationalatlas.gov/wms/people?">http://webservices.nationalatlas.gov/wms/people?&gt;</a> SERVICE=WMS&amp;REQUEST=GetCapabilities&gt;<br/>
+&lt;<a href="http://webservices.nationalatlas.gov/wms?">http://webservices.nationalatlas.gov/wms?&gt;</a> SERVICE=WMS&amp;REQUEST=GetCapabilities&gt;<br/>
+</td>
+</tr>
+</table>
+<p>
+<li><b>Cost to order the data:</b> None<p>
+</ul>
+<p>
+</li>
+</ol>
+<p>
+<hr/>
+<h3><a name="metaref">Who wrote the metadata?</a></h3>
+<dl>
+<dt>Dates:
+<dd>Last modified: 28-Sep-2012<br/>
+</dd>
+<dt>Metadata author:
+<dd>
+<div style="margin-left: 2em">
+National Atlas of the United States<br/>
+U.S. Geological Survey<br/>
+Reston, VA 20192<br/>
+<p>
+1-888-ASK-USGS (1-888-275-8747) (voice)<br/>
+atlasmail@usgs.gov<br/>
+</div>
+</dd>
+<dt>Metadata standard: <dd>FGDC Content Standards for Digital Geospatial Metadata (FGDC-STD-001-1998)</dl>
+<p></p>
+<hr/>
+<span class="mp-generated">Generated by <a href="http://geology.usgs.gov/tools/metadata/tools/doc/mp.html"><tt>mp</tt></a> version 2.9.14 on Wed Oct 03 11:45:03 2012<br/></span>
+
+</body>
+</html>

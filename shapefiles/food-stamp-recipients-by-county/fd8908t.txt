@@ -1,0 +1,522 @@
+Metadata
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: National Atlas of the United States
+        Publication_Date: 201012
+        Title: Food Stamp Recipients in the United States
+        Publication_Information:
+          Publication_Place: Reston, VA
+          Publisher: National Atlas of the United States
+        Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+    Description:
+      Abstract: 
+        This map layer shows the estimated number of Supplemental Nutrition 
+        Assistance (food stamp) recipients in the United States, by county, 
+        for the years 1989, 1993, 1995, 1997-2002, and 2003-2008.  It is drawn 
+        from United States Department of Agriculture, Food and Nutrition Service 
+        (USDA/FNS) information on the number of people participating in the food 
+        stamp program.  Those data were used in the production of the U.S. 
+        Census Bureau's Small Area Income and Poverty estimates.  Food stamp 
+        recipient estimates are generally for July of the reference year; in a 
+        few cases the States were able to provide data only for other reference 
+        periods.  In 2008, the federal Food Stamps Program  was renamed the 
+        Supplemental Nutrition Assistance Program (SNAP).
+
+      Purpose: 
+        These data are intended for geographic display and analysis at the 
+        national level, and for large regional areas.  The data should be 
+        displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
+        No responsibility is assumed by the National Atlas of the United States, 
+        the United States Department of Agriculture, Food and Nutrition Service, 
+        or the U.S. Census Bureau in the use of these data.
+
+      Supplemental_Information:
+        To create the maps in the National Atlas Map Maker, 
+        <http://nationalatlas.gov/mapmaker>, fd8902t.dbf was joined to the 
+        county boundaries available from the National Atlas data download page, 
+        <http://nationalatlas.gov/atlasftp.html>.  The 1989 data were joined to 
+        the 1990 county boundaries (co1990p020), the 1993, 1995, and 1997-1999 
+        data were joined to the 2000 county boundaries (co2000p020), and the 
+        2000-2008 data were joined to the 2001 county boundaries (countyp020); 
+        the more detailed 2012 county boundaries can also be used with these 
+        data. 
+
+        The Supplemental Nutrition Assistance Program (SNAP) is the new name 
+        for the federal Food Stamp Program, as of October 1, 2008.  Data 
+        originally came from the U.S. Census Bureau's Small Area Income and 
+        Poverty Estimates web site, 
+        <http://www.census.gov/did/www/saipe/data/model/tables.html>.
+
+        Information about National Atlas Web Map Services (WMS) is available on 
+        the WMS Introduction page at 
+        <http://nationalatlas.gov/infodocs/wms_intro.html>.
+
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Range_of_Dates/Times:
+          Beginning_Date: 1989
+          Ending_Date: 2008
+      Currentness_Reference: Ground condition
+
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: Irregular
+
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: 170
+        East_Bounding_Coordinate: -64
+        North_Bounding_Coordinate: 72
+        South_Bounding_Coordinate: 17
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: Society
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: Food stamp recipients
+        Theme_Keyword: Food stamps
+
+      Place:
+        Place_Keyword_Thesaurus: None 
+        Place_Keyword: USA
+        Place_Keyword: United States
+      Place:
+        Place_Keyword_Thesaurus:  
+          U.S. Department of Commerce; 1987; Codes for the Identification of the 
+          States, the District of Columbia and the Outlying Areas of The United 
+          States, and Associated Areas (FIPS 5-2); Washington, DC; National 
+          Institute of Standards and Technology.
+        Place_Keyword: Alabama
+        Place_Keyword: Alaska
+        Place_Keyword: Arizona
+        Place_Keyword: Arkansas
+        Place_Keyword: California
+        Place_Keyword: Colorado
+        Place_Keyword: Connecticut
+        Place_Keyword: Delaware
+        Place_Keyword: District of Columbia
+        Place_Keyword: Florida
+        Place_Keyword: Georgia
+        Place_Keyword: Hawaii
+        Place_Keyword: Idaho
+        Place_Keyword: Illinois
+        Place_Keyword: Indiana
+        Place_Keyword: Iowa
+        Place_Keyword: Kansas
+        Place_Keyword: Kentucky
+        Place_Keyword: Louisiana
+        Place_Keyword: Maine
+        Place_Keyword: Maryland
+        Place_Keyword: Massachusetts
+        Place_Keyword: Michigan
+        Place_Keyword: Minnesota
+        Place_Keyword: Mississippi
+        Place_Keyword: Missouri
+        Place_Keyword: Montana
+        Place_Keyword: Nebraska
+        Place_Keyword: Nevada
+        Place_Keyword: New Hampshire
+        Place_Keyword: New Jersey
+        Place_Keyword: New Mexico
+        Place_Keyword: New York
+        Place_Keyword: North Carolina
+        Place_Keyword: North Dakota
+        Place_Keyword: Ohio
+        Place_Keyword: Oklahoma
+        Place_Keyword: Oregon
+        Place_Keyword: Pennsylvania
+        Place_Keyword: Rhode Island
+        Place_Keyword: South Carolina
+        Place_Keyword: South Dakota
+        Place_Keyword: Tennessee
+        Place_Keyword: Texas
+        Place_Keyword: Utah
+        Place_Keyword: Vermont
+        Place_Keyword: Virginia
+        Place_Keyword: Washington
+        Place_Keyword: West Virginia
+        Place_Keyword: Wisconsin
+        Place_Keyword: Wyoming
+
+    Access_Constraints: None
+    Use_Constraints:  
+      None.  Acknowledgment of the National Atlas of the United States of
+      America; United States Department of Agriculture, Food and Nutrition 
+      Service (USDA/FNS); and (or) U.S. Census Bureau would be appreciated in 
+      products derived from these data.  
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Organization_Primary: 
+          Contact_Organization: National Atlas of the United States 
+        Contact_Address: 
+          Address_Type: Mailing and physical address 
+          Address: U.S. Geological Survey
+          Address: 511 National Center 
+          Address: 12201 Sunrise Valley Drive 
+          City: Reston 
+          State_or_Province: VA 
+          Postal_Code: 20192 
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+        Contact_Instructions:
+          For questions about this map layer or metadata, please contact the 
+          National Atlas using the information above, or through the U.S. 
+          Geological Survey contact page at <http://www.usgs.gov/ask/>.  For 
+          distribution questions, please see the Distribution Information 
+          elsewhere in this metadata. 
+
+  Data_Quality_Information:
+    Logical_Consistency_Report: 
+      No checks for logical consistency were performed on this map layer.
+    Completeness_Report:
+      This map layer includes the number of food stamp recipients for 1989, 
+      1993, 1995, and 1997-2008 by county in the United States, including the 
+      District of Columbia.
+
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: 
+              United States Department of Agriculture, Food and Nutrition 
+              Service
+            Publication_Date: 2004
+            Title: County Food Stamp Input Data Files
+            Publication_Information:
+              Publication_Place: Washington, DC
+              Publisher: U.S. Census Bureau 
+            Online_Linkage: 
+              <http://www.census.gov/did/www/saipe/data/model/tables.html>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 20041005
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: Food Stamp 1989-2002
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Census Bureau
+            Publication_Date: 2004
+            Title: 
+              1980 to 1989 Population Estimates of the U.S., States, and 
+              Counties 
+            Publication_Information:
+              Publication_Place: Washington, DC
+              Publisher: U.S. Census Bureau 
+            Online_Linkage:
+              <http://www.census.gov/popest/data/historical/1980s/county.html>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2004
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: 1989 Population Estimate
+        Source_Contribution: Attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Census Bureau
+            Publication_Date: 2004
+            Title: 
+              County Population Estimates and Demographic Components of 
+              Population Change: Annual Time Series, July 1, 1990 to July 1, 
+              1999
+            Publication_Information:
+              Publication_Place: Washington, DC
+              Publisher: U.S. Census Bureau 
+            Online_Linkage: 
+              <http://www.census.gov/popest/data/historical/1990s/county.html>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2000
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: 1990s Population Estimates
+        Source_Contribution: Attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Census Bureau
+            Publication_Date: 2004
+            Title: 
+              Population, Population change and estimated components of 
+              population change: April 1, 2000 to July 1, 2004 
+            Publication_Information:
+              Publication_Place: Washington, DC
+              Publisher: U.S. Census Bureau 
+            Online_Linkage: 
+              <http://www.census.gov/popest/data/historical/2000s/vintage_2004/county.html>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2005
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: 2000s Population Estimates
+        Source_Contribution: Attribute information 
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: 
+              United States Department of Agriculture, Food and Nutrition 
+              Service
+            Publication_Date: 2009
+            Title: County SNAP benefits data
+            Publication_Information:
+              Publication_Place: Washington, DC
+              Publisher: U.S. Census Bureau 
+            Online_Linkage: 
+              <http://www.census.gov/did/www/saipe/data/model/tables.html>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 20091130
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: Food Stamp 2003-2008
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Census Bureau
+            Publication_Date: 2009
+            Title: 
+              Annual Estimates of the Resident Population for Counties, 
+              April 1, 2000 to July 1, 2008
+            Publication_Information:
+              Publication_Place: Washington, DC
+              Publisher: U.S. Census Bureau 
+            Online_Linkage: 
+              <http://www.census.gov/popest/data/historical/2000s/vintage_2008/county.html>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2009
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: 2000s Population Estimate
+        Source_Contribution: Attribute information
+
+      Process_Step:
+        Process_Description: 
+          The Food Stamp data for 1989, 1993, 1995, and 1997-2002 were 
+          downloaded in Excel format.  A row containing header information was 
+          added, and the file was loaded into ArcView and saved as a dBASE IV 
+          file.  The three files containing population estimates were 
+          downloaded, loaded into ArcView, and saved as dBASE files.  The 
+          population estimate files were joined to the food stamp file.  Fields 
+          were added to contain the percentage of food stamp recipients for each 
+          year.  The values for the new fields were calculated by dividing the 
+          appropriate population estimate into the number of food stamp 
+          recipients and multiplying by 100.  Fields that were blank were given 
+          values of -9999 or -9.0.  A record was added for Yellowstone National 
+          Park (FIPS 30113).  Records for individual States were deleted.
+        Source_Used_Citation_Abbreviation: Food Stamp 1989-2002
+        Source_Used_Citation_Abbreviation: 1989 Population Estimate
+        Source_Used_Citation_Abbreviation: 1990s Population Estimates
+        Source_Used_Citation_Abbreviation: 2000s Population Estimates
+        Process_Date: 200508
+        Source_Produced_Citation_Abbreviation: Food_89_02
+
+      Process_Step:
+        Process_Description: 
+          The SNAP data for 2003-2008 were downloaded in Excel format.  The 
+          files containing the population estimates were also downloaded in 
+          Excel format.  The population estimate files were joined to the SNAP 
+          file.  Fields to contain the percentage of food stamp recipients were 
+          added.  The values for the new fields were calculated by dividing the 
+          appropriate population estimate into the number of food stamp 
+          recipients and multiplying by 100.  Fields that were blank were given 
+          values of -9999 or -9.0.  Records for individual States were deleted.  
+          The Excel file was joined to the Food_89_02 dBase file and saved as 
+          Food_89_08.
+        Source_Used_Citation_Abbreviation: Food_89_02
+        Source_Used_Citation_Abbreviation: Food Stamp 2003-2008
+        Source_Used_Citation_Abbreviation: 2000s Population Estimates
+        Process_Date: 201012
+        Source_Produced_Citation_Abbreviation: Food_89_08
+      
+  Spatial_Data_Organization_Information:
+    Indirect_Spatial_Reference:  
+      U.S. Department of Commerce; 1990; Counties and Equivalent Entities of the
+      United States, Its Possessions, and Associated Areas; FIPS 6-4; 
+      Washington, DC; National Institute of Standards and Technology.
+
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: 
+          Food Stamp recipient estimates (described by fd8908t.dbf)
+        Entity_Type_Definition: 
+          Estimates of the number of food stamp recipients, by county in the 
+          United States.  The data are for 1989, 1993, 1995, and 1997-2008.
+        Entity_Type_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Fips
+        Attribute_Definition: 
+          The 5-digit FIPS code of the county or county equivalent.  
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: 
+              Counties and Equivalent Entities of the United States, Its 
+              Possessions, and Associated Areas; Federal Information Processing 
+              Standard (FIPS) 6-4; Washington, DC; National Institute of 
+              Standards and Technology.
+            Codeset_Source: U.S. Department of Commerce
+      Attribute:
+        Attribute_Label: Name
+        Attribute_Definition: The name of the county or county equivalent.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: 
+              Counties and Equivalent Entities of the United States, Its 
+              Possessions, and Associated Areas; (Federal Information Processing 
+              Standard (FIPS) 6-4): Washington, DC, National Institute of 
+              Standards and Technology.
+            Codeset_Source: U.S. Department of Commerce 
+      Attribute:
+        Attribute_Label: St_fips
+        Attribute_Definition: 
+          The 2-character FIPS code of the State or State equivalent.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: 
+              Codes for the Identification of the States, the District of
+              Columbia and the Outlying Areas of the United States, and 
+              Associated Areas; FIPS 5-2. 
+            Codeset_Source: 
+              U.S. Department of Commerce, National Institute of Standards and 
+              Technology
+      Attribute:
+        Attribute_Label: Foodxxxx
+        Attribute_Definition: 
+          The estimated number of food stamp recipients in the county, for the 
+          year xxxx.  In general, the values reflect an average of monthly 
+          values from August of the prior year to July of the reference year.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 1045474
+        Attribute_Domain_Values:
+          Enumerated_Domain: 
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: No data
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+      Attribute:
+        Attribute_Label: Pexxxx
+        Attribute_Definition: 
+          The county population estimate for the year xxxx.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 42
+            Range_Domain_Maximum: 9862049
+        Attribute_Domain_Values:
+          Enumerated_Domain: 
+            Enumerated_Domain_Value: 0
+            Enumerated_Domain_Value_Definition: 
+              The county did not exist in the reference year.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain: 
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: No data
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+      Attribute:
+        Attribute_Label: Perxxxx
+        Attribute_Definition: 
+          The percentage of the population who are food stamp recipients, by 
+          county for the year xxxx.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.0
+            Range_Domain_Maximum: 57.1
+        Attribute_Domain_Values:
+          Enumerated_Domain: 
+            Enumerated_Domain_Value: -9.0
+            Enumerated_Domain_Value_Definition: No data
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: Earth Explorer, U.S. Geological Survey
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: U.S. Geological Survey
+          Address: 47914 252nd Street
+          City: Sioux Falls
+          State_or_Province: SD
+          Postal_Code: 57198-0001
+        Contact_Voice_Telephone: 605-594-6116
+        Contact_Voice_Telephone: 866-573-3222
+        Contact_Electronic_Mail_Address: lpdaac@usgs.gov
+    Distribution_Liability:  
+      Although these data have been processed successfully on a computer system 
+      at the U.S. Geological Survey, no warranty expressed or implied is made by 
+      the U.S. Geological Survey regarding the utility of the data on any other  
+      system, nor shall the act of distribution constitute any such warranty.  
+      No responsibility is assumed by the U.S. Geological Survey in the use of 
+      these data.  
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: dBASE IV file 
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+                Network_Resource_Name: 
+                  <http://webservices.nationalatlas.gov/wms/people?
+                  SERVICE=WMS&REQUEST=GetCapabilities>
+                Network_Resource_Name: 
+                  <http://webservices.nationalatlas.gov/wms?
+                  SERVICE=WMS&REQUEST=GetCapabilities>
+      Fees: None
+
+  Metadata_Reference_Information:
+    Metadata_Date: 20120928
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: National Atlas of the United States
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: U.S. Geological Survey
+          Address: 511 National Center
+          Address: 12201 Sunrise Valley Drive 
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+    Metadata_Standard_Name: 
+      FGDC Content Standards for Digital Geospatial Metadata 
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Security_Information: 
+      Metadata_Security_Classification_System: None
+      Metadata_Security_Classification: Unclassified
+      Metadata_Security_Handling_Description: None
