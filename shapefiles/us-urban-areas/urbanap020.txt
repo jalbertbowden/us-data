@@ -1,0 +1,149 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date: 200101
+      Title: Urban Areas of the United States
+      Publication_Information:
+        Publication_Place: Reston, Virginia
+        Publisher: U.S. Geological Survey
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+
+  Description:
+    Abstract:       This data set includes a selection of urban areas in the United States 
+      derived from the urban areas layer of the Digital Chart of the World 
+      (DCW).  This is a revised version of the 1998 data set. Only minor       corrections have been made.
+    Purpose:       These data are intended for geographic display and analysis at the 
+      national level, and for large regional areas.  The data should be 
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale data.  
+      No responsibility is assumed by the U.S. Geological Survey in the use of 
+      these data. 
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 200101
+    Currentness_Reference: publication date
+
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 172
+      East_Bounding_Coordinate: -66
+      North_Bounding_Coordinate: 72
+      South_Bounding_Coordinate: 18
+
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: urban areas      Theme_Keyword: populated places    Place:
+      Place_Keyword_Thesaurus:
+        U.S. Department of Commerce, 1977, Countries, Dependencies, Areas of
+        Special Sovereignty, and Their Principal Administrative Divisions
+        (Federal Information Processing Standard (FIPS) 10-3): Washington, DC,
+        National Institute of Standards and Technology.
+      Place_Keyword: United States
+    Place:
+      Place_Keyword_Thesaurus:          U.S. Department of Commerce, 1987, Codes for the Identification of the         States, the District of Columbia and the Outlying Areas of the United         States, and Associated Areas (FIPS 5-2): Washington, DC, National         Institute of Standards and Technology.
+      Place_Keyword: USA
+      Place_Keyword: Alabama      Place_Keyword: Alaska      Place_Keyword: Arizona      Place_Keyword: Arkansas      Place_Keyword: California      Place_Keyword: Colorado      Place_Keyword: Connecticut      Place_Keyword: Delaware      Place_Keyword: District of Columbia      Place_Keyword: Florida      Place_Keyword: Georgia      Place_Keyword: Hawaii      Place_Keyword: Idaho      Place_Keyword: Illinois      Place_Keyword: Indiana      Place_Keyword: Iowa      Place_Keyword: Kansas      Place_Keyword: Kentucky      Place_Keyword: Louisiana      Place_Keyword: Maine      Place_Keyword: Maryland      Place_Keyword: Massachusetts      Place_Keyword: Michigan      Place_Keyword: Minnesota      Place_Keyword: Mississippi      Place_Keyword: Missouri      Place_Keyword: Montana      Place_Keyword: Nebraska      Place_Keyword: Nevada      Place_Keyword: New Hampshire      Place_Keyword: New Jersey      Place_Keyword: New Mexico      Place_Keyword: New York      Place_Keyword: North Carolina      Place_Keyword: North Dakota      Place_Keyword: Ohio      Place_Keyword: Oklahoma      Place_Keyword: Oregon      Place_Keyword: Pennsylvania      Place_Keyword: Rhode Island      Place_Keyword: South Carolina      Place_Keyword: South Dakota      Place_Keyword: Tennessee      Place_Keyword: Texas      Place_Keyword: Utah      Place_Keyword: Vermont      Place_Keyword: Virginia      Place_Keyword: Washington      Place_Keyword: West Virginia      Place_Keyword: Wisconsin      Place_Keyword: Wyoming
+
+  Access_Constraints: None
+  Use_Constraints:     None.  Acknowledgment of the National Atlas of the United States of America     and (or) the U.S. Geological Survey would be appreciated in products     derived from these data.  
+  Point_of_Contact:    Contact_Information:      Contact_Person_Primary:        Contact_Person: Gita Urban-Mathieux        Contact_Organization: U.S. Geological Survey      Contact_Address:        Address_Type: mailing address        Address: 521 National Center        City: Reston        State_or_Province: VA        Postal_Code: 20192      Contact_Voice_Telephone: 703-648-5175      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+
+Data_Quality_Information:
+  Logical_Consistency_Report:      No additional checks for topological consistency were performed on     this data set.
+  Completeness_Report: 
+    This data set contains urban areas for the 50 United States.
+  Lineage:    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Imagery and Mapping Agency (NIMA)
+          Publication_Date: 1994
+          Title: Digital Chart of the World
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1994
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: DCW
+      Source_Contribution: spatial and attribute information
+    Source_Information:      Source_Citation:        Citation_Information:          Originator: U.S. Geological Survey          Publication_Date: 1998          Title: State Boundaries of the United States          Publication_Information:            Publication_Place: Reston, Virginia            Publisher: U.S. Geological Survey      Source_Scale_Denominator: 2000000      Type_of_Source_Media: online      Source_Time_Period_of_Content:        Time_Period_Information:          Single_Date/Time:            Calendar_Date: 1998        Source_Currentness_Reference: publication date      Source_Citation_Abbreviation: ATLAS-STATE      Source_Contribution: spatial information
+    Source_Information:      Source_Citation:        Citation_Information:          Originator: U.S. Geological Survey          Publication_Date: 1998          Title: Cities and Towns of the United States          Publication_Information:            Publication_Place: Reston, Virginia            Publisher: U.S. Geological Survey      Source_Scale_Denominator: 2000000      Type_of_Source_Media: online      Source_Time_Period_of_Content:        Time_Period_Information:          Range_of_Dates/Times:            Beginning_Date: 1972            Ending_Date: 1994        Source_Currentness_Reference: ground condition      Source_Citation_Abbreviation: ATLAS-CITIES98      Source_Contribution: spatial and attribute information
+    Source_Information:      Source_Citation:        Citation_Information:          Originator: U.S. Geological Survey          Publication_Date: 1998          Title: Hydrography Features of the United States          Publication_Information:            Publication_Place: Reston, Virginia            Publisher: U.S. Geological Survey      Source_Scale_Denominator: 2000000      Type_of_Source_Media: online      Source_Time_Period_of_Content:        Time_Period_Information:          Single_Date/Time:            Calendar_Date: 1998        Source_Currentness_Reference: publication date      Source_Citation_Abbreviation: ATLAS-HY      Source_Contribution: spatial information
+    Source_Information:      Source_Citation:        Citation_Information:          Originator: U.S. Geological Survey          Publication_Date: 1998          Title: Urban Areas of the United States          Publication_Information:            Publication_Place: Reston, Virginia            Publisher: U.S. Geological Survey      Source_Scale_Denominator: 2000000      Type_of_Source_Media: online      Source_Time_Period_of_Content:        Time_Period_Information:          Single_Date/Time:            Calendar_Date: 1998        Source_Currentness_Reference: publication date      Source_Citation_Abbreviation: ATLAS-URBAN98      Source_Contribution: spatial information
+    Process_Step:
+      Process_Description:
+        Urban polygons from the Digital Chart of the World (DCW) CD-ROM were 
+        extracted and converted to Arc/INFO format.  Where the urban boundaries 
+        extended beyond the shoreline of ATLAS-STATES, the shoreline was matched 
+        to the ATLAS-STATES shoreline.  Names of the urban areas were added 
+        using names in ATLAS-CITIES98. In large metropolitan areas many smaller 
+        areas were labeled as part of the metropolitan area.  The State in which 
+        the urban area is located was also added.  Several areas were modified 
+        to conform to the 1:2,000,000-scale hydrography (ATLAS-HY) layer.  Some 
+        smaller polygons that represent undeveloped areas within the urban area 
+        were removed and merged with the larger urban area.  Military 
+        reservations were also removed.  Finally, the attribute for State FIPS 
+        was added.
+      Source_Used_Citation_Abbreviation: DCW      Source_Used_Citation_Abbreviation: ATLAS-STATE      Source_Used_Citation_Abbreviation: ATLAS-HY      Source_Used_Citation_Abbreviation: ATLAS-CITIES98      Process_Date: 1998      Source_Produced_Citation_Abbreviation: ATLAS-URBAN98
+    Process_Step:      Process_Description:        The spellings for San Francisco, CA and Bismarck, ND were corrected.      Source_Used_Citation_Abbreviation: ATLAS-URBAN98      Process_Date: 200101
+
+Spatial_Data_Organization_Information:  Direct_Spatial_Reference_Method: Vector  Point_and_Vector_Object_Information:    SDTS_Terms_Description:      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains      Point_and_Vector_Object_Count: 6176
+Spatial_Reference_Information:  Horizontal_Coordinate_System_Definition:    Geographic:      Latitude_Resolution: 0.02083333      Longitude_Resolution: 0.02083333      Geographic_Coordinate_Units: Decimal degrees    Geodetic_Model:      Horizontal_Datum_Name: North American Datum of 1983      Ellipsoid_Name: GRS1980      Semi-major_Axis: 6378137.0      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Urban Areas (described by Urbanap020.dbf)
+      Entity_Type_Definition: 
+        Urban areas are places where large populations exist.
+      Entity_Type_Definition_Source: U.S. Geological Survey
+    Attribute:      Attribute_Label: Shape      Attribute_Definition: The representation of the entity in the data.      Attribute_Definition_Source: U.S. Geological Survey      Attribute_Domain_Values:        Enumerated_Domain:          Enumerated_Domain_Value: Polygon          Enumerated_Domain_Value_Definition: A 2-dimensional element.          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Area
+      Attribute_Definition: The size of the shape in coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 0.298
+    Attribute:
+      Attribute_Label: Perimeter
+      Attribute_Definition: The perimeter of the shape in coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.001
+          Range_Domain_Maximum: 6.774
+    Attribute:
+      Attribute_Label: Urbanap020
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 2
+          Range_Domain_Maximum: 6177
+    Attribute:
+      Attribute_Label: Name
+      Attribute_Definition: The name of the urban area.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values
+        Unrepresentable_Domain:           There is no predefined set of valid urban area names. Name represents          the most significant place that is in the polygon.
+    Attribute:        Attribute_Label: State       Attribute_Definition:         The 2-character FIPS code of the State or State equivalent.  Where the 
+        urban area falls in more than one State, the codes are separated by 
+        dashes: DC-VA-MD.
+      Attribute_Definition_Source: U.S. Geological Survey       Attribute_Domain_Values:         Codeset_Domain:           Codeset_Name:             Codes for the Identification of the States, the District of             Columbia and the Outlying Areas of the United States, and            Associated Areas, FIPS 5-2.           Codeset_Source:             U.S. Department of Commerce, National Institute of Standards and            Technology    Attribute:      Attribute_Label: State_fips      Attribute_Definition:         The 2-digit FIPS code of the State or State equivalent.  Where the 
+        urban area falls in more than one State, the codes are separated by 
+        dashes: 11-51-24.      Attribute_Definition_Source: U.S. Geological Survey      Attribute_Domain_Values:        Codeset_Domain:          Codeset_Name:             Codes for the Identification of the States, the District of             Columbia and the Outlying Areas of the United States, and            Associated Areas, FIPS 5-2.           Codeset_Source:             U.S. Department of Commerce, National Institute of Standards and            Technology
+Distribution_Information:  Distributor:    Contact_Information:      Contact_Organization_Primary:        Contact_Organization:           Earth Science Information Center, U.S. Geological Survey      Contact_Address:        Address_Type: mailing address        Address: 507 National Center        City: Reston        State_or_Province: VA        Postal_Code: 20192      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)       Contact_Voice_Telephone: 703-648-5920      Contact_Instructions:        In addition to the address above, there are other ESIC offices 
+        throughout the country.  A full list of these offices is at        <http://mapping.usgs.gov/esic/esic_index.html>.
+  Distribution_Liability:    Although these data have been processed successfully on a computer system    at the U.S. Geological Survey, no warranty expressed or implied is made by    the U.S. Geological Survey regarding the utility of the data on any other    system, nor shall the act of distribution constitute any  such warranty.     No responsibility is assumed by the U.S. Geological Survey in the use of    these data.  Standard_Order_Process:     Digital_Form:       Digital_Transfer_Information:        Format_Name: ESRI Shapefile       Digital_Transfer_Option:        Online_Option:          Computer_Contact_Information:            Network_Address:              Network_Resource_Name:                <http://nationalatlas.gov/atlasftp.html>      Digital_Transfer_Option:        Offline_Option:          Offline_Media: CD-ROM          Recording_Format: tar    Digital_Form:      Digital_Transfer_Information:        Format_Name: SDTS      Digital_Transfer_Option:        Online_Option:          Computer_Contact_Information:            Network_Address:              Network_Resource_Name:                <http://nationalatlas.gov/atlasftp.html>      Digital_Transfer_Option:        Offline_Option:          Offline_Media: CD-ROM          Recording_Format: tar    Fees:      There is no charge for the online option.  For National Atlas files      ordered on CD-ROM there is a base price of $45.00 per disc, a handling      fee of $5.00, and a per-file charge based on file size.  The charge for      files less than 10 megabytes in size is $1.00.  The charge for files that      range in size from 10 to 150 megabytes is $7.50.  The charge for files      of 150 megabytes or larger is $15.00.  The charge is $1.00 for the Urban      Areas of the United States data set.    Ordering_Instructions:      To order files on CD-ROM, please see      <http://nationalatlas.gov/atlasftp.html#q12>.
+Metadata_Reference_Information:  Metadata_Date: 20011029  Metadata_Contact:    Contact_Information:      Contact_Person_Primary:        Contact_Person: Gita Urban-Mathieux        Contact_Organization: U.S. Geological Survey      Contact_Address:        Address_Type: mailing address        Address: 521 National Center        City: Reston        State_or_Province: VA        Postal_Code: 20192      Contact_Voice_Telephone: 703-648-5175      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name:     FGDC Content Standards for Digital Geospatial Metadata  Metadata_Standard_Version: FGDC-STD-001-1998  Metadata_Security_Information:    Metadata_Security_Classification_System: None    Metadata_Security_Classification: Unclassified    Metadata_Security_Handling_Description: None
