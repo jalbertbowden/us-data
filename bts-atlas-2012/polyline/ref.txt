@@ -1,0 +1,10 @@
+http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_atlas_database/2013/polyline.html
+Polyline
+Freight Analysis Network (ZIP - 51.85MB)
+Hazardous Material Routes (ZIP - 8.87MB)
+Highway Performance Monitoring System (ZIP - 724.59MB)
+National Highway Planning Network (ZIP - 50.25MB)
+Railway Network (ZIP - 38.11MB)
+Public Use Airport Runways (ZIP - 655KB)
+Fixed-Guideway Transit Facilities (ZIP - 878KB)
+U.S. Army Corps of Engineers Navigable Waterway Network (ZIP - 1.27MB)
