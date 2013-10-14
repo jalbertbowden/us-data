@@ -1,0 +1,818 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date: 200101
+      Title: 
+        Major Surface-Water Sampling Sites in the National Water-Quality 
+        Assessment (NAWQA) Program: 1991 and 1994 Study-Unit Starts
+      Geospatial_Data_Presentation_Form: map
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+  Description:
+    Abstract:
+      This data set shows the 1991 and 1994 National Water-Quality Assessment 
+      (NAWQA) study units' major surface-water sampling sites.  These sites are 
+      in NAWQA's fixed network and (or) in a bed sediment and tissue network.  
+    Purpose: 
+      This data set was created to display NAWQA's major surface-water sampling 
+      sites identified as part of a fixed network and (or) a bed sediment 
+      and tissue network.  The points were generated from the latitude and 
+      longitude coordinates in the U.S. Geological Survey's National Water 
+      Information System (NWIS) for the selected stations.
+    Supplemental_Information:
+      The National Water-Quality Assessment Program is designed to describe the
+      status and trends in the quality of the Nation's ground- and surface-
+      water resources and to provide a sound understanding of the natural and 
+      human factors that affect the quality of these resources (Leahy and 
+      others, 1990).  The building blocks of the national assessment are 
+      investigations in major hydrologic systems of the Nation, referred to as 
+      "Study Units".  The study units are divided into three groups.  Each 
+      group of study units is intensively studied on a rotational schedule of 
+      three-year periods.  The first group began in fiscal year 1991 (FY 1991 
+      ran from October 1990-September 1991), the second in  fiscal year 1994 
+      and the third in fiscal year 1997.  This data set includes major surface-
+      water sampling sites from the first two groups of study units. 
+
+      Sampling sites within the NAWQA program are grouped into "networks".  A 
+      surface-water sampling network is characterized by the type of sampling 
+      activity, such as what constituents are sampled and (or) the sampling
+      frequency.  This data set includes sites in a fixed network and (or) 
+      bed sediment and tissue network.  A NAWQA fixed site is a site on a 
+      stream, at which streamflow is measured and samples are collected for 
+      temperature, salinity, suspended sediment, major ions, nutrients, and 
+      organic carbon, to assess the broad-scale spatial and temporal character 
+      and transport of inorganic constituents of stream water in relation to 
+      hydrologic conditions and environmental settings (Gilliom and others, 
+      1995).  Samples are collected regularly at fixed sites for at least two 
+      years.  All fixed sites are considered "basic fixed sites" but some are 
+      referred to as "intensive fixed sites" if the sampling frequency 
+      increased during selected seasonal periods and if pesticide samples were 
+      collected regularly for 1 year (Gilliom and others, 1995).
+
+      A NAWQA bed sediment and tissue site is a site where bed sediment and 
+      (or) tissue samples are collected and analyzed for trace elements and 
+      hydrophobic organic contaminants in streambed sediment and in the tissue 
+      of aquatic organisms.  Bed sediment and (or) tissue samples are typically 
+      collected once at a site, however some sites are resampled.  Some of 
+      these sites are within NAWQA's major bed sediment and tissue networks, 
+      while some are not.  The two major bed sediment and tissue networks are 
+      the Occurrence survey and the Spatial Distribution survey.  The 
+      Occurrence survey focuses on what hydrophobic contaminants are present, 
+      while the Spatial Distribution survey focuses on these contaminants 
+      through broader areal sampling.  Though these surveys constitute separate 
+      bed sediment and tissue networks, no differentiation is made in this data 
+      set.  However, a bed sediment and tissue site in either the Occurrence 
+      survey or the Spatial Distribution survey is differentiated from 
+      remaining bed sediment and tissue sites that are not part of these 
+      surveys.  These remaining sites are either part of another bed sediment 
+      and (or) tissue network, or part of a synoptic network at which bed 
+      sediment and (or) tissue samples were collected.  A synoptic network 
+      consists of a single or multiple sites sampled to investigate specific 
+      conditions during selected seasonal or hydrologic periods.  In this data 
+      set, synoptic sites at which bed sediment and (or) tissue samples are 
+      collected are considered to belong to a bed sediment and tissue network. 
+
+      The major surface-water sampling sites in the 1997 NAWQA study unit 
+      starts will be added to this data set in the near future. 
+
+      The NAWQA home page is at <http://water.usgs.gov/nawqa/nawqa_home.html>.
+      A map showing the extent of all NAWQA study units, with links to 
+      individual study unit information, is available at 
+      <http://water.usgs.gov/nawqa/nawqamap.html>.
+
+      For additional information about the NAWQA program please see:
+      > Gilliom, R.J., Alley, W.M., and Gurtz, M.E., 1995, Design of the 
+      > National Water-Quality Assessment Program: Occurrence and Distribution 
+      > of Water-Quality Conditions, U.S. Geological Survey Circular 1112.  
+      > U.S. Geological Survey, Sacramento, California.  Accessible online at: 
+      > <http://water.usgs.gov/pubs/circ1112/>.
+
+      > Leahy, P.P., Rosenshein, J.S., and Knopman, D.S., 1990, Implementation 
+      > plan for the National Water-Quality Assessment Program: U.S. Geological 
+      > Survey Open-File Report 90-174. U.S. Geological Survey, Reston,
+      > Virginia, 10 p. 
+
+      > Leahy, P.P. and Thompson, T.H., 1994, National Water-Quality Assessment 
+      > Program: U.S. Geological Survey Open-File Report 94-70, 4 p.,
+      > Accessible online at <http://water.usgs.gov/nawqa/NAWQA.OFR94-70.html>. 
+
+      Any use of trade, product, or firm names is for descriptive purposes only 
+      and does not imply endorsement by the U.S. Government.
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 200005
+    Currentness_Reference: Date of NAWQA data aggregation
+ 
+  Status:
+    Progress: Complete 
+    Maintenance_and_Update_Frequency: As needed
+ 
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -126.16542034
+      East_Bounding_Coordinate: -69.1645651
+      North_Bounding_Coordinate: 48.86487283
+      South_Bounding_Coordinate: 24.1494022
+ 
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: none
+      Theme_Keyword: National Water-Quality Assessment
+      Theme_Keyword: NAWQA
+      Theme_Keyword: Fixed network
+      Theme_Keyword: Bed sediment and tissue network
+      Theme_Keyword: Surface-water sites
+      Theme_Keyword: Surface water
+      Theme_Keyword: Water 
+      Theme_Keyword: Water quality
+
+    Place:
+      Place_Keyword_Thesaurus:  
+        U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of 
+        Special Sovereignty, and Their Principal Administrative Divisions
+        (Federal Information Processing Standard (FIPS) 10-4): Washington, 
+        DC, National Institute of Standards and Technology.
+      Place_Keyword:  United States
+    Place:
+      Place_Keyword_Thesaurus:  
+        U.S. Department of Commerce, 1987, Codes for the Identification of the 
+        States, the District of Columbia and the Outlying Areas of the United 
+        States, and Associated Areas (FIPS 5-2): Washington, DC, National 
+        Institute of Standards and Technology.
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+ 
+  Access_Constraints: None
+  Use_Constraints:
+    None.  Acknowledgment of the National Atlas of the United States of America 
+    and (or) the U.S. Geological Survey would be appreciated in products 
+    derived from these data.  
+ 
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          U.S. Geological Survey, NAWQA National Synthesis GIS
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: CSUS 6000 J Street
+        City: Sacramento
+        State_or_Province: CA
+        Postal_Code: 95819
+        Country: USA
+      Contact_Voice_Telephone: 916-278-3092
+      Contact_Facsimile_Telephone: 916-278-3071
+      Contact_Electronic_Mail_Address: gs-w_nawqa_nsgis@usgs.gov
+ 
+  Data_Set_Credit:
+    Thanks to Curtis Price for generating the NAWQA surface-water (and ground-
+    water) sampling sites coverage from which this data set was extracted, the 
+    NAWQA Study Units for making a national NAWQA data set possible, and Jon 
+    Scott and many others on the NAWQA Data Synthesis team for their efforts in 
+    aggregating the data.
+ 
+  Native_Data_Set_Environment:
+    Windows_NT, 4.0, Intel
+    Arc/INFO version 8.0.2
+
+  Cross_Reference:
+    Citation_Information:
+      Originator: Hitt, K.J.
+      Originator: Nakagaki, N. 
+      Publication_Date: 19990701
+      Title: 
+        National Water-Quality Assessment (NAWQA) Study-Unit Investigations in 
+        the Conterminous United States
+      Geospatial_Data_Presentation_Form: Map
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: U.S. Geological Survey
+      Online_Linkage: <http://water.usgs.gov/lookup/getspatial?nawqa>
+
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      Sites identified as part of the fixed network were checked with existing 
+      record-keeping of fixed stations by the NAWQA National Synthesis team.  
+      Sites identified as part of the bed sediment and tissue network were 
+      verified as having bed sediment and (or) tissue data.  Other stations 
+      were added to the data that were not part of NAWQA's bed sediment and 
+      tissue networks but where bed sediment and (or) tissue samples had been
+      collected.  Additional attribute values were checked by NWIS software on 
+      entry. 
+  Logical_Consistency_Report:
+    No checks for logical consistency were performed on this data set.
+  Completeness_Report:
+    This data set shows selected NAWQA study unit surface-water sampling sites
+    in the lower 48 States.  The study units are those which became active in 
+    either 1991 or 1994.  Site selection was based on whether the site was 
+    grouped within a fixed network and (or) a bed sediment and tissue network.  
+    NAWQA surface-water sampling sites grouped in other networks are not 
+    included in this data set.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        The sampling sites were plotted with their respective drainage basin 
+        boundaries as provided by the NAWQA Study Units, and were verified to 
+        be within the appropriate drainage basins.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Curtis Price
+          Publication_Date: 20000731
+          Title: Locations of USGS NAWQA Sampling Sites
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 200005
+        Source_Currentness_Reference: Date of last NAWQA data aggregation
+      Source_Citation_Abbreviation: nawqapt
+      Source_Contribution: Spatial and attribute information.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Hitt, K.J.
+          Originator: Nakagaki, N. 
+          Publication_Date: 19990701
+          Title: 
+            National Water-Quality Assessment (NAWQA) Study-Unit Investigations 
+            in the Conterminous United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+          Online_Linkage: <http://water.usgs.gov/lookup/getspatial?nawqa>
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 19990701
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: nawqasu1
+      Source_Contribution: Attribute information.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Lanfear, K.J.
+          Publication_Date: 19940816
+          Title: 
+            Counties and county equivalents in the conterminous United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+          Online_Linkage: <http://water.usgs.gov/lookup/getspatial?county2m>
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 19940816
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: counties
+      Source_Contribution: Attribute information.
+
+    Process_Step:
+      Process_Description:
+        The NAWQA sites spatial data set (nawqapt) was generated from multiple 
+        files from NAWQA's national aggregated database.  ARCPLOT was used to 
+        select the subset of sites in nawqapt that were part of the fixed 
+        network, the Occurrence survey and Spatial Distribution survey bed 
+        sediment and tissue networks, and other sites where bed sediment and 
+        (or) tissue samples were known to have been collected.  These sites 
+        were added from nawqapt into the reselected set and the data set was 
+        saved as a new file.  Fields for Study Unit ID (Suid), Year (Yr), and 
+        network indicators (Fix and Bst) were added and populated from 
+        information in nawqapt.  The attribute Name was populated from 
+        additional information in nawqapt.  Related stations were deleted from 
+        the data set.  (A related station is a USGS station at which samples 
+        were collected, located in close proximity to a main or primary 
+        station.  No tributaries, point sources, or any other water-quality 
+        impacting features exist between the primary and related stations and
+        consequently, samples collected at both the primary and related 
+        stations are analyzed as if they were collected at a single physical 
+        location.)  The data set was converted from NAD27 to NAD83.
+      Source_Used_Citation_Abbreviation: nawqapt
+      Process_Date: 20000809
+    Process_Step:
+      Process_Description:
+        The data set was converted to Shapefile format for use in the National 
+        Atlas of the United States.
+      Process_Date: 200008
+    Process_Step:
+      Process_Description: 
+        The attributes Suname, State, and State_fips were added.
+      Source_Used_Citation_Abbreviation: nawqasu1
+      Source_Used_Citation_Abbreviation: counties
+      Process_Date: 200012
+
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Point
+      Point_and_Vector_Object_Count: 1044
+ 
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000278
+      Longitude_Resolution: 0.000278
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name:  North American Datum of 1983
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137  
+      Denominator_of_Flattening_Ratio: 298.257222
+ 
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label:
+        Surface-water sampling sites (described by Sw9194x020.dbf)
+      Entity_Type_Definition:
+        The location of major surface-water sampling sites in the National 
+        Water-Quality Assessment (NAWQA) Program. 
+      Entity_Type_Definition_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition:
+        The representation of the entity in the data.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Point
+          Enumerated_Domain_Value_Definition: 0-dimensional element
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Area
+      Attribute_Definition: The size of the shape in coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 0.000
+    Attribute:
+      Attribute_Label: Perimeter
+      Attribute_Definition: The perimeter of the shape in coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 0.000
+    Attribute:
+      Attribute_Label: Sw9194x020
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 1044
+    Attribute:
+      Attribute_Label: Staid
+      Attribute_Definition: 
+        The USGS National Water Information System unique station 
+        identification number.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 01121000
+          Range_Domain_Maximum: 485634097173801
+    Attribute: 
+      Attribute_Label: Name 
+      Attribute_Definition: 
+        The name of the surface-water sampling site. 
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values: 
+        Unrepresentable_Domain: 
+          There is no predefined set of valid site names.
+    Attribute: 
+      Attribute_Label: Suid 
+      Attribute_Definition: 
+        The 4-letter abbreviation for a NAWQA study unit.  A study unit is a 
+        major hydrologic system in which NAWQA studies are focused.  Study 
+        units are geographically defined by a combination of ground- and 
+        surface-water features and usually encompass more than 10,000 square 
+        kilometers.  (See Gilliom and others, 1995)
+      Attribute_Definition_Source: 
+        U.S. Geological Survey,
+        <http://water.usgs.gov/nawqa/nawqamap.html#TABLE>
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (See table below)
+          Enumerated_Domain_Value_Definition: 
+            The values for Suid are listed below, along with their definitions.
+            >
+            > Code     NAWQA Study unit name
+            >------------------------------------------------------------------
+            > acfb     Apalachicola-Chattahoochee-Flint River Basin
+            > albe     Albemarle-Pamlico Drainage
+            > almn     Allegheny and Monongahela Basins
+            > cazb     Central Arizona Basins
+            > ccpt     Central Columbia Plateau
+            > cnbr     Central Nebraska Basins
+            > conn     Connecticut, Housatonic, and Thames River Basins
+            > eiwa     Eastern Iowa Basins
+            > gafl     Georgia-Florida Coastal Plain
+            > hdsn     Hudson River Basin
+            > kana     Kanawha-New River Basin
+            > leri     Lake Erie-Lake Saint Clair Drainage
+            > linj     Long Island-New Jersey Coastal Drainages
+            > lirb     Lower Illinois River Basin
+            > lsus     Lower Susquehanna River Basin
+            > mise     Mississippi Embayment
+            > nvbr     Nevada Basin and Range
+            > ozrk     Ozark Plateaus
+            > poto     Potomac River Basin
+            > pugt     Puget Sound Basin
+            > redn     Red River of the North Basin
+            > riog     Rio Grande Valley
+            > sacr     Sacramento River Basin
+            > sanj     San Joaquin-Tulare Basins
+            > sant     Santee Basin and Coastal Drainages
+            > sctx     South Central Texas
+            > sofl     Southern Florida
+            > splt     South Platte River Basin
+            > trin     Trinity River Basin
+            > ucol     Upper Colorado River Basin
+            > umis     Upper Mississippi River Basin
+            > usnk     Upper Snake River Basin
+            > uten     Upper Tennessee River Basin
+            > whit     White River Basin
+            > will     Willamette Basin
+            > wmic     Western Lake Michigan Drainage
+            >
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey,
+            <http://water.usgs.gov/nawqa/nawqamap.html>
+    Attribute:
+      Attribute_Label: Yr
+      Attribute_Definition: 
+        The fiscal year in which the NAWQA study unit became active.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 91
+          Enumerated_Domain_Value_Definition: 
+            The study unit became active in 1991.
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 94
+          Enumerated_Domain_Value_Definition:
+            The study unit became active in 1994.
+          Enumerated_Domain_Value_Definition_Source:
+            U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Fix
+      Attribute_Definition: 
+        An indication of whether or not a surface water sample site is a fixed 
+        network site.  A fixed network site is one where the stream flow is
+        measured and samples are collected at a fixed frequency.  The
+        information from the samples includes temperature, salinity, suspended 
+        sediment, dissolved solids, major ions and metals, nutrients, and 
+        organic carbon.  These characteristics are used to assess the broad-
+        scale spatial and temporal character of the stream water, and to assess 
+        the transport of inorganic constituents by the stream water in relation 
+        to hydrologic conditions and environmental settings.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: 
+            Not a fixed network site.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: 
+            A basic fixed site.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: 
+            A basic and intensive fixed site.  At these sites the sampling 
+            frequency is increased during selected seasonal periods and 
+            pesticide samples are collected regularly for 1 year.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Bst
+      Attribute_Definition: 
+        An indication of whether or not bed sediment and (or) tissue samples 
+        were collected at the site.  Samples from these sites are analyzed for 
+        trace elements and (or) organic contaminants in stream bed sediment and 
+        in the tissue of aquatic organisms.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: 
+            No bed sediment or tissue sample was collected.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: 
+            The site is part of the bed sediment and tissue Occurrence survey 
+            and (or) Spatial Distribution survey network.  Bed sediment and 
+            (or) tissue samples were collected.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: 
+            The site is not part of the bed sediment and tissue Occurrence 
+            survey and (or) Spatial Distribution survey network, but is part of 
+            another sampling network where bed sediment and (or) tissue samples 
+            were collected.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Type
+      Attribute_Definition: 
+        The hydrologic setting of the sampling site.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ES
+          Enumerated_Domain_Value_Definition: An estuary.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: LK
+          Enumerated_Domain_Value_Definition: A lake or reservoir. 
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SP
+          Enumerated_Domain_Value_Definition: A spring.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SS
+          Enumerated_Domain_Value_Definition: 
+            A specific source, for example, a sewage treatment plant discharge 
+            outflow.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SW
+          Enumerated_Domain_Value_Definition: A stream.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SWME
+          Enumerated_Domain_Value_Definition: 
+            A meteorological source, where weather information such as 
+            precipitation amount or air temperature is collected.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Londd
+      Attribute_Definition: 
+        The site longitude as a single value, in decimal degrees (NAD83).
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -123.37039
+          Range_Domain_Maximum: -71.63064
+    Attribute:
+      Attribute_Label: Latdd
+      Attribute_Definition: 
+        The site latitude as a single value, in decimal degrees (NAD83).
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 25.32095
+          Range_Domain_Maximum: 49.03139
+    Attribute: 
+      Attribute_Label: State
+      Attribute_Definition: 
+        The 2-character code for the State in which the site is located.
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Codeset_Domain: 
+          Codeset_Name: 
+            Codes for the Identification of the States, the District of 
+            Columbia and the Outlying Areas of the United States, and 
+            Associated Areas, FIPS 5-2, 1987. 
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology 
+    Attribute: 
+      Attribute_Label: State_fips
+      Attribute_Definition: 
+        The 2-digit code for the State in which the site is located.
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Codeset_Domain: 
+          Codeset_Name: 
+            Codes for the Identification of the States, the District of 
+            Columbia and the Outlying Areas of the United States, and 
+            Associated Areas, FIPS 5-2, 1987. 
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology 
+    Attribute: 
+      Attribute_Label: Suname 
+      Attribute_Definition: 
+        The name of a NAWQA study unit.  A study unit is a major hydrologic 
+        system in which NAWQA studies are focused.  Study units are 
+        geographically defined by a combination of ground- and 
+        surface-water features and usually encompass more than 10,000 
+        square kilometers.  (See Gilliom and others, 1995)
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values: 
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (See table below.)
+          Enumerated_Domain_Value_Definition: 
+            The values for Suname are listed below, along with the 4-letter 
+            Study Unit Identification codes (See Suid, above).
+            >
+            > Code     NAWQA Study unit name
+            >------------------------------------------------------------------
+            > acfb     Apalachicola-Chattahoochee-Flint River Basin
+            > albe     Albemarle-Pamlico Drainage
+            > almn     Allegheny and Monongahela Basins
+            > cazb     Central Arizona Basins
+            > ccpt     Central Columbia Plateau
+            > cnbr     Central Nebraska Basins
+            > conn     Connecticut, Housatonic, and Thames River Basins
+            > eiwa     Eastern Iowa Basins
+            > gafl     Georgia-Florida Coastal Plain
+            > hdsn     Hudson River Basin
+            > kana     Kanawha-New River Basin
+            > leri     Lake Erie-Lake Saint Clair Drainage
+            > linj     Long Island-New Jersey Coastal Drainages
+            > lirb     Lower Illinois River Basin
+            > lsus     Lower Susquehanna River Basin
+            > mise     Mississippi Embayment
+            > nvbr     Nevada Basin and Range
+            > ozrk     Ozark Plateaus
+            > poto     Potomac River Basin
+            > pugt     Puget Sound Basin
+            > redn     Red River of the North Basin
+            > riog     Rio Grande Valley
+            > sacr     Sacramento River Basin
+            > sanj     San Joaquin-Tulare Basins
+            > sant     Santee Basin and Coastal Drainages
+            > sctx     South Central Texas
+            > sofl     Southern Florida
+            > splt     South Platte River Basin
+            > trin     Trinity River Basin
+            > ucol     Upper Colorado River Basin
+            > umis     Upper Mississippi River Basin
+            > usnk     Upper Snake River Basin
+            > uten     Upper Tennessee River Basin
+            > whit     White River Basin
+            > will     Willamette Basin
+            > wmic     Western Lake Michigan Drainage
+            >
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey,
+            <http://water.usgs.gov/nawqa/nawqamap.html>
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization:
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions:
+        In addition to the address above there are other ESIC offices 
+        throughout the country.  A full list of these offices is at
+        <http://mapping.usgs.gov/esic/esic_index.html>.
+
+  Distribution_Liability:
+    Although these data have been processed successfully on computer systems at
+    the U.S. Geological Survey, no warranty expressed or implied is made by the 
+    U.S. Geological Survey regarding the utility of the data on any other 
+    system, nor shall the act of distribution constitute any such warranty.  No 
+    responsibility is assumed by the U.S. Geological Survey in the use of these 
+    data.
+
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name:
+                <http://nationalatlas.gov/atlasftp.html>
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SDTS
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name:
+                <http://nationalatlas.gov/atlasftp.html>
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+    Fees:
+      There is no charge for the online option.  For National Atlas files
+      ordered on CD-ROM there is a base price of $45.00 per disc, a handling
+      fee of $5.00, and a per-file charge based on file size.  The charge for
+      files less than 10 megabytes in size is $1.00.  The charge for files
+      that range in size from 10 to 150 megabytes is $7.50.  The charge for
+      files of 150 megabytes or larger is $15.00.   The charge is $1.00 for
+      the Major Surface-Water Sampling Sites in the National Water-Quality 
+      Assessment (NAWQA) Program: 1991 and 1994 Study-Unit Starts data set.
+    Ordering_Instructions:
+      To order files on CD-ROM, please see
+      <http://nationalatlas.gov/atlasftp.html#q12>.
+ 
+Metadata_Reference_Information:
+  Metadata_Date: 20020225
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          U.S. Geological Survey, NAWQA National Synthesis GIS
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: CSUS 6000 J Street
+        City: Sacramento
+        State_or_Province: CA
+        Postal_Code: 95819
+        Country: USA
+      Contact_Voice_Telephone: 916-278-3092
+      Contact_Facsimile_Telephone: 916-278-3071
+      Contact_Electronic_Mail_Address:  gs-w_nawqa_nsgis@usgs.gov
+  Metadata_Standard_Name:
+    FGDC Content Standards for Digital Geospatial Metadata 
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
+
