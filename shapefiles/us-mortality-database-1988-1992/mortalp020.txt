@@ -1,0 +1,656 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date: 199912
+      Title: United States Mortality Database, 1988-1992
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: U.S. Geological Survey
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+
+  Description:
+    Abstract:  
+      This map layer contains mortality information for United States Health 
+      Service Areas (805 groups of counties).  Included are mortality rates by 
+      sex and race (white and black) for the 11 leading causes of death, 8
+      subset causes, and all causes combined, for 1988-1992.  Age-adjusted rates 
+      are presented along with indicators of whether each rate is considered 
+      reliable and whether it is significantly different from the corresponding 
+      U.S. rate.  This is a revised version of the 1998 data set.  This data set 
+      was also distributed with the name U.S. Mortality Database.
+
+    Purpose:  
+      These data are intended for geographic display and analysis at the 
+      national level, and for large regional areas.  The data should be 
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale data.  
+      The U.S. Geological Survey assumes no responsibility for the use of these 
+      data.
+
+    Supplemental_Information: 
+      This data comes from Pickle L.W., Mungiole M., Jones G.K., White A.A., 
+      Atlas of United States Mortality.  Department of Health and Human Services 
+      (DHHS) Publication. No. (PHS) 97-1015.  Hyattsville, MD: National Center 
+      for Health Statistics, 1996.  Additional information may be obtained from 
+      the home page of the U.S. Department of Health and Human Services, Centers 
+      for Disease Control and Prevention, National Center for Health Statistics, 
+      at: <http://www.cdc.gov/nchs/>.
+
+      The user is cautioned not to over-interpret apparent visual correlations 
+      between spatial patterns of mortality and environmental and (or) 
+      sociodemographic factors.  In many cases, patterns appear similar because 
+      some other unmeasured factor causes both the risk factor and the mortality 
+      patterns, not because the risk factor actually causes higher mortality.  
+      Users are urged to confirm suspected correlations by a more complete 
+      multivariate analysis which includes known risk factors for the disease.
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1988
+        Ending_Date: 1992
+    Currentness_Reference: Ground condition
+
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 172
+      East_Bounding_Coordinate: -66
+      North_Bounding_Coordinate: 72
+      South_Bounding_Coordinate: 18
+
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: Health
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Death
+      Theme_Keyword: Mortality
+      Theme_Keyword: Human mortality
+      Theme_Keyword: Heart disease
+      Theme_Keyword: All cancers
+      Theme_Keyword: Lung cancer
+      Theme_Keyword: Breast cancer
+      Theme_Keyword: Colorectal cancer
+      Theme_Keyword: Prostate cancer
+      Theme_Keyword: Stroke
+      Theme_Keyword: Unintentional injuries
+      Theme_Keyword: Motor vehicle injuries
+      Theme_Keyword: Chronic obstructive pulmonary diseases
+      Theme_Keyword: COPD
+      Theme_Keyword: Pneumonia and influenza
+      Theme_Keyword: Diabetes
+      Theme_Keyword: Suicide
+      Theme_Keyword: Firearm suicide
+      Theme_Keyword: Homicide
+      Theme_Keyword: Firearm homicide
+      Theme_Keyword: Liver disease
+      Theme_Keyword: HIV
+
+    Place:
+      Place_Keyword_Thesaurus:  
+        U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of 
+        Special Sovereignty, and Their Principal Administrative Divisions 
+        (Federal Information Processing Standard (FIPS) 10-4): Washington, DC, 
+        National Institute of Standards and Technology.
+      Place_Keyword: United States
+    Place: 
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: USA
+    Place:
+      Place_Keyword_Thesaurus:
+        U.S. Department of Commerce, 1987, Codes for the Identification of the 
+        States, the District of Columbia and the Outlying Areas of The United 
+        States, and Associated Areas (Federal Information Processing Standard 
+        5-2):  Washington, DC, National Institute of Standards and Technology.
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+
+  Access_Constraints: None
+  Use_Constraints:  
+    None.  Acknowledgment of the National Atlas of the United States of America 
+    and (or) the U.S. Geological Survey would be appreciated in products derived 
+    from these data.  
+
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Gita Urban-Mathieux
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 561 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-5175
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+
+Data_Quality_Information:
+  Logical_Consistency_Report: 
+    The data set was checked for topological consistency using the Arc/INFO 
+    command BUILD.  No other checks for logical consistency were performed on 
+    this data set.
+  Completeness_Report:
+    This data set includes mortality information for all 50 States and the 
+    District of Columbia.
+
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1996
+          Title: United States Counties
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Type_of_Source_Media: Internal database
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 1994
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: COUNTYP020
+      Source_Contribution: Spatial information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:  
+            U.S. Department of Health and Human Services, Centers for Disease 
+            Control and Prevention, National Center for Health Statistics
+          Publication_Date:  1997
+          Title: Atlas of United States Mortality
+          Publication_Information:
+            Publication_Place: Hyattsville, MD
+            Publisher: 
+              U.S. Department of Health and Human Services, Centers for Disease 
+              Control and Prevention, National Center for Health Statistics
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1988
+            Ending_Date: 1992
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: MORT
+      Source_Contribution: Attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1998
+          Title: U.S. Mortality Database
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1998
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: ATLAS-MORT
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 199911
+          Title: County Boundaries of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1999
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: ATLAS-CNTY1990
+      Source_Contribution: Spatial information
+
+    Process_Step:
+      Process_Description: 
+        The COUNTYP020 file was read into Arc/INFO as a coverage and modified to 
+        reflect the 1990 county boundaries.  The counties were aggregated to
+        Health Service Areas (HSA's) and fields were added to the coverage for 
+        the HSA name and number.  A new coverage of the Health Service Areas was 
+        created.  The individual data base files (dbf's) from the Atlas of 
+        United States Mortality for each cause-of-death were loaded into ArcView 
+        and the attribute names were modified so cause-of-death was included.  
+        The dbf files were then merged into one large dbf file, with all 19 
+        causes-of-death included.  The dbf was converted to an INFO table which
+        was then joined to the Health Service Areas coverage, and the result was 
+        converted to shapefile format.
+      Source_Used_Citation_Abbreviation: COUNTYP020
+      Source_Used_Citation_Abbreviation: MORT
+      Process_Date: 1998
+      Source_Produced_Citation_Abbreviation: ATLAS-MORT
+
+    Process_Step:
+      Process_Description:  
+        ATLAS-CNTY1990 is an updated 1990 county boundary data set.  Shoreline 
+        features in ATLAS-MORT were modified to match the shorelines features in 
+        ATLAS-CNTY1990.  This included adjustments in Alaska, California, Texas, 
+        Louisiana, Florida, New York, Rhode Island, Wisconsin, and North 
+        Carolina. 
+      Source_Used_Citation_Abbreviation: ATLAS-CNTY1990
+      Source_Used_Citation_Abbreviation: ATLAS-MORT
+      Process_Date: 1999
+
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference:  
+    U.S. Department of Commerce, 1987, Codes for the Identification of the 
+    States, the District of Columbia and the Outlying Areas of The United 
+    States, and Associated Areas (Federal Information Processing Standard (FIPS) 
+    5-2): Washington, DC, National Institute of Standards and Technology.
+
+    U.S. Department of Commerce, 1990, Counties and Equivalent Entities of The 
+    United States, Its Possessions, and Associated Areas (Federal Information 
+    Processing Standard 6-4): Washington, DC, National Institute of Standards 
+    and Technology.
+
+    Makuc, D.M., Haglund, B., Ingram, D.D., et al. Health Service Areas for the 
+    United States.  National Center for Health Statistics.  Vital Health Stat 
+    2(112), 1991.
+
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Ring composed of chains
+      Point_and_Vector_Object_Count: 3623                        
+
+Spatial_Reference_Information:
+
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000278
+      Longitude_Resolution: 0.000278
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137  
+      Denominator_of_Flattening_Ratio: 298.257222
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: U.S. Mortality data (described by Mortalp020.dbf)
+      Entity_Type_Definition: 
+        U.S. mortality statistics, reported by Health Service Area. 
+      Entity_Type_Definition_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: U.S. Geological Survey.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Polygon
+          Enumerated_Domain_Value_Definition: 2-dimensional element
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Area
+      Attribute_Definition: The area of the polygon in coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 163.332
+    Attribute:
+      Attribute_Label: Perimeter
+      Attribute_Definition: The perimeter of the area in coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+         Range_Domain_Minimum: 0.012
+         Range_Domain_Maximum: 346.593
+    Attribute:
+      Attribute_Label: Mortalp020
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 2
+          Range_Domain_Maximum: 3624
+    Attribute:
+      Attribute_Label: Hsa
+      Attribute_Definition: 
+        The number of the Health Service Area.  A Health Service Area is an 
+        aggregation of counties or county equivalents, determined by a cluster
+        analysis of where residents aged 65 years and over obtained routine 
+        short-term hospital care in 1988.  
+      Attribute_Definition_Source: 
+        U.S. Department of Health and Human Services, Centers for Disease 
+        Control and Prevention, National Center for Health Statistics
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 823
+    Attribute:
+      Attribute_Label: Hsa_name
+      Attribute_Definition: 
+        The name of the Health Service Area.  The name includes the primary city 
+        or county in that Health Service Area.
+      Attribute_Definition_Source: 
+        U.S. Department of Health and Human Services, Centers for Disease 
+        Control and Prevention, National Center for Health Statistics
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Atlas of United States Mortality, Appendix I; DHHS Publication No. 
+            (PHS) 97-1015; Hyattsville, MD; December 1996
+          Codeset_Source: 
+            U.S. Department of Health and Human Services, Centers for Disease 
+            Control and Prevention, National Center for Health Statistics
+    Attribute:
+      Attribute_Label: RateXXYY
+      Attribute_Definition: 
+        The age-adjusted death rate due to cause YY (see table below) per 
+        100,000 population, for group XX (see table below).
+        >XX indicates the gender and ethnic group to which the rate applies, 
+        >where:
+        >  wm = White males
+        >  wf = White females
+        >  bm = Black males
+        >  bf = Black females
+        >YY indicates the cause of death to which the rate applies, where:
+        >  01 = Heart disease
+        >  04 = All cancers
+        >  05 = Lung cancer
+        >  06 = Breast cancer
+        >  07 = Colorectal cancer
+        >  08 = Prostate cancer
+        >  09 = Stroke
+        >  10 = Unintentional injuries
+        >  11 = Motor vehicle injuries
+        >  12 = Chronic obstructive pulmonary diseases (COPD)
+        >  13 = Pneumonia and influenza
+        >  14 = Diabetes
+        >  15 = Suicide
+        >  16 = Firearm suicide
+        >  17 = Homicide
+        >  18 = Firearm homicide
+        >  19 = Liver disease
+        >  20 = HIV
+        >  25 = All causes
+      Attribute_Definition_Source: 
+        U.S. Department of Health and Human Services, Centers for Disease 
+        Control and Prevention, National Center for Health Statistics
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 33242
+    Attribute:
+      Attribute_Label: RelXXYY
+      Attribute_Definition: 
+        A description of the reliability (An unreliable rate is one with a 
+        coefficient of variation >23%.  These rates are typically based on small 
+        numbers of deaths.) of the death rate measure, for deaths of group XX 
+        (see table below) due to cause YY (see table below).
+        >XX indicates the gender and ethnic group to which the reliability 
+        >measure applies, where:
+        >  wm = White males
+        >  wf = White females
+        >  bm = Black males
+        >  bf = Black females
+        >YY indicates the cause of death to which the reliability measure 
+        >applies, where:
+        >  01 = Heart disease
+        >  04 = All cancers
+        >  05 = Lung cancer
+        >  06 = Breast cancer
+        >  07 = Colorectal cancer
+        >  08 = Prostate cancer
+        >  09 = Stroke
+        >  10 = Unintentional injuries
+        >  11 = Motor vehicle injuries
+        >  12 = Chronic obstructive pulmonary diseases (COPD)
+        >  13 = Pneumonia and influenza
+        >  14 = Diabetes
+        >  15 = Suicide
+        >  16 = Firearm suicide
+        >  17 = Homicide
+        >  18 = Firearm homicide
+        >  19 = Liver disease
+        >  20 = HIV
+        >  25 = All causes
+      Attribute_Definition_Source: 
+        U.S. Department of Health and Human Services, Centers for Disease 
+        Control and Prevention, National Center for Health Statistics
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: The rate is reliable.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Department of Health and Human Services, Centers for Disease 
+            Control and Prevention, National Center for Health Statistics
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: 
+            The rate is unreliable.  An unreliable rate has a coefficient of
+            variation of at least 23%.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Department of Health and Human Services, Centers for Disease 
+            Control and Prevention, National Center for Health Statistics
+    Attribute:
+      Attribute_Label: SigXXYY
+      Attribute_Definition: 
+        A description of whether the death rate of group XX (see table below) 
+        due to cause YY (see table below) varies significantly from the U.S. 
+        death rate.
+        >XX indicates the gender and ethnic group to which the significance 
+        >measure applies, where:
+        >  wm = White males
+        >  wf = White females
+        >  bm = Black males
+        >  bf = Black females
+        >YY indicates the cause of death to which the significance measure 
+        >applies, where:
+        >  01 = Heart disease
+        >  04 = All cancers
+        >  05 = Lung cancer
+        >  06 = Breast cancer
+        >  07 = Colorectal cancer
+        >  08 = Prostate cancer
+        >  09 = Stroke
+        >  10 = Unintentional injuries
+        >  11 = Motor vehicle injuries
+        >  12 = Chronic obstructive pulmonary diseases (COPD)
+        >  13 = Pneumonia and influenza
+        >  14 = Diabetes
+        >  15 = Suicide
+        >  16 = Firearm suicide
+        >  17 = Homicide
+        >  18 = Firearm homicide
+        >  19 = Liver disease
+        >  20 = HIV
+        >  25 = All causes
+      Attribute_Definition_Source: 
+        U.S. Department of Health and Human Services, Centers for Disease 
+        Control and Prevention, National Center for Health Statistics
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: 
+            The rate is one of 80 lowest rates that are significantly different 
+            from the U.S. rate.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Department of Health and Human Services, Centers for Disease 
+            Control and Prevention, National Center for Health Statistics
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: 
+            The rate is significantly lower than the U.S. rate but is not one
+            of the 80 lowest.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Department of Health and Human Services, Centers for Disease 
+            Control and Prevention, National Center for Health Statistics
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3
+          Enumerated_Domain_Value_Definition: 
+            The rate is not significantly different from the U.S. rate.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Department of Health and Human Services, Centers for Disease 
+            Control and Prevention, National Center for Health Statistics
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4
+          Enumerated_Domain_Value_Definition: 
+            The rate is significantly higher than the U.S. rate but is not
+            one of the 80 highest.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Department of Health and Human Services, Centers for Disease 
+            Control and Prevention, National Center for Health Statistics
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 5
+          Enumerated_Domain_Value_Definition: 
+            The rate is one of 80 highest rates that are significantly different
+            from the U.S. rate.
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Department of Health and Human Services, Centers for Disease 
+            Control and Prevention, National Center for Health Statistics
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920 
+      Contact_Instructions: 
+        In addition to the address above there are other ESIC offices throughout 
+        the country.  A full list of these offices is at
+        <http://geography.usgs.gov/esic/esic_index.html>.
+  Distribution_Liability: 
+    Although these data have been processed successfully on a computer system at 
+    the U.S. Geological Survey, no warranty expressed or implied is made by the 
+    U.S. Geological Survey regarding the utility of the data on any other 
+    system, nor shall the act of distribution constitute any such warranty.  No 
+    responsibility is assumed by the U.S. Geological Survey in the use of these 
+    data.  
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SDTS
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+
+    Fees: 
+      There is no charge for the online option.  For National Atlas files 
+      ordered on CD-ROM there is a base price of $45.00 per disc, a handling fee 
+      of $5.00, and a per-file charge based on file size.  The charge for files 
+      less than 10 megabytes in size is $1.00.  The charge for files that range 
+      in size from 10 to 150 megabytes is $7.50.  The charge for files of 150 
+      megabytes or larger is $15.00.  The charge is $7.50 for the United States 
+      Mortality Database, 1988-1992 data set.
+    Ordering_Instructions: 
+      To order files on CD-ROM, please see 
+      <http://nationalatlas.gov/atlasftp.html#q12>.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20041018
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Gita Urban-Mathieux
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 561 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-5175
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name:
+    FGDC Content Standards for Digital Geospatial Metadata 
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information: 
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
+
