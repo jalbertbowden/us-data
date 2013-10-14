@@ -1,0 +1,316 @@
+Identification_Information: 
+  Citation: 
+    Citation_Information: 
+      Originator: U.S. Geological Survey 
+      Publication_Date: 200201
+      Title: Continental Divide of the United States
+      Publication_Information: 
+        Publication_Place: Reston, Virginia 
+        Publisher: U.S. Geological Survey 
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html> 
+  Description: 
+    Abstract: 
+      This data set portrays the Continental Divide of the United States.  The
+      data set was created by extracting Hydrologic Unit Boundary line features
+      from an existing National Atlas layer.  The source data are aligned with 
+      the individual 1:2,000,000-scale Digital Line Graph (DLG) hypsography 
+      files produced by the U.S. Geological Survey. 
+    Purpose: 
+      These data are intended for geographic display and analysis at the 
+      national level, and for large regional areas.  The data should be 
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale data. 
+      No responsibility is assumed by the U.S. Geological Survey in the use of 
+      these data. 
+  Time_Period_of_Content: 
+    Time_Period_Information: 
+      Single_Date/Time: 
+        Calendar_Date: 200201
+    Currentness_Reference: Publication date
+  Status: 
+    Progress: Complete 
+    Maintenance_and_Update_Frequency: Irregular 
+  Spatial_Domain: 
+    Bounding_Coordinates: 
+      West_Bounding_Coordinate: -115
+      East_Bounding_Coordinate: -105 
+      North_Bounding_Coordinate: 49
+      South_Bounding_Coordinate: 31
+  Keywords: 
+    Theme: 
+      Theme_Keyword_Thesaurus: None 
+      Theme_Keyword: Continental Divide 
+      Theme_Keyword: Great Divide 
+      Theme_Keyword: Divide
+      Theme_Keyword: Rocky Mountains 
+    Place: 
+      Place_Keyword_Thesaurus: 
+        U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of 
+        Special Sovereignty, and Their Principal Administrative Divisions 
+        (Federal Information Processing Standard (FIPS) 10-4): Washington, 
+        DC, National Institute of Standards and Technology. 
+      Place_Keyword: United States 
+    Place: 
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: USA
+    Place: 
+      Place_Keyword_Thesaurus: 
+        U.S. Department of Commerce, 1987, Codes for the Identification of the 
+        States, the District of Columbia and the Outlying Areas of The United 
+        States, and Associated Areas (FIPS 5-2): Washington, DC, National 
+        Institute of Standards and Technology.
+      Place_Keyword: Colorado
+      Place_Keyword: Idaho
+      Place_Keyword: Montana
+      Place_Keyword: New Mexico
+      Place_Keyword: Wyoming
+  Access_Constraints: None 
+  Use_Constraints: 
+    None. Acknowledgment of the National Atlas of the United States of America 
+    and (or) the U.S. Geological Survey would be appreciated in products derived 
+    from these data. 
+  Point_of_Contact: 
+    Contact_Information: 
+      Contact_Person_Primary: 
+        Contact_Person: Steve Kambly 
+        Contact_Organization: U.S. Geological Survey 
+      Contact_Address: 
+        Address_Type: mailing address 
+        Address: 561 National Center 
+        City: Reston 
+        State_or_Province: VA 
+        Postal_Code: 20192 
+      Contact_Voice_Telephone: 703-648-5094 
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+
+Data_Quality_Information: 
+  Logical_Consistency_Report: 
+    No checks for topological consistency were performed on this data set. 
+  Completeness_Report: 
+    This data set contains the Continental Divide of the United States.  Data
+    completeness reflects the content of the source files. 
+  Lineage: 
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: U.S. Geological Survey 
+          Publication_Date: 200104
+          Title: 1:2,000,000-Scale Hydrologic Unit Boundaries
+          Publication_Information: 
+            Publication_Place: Reston, VA 
+            Publisher: U.S. Geological Survey 
+      Source_Scale_Denominator: 2000000 
+      Type_of_Source_Media: On-line 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Single_Date/Time: 
+            Calendar_Date: 200104
+        Source_Currentness_Reference: Publication date 
+      Source_Citation_Abbreviation: ATLAS-HUC 
+      Source_Contribution: Spatial information 
+
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: U.S. Geological Survey 
+          Publication_Date: 1990 
+          Title: 1:2,000,000-scale Digital Line Graph Data - Hypsography
+          Publication_Information: 
+            Publication_Place: Reston, VA 
+            Publisher: U.S. Geological Survey 
+      Source_Scale_Denominator: 2000000 
+      Type_of_Source_Media: CD-ROM 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 1980
+        Source_Currentness_Reference: ground condition 
+      Source_Citation_Abbreviation: DLG-HP 
+      Source_Contribution: Spatial and attribute information 
+
+    Process_Step: 
+      Process_Description: 
+        ATLAS-HUC was read into Arc/INFO.  The four sectionals (10,11,12, and 
+        15) from DLG-HP covering the Continental Divide were used as references 
+        to determine which drainage boundaries to select from ATLAS-HUC.  The 
+        selected arcs were put into a new file, which was then converted to 
+        shapefile format.
+      Source_Used_Citation_Abbreviation: ATLAS-HUC
+      Source_Used_Citation_Abbreviation: DLG-HP 
+      Process_Date: 200112 
+
+Spatial_Data_Organization_Information: 
+  Direct_Spatial_Reference_Method: Vector 
+  Point_and_Vector_Object_Information: 
+    SDTS_Terms_Description: 
+      SDTS_Point_and_Vector_Object_Type: Complete chain
+      Point_and_Vector_Object_Count: 11 
+
+Spatial_Reference_Information: 
+  Horizontal_Coordinate_System_Definition: 
+    Geographic: 
+      Latitude_Resolution: 0.000278 
+      Longitude_Resolution: 0.000278 
+      Geographic_Coordinate_Units: Decimal degrees 
+    Geodetic_Model: 
+      Horizontal_Datum_Name: North American Datum of 1983 
+      Ellipsoid_Name: GRS1980 
+      Semi-major_Axis: 6378137 
+      Denominator_of_Flattening_Ratio: 298.257222 
+
+Entity_and_Attribute_Information: 
+  Detailed_Description: 
+    Entity_Type: 
+      Entity_Type_Label: 
+        Continental Divide (described by condivl020.dbf) 
+      Entity_Type_Definition: 
+        The divide that runs along the crest of the Rocky Mountains, dividing
+        the waters flowing into the Atlantic Ocean from those flowing into the
+        Pacific Ocean. 
+      Entity_Type_Definition_Source: U.S. Geological Survey 
+    Attribute: 
+      Attribute_Label: Shape 
+      Attribute_Definition: The representation of the entity in the data. 
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: Polyline
+          Enumerated_Domain_Value_Definition:
+            1-dimensional element that may or may not surround a 2-dimensional
+            element. 
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software 
+    Attribute: 
+      Attribute_Label: Fnode# 
+      Attribute_Definition: Internal number of the from-node. 
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum: 1 
+          Range_Domain_Maximum: 10 
+    Attribute: 
+      Attribute_Label: Tnode# 
+      Attribute_Definition: Internal number of the to-node. 
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum: 2
+          Range_Domain_Maximum: 11
+    Attribute: 
+      Attribute_Label: Lpoly# 
+      Attribute_Definition:
+        Internal number of the polygon to the left of the arc. 
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 0
+    Attribute: 
+      Attribute_Label: Rpoly# 
+      Attribute_Definition:
+        Internal number of the polygon to the right of the arc. 
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 0
+    Attribute: 
+      Attribute_Label: Length 
+      Attribute_Definition: The length of the arc in coverage units. 
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum: 1.630
+          Range_Domain_Maximum: 6.895
+    Attribute: 
+      Attribute_Label: Condivl020
+      Attribute_Definition: Internal feature number. 
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum: 1 
+          Range_Domain_Maximum: 11 
+
+Distribution_Information: 
+  Distributor: 
+    Contact_Information: 
+      Contact_Organization_Primary: 
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey 
+      Contact_Address: 
+        Address_Type: mailing address 
+        Address: 507 National Center 
+        City: Reston 
+        State_or_Province: VA 
+        Postal_Code: 20192 
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747) 
+      Contact_Voice_Telephone: 703-648-5920 
+      Contact_Instructions: 
+        In addition to the address above there are other ESIC offices 
+        throughout the country. A full list of these offices is at 
+        <http://mapping.usgs.gov/esic/esic_index.html>. 
+  Distribution_Liability: 
+    Although these data have been processed successfully on a computer system 
+    at the U.S. Geological Survey, no warranty expressed or implied is made by 
+    the U.S. Geological Survey regarding the utility of the data on any other 
+    system, nor shall the act of distribution constitute any such warranty.  No 
+    responsibility is assumed by the U.S. Geological Survey in the use of 
+    these data. 
+
+  Standard_Order_Process: 
+    Digital_Form: 
+      Digital_Transfer_Information: 
+        Format_Name: ESRI Shapefile 
+      Digital_Transfer_Option: 
+        Online_Option: 
+          Computer_Contact_Information: 
+            Network_Address: 
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html> 
+      Digital_Transfer_Option: 
+        Offline_Option: 
+          Offline_Media: CD-ROM 
+          Recording_Format: tar 
+    Digital_Form: 
+      Digital_Transfer_Information: 
+        Format_Name: SDTS 
+      Digital_Transfer_Option: 
+        Online_Option: 
+          Computer_Contact_Information: 
+            Network_Address: 
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html> 
+      Digital_Transfer_Option: 
+        Offline_Option: 
+          Offline_Media: CD-ROM 
+          Recording_Format: tar 
+    Fees: 
+      There is no charge for the online option.  For National Atlas files 
+      ordered on CD-ROM there is a base price of $45.00 per disc, a handling 
+      fee of $5.00, and a per-file charge based on file size.  The charge for 
+      files less than 10 megabytes in size is $1.00.  The charge for files that 
+      range in size from 10 to 150 megabytes is $7.50.  The charge for files of 
+      150 megabytes or larger is $15.00.  The charge is $1.00 for the 
+      Continental Divide of the United States data set. 
+    Ordering_Instructions: 
+      To order files on CD-ROM, please see 
+      <http://nationalatlas.gov/atlasftp.html#q12> 
+
+Metadata_Reference_Information: 
+  Metadata_Date: 20020109
+  Metadata_Contact: 
+    Contact_Information: 
+      Contact_Person_Primary: 
+        Contact_Person: Peg Rawson 
+        Contact_Organization: U.S. Geological Survey 
+      Contact_Address: 
+        Address_Type: mailing address 
+        Address: 521 National Center 
+        City: Reston 
+        State_or_Province: VA 
+        Postal_Code: 20192 
+      Contact_Voice_Telephone: 703-648-4183 
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata 
+  Metadata_Standard_Version: FGDC-STD-001-1998 
+  Metadata_Security_Information: 
+    Metadata_Security_Classification_System: None 
+    Metadata_Security_Classification: Unclassified 
+    Metadata_Security_Handling_Description: None 
