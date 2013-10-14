@@ -1,0 +1,834 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date: 200008
+      Title: Cancer Mortality in the United States: 1970-1994
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: U.S. Geological Survey
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+
+  Description:
+    Abstract:  
+      This data set contains 1970-1994 cancer mortality information for counties 
+      in the United States.  Included are death rates, number of deaths, 
+      confidence levels, and expected number of deaths for white males and white 
+      females for 20 cancers.  The data are from a cancer mapping project in the 
+      National Cancer Institute's (NCI) Division of Cancer Epidemiology and 
+      Genetics (DCEG).
+
+    Purpose:  
+      These data are intended for geographic display and analysis at the 
+      national level, and for large regional areas.  The data should be 
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale data.  
+      No responsibility is assumed by the U.S. Geological Survey in the use of 
+      these data.
+
+    Supplemental_Information: 
+      These data come from Devesa, S.S., D.J. Grauman, W.J. Blot, G.A. Pennello, 
+      R.N. Hoover, J.F. Fraumeni, Atlas of Cancer Mortality in the United 
+      States, 1950-94.  National Institutes of Health (NIH) Publication. No. 
+      (PHS) 99-4564. Bethesda, MD: National Cancer Institute, September 1999.  
+      Additional information may be obtained from the home page of the U.S. 
+      Department of Health and Human Services, National Institutes of Health, 
+      National Cancer Institute, at <http://cancer.gov/>.
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1970
+        Ending_Date: 1994
+    Currentness_Reference: Ground condition
+
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 172
+      East_Bounding_Coordinate: -66
+      North_Bounding_Coordinate: 72
+      South_Bounding_Coordinate: 18
+
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Death
+      Theme_Keyword: Death rates
+      Theme_Keyword: Mortality
+      Theme_Keyword: Human mortality
+      Theme_Keyword: Cancer
+      Theme_Keyword: All cancers
+      Theme_Keyword: Bladder cancer
+      Theme_Keyword: Brain and other nervous system cancer
+      Theme_Keyword: Breast cancer
+      Theme_Keyword: Cervix uteri cancer
+      Theme_Keyword: Colon cancer
+      Theme_Keyword: Esophagus cancer
+      Theme_Keyword: Kidney, renal pelvis, and ureter cancer
+      Theme_Keyword: Leukemia cancer
+      Theme_Keyword: Liver, gallbladder, and other biliary tract cancer
+      Theme_Keyword: Lung, trachea, bronchus, and pleura cancer
+      Theme_Keyword: Non-Hodgkin's lymphoma cancer
+      Theme_Keyword: Oral cavity and pharynx cancer
+      Theme_Keyword: Other and unspecified cancers cancer
+      Theme_Keyword: Ovary cancer
+      Theme_Keyword: Pancreas cancer
+      Theme_Keyword: Prostate cancer
+      Theme_Keyword: Rectum cancer
+      Theme_Keyword: Stomach cancer
+      Theme_Keyword: Corpus uteri and uterus not otherwise specified cancer
+
+    Place:
+      Place_Keyword_Thesaurus:  
+        U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of 
+        Special Sovereignty, and Their Principal Administrative Divisions 
+        (Federal Information Processing Standard (FIPS) 10-4): Washington, DC, 
+        National Institute of Standards and Technology.
+      Place_Keyword:  United States
+    Place:
+      Place_Keyword_Thesaurus: None 
+      Place_Keyword: USA
+    Place:
+      Place_Keyword_Thesaurus:  
+        U.S. Department of Commerce, 1987, Codes for the Identification of the 
+        States, the District of Columbia and the Outlying Areas of The United 
+        States, and Associated Areas (Federal Information Processing Standard 
+        5-2): Washington, DC, National Institute of Standards and Technology.
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+
+  Access_Constraints:  None
+  Use_Constraints:  
+    None.  Acknowledgment of the National Atlas of the United States of America 
+    and (or) the U.S. Geological Survey would be appreciated in products derived 
+    from these data.  
+
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Gita Urban-Mathieux
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 521 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-5175
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+
+Data_Quality_Information:
+  Logical_Consistency_Report: 
+    The data set was checked for topological consistency using the Arc/INFO 
+    command BUILD.  No other checks for logical consistency were performed on 
+    this data set.
+  Completeness_Report:
+    This data set includes cancer mortality data for all 50 States. 
+
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 200003
+          Title: County Boundaries of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Type_of_Source_Media: Internal database
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 1980
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: COUNTY1980
+      Source_Contribution: Spatial information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Cancer Institute
+          Publication_Date: 199909
+          Title: Atlas of Cancer Mortality in the United States, 1950-94
+          Publication_Information:
+            Publication_Place: Bethesda, MD
+            Publisher: 
+              Department of Health and Human Services, National Institutes of 
+              Health, National Cancer Institute 
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1970
+            Ending_Date: 1994
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: CANCER
+      Source_Contribution: Attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Cancer Institute
+          Publication_Date: 199909
+          Title: Atlas of Cancer Mortality in the United States, 1950-94
+          Publication_Information:
+            Publication_Place: Bethesda, MD
+            Publisher: 
+              Department of Health and Human Services, National Institutes of 
+              Health, National Cancer Institute
+      Type_of_Source_Media: Electronic mail system
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1970
+            Ending_Date: 1994
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: SPARSE_DATA
+      Source_Contribution: Attribute information
+
+    Process_Step:
+      Process_Description:
+         Several counties and independent cities in Montana, New York, Virginia, 
+         and Wisconsin from the National Atlas 1980 county dataset, COUNTY1980, 
+         were merged into adjacent counties to form the NCI units. The Arc/INFO 
+         Dissolve command was used to perform the merging of counties.  Polygons 
+         for Puerto Rico, U.S. Virgin Islands, and the Great Lakes were deleted.
+         
+         The white male and white female, county-based cancer database files, 
+         CANCER, were downloaded from
+         <http://www3.cancer.gov/atlasplus/download.html>.  An additional file, 
+         SPARSE_DATA, drawn from the Atlas of Cancer Mortality in the United 
+         States, 1950-94, and containing cancer rates for mapping purposes was 
+         received via electronic mail.  The field names in the database files 
+         were changed to create unique names, and the files were merged into a 
+         single database file.  The database file was joined to the spatial 
+         dataset described above. 
+      Source_Used_Citation_Abbreviation: COUNTY1980
+      Source_Used_Citation_Abbreviation: CANCER
+      Source_Used_Citation_Abbreviation: SPARSE_DATA
+      Process_Date: 2000
+
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference:  
+    U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of Special 
+    Sovereignty, and Their Principal Administrative Divisions. (Federal 
+    Information Processing Standard (FIPS) 10-4): Washington, DC, National 
+    Institute of Standards and Technology.
+
+    U.S. Department of Commerce, 1987, Codes for the Identification of the 
+    States, the District of Columbia and the Outlying Areas of The United 
+    States, and Associated Areas (Federal Information Processing Standard (FIPS) 
+    5-2): Washington, DC, National Institute of Standards and Technology.
+
+    U.S. Department of Commerce, 1990, Counties and Equivalent Entities of The 
+    United States, Its Possessions, and Associated Areas (Federal Information 
+    Processing Standard 6-4): Washington, DC, National Institute of Standards 
+    and Technology.
+
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 5905                        
+
+Spatial_Reference_Information:
+
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000278
+      Longitude_Resolution: 0.000278
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137  
+      Denominator_of_Flattening_Ratio: 298.257222
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Cancer mortality data (described by Cancerp020.dbf)
+      Entity_Type_Definition: 
+        Information on deaths due to various types of cancer.
+      Entity_Type_Definition_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: U.S. Geological Survey.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Polygon
+          Enumerated_Domain_Value_Definition: 2-dimensional element
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Area
+      Attribute_Definition: The area of the polygon in coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 267.38
+    Attribute:
+      Attribute_Label: Perimeter
+      Attribute_Definition: The perimeter of the area in coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+         Range_Domain_Minimum: 0.012
+         Range_Domain_Maximum: 374.477
+    Attribute:
+      Attribute_Label: Cancerp020
+      Attribute_Definition: Internal feature number
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 2
+          Range_Domain_Maximum: 5906
+    Attribute:
+      Attribute_Label: State
+      Attribute_Definition: 
+        The 2-character FIPS code of the State or State equivalent.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Codes for the Identification of the States, the District of Columbia 
+            and the Outlying Areas of the United States, and Associated Areas, 
+            FIPS 5-2. 
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology
+    Attribute:
+      Attribute_Label: Nci_unit
+      Attribute_Definition: 
+        The name of the reporting unit used by the National Cancer Institute.  
+        For most of the data these are counties.  Alaska and Hawaii are each a 
+        single reporting unit.  In Montana, New York, and Wisconsin some 
+        counties were combined to create the NCI reporting unit.  In Virginia 
+        independent cities were combined with the surrounding counties to create
+        the NCI reporting unit.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Counties and Equivalent Entities of the United States, Its 
+            Possessions, and Associated Areas, FIPS 6-4, 1990.
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology
+    Attribute:
+      Attribute_Label: State_Fips
+      Attribute_Definition: 
+        The 2-digit FIPS code of the State or State equivalent.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Counties and Equivalent Entities of the United States, Its 
+            Possessions, and Associated Areas, FIPS 6-4, 1990.
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology
+    Attribute:
+      Attribute_Label: Nci_fips
+      Attribute_Definition: 
+        The 5-digit county FIPS code of the reporting unit used by the National 
+        Cancer Institute.  For most of the data the reporting units are 
+        counties.  In Montana, New York, and Wisconsin some counties were 
+        combined to create the NCI reporting unit.  In Virginia independent 
+        cities were combined with the surrounding counties to create the NCI
+        reporting unit.  Data for Alaska and Hawaii were available at the State 
+        level only.  Alaska and Hawaii were coded as 02999 and 15999, 
+        respectively, and were considered as counties in the maps.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 02999
+          Enumerated_Domain_Value_Definition: State of Alaska
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 15999
+          Enumerated_Domain_Value_Definition: State of Hawaii
+          Enumerated_Domain_Value_Definition_Source: 
+            U.S. Geological Survey
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Counties and Equivalent Entities of the United States, Its 
+            Possessions, and Associated Areas, FIPS 6-4, 1990.
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology
+
+    Attribute:
+      Attribute_Label: XXXY_rate
+      Attribute_Definition: 
+        This is the death rate due to cancer XXX (see table below) per 100,000 
+        population for gender Y (see table below).  The numbers are age-adjusted 
+        to the 1970 U.S. population.
+        >XXX indicates the cancer to which the rate applies, where:
+        >  acc - All cancers
+        >  bla - Bladder
+        >  bra - Brain and other nervous system
+        >  bre - Breast (only reported for females)
+        >  cer - Cervix uteri (only reported for females)
+        >  col - Colon
+        >  eso - Esophagus
+        >  kid - Kidney, renal pelvis, and ureter
+        >  leu - Leukemia
+        >  lgb - Liver, gallbladder, and other biliary tract
+        >  lun - Lung, trachea, bronchus, and pleura
+        >  nhl - Non-Hodgkin's lymphoma
+        >  ora - Oral cavity and pharynx
+        >  oth - Other and unspecified cancers
+        >  ova - Ovary (only reported for females)
+        >  pan - Pancreas
+        >  pro - Prostate (only reported for males)
+        >  rec - Rectum
+        >  sto - Stomach
+        >  ute - Corpus uteri and uterus not otherwise specified
+        >        (only reported for females)
+        >Y indicates the gender to which the rate applies, where:
+        >   f = White females
+        >   m = White males
+      Attribute_Definition_Source: 
+        U.S. Department of Health and Human Services, National Institutes of 
+        Health, National Cancer Institute
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 892.90
+
+    Attribute:
+      Attribute_Label: XXXY_cnt
+      Attribute_Definition: 
+        This is the number of deaths due to cancer XXX (see table below) for 
+        gender Y (see table below).
+        >XXX indicates the cancer to which the number applies, where:
+        >  acc - All cancers
+        >  bla - Bladder
+        >  bra - Brain and other nervous system
+        >  bre - Breast (only reported for females)
+        >  cer - Cervix uteri (only reported for females)
+        >  col - Colon
+        >  eso - Esophagus
+        >  kid - Kidney, renal pelvis, and ureter
+        >  leu - Leukemia
+        >  lgb - Liver, gallbladder, and other biliary tract
+        >  lun - Lung, trachea, bronchus, and pleura
+        >  nhl - Non-Hodgkin's lymphoma
+        >  ora - Oral cavity and pharynx
+        >  oth - Other and unspecified cancers
+        >  ova - Ovary (only reported for females)
+        >  pan - Pancreas
+        >  pro - Prostate (only reported for males)
+        >  rec - Rectum
+        >  sto - Stomach
+        >  ute - Corpus uteri and uterus not otherwise specified
+        >        (only reported for females)
+        >Y indicates the gender to which the number applies, where:
+        >   f = White females
+        >   m = White males
+      Attribute_Definition_Source: 
+        U.S. Department of Health and Human Services, National Institutes of 
+        Health, National Cancer Institute
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 151853
+
+    Attribute:
+      Attribute_Label: XXXY_lb
+      Attribute_Definition: 
+        This is the lower bound of the 95% confidence interval on the mortality 
+        rate due to cancer XXX (see table below) for gender Y (see table below).  
+        The 95% confidence interval determines whether the mortality rate for a 
+        particular county is significantly different from the total U.S. rate.
+        >XXX indicates the cancer to which the lower bound applies, where:
+        >  acc - All cancers
+        >  bla - Bladder
+        >  bra - Brain and other nervous system
+        >  bre - Breast (only reported for females)
+        >  cer - Cervix uteri (only reported for females)
+        >  col - Colon
+        >  eso - Esophagus
+        >  kid - Kidney, renal pelvis, and ureter
+        >  leu - Leukemia
+        >  lgb - Liver, gallbladder, and other biliary tract
+        >  lun - Lung, trachea, bronchus, and pleura
+        >  nhl - Non-Hodgkin's lymphoma
+        >  ora - Oral cavity and pharynx
+        >  oth - Other and unspecified cancers
+        >  ova - Ovary (only reported for females)
+        >  pan - Pancreas
+        >  pro - Prostate (only reported for males)
+        >  rec - Rectum
+        >  sto - Stomach
+        >  ute - Corpus uteri and uterus not otherwise specified
+        >        (only reported for females)
+        >Y indicates the gender to which the lower bound applies, where:
+        >   f = White females
+        >   m = White males
+      Attribute_Definition_Source:
+        U.S. Department of Health and Human Services, National Institutes of 
+        Health, National Cancer Institute
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 786.1
+
+    Attribute:
+      Attribute_Label: XXXY_ub
+      Attribute_Definition: 
+        This is the upper bound of the 95% confidence interval on the mortality 
+        rate due to cancer XXX (see table below) for gender Y (see table below).  
+        The 95% confidence interval determines whether the mortality rate for a 
+        particular county is significantly different from the total U.S. rate.
+        >XXX indicates the cancer to which the upper bound applies, where:
+        >  acc - All cancers
+        >  bla - Bladder
+        >  bra - Brain and other nervous system
+        >  bre - Breast (only reported for females)
+        >  cer - Cervix uteri (only reported for females)
+        >  col - Colon
+        >  eso - Esophagus
+        >  kid - Kidney, renal pelvis, and ureter
+        >  leu - Leukemia
+        >  lgb - Liver, gallbladder, and other biliary tract
+        >  lun - Lung, trachea, bronchus, and pleura
+        >  nhl - Non-Hodgkin's lymphoma
+        >  ora - Oral cavity and pharynx
+        >  oth - Other and unspecified cancers
+        >  ova - Ovary (only reported for females)
+        >  pan - Pancreas
+        >  pro - Prostate (only reported for males)
+        >  rec - Rectum
+        >  sto - Stomach
+        >  ute - Corpus uteri and uterus not otherwise specified
+        >        (only reported for females)
+        >Y indicates the gender to which the upper bound applies, where:
+        >   f = White females
+        >   m = White males
+      Attribute_Definition_Source:
+        U.S. Department of Health and Human Services, National Institutes of 
+        Health, National Cancer Institute
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 87.72
+          Range_Domain_Maximum: 999.71
+
+    Attribute:
+      Attribute_Label: XXXY_lbuus
+      Attribute_Definition: 
+        This is the lower bound of the 95% confidence interval on cancer 
+        mortality minus the upper bound of the 95% confidence interval on the 
+        U.S. mortality rate where XXX (see table below) is the cancer and Y (see 
+        table below) is the gender.  This value is used to determine whether the 
+        rate for a specific county is based on sparse data, as defined in the 
+        National Cancer Institute's Atlas of Cancer Mortality  in the United 
+        States, 1950-94.
+        >XXX indicates the cancer to which the rate applies, where:
+        >  acc - All cancers
+        >  bla - Bladder
+        >  bra - Brain and other nervous system
+        >  bre - Breast (only reported for females)
+        >  cer - Cervix uteri (only reported for females)
+        >  col - Colon
+        >  eso - Esophagus
+        >  kid - Kidney, renal pelvis, and ureter
+        >  leu - Leukemia
+        >  lgb - Liver, gallbladder, and other biliary tract
+        >  lun - Lung, trachea, bronchus, and pleura
+        >  nhl - Non-Hodgkin's lymphoma
+        >  ora - Oral cavity and pharynx
+        >  oth - Other and unspecified cancers
+        >  ova - Ovary (only reported for females)
+        >  pan - Pancreas
+        >  pro - Prostate (only reported for males)
+        >  rec - Rectum
+        >  sto - Stomach
+        >  ute - Corpus uteri and uterus not otherwise specified
+        >        (only reported for females)
+        >Y indicates the gender to which the rate applies, where:
+        >   f = White females
+        >   m = White males
+      Attribute_Definition_Source: 
+        U.S. Department of Health and Human Services, National Institutes of 
+        Health, National Cancer Institute
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -209.66
+          Range_Domain_Maximum: 576.44
+
+    Attribute:
+      Attribute_Label: XXXY_lusub
+      Attribute_Definition: 
+        This is the lower bound of the 95% confidence interval on U.S. mortality 
+        rate minus the upper bound of the 95% confidence interval on the cancer 
+        mortality rate where XXX (see table below) is the cancer and Y (see 
+        table below) is the gender.  This value is used to determine whether the
+        mortality rate for a specific county is based on sparse data, as defined 
+        in the National Cancer Institute's Atlas of Cancer Mortality  in the 
+        United States, 1950-94.
+        >XXX indicates the cancer to which the rate applies, where:
+        >  acc - All cancers
+        >  bla - Bladder
+        >  bra - Brain and other nervous system
+        >  bre - Breast (only reported for females)
+        >  cer - Cervix uteri (only reported for females)
+        >  col - Colon
+        >  eso - Esophagus
+        >  kid - Kidney, renal pelvis, and ureter
+        >  leu - Leukemia
+        >  lgb - Liver, gallbladder, and other biliary tract
+        >  lun - Lung, trachea, bronchus, and pleura
+        >  nhl - Non-Hodgkin's lymphoma
+        >  ora - Oral cavity and pharynx
+        >  oth - Other and unspecified cancers
+        >  ova - Ovary (only reported for females)
+        >  pan - Pancreas
+        >  pro - Prostate (only reported for males)
+        >  rec - Rectum
+        >  sto - Stomach
+        >  ute - Corpus uteri and uterus not otherwise specified
+        >        (only reported for females)
+        >Y indicates the gender to which the rate applies, where:
+        >   f = White females
+        >   m = White males
+      Attribute_Definition_Source: 
+        U.S. Department of Health and Human Services, National Institutes of 
+        Health, National Cancer Institute
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -790.42
+          Range_Domain_Maximum: 80.89
+
+    Attribute:
+      Attribute_Label: XXXY_ecnt
+      Attribute_Definition: 
+        This is the expected number of deaths due to cancer XXX  (see table 
+        below) for gender Y (see table below) based on U.S. mortality rates.
+        >XXX indicates the cancer to which the number applies, where:
+        >  acc - All cancers
+        >  bla - Bladder
+        >  bra - Brain and other nervous system
+        >  bre - Breast (only reported for females)
+        >  cer - Cervix uteri (only reported for females)
+        >  col - Colon
+        >  eso - Esophagus
+        >  kid - Kidney, renal pelvis, and ureter
+        >  leu - Leukemia
+        >  lgb - Liver, gallbladder, and other biliary tract 
+        >  lun - Lung, trachea, bronchus, and pleura
+        >  nhl - Non-Hodgkin's lymphoma
+        >  ora - Oral cavity and pharynx
+        >  oth - Other and unspecified cancers
+        >  ova - Ovary (only reported for females)
+        >  pan - Pancreas
+        >  pro - Prostate (only reported for males)
+        >  rec - Rectum
+        >  sto - Stomach
+        >  ute - Corpus uteri and uterus not otherwise specified
+        >        (only reported for females)
+        >Y indicates the gender to which the number applies, where:
+        >   f = White females
+        >   m = White males
+      Attribute_Definition_Source: 
+        U.S. Department of Health and Human Services, National Institutes of 
+        Health, National Cancer Institute
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 152166
+
+    Attribute:
+      Attribute_Label: XXXY_sp
+      Attribute_Definition: 
+        This field was used to create the maps in the National Atlas of the 
+        United States and the Atlas of Cancer Mortality in the United States: 
+        1950-94.  It is the death rate excluding areas considered unstable by 
+        the National Cancer Institute.  The rates are for cancer XXX (see table 
+        below) per 100,000 population for gender Y (see table below).  The 
+        numbers are age-adjusted to the 1970 U.S. population.  An area was 
+        considered unstable if (a) the observed number of deaths was less than 
+        6; (b) the observed number of deaths was less than 12 and the rate was 
+        not significantly different statistically from the U.S. rate; or (c) the 
+        expected number of deaths was less than 6 and the rate was not 
+        significantly different statistically from the U.S. rate.
+        >XXX indicates the cancer to which the number applies, where:
+        >  acc - All cancers
+        >  bla - Bladder
+        >  bra - Brain and other nervous system
+        >  bre - Breast (only reported for females)
+        >  cer - Cervix uteri (only reported for females)
+        >  col - Colon
+        >  eso - Esophagus
+        >  kid - Kidney, renal pelvis, and ureter
+        >  leu - Leukemia
+        >  lgb - Liver, gallbladder, and other biliary tract
+        >  lun - Lung, trachea, bronchus, and pleura
+        >  nhl - Non-Hodgkin's lymphoma
+        >  ora - Oral cavity and pharynx
+        >  oth - Other and unspecified cancers
+        >  ova - Ovary (only reported for females)
+        >  pan - Pancreas
+        >  pro - Prostate (only reported for males)
+        >  rec - Rectum
+        >  sto - Stomach
+        >  ute - Corpus uteri and uterus not otherwise specified
+        >        (only reported for females)
+        >Y indicates the gender to which the number applies, where:
+        >   f = White females
+        >   m = White males
+      Attribute_Definition_Source: 
+        U.S. Department of Health and Human Services, National Institutes of 
+        Health, National Cancer Institute
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.0000
+          Range_Domain_Maximum: 892.9042
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions: 
+        In addition to the address above there are other ESIC offices throughout 
+        the country.  A full list of these offices is at 
+        <http://mapping.usgs.gov/esic/esic_index.html>.
+
+  Distribution_Liability: 
+    Although these data have been processed successfully on a computer system at 
+    the U.S. Geological Survey, no warranty expressed or implied is made by the 
+    U.S. Geological Survey regarding the utility of the data on any other 
+    system, nor shall the act of distribution constitute any such warranty.  No 
+    responsibility is assumed by the U.S. Geological Survey in the use of these 
+    data.  
+
+  Standard_Order_Process: 
+    Digital_Form: 
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile 
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name:
+                <http://nationalatlas.gov/atlasftp.html>
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SDTS
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name:
+                <http://nationalatlas.gov/atlasftp.html>
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+    Fees:
+      There is no charge for the online option.  For National Atlas files 
+      ordered on CD-ROM there is a base price of $45.00 per disc, a handling fee 
+      of $5.00, and a per-file charge based on file size.  The charge for files 
+      less than 10 megabytes in size is $1.00.  The charge for files that range 
+      in size from 10 to 150 megabytes is $7.50.  The charge for files of 150 
+      megabytes or larger is $15.00.  The charge is $1.00 for the Cancer 
+      Mortality in the United States: 1970-1994 data set.
+    Ordering_Instructions:
+      To order files on CD-ROM, please see
+      <http://nationalatlas.gov/atlasftp.html#q12>.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20020219
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Gita Urban-Mathieux
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 521 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-5175
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name:
+    FGDC Content Standards for Digital Geospatial Metadata 
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information: 
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
+
