@@ -1,0 +1,460 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Minerals Management Service, Mapping and Boundary Branch
+      Publication_Date: 200105
+      Title: 
+        Official Protraction Diagram and Leasing Map Boundaries
+      Geospatial_Data_Presentation_Form: Map
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: U.S. Geological Survey
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+
+  Description:
+    Abstract: 
+      This data set shows official protraction diagram (OPD) and leasing map
+      boundaries covering areas of the Outer Continental Shelf (OCS) within
+      Federal jurisdiction.  They are generated in accordance with 30 Code of
+      Federal Regulations (CFR) 256.8 to support Federal land ownership and
+      mineral resource management.  Leasing Maps are irregularly shaped areas
+      developed early in the offshore program for near-shore areas in the Gulf
+      of Mexico.  Elsewhere, OPD's were developed on a Universal Transverse
+      Mercator (UTM) grid and are approximately one degree in latitude by two
+      degrees in longitude, except in northern areas where they are three
+      degrees in longitude.  This data set shows existing and planned OPD 
+      limits.  Actual limits of Federal jurisdiction are defined by various 
+      international and maritime boundaries not presently depicted.  Lease Map 
+      and OPD boundaries in the Gulf of Mexico were historically cut at the 
+      Submerged Lands Act (SLA) boundary, while in other areas the full OPD 
+      boundary is shown and therefore may include non-OCS lands within the 
+      rectangularly shaped OPD boundary.  While the Gulf of Mexico Region uses 
+      the North American Datum of 1927, for this data set those coordinates 
+      have been transformed to the North American Datum of 1983 to coincide 
+      with the OPD's in the other Minerals Management Service regions.  This 
+      file updates the September, 2000 data set by including the OPD 
+      boundaries for Puerto Rico and the U.S. Virgin Islands.
+
+    Purpose: 
+      These data are intended for geographic display and analysis at the
+      national level, and for large regional areas.  The data should be
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
+      Other sources must be used if exact coordinates are required for legal 
+      purposes.  No responsibility is assumed by the Minerals Management 
+      Service or the U.S. Geological Survey in the use of these data.
+
+    Supplemental_Information:
+      For additional information on Official Protraction Diagrams, Leasing
+      Maps, Leases, and the Minerals Management Service (MMS) Technical
+      Information Management System (TIMS), please contact:
+      >MMS Headquarters 
+      >381 Elden Street, Suite 1109
+      >Herndon, VA  20170
+      ><http://www.mms.gov/>
+      >
+      >or regional offices for the Gulf of Mexico/Atlantic Region:
+      >1201 Elmwood Park Blvd, Room 90
+      >New Orleans, LA  70123
+      ><http://www.gomr.mms.gov/>
+      >
+      >the Pacific:
+      >770 Paseo Camarillo
+      >Camarillo, CA 93010
+      ><http://www.mms.gov/omm/pacific/>
+      >
+      >or Alaska:
+      >949 E. 36th Ave.
+      >Anchorage, AK 99508
+      ><http://www.mms.gov/Alaska/>
+      >
+      More detailed data sets and additional information can also be found at 
+      <http://www.mms.gov/ld/Offshore%20Cadastre/Maps.html>
+
+      The Official Protraction Diagram and Leasing Map Boundaries data set is 
+      clipped for display in the online interactive National Atlas of the 
+      United States.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 200105
+    Currentness_Reference: Publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 165
+      East_Bounding_Coordinate: -62
+      North_Bounding_Coordinate: 75
+      South_Bounding_Coordinate: 13.9
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Offshore
+      Theme_Keyword: Cadastre
+      Theme_Keyword: Official Protraction Diagram
+      Theme_Keyword: Leasing Map
+      Theme_Keyword: Outer Continental Shelf
+      Theme_Keyword: Minerals Management Service
+      Theme_Keyword: Digital Offshore Cadastre
+      Theme_Keyword: OPD
+      Theme_Keyword: OCS
+      Theme_Keyword: MMS
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: USA
+      Place_Keyword: Atlantic Ocean
+      Place_Keyword: Gulf of Mexico
+      Place_Keyword: Pacific Ocean
+      Place_Keyword: Arctic Ocean
+      Place_Keyword: Exclusive Economic Zone
+      Place_Keyword: EEZ
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: California
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Mississippi
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: Oregon
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: Texas
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: Puerto Rico
+      Place_Keyword: Virgin Islands
+      Place_Keyword: U.S. Virgin Islands
+      Place_Keyword: AK
+      Place_Keyword: AL
+      Place_Keyword: CA
+      Place_Keyword: CT
+      Place_Keyword: DE
+      Place_Keyword: FL
+      Place_Keyword: GA
+      Place_Keyword: HI
+      Place_Keyword: LA
+      Place_Keyword: MA
+      Place_Keyword: MD
+      Place_Keyword: ME
+      Place_Keyword: MS
+      Place_Keyword: NC
+      Place_Keyword: NH
+      Place_Keyword: NJ
+      Place_Keyword: NY
+      Place_Keyword: OR
+      Place_Keyword: RI
+      Place_Keyword: SC
+      Place_Keyword: TX
+      Place_Keyword: VA
+      Place_Keyword: WA
+      Place_Keyword: PR
+      Place_Keyword: VI
+
+  Access_Constraints: None.
+  Use_Constraints: 
+    None.  Acknowledgment of the Minerals Management Service, the National
+    Atlas of the United States of America, and (or) the U.S. Geological Survey
+    would be appreciated in products derived from these data.  The data were
+    developed within the U.S. Government; no proprietary rights may be
+    attached to them nor may they be sold to the U.S. Government as part of
+    any procurement of ADP products or services.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Minerals Management Service, Mapping & Boundary Branch
+        Contact_Person: Richard Naito
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: P.O. Box 25165, Mail Stop 4011
+        Address: Denver Federal Center
+        City: Lakewood 
+        State_or_Province: Colorado
+        Postal_Code: 80225
+        Country: USA
+      Contact_Voice_Telephone: 303-275-7187
+      Contact_Facsimile_Telephone: 303-275-7106
+      Contact_Electronic_Mail_Address: richard.naito@mms.gov
+      Hours_of_Service: 6:30 AM - 2:30 PM Mountain Time
+  Native_Data_Set_Environment: 
+    Coverages were created in Arc/INFO version 7.2.1 on a Sun Ultra Sparc
+    Station 10 running Solaris 2.6 
+
+Data_Quality_Information:
+  Logical_Consistency_Report: 
+    Coordinates for the original OPD and leasing map boundaries are calculated
+    quantities and have been defined to be correct to 3 decimal places of a
+    meter or foot.  Coverages were topologically cleaned with the Arc/INFO
+    command CLEAN using dangle length = 0 and fuzzy tolerance = 0.000002.
+  Completeness_Report: 
+    All Federal OPD and Leasing Map boundaries in NAD83 coordinates are shown. 
+    The data set covers the conterminous United States, Alaska, Hawaii, Puerto 
+    Rico, and the U.S. Virgin Islands.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: 
+        Individual OPD and Leasing Map corners are calculated values, shown to
+        3 decimal places of a meter (non-Gulf of Mexico) or foot (Gulf of
+        Mexico).  For precise coordinates, always use the files for an
+        individual OPD or Leasing Map.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Minerals Management Service, Mapping and Boundary Branch
+          Publication_Date: 200004
+          Title: TIMS, Mapping System, Block and Boundary Component
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Lakewood, Colorado
+            Publisher: 
+              Minerals Management Service, Mapping and Boundary Branch
+      Type_of_Source_Media: Computer program
+      Source_Time_Period_of_Content:  
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 200004
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: MMS_TIMS
+      Source_Contribution: 
+        Coordinates of the OPD and Leasing Map corners.
+    Process_Step:
+      Process_Description: 
+        The source data for the OPD and Leasing Map data set is a theoretical
+        mathematical derivation.  In-house computer programs were used to
+        generate the boundaries for each diagram.  Leasing Maps and OPDs in
+        the Gulf of Mexico were converted from NAD27 to NAD83, and the
+        individual OPD's and Leasing Maps were then appended into one data
+        set.  For the purposes of this map, Atlantic Region OPD's south of 27 
+        degrees North latitude were clipped to eliminate the appearance of 
+        overlap with Gulf of Mexico OPD's.  The file was output in shapefile 
+        format for inclusion in the National Atlas of the United States.
+      Source_Used_Citation_Abbreviation: MMS_TIMS
+      Process_Date: 200004
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: 
+              Minerals Management Service, Mapping and Boundary Branch
+            Contact_Person: Leland Thormahlen
+          Contact_Position: Chief, Mapping and Boundary Branch
+          Contact_Address:
+            Address_Type: Mailing address
+            Address: P.O. Box 25165, Mail Stop 4011
+            Address: Denver Federal Center
+            City: Lakewood
+            State_or_Province: Colorado
+            Postal_Code: 80225
+            Country: USA
+          Contact_Voice_Telephone: 303-275-7121
+          Contact_Facsimile_Telephone: 303-275-7106
+          Contact_Electronic_Mail_Address: leland.thormahlen@mms.gov
+          Hours_of_Service: 6:00 AM - 2:30 PM Mountain Time
+    Process_Step:
+      Process_Description:
+        The original file generated for the September 2000 data set was 
+        updated to include OPD boundaries for Puerto Rico and the
+        U.S. Virgin Islands.  The resulting file was output in shapefile 
+        format for inclusion in the National Atlas of the United States.
+      Source_Used_Citation_Abbreviation: MMS_TIMS
+      Process_Date: 200104
+
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference: U.S.A. Outer Continental Shelf (OCS)
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 694
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.00000001
+      Longitude_Resolution: 0.00000001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model: 
+      Horizontal_Datum_Name: North American Datum of 1983 
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137.0 
+      Denominator_of_Flattening_Ratio: 298.25722210088
+
+Entity_and_Attribute_Information:  
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: 
+        Official Protraction Diagram or Leasing Map (described by
+        opdlm0p020.dbf)
+      Entity_Type_Definition:
+        An area of the Outer Continental Shelf (OCS) managed under Federal OCS 
+        leasing programs.
+      Entity_Type_Definition_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Polygon
+          Enumerated_Domain_Value_Definition: 2-dimensional element.
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Area
+      Attribute_Definition: The size of the shape in coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00008
+          Range_Domain_Maximum: 3.11288
+    Attribute:
+      Attribute_Label: Perimeter
+      Attribute_Definition: The perimeter of the shape in coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+       Range_Domain:
+          Range_Domain_Minimum: 0.04703
+          Range_Domain_Maximum: 8.08155
+    Attribute:
+      Attribute_Label: Opdlm0p020
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 2
+          Range_Domain_Maximum: 695
+    Attribute:
+      Attribute_Label: Opd_num
+      Attribute_Definition:
+        The OPD or Leasing Map identification number.
+      Attribute_Definition_Source: Minerals Management Service
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: 
+          There is no predefined set of valid OPD or Leasing Map
+          identification numbers.
+    Attribute:
+      Attribute_Label: Region
+      Attribute_Definition:
+        The MMS code for the region in which the OPD or Leasing Map falls.
+      Attribute_Definition_Source: Minerals Management Service     
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: A
+          Enumerated_Domain_Value_Definition: Atlantic region.
+          Enumerated_Domain_Value_Definition_Source: 
+            Minerals Management Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: G
+          Enumerated_Domain_Value_Definition: Gulf of Mexico region.
+          Enumerated_Domain_Value_Definition_Source: 
+            Minerals Management Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: P
+          Enumerated_Domain_Value_Definition: Pacific region.
+          Enumerated_Domain_Value_Definition_Source: 
+            Minerals Management Service
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Y
+          Enumerated_Domain_Value_Definition: Alaska region.
+          Enumerated_Domain_Value_Definition_Source: 
+            Minerals Management Service
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization:
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions:
+        In addition to the address above there are other ESIC offices throughout 
+        the country.  A full list of these offices is at
+        <http://mapping.usgs.gov/esic/esic_index.html>.
+
+  Distribution_Liability: 
+    Although these data have been processed successfully on computer systems
+    at the Minerals Management Service and the U.S. Geological Survey, no
+    warranty expressed or implied is made by the Minerals Management Service
+    or the U.S. Geological Survey regarding the utility of the data on any
+    other system, nor shall the act of distribution constitute any such
+    warranty.  No responsibility is assumed by the Minerals Management Service
+    or the U.S. Geological Survey in the use of these data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SDTS
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+    Fees:
+      There is no charge for the online option.  For National Atlas files
+      ordered on CD-ROM there is a base price of $45.00 per disc, a handling
+      fee of $5.00, and a per-file charge based on file size.  The charge for
+      files less than 10 megabytes in size is $1.00.  The charge for files
+      that range in size from 10 to 150 megabytes is $7.50.  The charge for
+      files of 150 megabytes or larger is $15.00.  The charge is $1.00 for
+      the Official Protraction Diagram and Leasing Map Boundaries data set.
+    Ordering_Instructions:
+      To order files on CD-ROM, please see
+      <http://nationalatlas.gov/atlasftp.html#q12>.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20030328
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Peg Rawson
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 561 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+        Country: USA
+      Contact_Voice_Telephone: 703-648-4183
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: 
+    FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: Local time
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
+
