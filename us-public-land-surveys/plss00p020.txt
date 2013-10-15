@@ -1,0 +1,697 @@
+Identification_Information: 
+  Citation: 
+    Citation_Information: 
+      Originator: U.S. Geological Survey 
+      Publication_Date: 201011
+      Title: Public Land Survey System of the United States 
+      Publication_Information: 
+        Publication_Place: Reston, VA 
+        Publisher: U.S. Geological Survey
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+
+  Description: 
+    Abstract: 
+      This data set portrays the Public Land Surveys of the United States, 
+      including areas of private survey, Donation Land Claims, and Land Grants 
+      and Civil Colonies.  This is a revised version of the January 2003 data set.
+    Purpose: 
+      These data are intended for geographic display and analysis at the 
+      national level, and for large regional areas.  The data should be 
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale 
+      data.  No responsibility is assumed by the U.S. Geological Survey in 
+      the use of these data. 
+    Supplemental_Information:
+      All lands in the public domain are subject to subdivision by a rectangular 
+      system of surveys called the Public Land Survey System (PLSS), established 
+      and regulated by the Bureau of Land Management.  The original public 
+      domain includes the land ceded to the Federal Government by the Thirteen 
+      Original States, supplemented with acquisitions from native Indians and 
+      foreign powers.  It encompasses major portions of the land area of 30 
+      western States.  
+
+      Under Congressional mandate, cadastral surveys of public lands were 
+      undertaken to create parcels suitable for disposal by the Government.  The 
+      PLSS was developed for this purpose.  The PLSS is a rectangular survey 
+      system that typically divides the land into 6-mile square townships, which 
+      are further subdivided into 1-mile square sections (the data in the 
+      National Atlas do not include section-level information).  The extension 
+      of the rectangular system of surveys over the public domain has been in 
+      progress since 1785.  These surveys form the basis of patents issued when 
+      public lands pass out of Federal ownership.  
+
+      Certain lands were excluded from the public domain and not subject to 
+      survey and disposal.  These lands include the beds of navigable bodies of 
+      water, national installations such as military reservations and national 
+      parks, and areas such as land grants that had already passed to private 
+      ownership prior to subdivision by the Government.  
+
+      Data describing the PLSS is required by Federal surface and mineral 
+      management agencies, as well as any organization concerned with land 
+      ownership in the 30 western States that were formed from the public 
+      domain.  Additionally, many agencies have encoded natural resource or 
+      environmental inventory data based on the PLSS.
+
+  Time_Period_of_Content: 
+    Time_Period_Information: 
+      Range_of_Dates/Times: 
+        Beginning_Date: 1972 
+        Ending_Date: 2002
+    Currentness_Reference: Ground Condition 
+  Status: 
+    Progress: Complete 
+    Maintenance_and_Update_Frequency: Irregular 
+  Spatial_Domain: 
+    Bounding_Coordinates: 
+      West_Bounding_Coordinate: 170 
+      East_Bounding_Coordinate: -64 
+      North_Bounding_Coordinate: 72
+      South_Bounding_Coordinate: 17 
+  Keywords: 
+    Theme: 
+      Theme_Keyword_Thesaurus: None 
+      Theme_Keyword: Public Land Survey System 
+      Theme_Keyword: PLSS
+      Theme_Keyword: Township
+      Theme_Keyword: Range
+      Theme_Keyword: Public Survey 
+      Theme_Keyword: Private Survey 
+      Theme_Keyword: Land Grants 
+      Theme_Keyword: Civil Colonies 
+      Theme_Keyword: Donation Land Claims 
+      Theme_Keyword: Unsurveyed Area 
+    Place: 
+      Place_Keyword_Thesaurus: 
+        U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of 
+        Special Sovereignty, and Their Principal Administrative Divisions 
+        (Federal Information Processing Standard (FIPS) 10-4): Washington, DC, 
+        National Institute of Standards and Technology. 
+      Place_Keyword: United States 
+    Place: 
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: USA
+    Place: 
+      Place_Keyword_Thesaurus: 
+        U.S. Department of Commerce, 1987, Codes for the Identification of the 
+        States, the District of Columbia and the Outlying Areas of The United 
+        States, and Associated Areas (FIPS 5-2): Washington, DC, National 
+        Institute of Standards and Technology.
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+  Access_Constraints: None 
+  Use_Constraints: 
+    None.  Acknowledgment of the National Atlas of the United States of America 
+    and (or) the U.S. Geological Survey would be appreciated in products derived 
+    from these data. 
+  Point_of_Contact: 
+    Contact_Information: 
+      Contact_Person_Primary: 
+        Contact_Person: Greg Manuel 
+        Contact_Organization: U.S. Geological Survey 
+      Contact_Address: 
+        Address_Type: Mailing address 
+        Address: 561 National Center 
+        City: Reston 
+        State_or_Province: VA 
+        Postal_Code: 20192 
+      Contact_Voice_Telephone: 703-648-6433
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+
+Data_Quality_Information: 
+  Logical_Consistency_Report: 
+    The data set was checked for topological consistency using the Arc/INFO 
+    command BUILD.  No other checks for logical consistency were performed on 
+    this data set. 
+  Completeness_Report: 
+    This data set includes the Public Land Survey System for the United 
+    States, to the Township and Range level.  It also includes Land Grants.
+  Lineage: 
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: U.S. Geological Survey 
+          Publication_Date: 1995 
+          Title: 1:2,000,000-scale Digital Line Graph Data - Boundaries 
+          Publication_Information: 
+            Publication_Place: Reston, VA 
+            Publisher: U.S. Geological Survey 
+      Source_Scale_Denominator: 2000000 
+      Type_of_Source_Media: CD-ROM 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Single_Date/Time: 
+            Calendar_Date: 1995 
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: 2MILBD 
+      Source_Contribution: Spatial information 
+
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: U.S. Geological Survey 
+          Publication_Date: 1998 
+          Title: County Boundaries of the United States 
+          Publication_Information: 
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey 
+      Source_Scale_Denominator: 2000000 
+      Type_of_Source_Media: Online 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Single_Date/Time: 
+            Calendar_Date: 1998 
+        Source_Currentness_Reference: Publication date 
+      Source_Citation_Abbreviation: ATLAS-CNTY 
+      Source_Contribution: Spatial information 
+
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: U.S. Geological Survey 
+          Publication_Date: 1998 
+          Title: Hydrography Features of the United States 
+          Publication_Information: 
+            Publication_Place: Reston, VA 
+            Publisher: U.S. Geological Survey 
+      Source_Scale_Denominator: 2000000 
+      Type_of_Source_Media: Online 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Single_Date/Time: 
+            Calendar_Date: 1998 
+        Source_Currentness_Reference: Publication date 
+      Source_Citation_Abbreviation: ATLAS-HY 
+      Source_Contribution: Spatial information 
+
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: U.S. Geological Survey 
+          Publication_Date: Unknown 
+          Title: 1:100,000-scale USGS topographic sheets 
+          Publication_Information: 
+            Publication_Place: Reston, VA 
+            Publisher: U.S. Geological Survey 
+      Source_Scale_Denominator: 100000 
+      Type_of_Source_Media: Paper 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Single_Date/Time: 
+            Calendar_Date: Unknown 
+        Source_Currentness_Reference: Publication date 
+      Source_Citation_Abbreviation: 1:100,000-scale base maps 
+      Source_Contribution: Spatial and attribute information 
+
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: U.S. Geological Survey 
+          Publication_Date: Unknown 
+          Title: State base maps 
+          Publication_Information: 
+            Publication_Place: Reston, VA 
+            Publisher: U.S. Geological Survey 
+      Source_Scale_Denominator: 500000 
+      Type_of_Source_Media: Paper 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Single_Date/Time: 
+            Calendar_Date: Unknown 
+        Source_Currentness_Reference: Publication date 
+      Source_Citation_Abbreviation: 500K State base maps 
+      Source_Contribution: Spatial and attribute information 
+
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: U.S. Geological Survey 
+          Publication_Date: Unknown 
+          Title: State base maps 
+          Publication_Information: 
+            Publication_Place: Reston, VA 
+            Publisher: U.S. Geological Survey 
+      Source_Scale_Denominator: 1000000 
+      Type_of_Source_Media: Paper 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Single_Date/Time: 
+            Calendar_Date: Unknown 
+        Source_Currentness_Reference: Publication date 
+      Source_Citation_Abbreviation: 1Mil State base maps 
+      Source_Contribution: Spatial and attribute information 
+
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: U.S. Geological Survey 
+          Publication_Date: 200205 
+          Title: Public Land Survey System of the United States 
+          Publication_Information: 
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey 
+      Source_Scale_Denominator: 2000000 
+      Type_of_Source_Media: Online 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Range_of_Dates/Times: 
+            Beginning_Date: 1972 
+            Ending_Date: 2002
+        Source_Currentness_Reference: Ground Condition 
+      Source_Citation_Abbreviation: ATLAS-PLSS200205
+      Source_Contribution: Spatial and attribute information 
+
+    Process_Step: 
+      Process_Description: 
+        Public Land Survey System data were collected from 1:500,000 and 
+        1:1,000,000 State base maps for the western United States.  The eastern 
+        States were collected from existing 1:100,000-scale base maps.  Data 
+        from both sources were integrated into 1:2,000,000 State-level DLG 
+        files, then generalized and vertically integrated with 2MILBD, ATLAS-
+        CNTY, and ATLAS-HY.  The resulting Public Land Survey System DLG files 
+        were published on CD-ROM in 1995.  The DLG optional-format files were 
+        then converted to Arc/INFO coverages, and the individual State files 
+        were paneled together into a national coverage.  Numeric DLG codes were 
+        translated into English, non-polygon features were deleted, and the data 
+        set was converted to shapefile format.
+      Source_Used_Citation_Abbreviation: 2MILBD 
+      Source_Used_Citation_Abbreviation: ATLAS-CNTY 
+      Source_Used_Citation_Abbreviation: ATLAS-HY 
+      Source_Used_Citation_Abbreviation: 1:100,000-scale base maps 
+      Source_Used_Citation_Abbreviation: 500K State base maps
+      Source_Used_Citation_Abbreviation: 1Mil State base maps 
+      Process_Date: 1999 
+
+    Process_Step: 
+      Process_Description: 
+        Township and Range values were corrected in the Boise, Copper River, 
+        Fifth Principal, Fourth Principal, Sixth Principal, Indian, Louisiana, 
+        Salt Lake, St. Stephens, Third Principal, Umiat, and Willamette surveys.  
+        In all, 250 corrections were made using 1:100,000-scale base maps.  Some 
+        polygons in coastal areas were added or deleted to accurately portray 
+        the extent of a Township or unsurveyed area. 
+      Source_Used_Citation_Abbreviation: 1:100,000-scale base maps 
+      Process_Date: 200204
+      Source_Produced_Citation_Abbreviation: ATLAS-PLSS200205
+
+    Process_Step: 
+      Process_Description: 
+        Range values were corrected in the New Mexico Principal survey for 
+        Townships 15-20 South.  In all, 85 corrections were made using 
+        1:100,000-scale base maps. 
+      Source_Used_Citation_Abbreviation: ATLAS-PLSS200205
+      Source_Used_Citation_Abbreviation: 1:100,000-scale base maps 
+      Process_Date: 200212
+
+    Process_Step: 
+      Process_Description: 
+        Township value was corrected in the Iowa Fifth Principal survey for 
+        Range 3 West.  In all, 2 corrections were made due to a previous typing error.
+      Source_Used_Citation_Abbreviation: ATLAS-PLSS200301
+      Process_Date: 201011
+
+Spatial_Data_Organization_Information: 
+  Indirect_Spatial_Reference:  
+    U.S. Department of Commerce, 1987, Codes for the Identification of 
+    the States, the District of Columbia and the Outlying areas of the 
+    United States, and Associated Areas (FIPS 5-2): Washington, DC, 
+    National Institute of Standards and Technology.
+
+Spatial_Reference_Information: 
+  Horizontal_Coordinate_System_Definition: 
+    Geographic: 
+      Latitude_Resolution: 0.000278 
+      Longitude_Resolution: 0.000278 
+      Geographic_Coordinate_Units: Decimal degrees 
+    Geodetic_Model: 
+      Horizontal_Datum_Name: North American Datum of 1983 
+      Ellipsoid_Name: GRS1980 
+      Semi-major_Axis: 6378137 
+      Denominator_of_Flattening_Ratio: 298.257222 
+
+Entity_and_Attribute_Information: 
+  Detailed_Description: 
+    Entity_Type: 
+      Entity_Type_Label: 
+        Public Land Survey System area (described by plss00p020.dbf) 
+      Entity_Type_Definition: 
+        A rectangular system of surveys devised to subdivide public domain 
+        lands.
+      Entity_Type_Definition_Source: U.S. Geological Survey 
+    Attribute: 
+      Attribute_Label: Shape 
+      Attribute_Definition: The representation of the entity in the data. 
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: Polygon 
+          Enumerated_Domain_Value_Definition: 2-dimensional element 
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software 
+    Attribute: 
+      Attribute_Label: Area 
+      Attribute_Definition: The size of the shape in coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 123.791
+    Attribute: 
+      Attribute_Label: Perimeter 
+      Attribute_Definition: The perimeter of the shape in coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum: 0.003
+          Range_Domain_Maximum: 220.521
+    Attribute: 
+      Attribute_Label: plss00p020 
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum: 2 
+          Range_Domain_Maximum: 90920 
+    Attribute: 
+      Attribute_Label: Feature1 
+      Attribute_Definition: The primary survey area type.
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Donation Land Claims
+          Enumerated_Domain_Value_Definition: 
+            An area that was allocated to a settler under the Donation Act of 
+            September 27, 1850 to preserve the rights of pre-statehood settlers 
+            claimed prior to the regular division of townships and ranges.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Indian Lands
+          Enumerated_Domain_Value_Definition: 
+            Land granted to native Americans and excluded from the public  
+            domain.            
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Land Grants, Civil Colonies
+          Enumerated_Domain_Value_Definition: 
+            An area of land to which title was conferred by a predecessor 
+            government and confirmed by the U.S. Government after the territory 
+            in which it is situated was acquired by the United States.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Military Reservation
+          Enumerated_Domain_Value_Definition: 
+            A military or lighthouse reservation that limits the public lands. 
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Not Part of Public Land Surveys System
+          Enumerated_Domain_Value_Definition: 
+            An area that is outside of the Public Land Survey System.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Overlapping Land Grants
+          Enumerated_Domain_Value_Definition: 
+            An area of land to which more than one title was conferred by a 
+            predecessor government and confirmed by the U.S. Government after 
+            the territory in which it is situated was acquired by the United 
+            States.  These areas are the result of survey error or disputed 
+            claims.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Private Survey
+          Enumerated_Domain_Value_Definition: 
+            An area of private surveys of public domain lands.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Public Survey
+          Enumerated_Domain_Value_Definition: 
+            An area of land subdivided by the Public Land Survey System (PLSS), 
+            which was originally created on public domain lands and the rules 
+            for its use were defined by the authority of the U.S. Government.  
+            The PLSS has since been extended, following similar rules, into non-
+            public domain areas.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Unsurveyed Area
+          Enumerated_Domain_Value_Definition: 
+            An area that is part of the public domain but which has not been 
+            subdivided.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Water
+          Enumerated_Domain_Value_Definition: 
+            Areas of navigable streams and meanderable lakes which are excluded 
+            from the Public Land Survey System.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+    Attribute: 
+      Attribute_Label: Feature2 
+      Attribute_Definition: The township and range designation for the area.
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            There is no township and range designation for the area because it 
+            is not a Public Survey or Private Survey area.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: 
+          There is no predefined set of valid township and range designations.  
+          Designations are in the format "Township xx aaaaa Range yy bbbb", 
+          where xx and yy are numbers, aaaaa is either North or South, and bbbb 
+          is either East or West.
+    Attribute: 
+      Attribute_Label: Feature3 
+      Attribute_Definition: The secondary survey area type.
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The area does not have a secondary survey type.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Land Grants, Civil Colonies
+          Enumerated_Domain_Value_Definition: 
+            An area of land to which title was conferred by a predecessor 
+            government and confirmed by the U.S. Government after the territory 
+            in which it is situated was acquired by the United States.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Overlapping Land Grants
+          Enumerated_Domain_Value_Definition: 
+            An area of land to which more than one title was conferred by a 
+            predecessor government and confirmed by the U.S. Government after 
+            the territory in which it is situated was acquired by the United 
+            States.  These areas are the result of survey error or disputed 
+            claims.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+    Attribute: 
+      Attribute_Label: Name1 
+      Attribute_Definition: 
+        The primary name of the survey area.  This is the principal meridian, 
+        Ohio base, or land grant name.
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The area is not a land grant or part of the Public Land Survey 
+            System.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Codeset_Domain: 
+          Codeset_Name: 
+            GeoData Data Users Guide 1, Appendix K: Origins of the U.S. 
+            Rectangular Surveys 
+          Codeset_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Codeset_Domain: 
+          Codeset_Name: 
+            GeoData Data Users Guide 1, Appendix L: Named Land Grant Codes 
+          Codeset_Source: U.S. Geological Survey
+    Attribute: 
+      Attribute_Label: Name2 
+      Attribute_Definition: 
+        The secondary name of the survey area.  This is an additional land grant 
+        name.
+      Attribute_Definition_Source: U.S. Geological Survey  
+      Attribute_Domain_Values: 
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The area does not have a secondary survey name.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Codeset_Domain: 
+          Codeset_Name: 
+            GeoData Data Users Guide 1, Appendix L: Named Land Grant Codes 
+          Codeset_Source: U.S. Geological Survey
+    Attribute: 
+      Attribute_Label: Name3 
+      Attribute_Definition: 
+        The tertiary name of the survey area.  This is an additional land grant 
+        name.
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The area does not have a tertiary survey name.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Codeset_Domain: 
+          Codeset_Name: 
+            GeoData Data Users Guide 1, Appendix L: Named Land Grant Codes 
+          Codeset_Source: U.S. Geological Survey
+    Attribute: 
+      Attribute_Label: State 
+      Attribute_Definition: 
+        The 2-character code of the State where the survey area is located.  If 
+        the area falls in more than one State, the codes for each State are 
+        included and are separated with dashes, for example: IN-KY-OH.
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The area is not part of the Public Land Survey System.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Codeset_Domain: 
+          Codeset_Name: 
+            Codes for the Identification of the States, the District of Columbia 
+            and the Outlying Areas of the United States, and Associated Areas, 
+            (Federal Information Processing Standard (FIPS) 5-2). 
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology 
+    Attribute: 
+      Attribute_Label: State_fips 
+      Attribute_Definition: 
+        The 2-digit code of the State where the survey area is located.  If 
+        the area falls in more than one State, the codes for each State are 
+        included and are separated with dashes, for example: 27-38-46.
+      Attribute_Definition_Source: U.S. Geological Survey 
+      Attribute_Domain_Values: 
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The area is not part of the Public Land Survey System.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Codeset_Domain: 
+          Codeset_Name: 
+            Codes for the Identification of the States, the District of Columbia 
+            and the Outlying Areas of the United States, and Associated Areas, 
+            (Federal Information Processing Standard (FIPS) 5-2). 
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and  
+            Technology 
+
+Distribution_Information: 
+  Distributor: 
+    Contact_Information: 
+      Contact_Organization_Primary: 
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey 
+      Contact_Address: 
+        Address_Type: Mailing address 
+        Address: 507 National Center 
+        City: Reston 
+        State_or_Province: VA 
+        Postal_Code: 20192 
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747) 
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions: 
+        In addition to the address above there are other ESIC offices throughout 
+        the country.  A full list of these offices is at
+        <http://mapping.usgs.gov/esic/esic_index.html>.
+
+  Distribution_Liability: 
+    Although these data have been processed successfully on a computer system at 
+    the U.S. Geological Survey, no warranty expressed or implied is made by the 
+    U.S. Geological Survey regarding the utility of the data on any other 
+    system, nor shall the act of distribution constitute any such warranty.  No 
+    responsibility is assumed by the U.S. Geological Survey in the use of these 
+    data. 
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: 
+                <http://nationalatlas.gov/atlasftp.html>
+    
+    Fees:
+      There is no charge for the map layer.
+
+Metadata_Reference_Information: 
+  Metadata_Date: 20101112
+  Metadata_Contact: 
+    Contact_Information: 
+      Contact_Person_Primary: 
+        Contact_Person: Terry Higgins 
+        Contact_Organization: U.S. Geological Survey 
+      Contact_Address: 
+        Address_Type: Mailing address 
+        Address: 1400 Independence Road 
+        City: Rolla 
+        State_or_Province: MO 
+        Postal_Code: 65401 
+      Contact_Voice_Telephone: 573-308-3592
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata 
+  Metadata_Standard_Version: FGDC-STD-001-1998 
+  Metadata_Security_Information: 
+    Metadata_Security_Classification_System: None 
+    Metadata_Security_Classification: Unclassified 
+    Metadata_Security_Handling_Description: None 
