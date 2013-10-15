@@ -1,0 +1,133 @@
+Code	Reference
+AAM	University of Michigan, Ann Arbor, Michigan.
+AB1	Abe, Katsuyuki, and Noguchi, Shin'ichi, 1983, Determination of magnitude for large shallow earthquakes 1898 - 1917:  Physics of the Earth and Planetary Interiors, v. 32, p. 45-59.
+AB2	Abe, Katsuyuki, and Noguchi, Shin'ichi, 1983, Revision of magnitudes of large shallow earthquakes, 1897 - 1912:  Physics of the Earth and Planetary Interiors, v. 33, p. 1-11.
+AB3	Abe, Katsuyuki, 1984, Complements to "Magnitudes of large shallow earthquakes from 1904 to 1980."  Physics of the Earth and Planetary Interiors, v. 34, p. 17-23.
+ABE	Abe, Katsuyuki, 1981, Magnitude of large shallow earthquakes from 1904 to 1980:  Physics of the Earth and Planetary Interiors, v. 27, p. 72-92.
+ADK	Adak Observatory, U.S. National Oceanic and Atmospheric Administration, Adak Island, Aleutian Islands, Alaska.
+AND	Ando, Matsaka, 1979, the Hawaii earthquake of November 29, 1975:  Low dip angle due to forceful injection of magma:  Journal of Geophysical Research, v. 84, no. B13, p. 7616-7626.
+ARC	Archuleta, R.J., Cranswick, E., Mueller, C., and Spudich, P., 1982, Source parameters of the 1980 Mammoth Lakes, California, earthquake sequence:  Journal of Geophysical Research, v. 87, no. B5, p. 4595-4607.
+AS	Armbruster, J.G., and Seeber, Leonardo, 1987, The 23 April 1984 Martic earthquake of the Lancaster seismic zone in eastern Pennsylvania:  Seismological Society of America Bulletin, v. 77, no. 3, p. 877-890.
+BAK	Bakun, W.H., 1984, Seismic moments, local magnitudes, and coda-duration magnitudes for earthquakes in central California:  Seismological Society of America Bulletin, v. 74, no. 2, p. 439-458.
+BAR	Barstow, N.L., Brill, K.G., Nuttli, O.W., and Pomeroy, P.W., 1981, An approach to seismic zonation for siting nuclear electric power generating facilities in the Eastern United States:  Stone Ridge, N.J., Roundout Associates, Inc., report prepared for U.S. Nuclear Regulatory Commission, NUCREG/CR-1577, 315p.
+BAS	Basham, P.W., Weichert, D.H., and Berry, M.J., 1979, Regional assessment of seismic risk in Eastern Canada:  Seismological Society of America, v. 69, no. 5, p. 1567-1602.
+BL	Baker, G.E., and Langston, C.A., 1987, Source parameters of the 1949 magnitude 7.1 South Puget Sound, Washington, earthquake as determined form long-period body waves and strong ground motions:  Seismological Society of America Bulletin, v. 77, no. 5, p. 1530-1557.
+BLA	Seismological Observatory, Virginia Polytechnic Institute and State University, Blacksburg, VA.
+BLT	Bolt, B.A., 1978, The local magnitude ML of the Kern County earthquake of July 21, 1952:  Seismological Society of America Bulletin, v. 68, no. 2, p. 513-515.
+BMU	Bolt, B.A., McEvilly, T.V., and Uhrhammer, R.A., 1981, The Livermore Valley, California, sequence of January 1980:  Seismological Society of America Bulletin, v. 71, no. 2, p. 451-463.
+BOL	Bollinger, G.A., 1986, Historical seismicity of South Carolina [abs.]:  Seismological Society of America, Eastern Section, Earthquake Notes, v. 457, no. 1, p. 15-16.
+BOT	Bolt, B.A., 1984, The magnitude of the Hebgen Lake 1959 and Idaho 1983 earthquakes [abs.]:  Seismological Society of America, Eastern Section, Earthquakes Notes, v. 55, no. 1, p. 13.
+BRK	Seismographic Stations, University of California, Berkeley, California.
+BU	Montana Bureau of Mines and Geology, Butte, Montana.
+BUR	Burger, R.W., and Langston, C.A., 1985, Source mechanism of the May 18, 1980, Mount St. Helens eruption from regional surface waves:  Journal of Geophysical Research v. 90, no. B9, P. 7653-7664.
+CAR	Carlson, S.J., 1984, Investigations of recent and historical seismicity in east Texas:  The University of Texas at Austin, Master of Arts Thesis, 197p.
+CDL	Carver, D., Richins, W.D., and Langer, C.J., 1983, Details of the Aftershock process following the 30 September 1977 Unita BAsin, Utah, earthquakes:  Seismological Society of America Bulletin, v. 73, no. 2, p. 435-448.
+CFR	Richter, C.F., 1958, Elementary seismology:  San Francisco and London, W.H. Freeman and Company, 768p.
+CON	University of Connecticut seismograph station, Groton, Conn.
+COX	Cox, D.C., 1985, The Lanai earthquake of February 1871:  Environmental Center, University of Hawaii, SR-0034, 50p.
+CWR	California Department of Water Resources, Sacramento, California.
+DDA	Duda, S.J., 1965, Secular seismic energy release in the Circum-Pacific Belt:  Tectonophysics, v. 2, no. 5, p. 409-452.
+DG	Dewey, J.W., and Gordon, D.W., 1984, Map showing recomputed hypocenters of earthquakes in the Eastern and Central United States and adjacent Canada, 1925-1980:  U.S. Geological Survey Miscellaneous Field Studies Map MF-1699, [pamphlet ], 39p.
+DMG	California Division of Mines and Geology, Sacramento, California, [see ref. 368, 360, 381 in table 1].
+DOR	Doser, D.J., 1989, Source parameters of Montana earthquakes (1925-1964) and tectonic deformation in the northern intermountain seismic belt:  Seismological of America Bulletin, v. 79, no. 1, p. 31-50.
+DOS	Dovser, D.I., and Smith, R.B., 1982, Seismic moment rates in the Utah region:  Seismological Society of America bulletin, v. 72, no. 2,, p. 525-551.
+DSR	Doser, D.I., 1985, Source parameters and faulting processes of the 1959 Hebgen Lake, Montana, earthquake sequence:  Journal of Geophysical Research, v. 90, no. B6, p. 4537-4555.
+DW	Dewey, J.W., 1987, Instrumental seismicity of central Idaho:  Seismological Society of America Bulletin, v. 77, no. 3, p. 819-836.
+EBE	Eberhart-Phillips, D., Richardson, R.M., Sbar, M.L., and Hermann, R.B., 1981, Analysis of the 4 February 1976 Chino Valley, Arizona, earthquake:  Seismological Society of America Bulletin, v. 71, no. 3, p. 787-801.
+ED	Ekstrom, G., and Dziewonski, A.M., 1985, Centroid-moment sensor solutions for 35 earthquakes in Western North America (1977-1983):  Seismological Society of America Bulletin, v. 75, no. 1, p. 23-39.
+ELL	Ellsworth, W.L., 1990, Historical seismicity, in  Wallace, R.E., eds., The San Andreas fault system:  U.S. Geological Survey Professional Paper 1515, p. 153-181.
+EPB	Seismological Service, Geological Survey of Canada [formerly Earth Physics Branch], Ottawa, Ont. Canada.
+ESM	Ebel, J.E., Somerville, P.G., and McIver, J.D., 1986, A study of the source parameters of some large earthquakes of northeastern North America:  Journal of Geophysical Research, v. 91, no. B8, p. 8231-8247.
+FRK	Frankel, Arthur, 1984, Source parameters of the ML About 5 earthquake Near Anza, California, and a comparison with an Imperial Valley aftershock:  Seismological Society of America Bulletin, v. 24, no. 5, p. 1509-1527.
+GB	Bollinger, G.A., 1979, Attenuation of the Lg phase and the determination of Mb in the Southeastern United States:  Seismological Society of America Bulletin, v. 69, no. 1, p. 45-63.
+GDW	Gordon, D. W., 1990, U.S. Geological Survey unpublished data.
+GM	U.S. Geological Survey, Menlo Park, CA.
+GOL	Geophysical Observatory, Colorado School of Mines, Golden, CO.
+GP	U.S. Geological Survey, Pasadena, CA.
+GR	Gutenberg, Beno, and Richter, C.F., 1954, Seismicity of the Earth and associated phenomena:  New York, Hafner Publishing Inc., 310p.
+GS	U.S. Geological Survey, Golden, CO.
+GT	Georgia Institute of Technology, Atlanta, GA.
+HAV	Harvard University, Cambridge, Massachusetts.
+HB	Hartzell, S.H., and Brune, J.N., 1979, The Horse Canyon earthquake of August 2, 1975-two stage stress-release process in a strike-slip earthquake:  Seismological Society of America Bulletin, v. 69, no. 4, p. 1161-1173.
+HBK	Hart, R.S., Butler, R., and Kanamori, H., 1977, Surface-wave constraints on the August 1, 1875, Oroville earthquake:  Seismological Society of America Bulletin, v. 67, no. 1, p. 1-7.
+HDP	Herrmann, R.B., Dewey, J.W.,  and Park, S.K., 1980, The Dulce, New Mexico, earthquake of 23 January 1966:  Seismological Society of America Bulletin, v. 70, no. 6, p. 2171-2183.
+HER	Herrmann, R.B., Park, S.K., and Wang, C.Y., 1981, The Denver earthquakes of 1967-1968:  Seismological Society of America Bulletin, v. 71, no., 3, p. 731-745.
+HH	Heaton, T.H., and Heimberger, D.V., 1978, Predictability of strong ground motion in the Imperial Valley:  Modeling the M4.9, November 4, 1976, Brawley, earthquake:  Seismological Society of America Bulletin, v. 68, no. 1, p. 31-48.
+HHT	Hanks, T.C., Hileman, J.A., and Thatcher, W., 1975, Seismic moments of the larger earthquakes of the southern California region:  Geological Society of America Bulletin, v. 86, p. 1131-1139.
+HK	Hanks, T.C., and Kanamori, H., 1979, A moment magnitude scale:  Journal of Geophysical Research, v. 84, no. B5, p. 2348-2350.
+HLS	Hasegawa, H.W., Lahr, J.C., and Stephens, C.D., 1980, Fault parameters of the St. Elias, Alaska, earthquake of February 28, 1979:  Seismological Society of America Bulletin, v. 70, no. 5, p. 1651-1660.
+HRM	Herrmann, R.B., 1986, Surface-wave studies of some South Carolina earthquakes:  Seismological Society of America Bulletin, v. 76, no. 1, p. 111-121.
+HRN	Hermann, R.B., 1979, Surface wave focal mechanisms for Eastern North America earthquakes with tectonic implications:  Journal of Geophysical Research, v. 84, no. B7, p. 3543-3552.
+HRR	Herrmann, R.B., Langston, C.A., and Zollweg, J.E., 1982, The Sharpsburg, Kentucky, earthquake of 17 July 1980:  Seismological Society of America Bulletin, v. 72, no. 4, p. 1219-1239.
+HVO	Hawaiian Volcano Observatory, U.S. Geological Survey, Hawaii National Park, Hawaii.
+ISC	Bulletin of the International Seismological Centre, 1954-1989, Newbury Berkshire, United Kingdom.
+JDH	Jordan, J.N., Dunphy, G.J., and Harding, S.T., 1967, The Fairbanks, Alaska, earthquakes of June 21, 1967:  U.S. Department of Commerce, Coast and Geodetic Survey, Preliminary Seismological report, p. 1-33.
+JLM	Jones, F.B., Long, L.T., and McKee, J.H., 1977, Study of the attenuation and azimuthal dependence of seismic wave propagation in the Southeastern United States:  Seismological Society of America Bulletin, v. 67, no. 6, p. 1503-1513.
+JLQ	Johnson, T.E., Ludwin, R.S., and Qamar, A.I., in press, The central Cascades earthquake of March 7, 1891:  Washington, Geology.
+JM	Johnson, L.R., and McEvilly, T.V., 1974, Near-field observations and source parameters of central California earthquakes:  Seismological Society of America Bulletin, v. 64, no. 6, p. 1855-1886.
+JOH	Johnson, A.C., in press, The stable-continental-region earthquake data base, in  Coppersmith, K.J., and others, eds.Methods for accessing maximum earthquakes in the Central and Eastern United States:  Palo Alto, California, Electric Power Research Institute Project RP-2556-12.
+JON	Jones, A.E., 1975, Recording of earthquakes at Reno, 1916-1951:  Seismological Laboratory Bulletin, Mackay School of Mines-Nevada Bureau of Mines, University of Nevada-Reno, 199p.
+KA	Kanamori, Hiroo, and Anderson, D.L., 1975, Theoretical basis of some empirical relations in seismology:  Seismolgoical Society of America Bulletin, v. 65, no. 5, p. 1073-1075.
+KAN	Kanamori, Hiroo, 1977, The energy release in great earthquakes:  Journal of Geophysical Research, v. 82, no. 20, p. 2981-2987.
+KIR	Kiruna Seismograph Station, University of Uppsala, Sweden.
+KJ	Kanamori, Hiroo, and Jennings, P.C., 1978, Determination of local magnitude ML from strong-motion accelerograms:  Seismological Society of America Bulletin, v. 68, no. 2, p. 471-185.
+KRK	Kirkham, R.M., and Rogers, W.P., 1986, An interpretation of the November 7, 1882, Colorado, earthquake:  Colorado Geological Survey, Open-File Report 86-8, 36p.
+LB	Langston, C.A., and Blum, D.E., 1977, The April 29. 1865, Puget Sound earthquake and the crustal and upper mantle structure of western Washington Seismological Society of America Bulletin, v. 67, no. 3, p. 693-711.
+MAT	Matushiro Seismological Observatory, Japan Meteorological Agency, Matushiro, Japan.
+MH	Mori, Juim, and Hartzell, Stephen, 1990, Source inversion of the 1988 Upland, California, earthquake-Determination of a fault plane for a small event:  Seismological Society of America Bulletin, v. 80, no. 3, p. 507-518.
+MMT	Montana College of Mineral Sciences and Technology, Butte, Montana.
+MOS	Institute of Physics of the Earth of the U.S.S.R., Moscow.
+MSO	University of Montana, Missoula, Montana.
+NLI	Nuttli, O.W., 1983, Average seismic source-parameter relations for mid-plate earthquake:  Seismological Society of America Bulletin, v. 73, no. 2, p. 519-535.
+NMI	New Mexico Institute of Mining and Technology, Socorro, New Mexico.
+NQT	Noson, L.L., Qamar, A., and Thorsen, G.W., 1988, Washington State earthquake hazards:  Washington Division of Geology and Earth Resources, Information Circular 85, p. 22.
+NS	Natali, S.G., and Sbar, M.L., 1982, Seismicity in the epicenter region of the 1887 northeastern Sonoran earthquake, Mexico:  Seismological Society of America Bulletin, v. 72, no. 1, p. 181-196.
+NTI	Nuttli, O.W., 1974, Magnatude-recurrence relation for Central Mississippi valley earthquakes:  Seismological Society of America Bulletin, v. 64, no. 4, p. 1189-1207.
+NTL	Nuttli, O.W., 1987, The effects of earthquakes in the Central United States:  Central United States Earthquake Consortium, Monograph Series, v. 1, 33p.
+NTT	Nuttli, O.W., 1979, Seismicity of the Central United States, geology in the siting of nuclear power plants:  Geological Society of America, Reviews in Engineering Geology, v. 4, p. 67-107.
+NU	Nuttli, O.W. 1973, The Mississippi valley earthquakes of 1811 and 1812:  Intensities, ground motion, and magnitudes:  Seismological Society of America Bulletin, v. 63, no. 1, p. 227-248.
+NUT	Nuttli, O.W., Bollinger, G.a., and Griffiths, D.W., 1979, On the relation between Modified Mercalli intensity and body-wave magnitude:  Seismological Society of America Bulletin, v. 69, no. 3, p. 893-909.
+PAL	Lamont-Doherty Geological Observatory, Columbia University, Palisades, N.Y.
+PAS	Seismological Laboratory, California Institute of Technology, Pasadena, CA.
+PMR	Alaska Tsunami Warning Center, U.S. National Oceanic and Atmospheric Administration, Palmer, Alaska.
+PT	Plafker, G., and Thatcher, W., 1982, Geological and Geophysical evaluation of the great 1899-1900 Yakutat Bay, Alaska, earthquakes [abs.], in  Coppersmith, K.J., and Schwartz, D.P., eds.:  Chapman conference on fault behavior and the earthquake generation process, American Geophysical Union, p. 7. 
+QAM	Qamar, A., Rathburn, A., Ludwin, R., Crosson, R.S., and Malone, S.D., 1986, Earthquake hypocenters in Washington and Northern Oregon-1980:  Washington Division of Geology and Earth Resources, Information Circular 82, 64p.
+REN	Mackay School of Mines, University Nevada-Reno, Reno, Nevada.
+RIC	Richter, C.F., 1935, An instrumental earthquake magnitude scale:  Seismological Society of America Bulletin, v. 25, no. 1, p. 1-32.
+RK	Ruff, Larry, Kanamori, Hiroo, and Sykes, Lynn, 1985, The 1957 great Aleutian earthquake [abs.]:  EOS, Transactions, American Geophysical Union, v. 66, no. 18, p. 298.
+ROG	Rogers, G.C., 1983, Seismotectonics of British Columbia:  University of British Columbia, Canada, Phd. thesis, 247p.
+ROT	Rothe, J.P., 1969, The seismicity of the Earth:  Paris, United Nations Educational, Scientific, and Cultural Organization, 336p.
+SAN	Sanford, A.R., and Toppozada, T.R., 1974, Seismicity of proposed waste disposal site in southeastern New Mexico:  New Mexico Bureau of Mines and Mineral Resources, Circular 153, 15p.
+SAW	Scholz, C.H., Aviles, C.A., and Wesnousky, S.G., 1986, Scaling differences between large interplate and intraplate earthquakes:  Seismological Society of America Bulletin, v. 76, no. 1, p. 65-70.
+SC	Stover, Carl W., and Coffman, Jerry L., 1993a, Seismicity of the United States, 1568-1989 (Revised): U.S. Geological Survey Professional Paper 1527, 418 p.
+SEE	Street, R.L., 1982, A contribution to the documentation of the 1811-1812 Mississippi valley earthquake sequence:  Seismological Society of America, Eastern Section, Earthquake Notes, v. 51, no. 2, p. 39-52.
+SET	Street, R.L., 1989, Personal communication, letter dated July 5, 1989.
+SG	Street, R.L., and Green, R.F., 1984, The historical seismicity of Central United States, 1811-1928: University of Kentucky Research Foundation, Lexington, Ky., 550 p.
+SJG	Slemmons, D.B., Jones, A.E., and Gimlet, J.I., 1965, Catalog of Nevada earthquakes, 1852-1960:  Seismological Society of America Bulletin, v. 55, no. 2, p. 519-565.
+SLM	Saint Louis University, Saint Louis, MO.
+SOM	Somerville, P.G., McLaren, J.P., Lafevre, L.V., Berger, R.W., and Heimberger, H.V., 1987, Comparison of source scaling relations of Eastern and Western North American earthquakes:  Seismological Society of America Bulletin, v. 77, no. 2, p. 322-346.
+SR	Schell, M.M., and Ruff, L.J., 1986, Southeastern Alaska tectonics: Source process of the large 1972 Sitka earthquake [abs.]:  EOS, Transactions, American Geophysical Union, v. 67, p. 304-305.
+SRT	Street, R.L., 1984, Some recent Lg-phase displacement spectral densities and their implication with respect to the prediction of ground motions in Eastern North America:  Seismological Society of America Bulletin, v. 74, no. 2, p. 757-762.
+ST	Street, R.L., and Turcotte, F.T., 1977,  A study of northeastern North America Spectral moments, magnitudes, and intensities:  Seismological Society of America Bulletin, v. 67, no. 3, p. 599-614.
+STR	Street, R.L., 1967, Scaling Northeastern United States/Southeastern Canadian earthquakes by their Lg waves:  Seismological Society of America Bulletin, v. 66, no. 5, p. 1525-1537.
+STT	Street, R.L., Herrmann, R.B., and Nuttli, O.W., 1975, Special characteristics of the Lg wave generated by Central United States earthquakes:  Geophysical Journal of Royal Astronomical Society, v. 41, p. 51-63.
+SZ	Schwartz, S.Y., and Christensen, D.H., 1988, The 12 July 1986 St. Marys, Ohio, earthquake and recent seismicity in the Anna, Ohio, seismogenic zone:  Seismological Society of America, Eastern Section, Seismological Research Letters, v. 59, no. 2, p. 57-62.
+TAG	Taggart, James, and Baldwin, Frank, 1982, Earthquake sequence of 1938-1939 in Mogollen Mountains, New Mexico:  New Mexico Geology, v. 4, no. 4, p. 49-52.
+TEC	Center for Earthquake Research and Information, Memphis State University, Memphis, Tennessee.
+TH	Thatcher, W., and Hanks, T.C., 1973, Source parameters of southern California earthquakes:  Journal of Geophysical Research, v. 78, no. 35, p. 8547-8576.
+THH	Thatcher, W., Hileman, J.A., and Hanks, T.C.., 1975, Seismic slip distribution along the San Jacinto fault zone, southern California, and its implications:  Geological Society of America Bulletin, v. 86, p. 1140-1146.
+TUL	Oklahoma Geophysical Observatory, Oklahoma Geological Survey, Leonard, Oklahoma.
+TW	Thatcher, W., 1975, Strain accumulation and release mechanism of the 1906 San Francisco earthquake:  Journal of Geophysical Research, v. 80, no. 35, p 4862-4880.
+UH	University of Hawaii, Honolulu, Hawaii.
+UPP	Uppsala Seismograph Station, University of Uppsala, Sweden.
+UU	Seismograph Stations, University of Utah, Salt Lake City, Utah.
+VIC	Victoria Geophysical Observatory, Victoria, B.C., Canada.
+WAL	Wallace, R.E., 1984, Fault scarps formed during the earthquakes of October 2, 1915, in Pleasant Valley, Nevada and some tectonic implications, in  Faulting related to the 1915 earthquakes in Pleasant Valley, Nevada:  U.S. Geological Survey Professional Paper 1274-A, p. A1-A33.
+WAS	University of Washington, Seattle, Washington.
+WES	Weston Observatory, Boston College, Weston, Massachusetts.
+WK	Webb, T.H., and Kanamori, Hiroo, 1985, Earthquake focal mechanism in the Eastern Transverse Ranges and San Emigdio Mountains, southern California, and evidence for a regional decollement:  Seismological Society of America Bulletin, v. 75, no. 3, p 737-757.
+WOO	Wood, H.O., 1947, Earthquakes in southern California with geologic relations:  Seismological Society of America Bulletin. v. 37, no. 3, p. 217-258.
+WY	Wyss, Max, and Koyanagi, Robert, in press, Isoseismal maps, macroseismic epicenters and estimated magnitudes of historical earthquakes in the Hawaiian Islands:  U.S. Geological Survey Bulletin.
+WYS	Wyss, Max, and Brune, J.N., 1968, Seismic moment, stress, and source dimensions for earthquakes in the California-Nevada region:  Journal of Geophysical Research, v. 73, no. 4, p. 4681-1694.
+YEL	Yellin, Tom, 1991, University of Washington, personal communication.
+YP	Yellin, T.S., and Patton, H.J., 1991, Seismotectonics of the Portland, Oregon, region:  Seismological Society of America Bulletin, v. 81, no. 1, p. 109-130.

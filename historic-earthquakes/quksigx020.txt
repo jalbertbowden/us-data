@@ -1,0 +1,979 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: U.S. Geological Survey
+        Publication_Date: 201007
+        Title: Significant United States Earthquakes, 1568-2009
+        Publication_Information:
+          Publication_Place: Reston, VA
+          Publisher: National Atlas of the United States
+        Online_Linkage: <http://nationalatlas.gov/atlasftp.html?openChapters=chpgeol#chpgeol>
+
+    Description:
+      Abstract:
+        This map layer contains the locations and attributes of significant,
+        historic earthquakes that caused deaths, property damage, and geological
+        effects, or were otherwise experienced by populations in the United
+        States, Puerto Rico, and U.S. Virgin Islands.  Included are earthquakes
+        located in the United States as well as some that occurred in adjacent
+        portions of Canada and Mexico.  The main sources for the data are
+        Seismicity of the United States, 1568-1989 and the Preliminary
+        Determination of Epicenters for 1990 to August 2009.  This is a
+        replacement for the January 2005 map layer.
+
+      Purpose:
+        These data are intended for geographic display and analysis at the
+        national level, and for large regional areas.  The data should be
+        displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
+        No responsibility is assumed by the National Atlas of the United States
+        or the U.S. Geological Survey in the use of these data.  This map layer is
+        intended for a mixed audience of specialists and non-specialists alike who
+        have a need for general, non-technical information about significant
+        United States earthquakes.
+
+      Supplemental_Information:
+        Provided with the downloadable files is a text file,
+        quksigx_references.txt, which contains the reference information for
+        earthquake magnitudes listed in the data.
+
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Range_of_Dates/Times:
+          Beginning_Date: 15680101
+          Ending_Date: 20090818
+      Currentness_Reference: Ground condition
+
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: As needed
+
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: 143
+        East_Bounding_Coordinate: -60
+        North_Bounding_Coordinate: 65
+        South_Bounding_Coordinate: 10
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: environment
+        Theme_Keyword: geoscientificInformation
+
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: Earthquakes
+        Theme_Keyword: Seismic events
+        Theme_Keyword: Magnitude
+        Theme_Keyword: Body wave magnitude
+        Theme_Keyword: Surface wave magnitude
+        Theme_Keyword: Modified Mercalli Intensity Scale
+
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of
+          Special Sovereignty, and Their Principal Administrative Divisions
+          (Federal Information Processing Standard 10-4): Washington, DC,
+          National Institute of Standards and Technology.
+        Place_Keyword: United States
+        Place_Keyword: Canada
+        Place_Keyword: Mexico
+      Place:
+        Place_Keyword_Thesaurus: None
+        Place_Keyword: USA
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce, 1987, Codes for the Identification of the
+          States, the District of Columbia and the Outlying Areas of The United
+          States, and Associated Areas (Federal Processing Standard 5-2):
+          Washington, DC, National Institute of Standards and Technology.
+        Place_Keyword: Alabama
+        Place_Keyword: Alaska
+        Place_Keyword: Arizona
+        Place_Keyword: Arkansas
+        Place_Keyword: California
+        Place_Keyword: Colorado
+        Place_Keyword: Connecticut
+        Place_Keyword: Delaware
+        Place_Keyword: District of Columbia
+        Place_Keyword: Florida
+        Place_Keyword: Georgia
+        Place_Keyword: Hawaii
+        Place_Keyword: Idaho
+        Place_Keyword: Illinois
+        Place_Keyword: Indiana
+        Place_Keyword: Iowa
+        Place_Keyword: Kansas
+        Place_Keyword: Kentucky
+        Place_Keyword: Louisiana
+        Place_Keyword: Maine
+        Place_Keyword: Maryland
+        Place_Keyword: Massachusetts
+        Place_Keyword: Michigan
+        Place_Keyword: Minnesota
+        Place_Keyword: Mississippi
+        Place_Keyword: Missouri
+        Place_Keyword: Montana
+        Place_Keyword: Nebraska
+        Place_Keyword: Nevada
+        Place_Keyword: New Hampshire
+        Place_Keyword: New Jersey
+        Place_Keyword: New Mexico
+        Place_Keyword: New York
+        Place_Keyword: North Carolina
+        Place_Keyword: North Dakota
+        Place_Keyword: Ohio
+        Place_Keyword: Oklahoma
+        Place_Keyword: Oregon
+        Place_Keyword: Pennsylvania
+        Place_Keyword: Rhode Island
+        Place_Keyword: South Carolina
+        Place_Keyword: South Dakota
+        Place_Keyword: Tennessee
+        Place_Keyword: Texas
+        Place_Keyword: Utah
+        Place_Keyword: Vermont
+        Place_Keyword: Virginia
+        Place_Keyword: Washington
+        Place_Keyword: West Virginia
+        Place_Keyword: Wisconsin
+        Place_Keyword: Wyoming
+        Place_Keyword: Puerto Rico
+        Place_Keyword: Virgin Islands
+        Place_Keyword: U.S. Virgin Islands
+        Place_Keyword: Guam
+        Place_Keyword: Northern Mariana Islands
+
+    Access_Constraints: None
+    Use_Constraints:
+      None.  Acknowledgment of the National Atlas of the United States of America
+      and (or) the U.S. Geological Survey would be appreciated in products derived
+      from these data.
+
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Margaret G. Hopper
+          Contact_Organization: U.S. Geological Survey
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: MS966, Box 25046, Denver Federal Center
+          City: Denver
+          State_or_Province: CO
+          Postal_Code: 80225-0046
+          Country: USA
+        Contact_Voice_Telephone: 303-273-8564
+        Contact_Facsimile_Telephone: 303-273-8600
+        Contact_Electronic_Mail_Address: hopper@usgs.gov
+
+    Data_Set_Credit:
+      The following U.S. Geological Survey scientists contributed to this
+      map layer: A. Tarr, M. Hopper, J. Dewey, M. McKeever, and N. Trevor.
+
+  Data_Quality_Information:
+    Attribute_Accuracy:
+      Attribute_Accuracy_Report:
+        The attribute table was manually checked for unreasonable attribute values
+        for depth and magnitude.
+    Logical_Consistency_Report:
+      No formal tests for logical consistency were performed on this map layer,
+      principally because the map layer contains attribute values that were
+      arrived at by either or both quantitative (i.e. instrumental) and
+      qualitative (i.e. historical) methods.  Earthquakes that occurred prior to
+      the introduction of seismological instrumentation are known only from
+      written records, such as newspapers, books and journals, and diaries, which
+      often may provide contradictory information that has to be carefully
+      examined and weighed.  As seismographs became more common in the early
+      1960's, the origin time and location were both more precisely and accurately
+      determined but the compilation and evaluation of intensity reports was, and
+      still is, a process that involves considerable subjectivity.  As a result,
+      all attributes associated with a given earthquake should be considered
+      provisional and subject to further revision based on acquisition of new
+      information and use of new analytical methods.
+    Completeness_Report:
+      This map layer contains information on significant, historical earthquakes
+      that caused deaths, property damage, geological effects, or that were
+      experienced by populations in the epicentral area, for the United States,
+      Puerto Rico, the U.S. Virgin Islands, Guam, and the Northern Mariana
+      Islands.  These data are limited to the best estimates of earthquake
+      locations and to attributes such as magnitude and maximum intensity.
+
+    Positional_Accuracy:
+      Horizontal_Positional_Accuracy:
+        Horizontal_Positional_Accuracy_Report:
+          100 meter is the nominal precision of the reported instrumentally
+          located coordinate values but accuracy is considerably less.  Accuracy
+          depends upon numerous factors including imprecision of the velocity
+          model of the earth, uneven distribution of seismic stations, and
+          imprecisions in the computational algorithm.  Following initial
+          proofreading of the input data file, a preliminary map of the locations
+          of the earthquakes was produced which was examined for gross errors in
+          spatial location.
+      Vertical_Positional_Accuracy:
+        Vertical_Positional_Accuracy_Report:
+          Although depths are reported to the nearest 1 kilometer, the accuracy is
+          considerably less owing to uncertainties in the velocity model of the
+          Earth, uneven distribution of seismic stations, and imprecisions in the
+          computational algorithm.
+
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: Stover, Carl W.
+            Originator: Coffman, Jerry L.
+            Publication_Date: 1993
+            Title: Seismicity of the United States, 1568-1989 (Revised)
+            Edition: 1
+            Online_Linkage: <http://neic.usgs.gov/neis/epic/>
+            Series_Information:
+              Series_Name: Professional Paper
+              Issue_Identification: 1527
+            Publication_Information:
+              Publication_Place: Washington, DC
+              Publisher: U.S. Geological Survey
+        Type_of_Source_Media: Paper
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Range_of_Dates/Times:
+              Beginning_Date: 1568
+              Ending_Date: 1989
+          Source_Currentness_Reference: Ground condition
+        Source_Citation_Abbreviation: Seismicity of the United States
+        Source_Contribution: Principal source of earthquake locations and attributes.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: 200908
+            Title: Preliminary Determination of Epicenters (PDE)
+            Online_Linkage: <http://neic.usgs.gov/neis/epic/>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Range_of_Dates/Times:
+              Beginning_Date: 1973
+              Ending_Date: 200908
+          Source_Currentness_Reference: Ground condition
+        Source_Citation_Abbreviation: PDE
+        Source_Contribution: Supplemental source of earthquake locations and attributes.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: J.L. Coffman (ed.)
+            Originator: C.A. von Hake (ed.)
+            Originator: C.W. Stover (ed.)
+            Publication_Date: 1982
+            Title: Earthquake History of the United States
+            Publication_Information:
+              Publication_Place: Boulder, CO
+              Publisher:
+                National Oceanic and Atmospheric Administration and U.S.
+                Geological Survey
+        Type_of_Source_Media: Paper
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Range_of_Dates/Times:
+              Beginning_Date: 1638
+              Ending_Date: 1980
+          Source_Currentness_Reference: Ground condition
+        Source_Citation_Abbreviation: EHUS1982
+        Source_Contribution: Supplemental source of earthquake locations and attributes.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: J.G. Tanner
+            Originator: J.B. Shepherd
+            Publication_Date: 1997
+            Title:
+              Project catalogue and seismic hazard maps, Seismic hazard in Latin
+              America and the Caribbean
+            Online_Linkage: <http://midas.uprm.edu>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 1997
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: MIDAS-IPGH
+        Source_Contribution: Supplemental source of earthquake locations and attributes.
+
+      Process_Step:
+        Process_Description:
+          Data for the years 1568 to 1989, from Seismicity of the United States,
+          were combined with Preliminary Determination of Epicenters data for 1990
+          to 2009.  EHUS1982 and MIDAS-IPGH were used to compile information for
+          additional locations or for years not covered by the other sources.  The
+          resulting text file was loaded into ArcView and converted to a
+          shapefile.  Three records for Puerto Rico were dropped because they did
+          not include values for longitude and latitude.
+        Source_Used_Citation_Abbreviation: Seismicity of the United States
+        Source_Used_Citation_Abbreviation: PDE
+        Source_Used_Citation_Abbreviation: EHUS1982
+        Source_Used_Citation_Abbreviation: MIDAS-IPGH
+        Process_Date: 201006
+
+  Spatial_Data_Organization_Information:
+    Indirect_Spatial_Reference:
+      U.S. Department of Commerce, 1987, Codes for the Identification of the
+      States, the District of Columbia and the Outlying Areas of The United
+      States, and Associated Areas (Federal Information Processing Standard 5-2):
+      Washington, DC, National Institute of Standards and Technology.
+
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Geographic:
+        Latitude_Resolution: 0.000278
+        Longitude_Resolution: 0.000278
+        Geographic_Coordinate_Units: Decimal degrees
+      Geodetic_Model:
+        Horizontal_Datum_Name: North American Datum of 1983
+        Ellipsoid_Name: GRS1980
+        Semi-major_Axis: 6378137.0
+        Denominator_of_Flattening_Ratio: 298.257222
+
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Significant United States Earthquakes (described by Quksigx020.dbf)
+        Entity_Type_Definition:
+          Earthquakes within or near to the United States that caused deaths,
+          property damage, or geological effects, or that were experienced by
+          populations in the epicentral area.  These events occurred between 1568
+          and August 2009.
+        Entity_Type_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Shape
+        Attribute_Definition: The representation of the entity in the data.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Point
+            Enumerated_Domain_Value_Definition: 0-dimensional element
+            Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+      Attribute:
+        Attribute_Label: Quksigx020
+        Attribute_Definition: Internal feature number.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 5387
+      Attribute:
+        Attribute_Label: Quake_id
+        Attribute_Definition: Internal feature number.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 5390
+      Attribute:
+        Attribute_Label: Year
+        Attribute_Definition: The year when the earthquake occurred.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1568
+            Range_Domain_Maximum: 2009
+      Attribute:
+        Attribute_Label: Month
+        Attribute_Definition: The month when the earthquake occurred.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 12
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: The month of the event is unknown.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Day
+        Attribute_Definition: The day when the earthquake occurred.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 31
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: The day of the event is unknown.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Hour
+        Attribute_Definition:
+          The GMT hour of the day when the earthquake occurred, on a 24-hour
+          clock.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 23
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: The hour of the event is unknown.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Minute
+        Attribute_Definition: The minute of the hour when the earthquake occurred.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 59
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: The minute of the event is unknown.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Second
+        Attribute_Definition: The second of the minute when the earthquake occurred.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.010
+            Range_Domain_Maximum: 59.970
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999.000
+            Enumerated_Domain_Value_Definition: The second of the event is unknown.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Location
+        Attribute_Definition:
+          The name of the town, city, physical feature, or other describable
+          location near to the earthquake event.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: There is no predefined set of valid location names.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: <Blank>
+            Enumerated_Domain_Value_Definition: No location description is available.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Longitude
+        Attribute_Definition: The longitude of earthquake's epicenter in decimal degrees.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: -179.990
+            Range_Domain_Maximum: 180.000
+      Attribute:
+        Attribute_Label: Latitude
+        Attribute_Definition: The latitude of earthquake's epicenter in decimal degrees.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 12.686
+            Range_Domain_Maximum: 68.689
+      Attribute:
+        Attribute_Label: Depth_km
+        Attribute_Definition:
+          The depth of earthquake's focus in kilometers.  A value of 0 may
+          indicate the depth is unknown.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 274
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: The depth is unknown.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Mb_gs
+        Attribute_Definition:
+          The body wave magnitude of the earthquake as reported by the U.S.
+          Geological Survey.  A body wave is a seismic wave that travels through
+          the Earth's inner layers.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 3.400
+            Range_Domain_Maximum: 7.000
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999.000
+            Enumerated_Domain_Value_Definition: The body wave magnitude is unknown.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Ms_gs
+        Attribute_Definition:
+          The surface wave magnitude of the earthquake as reported by the U.S.
+          Geological Survey.  A surface wave is a seismic wave that travels along
+          the Earth's surface.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 3.100
+            Range_Domain_Maximum: 8.500
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999.000
+            Enumerated_Domain_Value_Definition: The surface wave magnitude is unknown.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Other_mag1
+        Attribute_Definition:
+          The magnitude of the earthquake as reported by the source identified in
+          Ref1.  The type of magnitude is described by the attribute Type1.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 2.080
+            Range_Domain_Maximum: 9.240
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999.000
+            Enumerated_Domain_Value_Definition: No additional magnitude measurement is available.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Type1
+        Attribute_Definition:
+          The type of magnitude recorded in the attribute Other_mag1, as defined
+          by the source identified in Ref1.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: FA
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag1 is an estimated body wave
+              magnitude.  It is commonly computed from the felt area for
+              earthquakes which occurred before seismic instruments were in
+              general use.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: MD
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag1 is based on the duration or coda
+              length of the earthquake vibration.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: ML
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag1 is the local magnitude, which is
+              also known as the original "Richter" magnitude.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: MW
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag1 is the moment magnitude.  It is
+              the measure of total energy released by an earthquake.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Mn
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag1 is the local or regional
+              magnitude.  It is the body wave magnitude using the Lg wave.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Ms
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag1 is the surface wave magnitude.  A
+              surface wave is a seismic wave that travels along the Earth's
+              surface.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Mw
+            Enumerated_Domain_Value_Definition: The magnitude given in Other_mag1 is the moment magnitude.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: UK
+            Enumerated_Domain_Value_Definition: The magnitude type for the magnitude given in Other_mag1 is unknown.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: mb
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag1 is the body wave magnitude.  A
+              body wave is a seismic wave that travels through the Earth's inner
+              layers.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: mbLg
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag1 is the local or regional
+              magnitude.  It is the body wave magnitude using the Lg wave.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: <Blank>
+            Enumerated_Domain_Value_Definition:
+              The type of magnitude given in Other_mag1 is unknown.  The value
+              came from Coffman, Jerry L., and von Hake, Carl A., 1973,
+              Earthquake History of the United States:  U.S. Dept. of Commerce,
+              National Oceanic and Atmospheric Administration, Publication 41-1,
+              Revised Edition (Through 1970).
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Ref1
+        Attribute_Definition:
+          A code identifying the source for the magnitude given in Other_mag1.
+          The list of sources is provided in the text file quksigx_references.txt.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: There is no predefined set of valid reference codes.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: <Blank>
+            Enumerated_Domain_Value_Definition: No reference information is available.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+
+      Attribute:
+        Attribute_Label: Other_mag2
+        Attribute_Definition:
+          The magnitude of the earthquake as reported by the source identified in
+          Ref2.  The type of magnitude is described by the attribute Type2.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 2.900
+            Range_Domain_Maximum: 8.400
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999.000
+            Enumerated_Domain_Value_Definition: No additional magnitude measurement is available.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Type2
+        Attribute_Definition:
+          The type of magnitude recorded in the attribute Other_mag2, as defined
+          by the source identified in Ref2.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: FA
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag2 is an estimated body wave
+              magnitude.  It is commonly computed from the felt area for
+              earthquakes which occurred before seismic instruments were in
+              general use.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: MD
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag2 is based on the duration or coda
+              length of the earthquake vibration.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: ME
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag2 is the energy magnitude which is
+              the radiated energy of the earthquake.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: ML
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag2 is the local magnitude, which is
+              also known as the original "Richter" magnitude.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: MW
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag2 is the moment magnitude.  It is
+              the measure of total energy released by an earthquake.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Mn
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag2 is the local or regional
+              magnitude.  It is the body wave magnitude using the Lg wave.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Ms
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag2 is the surface wave magnitude.  A
+              surface wave is a seismic wave that travels along the Earth's
+              surface.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Mw
+            Enumerated_Domain_Value_Definition: The magnitude given in Other_mag2 is the moment magnitude.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: UK
+            Enumerated_Domain_Value_Definition: The magnitude type for the magnitude given in Other_mag2 is unknown.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: mb
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag2 is the body wave magnitude. A body
+              wave is a seismic wave that travels through the Earth's inner
+              layers.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: mbLg
+            Enumerated_Domain_Value_Definition:
+              The magnitude given in Other_mag2 is the local or regional
+              magnitude.  It is the body wave magnitude using the Lg wave.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: <Blank>
+            Enumerated_Domain_Value_Definition:
+              The type of magnitude given in Other_mag2 is unknown.  The value
+              came from Coffman, Jerry L., and von Hake, Carl A., 1973,
+              Earthquake History of the United States:  U.S. Dept. of Commerce,
+              National Oceanic and Atmospheric Administration, Publication 41-1,
+              Revised Edition (Through 1970).
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Ref2
+        Attribute_Definition:
+          A code identifying the source for the magnitude given in Other_mag2.
+          The list of sources is provided in the text file quksigx_references.txt.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: There is no predefined set of valid references.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: <Blank>
+            Enumerated_Domain_Value_Definition: No reference information is available
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Mmio
+        Attribute_Definition:
+          Modified Mercalli Intensity (MMI), where the integer value represents
+          the Roman numeral designation of the MMI intensity.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: F
+            Enumerated_Domain_Value_Definition:
+              The earthquake was felt but no Modified Mercalli Intensity was
+              assigned.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 2
+            Enumerated_Domain_Value_Definition:
+              An earthquake felt only by a few persons at rest, especially on
+              upper floors of buildings.  Delicately suspended objects may swing.
+            Enumerated_Domain_Value_Definition_Source: <http://neic.usgs.gov/neis/epic/mm_scale.html>
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 3
+            Enumerated_Domain_Value_Definition:
+              An earthquake felt quite noticeably by persons indoors, especially
+              on upper floors of buildings.  Many people do not recognize it as an
+              earthquake.  Standing motor cars may rock slightly.  Vibration
+              similar to the passing of a truck.  Duration estimated in some
+              cases.
+            Enumerated_Domain_Value_Definition_Source: <http://neic.usgs.gov/neis/epic/mm_scale.html>
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 4
+            Enumerated_Domain_Value_Definition:
+              An earthquake felt indoors by many, outdoors by few during the day.
+              At night, some awakened.  Dishes, windows, doors disturbed; walls
+              make cracking sound.  Sensation like heavy truck striking building.
+              Standing motor cars rocked noticeably.
+            Enumerated_Domain_Value_Definition_Source: <http://neic.usgs.gov/neis/epic/mm_scale.html>
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 5
+            Enumerated_Domain_Value_Definition:
+              An earthquake felt by nearly everyone; many awakened.  Some dishes,
+              windows broken.  Unstable objects overturned.  Pendulum clocks may
+              stop.
+            Enumerated_Domain_Value_Definition_Source: <http://neic.usgs.gov/neis/epic/mm_scale.html>
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 6
+            Enumerated_Domain_Value_Definition:
+              An earthquake felt by all; many frightened.  Some heavy furniture
+              moved; a few instances of fallen plaster.  Damage slight.
+            Enumerated_Domain_Value_Definition_Source: <http://neic.usgs.gov/neis/epic/mm_scale.html>
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 7
+            Enumerated_Domain_Value_Definition:
+              An earthquake causing negligible damage in buildings of good design
+              and construction; slight to moderate in well-built ordinary
+              structures; considerable damage in poorly built or badly designed
+              structures; some chimneys broken.  Noticed by persons driving motor
+              cars.
+            Enumerated_Domain_Value_Definition_Source: <http://neic.usgs.gov/neis/epic/mm_scale.html>
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 8
+            Enumerated_Domain_Value_Definition:
+              An earthquake causing slight damage in specially designed
+              structures; considerable in ordinary substantial buildings with
+              partial collapse.  Damage great in poorly built structures.  Fall of
+              chimneys, factory stacks, columns, monuments, walls.  Heavy
+              furniture overturned.
+            Enumerated_Domain_Value_Definition_Source: <http://neic.usgs.gov/neis/epic/mm_scale.html>
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 9
+            Enumerated_Domain_Value_Definition:
+              An earthquake causing considerable damage in specially designed
+              structures; well-designed frame structures thrown out of plumb.
+              Damage great in substantial buildings, with partial collapse.
+              Buildings shifted off foundations.
+            Enumerated_Domain_Value_Definition_Source: <http://neic.usgs.gov/neis/epic/mm_scale.html>
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 10
+            Enumerated_Domain_Value_Definition:
+              An earthquaking causing destruction of some well-built wooden
+              structures; most masonry and frame structures destroyed with
+              foundations.  Railroad rails bent.
+            Enumerated_Domain_Value_Definition_Source: <http://neic.usgs.gov/neis/epic/mm_scale.html>
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 11
+            Enumerated_Domain_Value_Definition:
+              An earthquake where few, if any (masonry) structures remain
+              standing.  Bridges destroyed.  Railroad rails bent greatly.
+            Enumerated_Domain_Value_Definition_Source: <http://neic.usgs.gov/neis/epic/mm_scale.html>
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 12
+            Enumerated_Domain_Value_Definition:
+              An earthquake where damage is total.  Lines of sight and level
+              distorted.  Objects thrown into the air.
+            Enumerated_Domain_Value_Definition_Source: <http://neic.usgs.gov/neis/epic/mm_scale.html>
+      Attribute:
+        Attribute_Label: Felt_area
+        Attribute_Definition: The area, in square kilometers, in which the earthquake was felt.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: <1,000
+            Range_Domain_Maximum: 5,000,000
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: <Blank>
+            Enumerated_Domain_Value_Definition: The area in which the earthquake was felt is unknown.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Source
+        Attribute_Definition: The primary source of the earthquake information.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: EHUS1982
+            Enumerated_Domain_Value_Definition:
+              Coffman, J.L., von Hake, C.A., and Stover, C.W., 1982, Earthquake
+              History of the United States:  U.S. National Oceanic and Atmospheric
+              Administration and U.S. Geological Survey, Publication No. 41-1,
+              revised edition, [through 1980], 258p.
+            Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: MIDAS-IPGH
+            Enumerated_Domain_Value_Definition:
+              Tanner, J.G. and Shepherd, J.B., 1997, Project catalogue and seismic
+              hazard maps, Seismic hazard in Latin America and the Caribbean:
+              Panamerican Institute of Geography and History, v. 1, 143 p.
+            Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: PDE
+            Enumerated_Domain_Value_Definition:
+              Preliminary Determination of Epicenters, a list of earthquakes
+              located by the National Earthquake Information Center of the U.S.
+              Geological Survey and its predecessors in the U.S. Coast and
+              Geodetic Survey, the National Oceanic Survey, and the Environmental
+              Research Laboratories of the Department of Commerce.  The PDE is
+              comprised of final hypocenter and magnitude computations by the USGS
+              NEIC published in monthly lists several months after the events.
+            Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: SUS
+            Enumerated_Domain_Value_Definition:
+              Stover, Carl W., and Coffman, Jerry L., 1993a, Seismicity of the
+              United States, 1568-1989 (Revised):  U.S. Geological Survey
+              Professional Paper 1527, 418 p.
+            Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: Earth Science Information Center, U.S. Geological Survey
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: 507 National Center
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Voice_Telephone: 703-648-5920
+        Contact_Instructions:
+          In addition to the address above there are other ESIC offices throughout
+          the country.  A full list of these offices is at
+          <http://ask.usgs.gov/esic_index.html>.
+
+    Distribution_Liability:
+      Although these data have been processed successfully on a computer system at
+      the U.S. Geological Survey, no warranty expressed or implied is made by the
+      U.S. Geological Survey regarding the utility of the data on any other
+      system, nor shall the act of distribution constitute any such warranty.  No
+      responsibility is assumed by the U.S. Geological Survey in the use of these
+      data.
+
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: ESRI Shapefile
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html?openChapters=chpgeol#chpgeol>
+      
+      Fees: There is no charge for the map layer.
+
+  Metadata_Reference_Information:
+    Metadata_Date: 20100707
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Terry Higgins	
+          Contact_Organization: National Atlas of the United States
+        Contact_Address:
+          Address_Type: Mailing and physical address
+          Address: 1400 Independence Road
+          Address: MS 760
+          City: Rolla
+          State_or_Province: MO
+          Postal_Code: 65401
+          Country: USA
+        Contact_Voice_Telephone: 573-308-3592
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+    Metadata_Standard_Name: FGDC Content Standard For Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Security_Information:
+      Metadata_Security_Classification_System: None
+      Metadata_Security_Classification: Unclassified
+      Metadata_Security_Handling_Description: None
