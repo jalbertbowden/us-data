@@ -1,0 +1,715 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+  <title>Ports of the United States</title>
+  <link rel="schema.dc" href="http://purl.org/metadata/dublin_core"/>
+  <meta name="dc.title" content="Ports of the United States "/>
+  <meta name="dc.creator" content="National Atlas of the United States "/>
+  <meta name="dc.subject" content="Transportation "/>
+  <meta name="dc.description" content="This map layer shows major ports in the United States, Puerto Rico, and the U.S. Virgin Islands.  A port is a city, town, or urban area with a harbor where ships load or unload.  This is a revised version of the July 2012 map layer. "/>
+  <meta name="dc.publisher" content="National Atlas of the United States"/>
+  <meta name="dc.date" content="201303"/>
+  <meta name="dc.type" content="data.Vector digital data"/>
+  <meta name="dc.format" content="ESRI Shapefile"/>
+  <meta name="dc.format" content="ESRI File Geodatabase"/>
+  <meta name="dc.format" content="Web Map Service (WMS)"/>
+  <meta name="dc.identifier" content="&lt;http://nationalatlas.gov/atlasftp-1m.html&gt;"/>
+  <meta name="dc.lang" content="en"/>
+  <meta name="dc.coverage.x.min" scheme="DD" content="-167"/>
+  <meta name="dc.coverage.x.max" scheme="DD" content="-64"/>
+  <meta name="dc.coverage.y.min" scheme="DD" content="17"/>
+  <meta name="dc.coverage.y.max" scheme="DD" content="68"/>
+  <meta name="dc.coverage.placeName" content="United States"/>
+  <meta name="dc.rights" content="Access constraints: None; Use constraints: None.  Acknowledgment of The National Atlas of the United States of America would be appreciated in"/>
+  <meta name="generated-from" content="c:/usgs/1million/ports/ports_x010g.txt"/>
+</head>
+<body>
+<h1>Ports of the United States</h1>
+Metadata also available as<p>
+<h4>Frequently anticipated questions:</h4>
+<ul>
+  <li><a href="#what">What does this data set describe?</a>
+    <ol>
+      <li><a href="#what.1">How should this data set be cited?</a></li>
+      <li><a href="#what.2">What geographic area does the data set cover?</a></li>
+      <li><a href="#what.3">What does it look like?</a></li>
+      <li><a href="#what.4">Does the data set describe conditions during a particular time period?</a></li>
+      <li><a href="#what.5">What is the general form of this data set?</a></li>
+      <li><a href="#what.6">How does the data set represent geographic features?</a></li>
+      <li><a href="#what.7">How does the data set describe geographic features?</a></li>
+    </ol>
+  </li>
+  <li><a href="#who">Who produced the data set?</a>
+    <ol>
+      <li><a href="#who.1">Who are the originators of the data set?</a></li>
+      <li><a href="#who.2">Who also contributed to the data set?</a></li>
+      <li><a href="#who.3">To whom should users address questions about the data?</a></li>
+    </ol>
+  </li>
+  <li><a href="#why">Why was the data set created?</a></li>
+  <li><a href="#how">How was the data set created?</a>
+    <ol>
+      <li><a href="#how.1">From what previous works were the data drawn?</a></li>
+      <li><a href="#how.2">How were the data generated, processed, and modified?</a></li>
+      <li><a href="#how.3">What similar or related data should the user be aware of?</a></li>
+    </ol>
+  </li>
+  <li><a href="#quality">How reliable are the data; what problems remain in the data set?</a>
+    <ol>
+      <li><a href="#quality.1">How well have the observations been checked?</a></li>
+      <li><a href="#quality.2">How accurate are the geographic locations?</a></li>
+      <li><a href="#quality.3">How accurate are the heights or depths?</a></li>
+      <li><a href="#quality.4">Where are the gaps in the data?  What is missing?</a></li>
+      <li><a href="#quality.5">How consistent are the relationships among the data, including topology?</a></li>
+    </ol>
+  </li>
+  <li><a href="#getacopy">How can someone get a copy of the data set?</a>
+    <ol>
+      <li><a href="#getacopy.0">Are there legal restrictions on access or use of the data?</a></li>
+      <li><a href="#getacopy.1">Who distributes the data?</a></li>
+      <li><a href="#getacopy.2">What's the catalog number I need to order this data set?</a></li>
+      <li><a href="#getacopy.3">What legal disclaimers am I supposed to read?</a></li>
+      <li><a href="#getacopy.4">How can I download or order the data?</a></li>
+    </ol>
+  </li>
+  <li><a href="#metaref">Who wrote the metadata?</a></li>
+</ul>
+<hr/>
+<h3><a name="what">What does this data set describe?</a></h3>
+<div style="margin-left: 2em">
+<dl>
+<dt><em>Title:</em>  Ports of the United States</dt>
+<dt><em>Abstract:</em>  
+<dd>
+
+This map layer shows major ports in the United States, Puerto Rico, and the U.S. Virgin Islands.  A
+port is a city, town, or urban area with a harbor where ships load or unload.  This is a revised
+version of the July 2012 map layer.
+
+</dd>
+<dt><em>Supplemental_Information:</em>  
+<dd>
+
+Information about National Atlas Web services can be found on the Web Map and Web Feature Services
+page; see &lt;<a href="http://nationalatlas.gov/infodocs/webservices.html">http://nationalatlas.gov/infodocs/webservices.html</a>&gt;.
+
+</dd>
+</dl>
+</div>
+<ol>
+<li><a name="what.1"><b>How should this data set be cited?</b></a><p>
+<blockquote>
+National Atlas of the United States, 201303, Ports of the United States: National Atlas of the United States, Rolla, MO.<p>
+Online Links:
+<ul>
+<li>&lt;<a href="http://nationalatlas.gov/atlasftp-1m.html">http://nationalatlas.gov/atlasftp-1m.html</a>&gt;
+</ul>
+<p>
+</blockquote>
+<p>
+</li>
+<li><a name="what.2"><b>What geographic area does the data set cover?</b></a><p>
+<dl>
+<dt><em>West_Bounding_Coordinate:</em>  -167</dt>
+<dt><em>East_Bounding_Coordinate:</em>  -64</dt>
+<dt><em>North_Bounding_Coordinate:</em>  68</dt>
+<dt><em>South_Bounding_Coordinate:</em>  17</dt>
+</dl>
+<p>
+</li>
+<li><a name="what.3"><b>What does it look like?</b></a><p>
+<p>
+</li>
+<li><a name="what.4"><b>Does the data set describe conditions during a particular time period?</b></a><p>
+<dl>
+<dt>Calendar_Date: Mar-2013<dt><em>Currentness_Reference:</em>  Publication date</dt>
+</dl>
+<p>
+</li>
+<li><a name="what.5"><b>What is the general form of this data set?</b></a><p>
+<dl>
+<dt><em>Geospatial_Data_Presentation_Form:</em>  Vector digital data</dt>
+</dl>
+<p>
+</li>
+<li><a name="what.6"><b>How does the data set represent geographic features?</b></a><p>
+<ol type="a">
+<li><a name="what.6.a"><b>How are geographic features stored in the data set?</b></a><p>
+This is a Vector data set.
+It contains the following vector data types (SDTS terminology):
+<ul>
+<li>Entity point (192)
+</ul>
+<p>
+</li>
+<li><a name="what.6.b"><b>What coordinate system is used to represent geographic features?</b></a><p>
+Horizontal positions are specified in geographic coordinates, that is, latitude and longitude.
+Latitudes are given to the nearest 0.000278.
+Longitudes are given to the nearest 0.000278.
+Latitude and longitude values are specified in Decimal degrees.
+<p>
+The horizontal datum used is North American Datum of 1983.<br/>
+The ellipsoid used is GRS1980.<br/>
+The semi-major axis of the ellipsoid used is 6378137.<br/>
+The flattening of the ellipsoid used is 1/298.257222.<br/>
+<p>
+</li>
+</ol>
+<p>
+</li>
+<li><a name="what.7"><b>How does the data set describe geographic features?</b></a><p>
+<dl>
+<dt><b><tt>Port</tt></b><dd>A city, town, or urban area with a harbor where ships load or unload.
+  (Source: National Atlas of the United States)
+<p>
+<dl>
+<dt><b><tt>Shape</tt></b><dd>The representation of the entity in the data.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">Point</td><td>0-dimensional element.
+</td></tr>
+</table>
+<p>
+<dt><b><tt>Name</tt></b><dd>The name of the port.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<em>
+There is no predefined set of valid port names.
+</em>
+<p>
+<dt><b><tt>Waterway</tt></b><dd>The waterway on which the port is located.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<em>
+There is no predefined set of waterways.
+</em>
+<p>
+<dt><b><tt>State</tt></b><dd>The 2-character FIPS code of the State or State equivalent in which the station is located.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Formal codeset</th></tr>
+<tr><th>Codeset Name:</th><td>Codes for the Identification of the States, the District of Columbia and the Outlying Areas of the United States, and Associated Areas; FIPS 5-2.</td></tr>
+<tr><th>Codeset Source:</th><td>U.S. Department of Commerce, National Institute of Standards and Technology</td></tr>
+</table>
+<p>
+<dt><b><tt>State_fips</tt></b><dd>The 2-digit FIPS code of the State or State equivalent.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Formal codeset</th></tr>
+<tr><th>Codeset Name:</th><td>Codes for the Identification of the States, the District of Columbia and the Outlying Areas of the United States, and Associated Areas; FIPS 5-2.</td></tr>
+<tr><th>Codeset Source:</th><td>U.S. Department of Commerce, National Institute of Standards and Technology.</td></tr>
+</table>
+<p>
+<dt><b><tt>Gnis_id</tt></b><dd>The Geographic Names Information System identification code for the port.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">0</td><td>The port is not included in GNIS.
+</td></tr>
+</table>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Formal codeset</th></tr>
+<tr><th>Codeset Name:</th><td>Geographic Names Information System</td></tr>
+<tr><th>Codeset Source:</th><td>U.S. Board on Geographic Names</td></tr>
+</table>
+<p>
+<dt><b><tt>Gnis_name</tt></b><dd>The port name as found in GNIS.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">&lt;blank&gt;</td><td>The port is not included in GNIS.
+</td></tr>
+</table>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Formal codeset</th></tr>
+<tr><th>Codeset Name:</th><td>Geographic Names Information System</td></tr>
+<tr><th>Codeset Source:</th><td>U.S. Board on Geographic Names</td></tr>
+</table>
+<p>
+<dt><b><tt>Source</tt></b><dd>The source of the port information.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">GNIS_PORTS</td><td>The port location came from GNIS.
+</td></tr>
+<tr><td valign="top">GNISpointsByUrbanCenterGrouping</td><td>The port location was determined from an urban center location and the position of multiple
+ports in GNIS.
+</td></tr>
+<tr><td valign="top">InlandWaterPorts from NETS</td><td>The port location came from U.S. Army Corps of Engineers information.
+</td></tr>
+<tr><td valign="top">USACE</td><td>The port location came from the National Transportation Atlas Database.
+</td></tr>
+</table>
+<p>
+<dt><b><tt>Secondary_</tt></b><dd>The secondary waterway associated with the port.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">&lt;blank&gt;</td><td>There is no secondary waterway associated with the port.
+</td></tr>
+</table>
+<p>
+<em>
+There is no predefined set of secondary waterways.
+</em>
+<p>
+<dt><b><tt>Source_lat</tt></b><dd>The latitude of the port, as provided in the source data.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">0.0</td><td>The port latitude was not provided in the source data.
+</td></tr>
+</table>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Range of values</th></tr>
+<tr><th>Minimum:</th><td>17.706031</td></tr>
+<tr><th>Maximum:</th><td>61.268056</td></tr>
+</table>
+<p>
+<dt><b><tt>Source_long</tt></b><dd>The longitude of the port, as provided in the source data.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">0.0</td><td>The port longitude was not provided in the source data.
+</td></tr>
+</table>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Range of values</th></tr>
+<tr><th>Minimum:</th><td>-152.857500</td></tr>
+<tr><th>Maximum:</th><td>-64.770670</td></tr>
+</table>
+<p>
+<dt><b><tt>Lat</tt></b><dd>The latitude of the port, as determined by the processing software.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Range of values</th></tr>
+<tr><th>Minimum:</th><td>17.7060309</td></tr>
+<tr><th>Maximum:</th><td>66.899822274</td></tr>
+</table>
+<p>
+<dt><b><tt>Long</tt></b><dd>The longitude of the port, as determined by the processing software.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Range of values</th></tr>
+<tr><th>Minimum:</th><td>-166.532282693</td></tr>
+<tr><th>Maximum:</th><td>-64.770669900</td></tr>
+</table>
+<p>
+</dl>
+<p>
+</dl>
+<p>
+</li>
+</ol>
+<p>
+<hr/>
+<h3><a name="who">Who produced the data set?</a></h3>
+<ol>
+<li><a name="who.1"><b>Who are the originators of the data set?</b></a> (may include formal authors, digital compilers, and editors)<p>
+<ul>
+<li>National Atlas of the United States
+</ul>
+<p>
+</li>
+<li><a name="who.2"><b>Who also contributed to the data set?</b></a><p>
+<p>
+</li>
+<li><a name="who.3"><b>To whom should users address questions about the data?</b></a><p>
+<div style="margin-left: 2em">
+National Atlas of the United States<br/>
+U.S. Geological Survey<br/>
+Reston, VA 20192<br/>
+<p>
+1-888-ASK-USGS (1-888-275-8747) (voice)<br/>
+atlasmail@usgs.gov<br/>
+<dl>
+<dt><em>Contact_Instructions:</em>  
+<dd>
+
+For questions about this map layer or metadata, please contact the National Atlas using the
+information above, or through the U.S. Geological Survey contact page at
+&lt;<a href="http://www.usgs.gov/ask/">http://www.usgs.gov/ask/</a>&gt;.  For distribution questions, please see the Distribution Information
+elsewhere in this metadata.
+<br/>
+
+</dd>
+</dl>
+</div>
+<p>
+</li>
+</ol>
+<hr/>
+<h3><a name="why">Why was the data set created?</a></h3>
+<blockquote>
+These data are intended for geographic display and analysis at the national level, and for large
+regional areas.  The data should be displayed and analyzed at scales appropriate
+for 1:1,000,000-scale data.  No responsibility is assumed by the National Atlas of the United
+States in the use of these data.
+</blockquote>
+<p>
+<hr/>
+<h3><a name="how">How was the data set created?</a></h3>
+<ol>
+<li><a name="how.1"><b>From what previous works were the data drawn?</b></a><p>
+<dl>
+<dt><b>NTAD</b> (source 1 of 9)
+<dd>
+<blockquote>
+Research and Innovative Technology Administration, Bureau of Transportation Statistics (RITA/BTS), 2011, National Transportation Atlas Database 2011 – U.S. Army Corps of Engineers Ports: Research and Innovative Technology Administration, Bureau of Transportation Statistics (RITA/BTS), Washington, DC.<p>
+Online Links:
+<ul>
+<li>&lt;<a href="http://go.usa.gov/4Dne">http://go.usa.gov/4Dne</a>&gt;
+</ul>
+<p>
+</blockquote>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Online</dt>
+<dt><em>Source_Contribution:</em>  Spatial and attribute information</dt>
+</dl>
+<p>
+<dt><b>GNIS_PORTS</b> (source 2 of 9)
+<dd>
+<blockquote>
+U.S. Geological Survey, 2010, Geographic Names Information System: U.S. Geological Survey, Reston, VA.<p>
+Online Links:
+<ul>
+<li>&lt;<a href="http://geonames.usgs.gov/">http://geonames.usgs.gov/</a>&gt;
+</ul>
+<p>
+</blockquote>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Online</dt>
+<dt><em>Source_Contribution:</em>  Attribute information</dt>
+</dl>
+<p>
+<dt><b>Cities</b> (source 3 of 9)
+<dd>
+<blockquote>
+National Atlas of the United States, 201207, Cities and Towns of the United States: National Atlas of the United States, Rolla, MO.<p>
+Online Links:
+<ul>
+<li>&lt;<a href="http://nationalatlas.gov/atlasftp-1m.html">http://nationalatlas.gov/atlasftp-1m.html</a>&gt;
+</ul>
+<p>
+</blockquote>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Online</dt>
+<dt><em>Source_Scale_Denominator:</em>  1000000</dt>
+<dt><em>Source_Contribution:</em>  Spatial information</dt>
+</dl>
+<p>
+<dt><b>DOQ</b> (source 4 of 9)
+<dd>
+<blockquote>
+Microsoft Corporation and its data suppliers, 2011, Bing Maps Aerial: ESRI, Redlands, CA.<p>
+Online Links:
+<ul>
+<li>&lt;<a href="http://www.arcgis.com/home/item.html?id=677cd0c509d842a98360c46186a2768e">http://www.arcgis.com/home/item.html?id=677cd0c509d842a98360c46186a2768e</a>&gt;
+</ul>
+<p>
+</blockquote>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Online</dt>
+<dt><em>Source_Contribution:</em>  Spatial information</dt>
+</dl>
+<p>
+<dt><b>Topo</b> (source 5 of 9)
+<dd>
+<blockquote>
+Society, National Geographic , 2009, USA Topo Maps: ESRI, Redlands, CA.<p>
+Online Links:
+<ul>
+<li>&lt;<a href="http://goto.arcgisonline.com/maps/USA_Topo_Maps">http://goto.arcgisonline.com/maps/USA_Topo_Maps</a>&gt;
+</ul>
+<p>
+</blockquote>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Online</dt>
+<dt><em>Source_Contribution:</em>  Attribute information</dt>
+</dl>
+<p>
+<dt><b>USACE</b> (source 6 of 9)
+<dd>
+<blockquote>
+U.S. Army Corps of Engineers (USACE), 2005, An Overview of the U.S. Inland Waterway System: USACE, Washington, DC.<p>
+</blockquote>
+<dl>
+<dt><em>Other_Citation_Details:</em>  IWR Report 05-NETS-R-12, p. 6, 7, and 30</dt>
+</dl>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Paper</dt>
+<dt><em>Source_Contribution:</em>  Spatial and attribute information</dt>
+</dl>
+<p>
+<dt><b>QC</b> (source 7 of 9)
+<dd>
+<blockquote>
+National Atlas of the United States, Unknown, 1:1,000,000-Scale National Atlas map layers and other quality control files.<p>
+</blockquote>
+<dl>
+<dt><em>Other_Citation_Details:</em>  
+<dd>
+
+Numerous sources were used to perform quality-control and vertical integration, including all
+the 1:1,000,000-scale National Atlas map layers, a variety of online sources, and online USGS
+topographic maps.  More information is available from the National Atlas contacts listed
+elsewhere in this metadata.
+
+</dd>
+</dl>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Variable</dt>
+<dt><em>Source_Contribution:</em>  Spatial information</dt>
+</dl>
+<p>
+<dt><b>National Atlas 1M Ports 2012</b> (source 8 of 9)
+<dd>
+<blockquote>
+National Atlas of the United States, 201207, Ports of the United States: National Atlas of the United States, Rolla, MO.<p>
+Online Links:
+<ul>
+<li>&lt;<a href="http://nationalatlas.gov/atlasftp-1m.html">http://nationalatlas.gov/atlasftp-1m.html</a>&gt;
+</ul>
+<p>
+</blockquote>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Online</dt>
+<dt><em>Source_Contribution:</em>  Spatial and attribute information</dt>
+</dl>
+<p>
+<dt><b>ESRI ArcGIS Online Maps</b> (source 9 of 9)
+<dd>
+<blockquote>
+Environmental Systems Research Institute - ESRI, Unknown, ArcGIS Online Map and Geoservices.<p>
+Online Links:
+<ul>
+<li>&lt;<a href="http://www.esri.com/software/arcgis/arcgis-online-map-and-geoservices/map-services">http://www.esri.com/software/arcgis/arcgis-online-map-and-geoservices/map-services</a>&gt;
+</ul>
+<p>
+</blockquote>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Online</dt>
+<dt><em>Source_Contribution:</em>  Spatial and attribute information.</dt>
+</dl>
+<p>
+</dl>
+</li>
+<li><a name="how.2"><b>How were the data generated, processed, and modified?</b></a><p>
+<dl>
+<dt>Date: Aug-2010 (process 1 of 3)
+<dd>
+The ports were downloaded from the NTAD as a feature class.  Additional ports were added from
+GNIS_PORTS by selecting all harbor features with &quot;Port&quot; in the name.  The resulting GNIS feature
+selections were checked against DOQs and topographic maps to make sure they were actually port
+sites.
+<br/>
+To identify groups of port sites, each urban center that contained port sites was buffered by 10
+miles, and GNIS ports within the 10-mile buffer were assigned to that urban center.  The selected
+port sites were then buffered and merged by urban area, and a centroid was created for each
+merged port-site area. This resulted in 125 sites representative of both NTAD and GNIS harbor
+urban groupings.
+<br/>
+Groupings of NTAD sites were reviewed and assigned to urban centers, if they were not already
+assigned in the step above.
+<br/>
+The US Army Corps of Engineers report, including the Mississippi River System inland port map,
+was used to ensure that all major inland ports were represented.  If an inland port was listed in
+this document, and was not in GNIS or the NTAD, a point was placed in the harbor using the
+nearest city location and an online DOQ.
+<p>
+Data sources used in this process:
+<ul>
+<li>NTAD
+<li>GNIS_PORTS
+<li>DOQ
+<li>Topo
+<li>Cities
+<li>USACE
+</ul>
+<p>
+<dt>Date: 2012 (process 2 of 3)
+<dd>
+All the 1:1,000,000-scale map layers were checked for vertical integration.
+<p>
+Data sources used in this process:
+<ul>
+<li>QC
+</ul>
+<p>
+Data sources produced in this process:
+<ul>
+<li>National Atlas 1M Ports 2012
+</ul>
+<p>
+<dt>Date: 2013 (process 3 of 3)
+<dd>
+Port positions were adjusted to more accurately reflect actual port locations; locations were
+determined from reference to the ESRI ArcGIS Online Maps including Bing Maps Hybrid, Bing Maps
+Aerial, Bing Maps Road, National Geographic World Map, World Street Map, and the USA Topographic
+Maps.  Several ports were deleted.  The map layer was saved in shapefile and in file geodatabase
+formats.
+<p>
+</dl>
+</li>
+<li><a name="how.3"><b>What similar or related data should the user be aware of?</b></a><p>
+</li>
+</ol>
+<p>
+<hr/>
+<h3><a name="quality">How reliable are the data; what problems remain in the data set?</a></h3>
+<ol>
+<li><a name="quality.1"><b>How well have the observations been checked?</b></a><p>
+<p>
+</li>
+<li><a name="quality.2"><b>How accurate are the geographic locations?</b></a><p>
+<p>
+</li>
+<li><a name="quality.3"><b>How accurate are the heights or depths?</b></a><p>
+<p>
+</li>
+<li><a name="quality.4"><b>Where are the gaps in the data?  What is missing?</b></a><p>
+The map layer includes major ports in the United States, Puerto Rico, and the U.S. Virgin Islands
+<p>
+</li>
+<li><a name="quality.5"><b>How consistent are the relationships among the observations, including topology?</b></a><p>
+The map layer was checked for topological consistency using ArcGIS.  No other checks for logical
+consistency were performed on this map layer.  Port locations are approximate and may fall either on
+land or on water.
+</li>
+</ol>
+<p>
+<hr/>
+<h3><a name="getacopy">How can someone get a copy of the data set?</a></h3>
+<blockquote>
+<a name="getacopy.0"><b>Are there legal restrictions on access or use of the data?</b></a><p>
+<blockquote>
+<dl>
+<dt><em>Access_Constraints:</em>  None</dt>
+<dt><em>Use_Constraints:</em>  
+<dd>
+
+None.  Acknowledgment of The National Atlas of the United States of America would be appreciated in
+products derived from these data.
+
+</dd>
+</dl>
+</blockquote>
+</blockquote>
+<p>
+<ol>
+<li><a name="getacopy.1"><b>Who distributes the data set?</b></a> (Distributor 1 of 1)<p>
+<div style="margin-left: 2em">
+Earth Explorer, U.S. Geological Survey<br/>
+U.S. Geological Survey<br/>
+Sioux Falls, SD 57198-0001<br/>
+<p>
+605-594-6116 (voice)<br/>
+custserv@usgs.gov<br/>
+</div>
+</li>
+<li><a name="getacopy.2"><b>What's the catalog number I need to order this data set?</b></a><p>
+</li>
+<li><a name="getacopy.3"><b>What legal disclaimers am I supposed to read?</b></a><p>
+<blockquote>
+Although these data have been processed successfully on a computer system at the U.S. Geological
+Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility
+of the data on any other system, nor shall the act of distribution constitute any such warranty.
+No responsibility is assumed by the U.S. Geological Survey in the use of these data.
+<br/>
+</blockquote>
+<p>
+</li>
+<li><a name="getacopy.4"><b>How can I download or order the data?</b></a><p>
+<ul>
+<li><b>Availability in digital form:</b><p>
+<table border="0" cellpadding="2">
+<tr><th align="left" valign="top">Data&nbsp;format:</th>
+<td>
+ESRI Shapefile
+
+</td>
+</tr>
+<tr><th align="left" valign="top">Network&nbsp;links:</th>
+<td>
+&lt;<a href="http://nationalatlas.gov/atlasftp-1m.html">http://nationalatlas.gov/atlasftp-1m.html</a>&gt;<br/>
+</td>
+</tr>
+</table>
+<p>
+<table border="0" cellpadding="2">
+<tr><th align="left" valign="top">Data&nbsp;format:</th>
+<td>
+ESRI File Geodatabase
+
+</td>
+</tr>
+<tr><th align="left" valign="top">Network&nbsp;links:</th>
+<td>
+&lt;<a href="http://nationalatlas.gov/atlasftp-1m.html">http://nationalatlas.gov/atlasftp-1m.html</a>&gt;<br/>
+</td>
+</tr>
+</table>
+<p>
+<table border="0" cellpadding="2">
+<tr><th align="left" valign="top">Data&nbsp;format:</th>
+<td>
+Web Map Service (WMS)
+
+</td>
+</tr>
+<tr><th align="left" valign="top">Network&nbsp;links:</th>
+<td>
+&lt;<a href="http://nationalatlas.gov/wms/1million?SERVICE=WMS&REQUEST=GetCapabilities">http://nationalatlas.gov/wms/1million?SERVICE=WMS&REQUEST=GetCapabilities</a>&gt;<br/>
+&lt;<a href="http://webservices.nationalatlas.gov/wms/transportation?SERVICE=WMS&REQUEST=GetCapabilities">http://webservices.nationalatlas.gov/wms/transportation?SERVICE=WMS&REQUEST=GetCapabilities</a>&gt;<br/>
+&lt;<a href="http://webservices.nationalatlas.gov/wms?SERVICE=WMS&REQUEST=GetCapabilities">http://webservices.nationalatlas.gov/wms?SERVICE=WMS&REQUEST=GetCapabilities</a>&gt;<br/>
+</td>
+</tr>
+</table>
+<p>
+<li><b>Cost to order the data:</b> None<p>
+</ul>
+<p>
+</li>
+</ol>
+<p>
+<hr/>
+<h3><a name="metaref">Who wrote the metadata?</a></h3>
+<dl>
+<dt>Dates:
+<dd>Last modified: 11-Mar-2013<br/>
+</dd>
+<dt>Metadata author:
+<dd>
+<div style="margin-left: 2em">
+National Atlas of the United States<br/>
+U.S. Geological Survey<br/>
+Reston, VA 20192<br/>
+<p>
+1-888-ASK-USGS (1-888-275-8747) (voice)<br/>
+atlasmail@usgs.gov<br/>
+</div>
+</dd>
+<dt>Metadata standard: <dd>FGDC Content Standards for Digital Geospatial Metadata (FGDC-STD-001-1998)</dl>
+<p></p>
+<hr/>
+<span class="mp-generated">Generated by <a href="http://geology.usgs.gov/tools/metadata/tools/doc/mp.html"><tt>mp</tt></a> version 2.9.14 on Mon Mar 11 16:06:42 2013<br/></span>
+
+</body>
+</html>

@@ -1,0 +1,624 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: National Atlas of the United States
+        Publication_Date: 201303
+        Title: Ports of the United States 
+        Geospatial_Data_Presentation_Form: Vector digital data
+        Publication_Information:
+          Publication_Place: Rolla, MO
+          Publisher: National Atlas of the United States
+        Online_Linkage: <http://nationalatlas.gov/atlasftp-1m.html>
+
+    Description:
+      Abstract:
+        This map layer shows major ports in the United States, Puerto Rico, and the U.S. Virgin Islands.  A 
+        port is a city, town, or urban area with a harbor where ships load or unload.  This is a revised 
+        version of the July 2012 map layer.
+      Purpose: 
+        These data are intended for geographic display and analysis at the national level, and for large 
+        regional areas.  The data should be displayed and analyzed at scales appropriate 
+        for 1:1,000,000-scale data.  No responsibility is assumed by the National Atlas of the United 
+        States in the use of these data. 
+      Supplemental_Information:
+        Information about National Atlas Web services can be found on the Web Map and Web Feature Services 
+        page; see <http://nationalatlas.gov/infodocs/webservices.html>.
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Single_Date/Time:
+          Calendar_Date: 201303
+      Currentness_Reference: Publication date
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: Irregular
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: -167
+        East_Bounding_Coordinate: -64
+        North_Bounding_Coordinate: 68
+        South_Bounding_Coordinate: 17
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: Transportation
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: Transportation
+        Theme_Keyword: Ports
+        Theme_Keyword: Harbors
+
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce; 1995; Countries, Dependencies, Areas of Special Sovereignty, and 
+          Their Principal Administrative Divisions Federal Information Processing Standard (FIPS) 10-4; 
+          Washington, DC; National Institute of Standards and Technology.
+        Place_Keyword: United States
+      Place: 
+        Place_Keyword_Thesaurus: None
+        Place_Keyword: US
+        Place_Keyword: USA
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce; 1987; Codes for the Identification of the States, the District of 
+          Columbia and the Outlying Areas of the United States, and Associated Areas; FIPS 5-2; 
+          Washington, DC; National Institute of Standards and Technology.
+        Place_Keyword: Alabama
+        Place_Keyword: Arizona
+        Place_Keyword: Arkansas
+        Place_Keyword: California
+        Place_Keyword: Colorado
+        Place_Keyword: Connecticut
+        Place_Keyword: Delaware
+        Place_Keyword: District of Columbia
+        Place_Keyword: Florida
+        Place_Keyword: Georgia
+        Place_Keyword: Hawaii
+        Place_Keyword: Idaho
+        Place_Keyword: Illinois
+        Place_Keyword: Indiana
+        Place_Keyword: Iowa
+        Place_Keyword: Kansas
+        Place_Keyword: Kentucky
+        Place_Keyword: Louisiana
+        Place_Keyword: Maine
+        Place_Keyword: Maryland
+        Place_Keyword: Massachusetts
+        Place_Keyword: Michigan
+        Place_Keyword: Minnesota
+        Place_Keyword: Mississippi
+        Place_Keyword: Missouri
+        Place_Keyword: Montana
+        Place_Keyword: Nebraska
+        Place_Keyword: Nevada
+        Place_Keyword: New Hampshire
+        Place_Keyword: New Jersey
+        Place_Keyword: New Mexico
+        Place_Keyword: New York
+        Place_Keyword: North Carolina
+        Place_Keyword: North Dakota
+        Place_Keyword: Ohio
+        Place_Keyword: Oklahoma
+        Place_Keyword: Oregon
+        Place_Keyword: Pennsylvania
+        Place_Keyword: Rhode Island
+        Place_Keyword: South Carolina
+        Place_Keyword: South Dakota
+        Place_Keyword: Tennessee
+        Place_Keyword: Texas
+        Place_Keyword: Utah
+        Place_Keyword: Vermont
+        Place_Keyword: Virginia
+        Place_Keyword: Washington
+        Place_Keyword: West Virginia
+        Place_Keyword: Wisconsin
+        Place_Keyword: Wyoming
+        Place_Keyword: Puerto Rico
+        Place_Keyword: Virgin Islands
+        Place_Keyword: U.S. Virgin Islands
+    Access_Constraints: None
+    Use_Constraints: 
+      None.  Acknowledgment of The National Atlas of the United States of America would be appreciated in 
+      products derived from these data.
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: National Atlas of the United States
+        Contact_Address:
+          Address_Type: Mailing and physical address
+          Address: U.S. Geological Survey
+          Address: 511 National Center
+          Address: 12201 Sunrise Valley Drive 
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+        Contact_Instructions:
+          For questions about this map layer or metadata, please contact the National Atlas using the 
+          information above, or through the U.S. Geological Survey contact page at 
+          <http://www.usgs.gov/ask/>.  For distribution questions, please see the Distribution Information 
+          elsewhere in this metadata. 
+
+  Data_Quality_Information:
+    Logical_Consistency_Report: 
+      The map layer was checked for topological consistency using ArcGIS.  No other checks for logical 
+      consistency were performed on this map layer.  Port locations are approximate and may fall either on 
+      land or on water.
+    Completeness_Report:
+      The map layer includes major ports in the United States, Puerto Rico, and the U.S. Virgin Islands
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: 
+              Research and Innovative Technology Administration, Bureau of Transportation Statistics 
+              (RITA/BTS)
+            Publication_Date: 2011
+            Title: National Transportation Atlas Database 2011 – U.S. Army Corps of Engineers Ports 
+            Publication_Information:
+              Publication_Place: Washington, DC
+              Publisher: 
+                Research and Innovative Technology Administration, Bureau of Transportation Statistics 
+                (RITA/BTS)
+            Online_Linkage: <http://go.usa.gov/4Dne>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2010
+          Source_Currentness_Reference: Ground condition
+        Source_Citation_Abbreviation: NTAD
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: 2010
+            Title: Geographic Names Information System
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: U.S. Geological Survey
+            Online_Linkage: <http://geonames.usgs.gov/>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2010
+          Source_Currentness_Reference: Date of data access
+        Source_Citation_Abbreviation: GNIS_PORTS
+        Source_Contribution: Attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 201207
+            Title: Cities and Towns of the United States
+            Publication_Information:
+              Publication_Place: Rolla, MO
+              Publisher: National Atlas of the United States
+            Online_Linkage: <http://nationalatlas.gov/atlasftp-1m.html>
+        Source_Scale_Denominator: 1000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2012
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: Cities
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: Microsoft Corporation and its data suppliers
+            Publication_Date: 2011
+            Title: Bing Maps Aerial
+            Publication_Information:
+              Publication_Place: Redlands, CA
+              Publisher: ESRI
+            Online_Linkage: 
+              <http://www.arcgis.com/home/item.html?id=677cd0c509d842a98360c46186a2768e>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2011
+          Source_Currentness_Reference: Copyright date
+        Source_Citation_Abbreviation: DOQ
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Geographic Society
+            Publication_Date: 2009
+            Title: USA Topo Maps
+            Publication_Information:
+              Publication_Place: Redlands, CA
+              Publisher: ESRI
+            Online_Linkage: <http://goto.arcgisonline.com/maps/USA_Topo_Maps>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2009
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: Topo
+        Source_Contribution: Attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Army Corps of Engineers (USACE)
+            Publication_Date: 2005
+            Title: An Overview of the U.S. Inland Waterway System
+            Publication_Information:
+              Publication_Place: Washington, DC
+              Publisher: USACE
+            Other_Citation_Details: IWR Report 05-NETS-R-12, p. 6, 7, and 30
+        Type_of_Source_Media: Paper
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2005
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: USACE
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: Unknown
+            Title: 1:1,000,000-Scale National Atlas map layers and other quality control files
+            Other_Citation_Details:
+              Numerous sources were used to perform quality-control and vertical integration, including all 
+              the 1:1,000,000-scale National Atlas map layers, a variety of online sources, and online USGS 
+              topographic maps.  More information is available from the National Atlas contacts listed 
+              elsewhere in this metadata.
+        Type_of_Source_Media: Variable
+        Source_Time_Period_of_Content: 
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: Unknown
+          Source_Currentness_Reference: Variable
+        Source_Citation_Abbreviation: QC
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 201207
+            Title: Ports of the United States
+            Publication_Information:
+              Publication_Place: Rolla, MO
+              Publisher: National Atlas of the United States
+            Online_Linkage: <http://nationalatlas.gov/atlasftp-1m.html>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 201207
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Atlas 1M Ports 2012
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: Environmental Systems Research Institute - ESRI
+            Publication_Date: Unknown
+            Title: ArcGIS Online Map and Geoservices
+            Geospatial_Data_Presentation_Form: Vector digital data
+            Online_Linkage: 
+              <http://www.esri.com/software/arcgis/arcgis-online-map-and-geoservices/map-services>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2013
+          Source_Currentness_Reference: Date of data access
+        Source_Citation_Abbreviation: ESRI ArcGIS Online Maps
+        Source_Contribution: Spatial and attribute information.
+
+      Process_Step:
+        Process_Description: 
+          The ports were downloaded from the NTAD as a feature class.  Additional ports were added from 
+          GNIS_PORTS by selecting all harbor features with "Port" in the name.  The resulting GNIS feature 
+          selections were checked against DOQs and topographic maps to make sure they were actually port 
+          sites.  
+
+          To identify groups of port sites, each urban center that contained port sites was buffered by 10 
+          miles, and GNIS ports within the 10-mile buffer were assigned to that urban center.  The selected 
+          port sites were then buffered and merged by urban area, and a centroid was created for each 
+          merged port-site area. This resulted in 125 sites representative of both NTAD and GNIS harbor 
+          urban groupings.
+
+          Groupings of NTAD sites were reviewed and assigned to urban centers, if they were not already 
+          assigned in the step above.
+
+          The US Army Corps of Engineers report, including the Mississippi River System inland port map, 
+          was used to ensure that all major inland ports were represented.  If an inland port was listed in 
+          this document, and was not in GNIS or the NTAD, a point was placed in the harbor using the 
+          nearest city location and an online DOQ.
+        Source_Used_Citation_Abbreviation: NTAD
+        Source_Used_Citation_Abbreviation: GNIS_PORTS
+        Source_Used_Citation_Abbreviation: DOQ 
+        Source_Used_Citation_Abbreviation: Topo
+        Source_Used_Citation_Abbreviation: Cities
+        Source_Used_Citation_Abbreviation: USACE
+        Process_Date: 201008
+
+      Process_Step:
+        Process_Description:
+          All the 1:1,000,000-scale map layers were checked for vertical integration.  
+        Source_Used_Citation_Abbreviation: QC
+        Process_Date: 2012
+        Source_Produced_Citation_Abbreviation: National Atlas 1M Ports 2012
+
+      Process_Step:
+        Process_Description:
+          Port positions were adjusted to more accurately reflect actual port locations; locations were 
+          determined from reference to the ESRI ArcGIS Online Maps including Bing Maps Hybrid, Bing Maps 
+          Aerial, Bing Maps Road, National Geographic World Map, World Street Map, and the USA Topographic 
+          Maps.  Several ports were deleted.  The map layer was saved in shapefile and in file geodatabase 
+          formats.
+        Process_Date: 2013
+
+  Spatial_Data_Organization_Information:
+    Direct_Spatial_Reference_Method: Vector
+    Point_and_Vector_Object_Information:
+      SDTS_Terms_Description:
+        SDTS_Point_and_Vector_Object_Type: Entity point
+        Point_and_Vector_Object_Count: 192
+
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Geographic:
+        Latitude_Resolution: 0.000278
+        Longitude_Resolution: 0.000278
+        Geographic_Coordinate_Units: Decimal degrees
+      Geodetic_Model:
+        Horizontal_Datum_Name: North American Datum of 1983
+        Ellipsoid_Name: GRS1980
+        Semi-major_Axis: 6378137
+        Denominator_of_Flattening_Ratio: 298.257222
+
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Port
+        Entity_Type_Definition: A city, town, or urban area with a harbor where ships load or unload.  
+        Entity_Type_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Shape
+        Attribute_Definition: The representation of the entity in the data.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Point
+            Enumerated_Domain_Value_Definition: 0-dimensional element.
+            Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+      Attribute:
+        Attribute_Label: Name
+        Attribute_Definition: The name of the port.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: There is no predefined set of valid port names.
+      Attribute:
+        Attribute_Label: Waterway
+        Attribute_Definition: The waterway on which the port is located.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: There is no predefined set of waterways.
+      Attribute: 
+        Attribute_Label: State 
+        Attribute_Definition: 
+          The 2-character FIPS code of the State or State equivalent in which the station is located. 
+        Attribute_Definition_Source: National Atlas of the United States 
+        Attribute_Domain_Values: 
+          Codeset_Domain: 
+            Codeset_Name: 
+              Codes for the Identification of the States, the District of Columbia and the Outlying Areas 
+              of the United States, and Associated Areas; FIPS 5-2. 
+            Codeset_Source: 
+              U.S. Department of Commerce, National Institute of Standards and Technology
+      Attribute:
+        Attribute_Label: State_fips
+        Attribute_Definition: The 2-digit FIPS code of the State or State equivalent.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name:
+              Codes for the Identification of the States, the District of Columbia and the Outlying Areas 
+              of the United States, and Associated Areas; FIPS 5-2.
+            Codeset_Source: 
+              U.S. Department of Commerce, National Institute of Standards and Technology.
+      Attribute:
+        Attribute_Label: Gnis_id
+        Attribute_Definition: The Geographic Names Information System identification code for the port.  
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 0
+            Enumerated_Domain_Value_Definition: The port is not included in GNIS.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Geographic Names Information System
+            Codeset_Source: U.S. Board on Geographic Names
+      Attribute:
+        Attribute_Label: Gnis_name
+        Attribute_Definition: The port name as found in GNIS.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: <blank>
+            Enumerated_Domain_Value_Definition: The port is not included in GNIS.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Geographic Names Information System
+            Codeset_Source: U.S. Board on Geographic Names
+      Attribute:
+        Attribute_Label: Source
+        Attribute_Definition: The source of the port information.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: GNIS_PORTS
+            Enumerated_Domain_Value_Definition: The port location came from GNIS.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: GNISpointsByUrbanCenterGrouping
+            Enumerated_Domain_Value_Definition: 
+              The port location was determined from an urban center location and the position of multiple 
+              ports in GNIS.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: InlandWaterPorts from NETS
+            Enumerated_Domain_Value_Definition: 
+              The port location came from U.S. Army Corps of Engineers information.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: USACE
+            Enumerated_Domain_Value_Definition: 
+              The port location came from the National Transportation Atlas Database.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Secondary_
+        Attribute_Definition: The secondary waterway associated with the port.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: <blank>
+            Enumerated_Domain_Value_Definition: There is no secondary waterway associated with the port.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: There is no predefined set of secondary waterways.
+      Attribute:
+        Attribute_Label: Source_lat
+        Attribute_Definition: The latitude of the port, as provided in the source data.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 0.0
+            Enumerated_Domain_Value_Definition: The port latitude was not provided in the source data.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 17.706031
+            Range_Domain_Maximum: 61.268056
+      Attribute:
+        Attribute_Label: Source_long
+        Attribute_Definition: The longitude of the port, as provided in the source data.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 0.0
+            Enumerated_Domain_Value_Definition: The port longitude was not provided in the source data.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: -152.857500
+            Range_Domain_Maximum: -64.770670
+      Attribute:
+        Attribute_Label: Lat
+        Attribute_Definition: The latitude of the port, as determined by the processing software.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 17.7060309
+            Range_Domain_Maximum: 66.899822274
+      Attribute:
+        Attribute_Label: Long
+        Attribute_Definition: The longitude of the port, as determined by the processing software.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: -166.532282693
+            Range_Domain_Maximum: -64.770669900
+
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: Earth Explorer, U.S. Geological Survey
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: U.S. Geological Survey
+          Address: 47914 252nd Street
+          City: Sioux Falls
+          State_or_Province: SD
+          Postal_Code: 57198-0001
+        Contact_Voice_Telephone: 605-594-6116
+        Contact_Voice_Telephone: 866-573-3222
+        Contact_Electronic_Mail_Address: custserv@usgs.gov
+    Distribution_Liability:
+      Although these data have been processed successfully on a computer system at the U.S. Geological 
+      Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility 
+      of the data on any other system, nor shall the act of distribution constitute any such warranty.  
+      No responsibility is assumed by the U.S. Geological Survey in the use of these data.
+
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: ESRI Shapefile
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: <http://nationalatlas.gov/atlasftp-1m.html>
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: ESRI File Geodatabase
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: <http://nationalatlas.gov/atlasftp-1m.html>
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: Web Map Service (WMS)
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: 
+                  <http://nationalatlas.gov/wms/1million?SERVICE=WMS&REQUEST=GetCapabilities>
+                Network_Resource_Name: 
+                  <http://webservices.nationalatlas.gov/wms/transportation?SERVICE=WMS&REQUEST=GetCapabilities>
+                Network_Resource_Name: 
+                  <http://webservices.nationalatlas.gov/wms?SERVICE=WMS&REQUEST=GetCapabilities>
+      Fees: None
+
+  Metadata_Reference_Information:
+    Metadata_Date: 20130311
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: National Atlas of the United States
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: U.S. Geological Survey
+          Address: 511 National Center
+          Address: 12201 Sunrise Valley Drive 
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+    Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata 
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Security_Information: 
+      Metadata_Security_Classification_System: None
+      Metadata_Security_Classification: Unclassified
+      Metadata_Security_Handling_Description: None
+

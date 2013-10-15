@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>National Atlas of the United States</origin>
+<pubdate>201303</pubdate>
+<title>Ports of the United States</title>
+<geoform>Vector digital data</geoform>
+<pubinfo>
+<pubplace>Rolla, MO</pubplace>
+<publish>National Atlas of the United States</publish>
+</pubinfo>
+<onlink>&lt;http://nationalatlas.gov/atlasftp-1m.html&gt;</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>
+This map layer shows major ports in the United States, Puerto Rico, and the U.S. Virgin Islands.  A
+port is a city, town, or urban area with a harbor where ships load or unload.  This is a revised
+version of the July 2012 map layer.
+</abstract>
+<purpose>
+These data are intended for geographic display and analysis at the national level, and for large
+regional areas.  The data should be displayed and analyzed at scales appropriate
+for 1:1,000,000-scale data.  No responsibility is assumed by the National Atlas of the United
+States in the use of these data.
+</purpose>
+<supplinf>
+Information about National Atlas Web services can be found on the Web Map and Web Feature Services
+page; see &lt;http://nationalatlas.gov/infodocs/webservices.html&gt;.
+</supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>201303</caldate>
+</sngdate>
+</timeinfo>
+<current>Publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>Irregular</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-167</westbc>
+<eastbc>-64</eastbc>
+<northbc>68</northbc>
+<southbc>17</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>Transportation</themekey>
+</theme>
+<theme>
+<themekt>None</themekt>
+<themekey>Transportation</themekey>
+<themekey>Ports</themekey>
+<themekey>Harbors</themekey>
+</theme>
+<place>
+<placekt>
+U.S. Department of Commerce; 1995; Countries, Dependencies, Areas of Special Sovereignty, and
+Their Principal Administrative Divisions Federal Information Processing Standard (FIPS) 10-4;
+Washington, DC; National Institute of Standards and Technology.
+</placekt>
+<placekey>United States</placekey>
+</place>
+<place>
+<placekt>None</placekt>
+<placekey>US</placekey>
+<placekey>USA</placekey>
+</place>
+<place>
+<placekt>
+U.S. Department of Commerce; 1987; Codes for the Identification of the States, the District of
+Columbia and the Outlying Areas of the United States, and Associated Areas; FIPS 5-2;
+Washington, DC; National Institute of Standards and Technology.
+</placekt>
+<placekey>Alabama</placekey>
+<placekey>Arizona</placekey>
+<placekey>Arkansas</placekey>
+<placekey>California</placekey>
+<placekey>Colorado</placekey>
+<placekey>Connecticut</placekey>
+<placekey>Delaware</placekey>
+<placekey>District of Columbia</placekey>
+<placekey>Florida</placekey>
+<placekey>Georgia</placekey>
+<placekey>Hawaii</placekey>
+<placekey>Idaho</placekey>
+<placekey>Illinois</placekey>
+<placekey>Indiana</placekey>
+<placekey>Iowa</placekey>
+<placekey>Kansas</placekey>
+<placekey>Kentucky</placekey>
+<placekey>Louisiana</placekey>
+<placekey>Maine</placekey>
+<placekey>Maryland</placekey>
+<placekey>Massachusetts</placekey>
+<placekey>Michigan</placekey>
+<placekey>Minnesota</placekey>
+<placekey>Mississippi</placekey>
+<placekey>Missouri</placekey>
+<placekey>Montana</placekey>
+<placekey>Nebraska</placekey>
+<placekey>Nevada</placekey>
+<placekey>New Hampshire</placekey>
+<placekey>New Jersey</placekey>
+<placekey>New Mexico</placekey>
+<placekey>New York</placekey>
+<placekey>North Carolina</placekey>
+<placekey>North Dakota</placekey>
+<placekey>Ohio</placekey>
+<placekey>Oklahoma</placekey>
+<placekey>Oregon</placekey>
+<placekey>Pennsylvania</placekey>
+<placekey>Rhode Island</placekey>
+<placekey>South Carolina</placekey>
+<placekey>South Dakota</placekey>
+<placekey>Tennessee</placekey>
+<placekey>Texas</placekey>
+<placekey>Utah</placekey>
+<placekey>Vermont</placekey>
+<placekey>Virginia</placekey>
+<placekey>Washington</placekey>
+<placekey>West Virginia</placekey>
+<placekey>Wisconsin</placekey>
+<placekey>Wyoming</placekey>
+<placekey>Puerto Rico</placekey>
+<placekey>Virgin Islands</placekey>
+<placekey>U.S. Virgin Islands</placekey>
+</place>
+</keywords>
+<accconst>None</accconst>
+<useconst>
+None.  Acknowledgment of The National Atlas of the United States of America would be appreciated in
+products derived from these data.
+</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>National Atlas of the United States</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>Mailing and physical address</addrtype>
+<address>U.S. Geological Survey</address>
+<address>511 National Center</address>
+<address>12201 Sunrise Valley Drive</address>
+<city>Reston</city>
+<state>VA</state>
+<postal>20192</postal>
+</cntaddr>
+<cntvoice>1-888-ASK-USGS (1-888-275-8747)</cntvoice>
+<cntemail>atlasmail@usgs.gov</cntemail>
+<cntinst>
+For questions about this map layer or metadata, please contact the National Atlas using the
+information above, or through the U.S. Geological Survey contact page at
+&lt;http://www.usgs.gov/ask/&gt;.  For distribution questions, please see the Distribution Information
+elsewhere in this metadata.
+</cntinst>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<dataqual>
+<logic>
+The map layer was checked for topological consistency using ArcGIS.  No other checks for logical
+consistency were performed on this map layer.  Port locations are approximate and may fall either on
+land or on water.
+</logic>
+<complete>The map layer includes major ports in the United States, Puerto Rico, and the U.S. Virgin Islands</complete>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>
+Research and Innovative Technology Administration, Bureau of Transportation Statistics
+(RITA/BTS)
+</origin>
+<pubdate>2011</pubdate>
+<title>National Transportation Atlas Database 2011 – U.S. Army Corps of Engineers Ports</title>
+<pubinfo>
+<pubplace>Washington, DC</pubplace>
+<publish>
+Research and Innovative Technology Administration, Bureau of Transportation Statistics
+(RITA/BTS)
+</publish>
+</pubinfo>
+<onlink>&lt;http://go.usa.gov/4Dne&gt;</onlink>
+</citeinfo>
+</srccite>
+<typesrc>Online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2010</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>Ground condition</srccurr>
+</srctime>
+<srccitea>NTAD</srccitea>
+<srccontr>Spatial and attribute information</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>U.S. Geological Survey</origin>
+<pubdate>2010</pubdate>
+<title>Geographic Names Information System</title>
+<pubinfo>
+<pubplace>Reston, VA</pubplace>
+<publish>U.S. Geological Survey</publish>
+</pubinfo>
+<onlink>&lt;http://geonames.usgs.gov/&gt;</onlink>
+</citeinfo>
+</srccite>
+<typesrc>Online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2010</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>Date of data access</srccurr>
+</srctime>
+<srccitea>GNIS_PORTS</srccitea>
+<srccontr>Attribute information</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>National Atlas of the United States</origin>
+<pubdate>201207</pubdate>
+<title>Cities and Towns of the United States</title>
+<pubinfo>
+<pubplace>Rolla, MO</pubplace>
+<publish>National Atlas of the United States</publish>
+</pubinfo>
+<onlink>&lt;http://nationalatlas.gov/atlasftp-1m.html&gt;</onlink>
+</citeinfo>
+</srccite>
+<srcscale>1000000</srcscale>
+<typesrc>Online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2012</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>Publication date</srccurr>
+</srctime>
+<srccitea>Cities</srccitea>
+<srccontr>Spatial information</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Microsoft Corporation and its data suppliers</origin>
+<pubdate>2011</pubdate>
+<title>Bing Maps Aerial</title>
+<pubinfo>
+<pubplace>Redlands, CA</pubplace>
+<publish>ESRI</publish>
+</pubinfo>
+<onlink>&lt;http://www.arcgis.com/home/item.html?id=677cd0c509d842a98360c46186a2768e&gt;</onlink>
+</citeinfo>
+</srccite>
+<typesrc>Online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2011</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>Copyright date</srccurr>
+</srctime>
+<srccitea>DOQ</srccitea>
+<srccontr>Spatial information</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>National Geographic Society</origin>
+<pubdate>2009</pubdate>
+<title>USA Topo Maps</title>
+<pubinfo>
+<pubplace>Redlands, CA</pubplace>
+<publish>ESRI</publish>
+</pubinfo>
+<onlink>&lt;http://goto.arcgisonline.com/maps/USA_Topo_Maps&gt;</onlink>
+</citeinfo>
+</srccite>
+<typesrc>Online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2009</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>Publication date</srccurr>
+</srctime>
+<srccitea>Topo</srccitea>
+<srccontr>Attribute information</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>U.S. Army Corps of Engineers (USACE)</origin>
+<pubdate>2005</pubdate>
+<title>An Overview of the U.S. Inland Waterway System</title>
+<pubinfo>
+<pubplace>Washington, DC</pubplace>
+<publish>USACE</publish>
+</pubinfo>
+<othercit>IWR Report 05-NETS-R-12, p. 6, 7, and 30</othercit>
+</citeinfo>
+</srccite>
+<typesrc>Paper</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2005</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>Publication date</srccurr>
+</srctime>
+<srccitea>USACE</srccitea>
+<srccontr>Spatial and attribute information</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>National Atlas of the United States</origin>
+<pubdate>Unknown</pubdate>
+<title>1:1,000,000-Scale National Atlas map layers and other quality control files</title>
+<othercit>
+Numerous sources were used to perform quality-control and vertical integration, including all
+the 1:1,000,000-scale National Atlas map layers, a variety of online sources, and online USGS
+topographic maps.  More information is available from the National Atlas contacts listed
+elsewhere in this metadata.
+</othercit>
+</citeinfo>
+</srccite>
+<typesrc>Variable</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>Unknown</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>Variable</srccurr>
+</srctime>
+<srccitea>QC</srccitea>
+<srccontr>Spatial information</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>National Atlas of the United States</origin>
+<pubdate>201207</pubdate>
+<title>Ports of the United States</title>
+<pubinfo>
+<pubplace>Rolla, MO</pubplace>
+<publish>National Atlas of the United States</publish>
+</pubinfo>
+<onlink>&lt;http://nationalatlas.gov/atlasftp-1m.html&gt;</onlink>
+</citeinfo>
+</srccite>
+<typesrc>Online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201207</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>Publication date</srccurr>
+</srctime>
+<srccitea>National Atlas 1M Ports 2012</srccitea>
+<srccontr>Spatial and attribute information</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Environmental Systems Research Institute - ESRI</origin>
+<pubdate>Unknown</pubdate>
+<title>ArcGIS Online Map and Geoservices</title>
+<geoform>Vector digital data</geoform>
+<onlink>&lt;http://www.esri.com/software/arcgis/arcgis-online-map-and-geoservices/map-services&gt;</onlink>
+</citeinfo>
+</srccite>
+<typesrc>Online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2013</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>Date of data access</srccurr>
+</srctime>
+<srccitea>ESRI ArcGIS Online Maps</srccitea>
+<srccontr>Spatial and attribute information.</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>
+The ports were downloaded from the NTAD as a feature class.  Additional ports were added from
+GNIS_PORTS by selecting all harbor features with "Port" in the name.  The resulting GNIS feature
+selections were checked against DOQs and topographic maps to make sure they were actually port
+sites.
+
+To identify groups of port sites, each urban center that contained port sites was buffered by 10
+miles, and GNIS ports within the 10-mile buffer were assigned to that urban center.  The selected
+port sites were then buffered and merged by urban area, and a centroid was created for each
+merged port-site area. This resulted in 125 sites representative of both NTAD and GNIS harbor
+urban groupings.
+
+Groupings of NTAD sites were reviewed and assigned to urban centers, if they were not already
+assigned in the step above.
+
+The US Army Corps of Engineers report, including the Mississippi River System inland port map,
+was used to ensure that all major inland ports were represented.  If an inland port was listed in
+this document, and was not in GNIS or the NTAD, a point was placed in the harbor using the
+nearest city location and an online DOQ.
+</procdesc>
+<srcused>NTAD</srcused>
+<srcused>GNIS_PORTS</srcused>
+<srcused>DOQ</srcused>
+<srcused>Topo</srcused>
+<srcused>Cities</srcused>
+<srcused>USACE</srcused>
+<procdate>201008</procdate>
+</procstep>
+<procstep>
+<procdesc>All the 1:1,000,000-scale map layers were checked for vertical integration.</procdesc>
+<srcused>QC</srcused>
+<procdate>2012</procdate>
+<srcprod>National Atlas 1M Ports 2012</srcprod>
+</procstep>
+<procstep>
+<procdesc>
+Port positions were adjusted to more accurately reflect actual port locations; locations were
+determined from reference to the ESRI ArcGIS Online Maps including Bing Maps Hybrid, Bing Maps
+Aerial, Bing Maps Road, National Geographic World Map, World Street Map, and the USA Topographic
+Maps.  Several ports were deleted.  The map layer was saved in shapefile and in file geodatabase
+formats.
+</procdesc>
+<procdate>2013</procdate>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>192</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.000278</latres>
+<longres>0.000278</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>GRS1980</ellips>
+<semiaxis>6378137</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>Port</enttypl>
+<enttypd>A city, town, or urban area with a harbor where ships load or unload.</enttypd>
+<enttypds>National Atlas of the United States</enttypds>
+</enttyp>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>The representation of the entity in the data.</attrdef>
+<attrdefs>National Atlas of the United States</attrdefs>
+<attrdomv>
+<edom>
+<edomv>Point</edomv>
+<edomvd>0-dimensional element.</edomvd>
+<edomvds>ESRI GIS software</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Name</attrlabl>
+<attrdef>The name of the port.</attrdef>
+<attrdefs>National Atlas of the United States</attrdefs>
+<attrdomv>
+<udom>There is no predefined set of valid port names.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Waterway</attrlabl>
+<attrdef>The waterway on which the port is located.</attrdef>
+<attrdefs>National Atlas of the United States</attrdefs>
+<attrdomv>
+<udom>There is no predefined set of waterways.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>State</attrlabl>
+<attrdef>The 2-character FIPS code of the State or State equivalent in which the station is located.</attrdef>
+<attrdefs>National Atlas of the United States</attrdefs>
+<attrdomv>
+<codesetd>
+<codesetn>
+Codes for the Identification of the States, the District of Columbia and the Outlying Areas
+of the United States, and Associated Areas; FIPS 5-2.
+</codesetn>
+<codesets>U.S. Department of Commerce, National Institute of Standards and Technology</codesets>
+</codesetd>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>State_fips</attrlabl>
+<attrdef>The 2-digit FIPS code of the State or State equivalent.</attrdef>
+<attrdefs>National Atlas of the United States</attrdefs>
+<attrdomv>
+<codesetd>
+<codesetn>
+Codes for the Identification of the States, the District of Columbia and the Outlying Areas
+of the United States, and Associated Areas; FIPS 5-2.
+</codesetn>
+<codesets>U.S. Department of Commerce, National Institute of Standards and Technology.</codesets>
+</codesetd>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Gnis_id</attrlabl>
+<attrdef>The Geographic Names Information System identification code for the port.</attrdef>
+<attrdefs>National Atlas of the United States</attrdefs>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>The port is not included in GNIS.</edomvd>
+<edomvds>National Atlas of the United States</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<codesetd>
+<codesetn>Geographic Names Information System</codesetn>
+<codesets>U.S. Board on Geographic Names</codesets>
+</codesetd>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Gnis_name</attrlabl>
+<attrdef>The port name as found in GNIS.</attrdef>
+<attrdefs>National Atlas of the United States</attrdefs>
+<attrdomv>
+<edom>
+<edomv>&lt;blank&gt;</edomv>
+<edomvd>The port is not included in GNIS.</edomvd>
+<edomvds>National Atlas of the United States</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<codesetd>
+<codesetn>Geographic Names Information System</codesetn>
+<codesets>U.S. Board on Geographic Names</codesets>
+</codesetd>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Source</attrlabl>
+<attrdef>The source of the port information.</attrdef>
+<attrdefs>National Atlas of the United States</attrdefs>
+<attrdomv>
+<edom>
+<edomv>GNIS_PORTS</edomv>
+<edomvd>The port location came from GNIS.</edomvd>
+<edomvds>National Atlas of the United States</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>GNISpointsByUrbanCenterGrouping</edomv>
+<edomvd>
+The port location was determined from an urban center location and the position of multiple
+ports in GNIS.
+</edomvd>
+<edomvds>National Atlas of the United States</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>InlandWaterPorts from NETS</edomv>
+<edomvd>The port location came from U.S. Army Corps of Engineers information.</edomvd>
+<edomvds>National Atlas of the United States</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>USACE</edomv>
+<edomvd>The port location came from the National Transportation Atlas Database.</edomvd>
+<edomvds>National Atlas of the United States</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Secondary_</attrlabl>
+<attrdef>The secondary waterway associated with the port.</attrdef>
+<attrdefs>National Atlas of the United States</attrdefs>
+<attrdomv>
+<edom>
+<edomv>&lt;blank&gt;</edomv>
+<edomvd>There is no secondary waterway associated with the port.</edomvd>
+<edomvds>National Atlas of the United States</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<udom>There is no predefined set of secondary waterways.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Source_lat</attrlabl>
+<attrdef>The latitude of the port, as provided in the source data.</attrdef>
+<attrdefs>National Atlas of the United States</attrdefs>
+<attrdomv>
+<edom>
+<edomv>0.0</edomv>
+<edomvd>The port latitude was not provided in the source data.</edomvd>
+<edomvds>National Atlas of the United States</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<rdom>
+<rdommin>17.706031</rdommin>
+<rdommax>61.268056</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Source_long</attrlabl>
+<attrdef>The longitude of the port, as provided in the source data.</attrdef>
+<attrdefs>National Atlas of the United States</attrdefs>
+<attrdomv>
+<edom>
+<edomv>0.0</edomv>
+<edomvd>The port longitude was not provided in the source data.</edomvd>
+<edomvds>National Atlas of the United States</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<rdom>
+<rdommin>-152.857500</rdommin>
+<rdommax>-64.770670</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Lat</attrlabl>
+<attrdef>The latitude of the port, as determined by the processing software.</attrdef>
+<attrdefs>National Atlas of the United States</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>17.7060309</rdommin>
+<rdommax>66.899822274</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Long</attrlabl>
+<attrdef>The longitude of the port, as determined by the processing software.</attrdef>
+<attrdefs>National Atlas of the United States</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>-166.532282693</rdommin>
+<rdommax>-64.770669900</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Earth Explorer, U.S. Geological Survey</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>Mailing address</addrtype>
+<address>U.S. Geological Survey</address>
+<address>47914 252nd Street</address>
+<city>Sioux Falls</city>
+<state>SD</state>
+<postal>57198-0001</postal>
+</cntaddr>
+<cntvoice>605-594-6116</cntvoice>
+<cntvoice>866-573-3222</cntvoice>
+<cntemail>custserv@usgs.gov</cntemail>
+</cntinfo>
+</distrib>
+<distliab>
+Although these data have been processed successfully on a computer system at the U.S. Geological
+Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility
+of the data on any other system, nor shall the act of distribution constitute any such warranty.
+No responsibility is assumed by the U.S. Geological Survey in the use of these data.
+</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>ESRI Shapefile</formname>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>&lt;http://nationalatlas.gov/atlasftp-1m.html&gt;</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+<digform>
+<digtinfo>
+<formname>ESRI File Geodatabase</formname>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>&lt;http://nationalatlas.gov/atlasftp-1m.html&gt;</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+<digform>
+<digtinfo>
+<formname>Web Map Service (WMS)</formname>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>&lt;http://nationalatlas.gov/wms/1million?SERVICE=WMS&amp;REQUEST=GetCapabilities&gt;</networkr>
+<networkr>&lt;http://webservices.nationalatlas.gov/wms/transportation?SERVICE=WMS&amp;REQUEST=GetCapabilities&gt;</networkr>
+<networkr>&lt;http://webservices.nationalatlas.gov/wms?SERVICE=WMS&amp;REQUEST=GetCapabilities&gt;</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>None</fees>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20130311</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>National Atlas of the United States</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>Mailing address</addrtype>
+<address>U.S. Geological Survey</address>
+<address>511 National Center</address>
+<address>12201 Sunrise Valley Drive</address>
+<city>Reston</city>
+<state>VA</state>
+<postal>20192</postal>
+</cntaddr>
+<cntvoice>1-888-ASK-USGS (1-888-275-8747)</cntvoice>
+<cntemail>atlasmail@usgs.gov</cntemail>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<metsi>
+<metscs>None</metscs>
+<metsc>Unclassified</metsc>
+<metshd>None</metshd>
+</metsi>
+</metainfo>
+</metadata>
