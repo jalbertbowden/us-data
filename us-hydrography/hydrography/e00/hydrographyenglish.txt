@@ -1,0 +1,1031 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Instituto Nacional de Estadística Geografía e Informática 
+      Originator: 
+        Government of Canada, Natural Resources Canada, Canada Centre for Remote 
+        Sensing, The Atlas of Canada
+      Originator: U.S. Geological Survey
+      Publication_Date: 200608
+      Title: North American Atlas - Hydrography
+      Geospatial_Data_Presentation_Form: Vector digital data  
+      Publication_Information:
+        Publication_Place: Ottawa, Ontario, Canada
+        Publisher: Government of Canada
+      Online_Linkage:
+        http://geogratis.gc.ca/download/frameworkdata/North_America_Atlas10M/hydrography/
+      Publication_Information:
+        Publication_Place: Aguascalientes, Aguascalientes, Mexico
+        Publisher: 
+          Instituto Nacional de Estadística, Geografía e Informática (INEGI)
+      Online_Linkage: http://antares.inegi.gob.mx/atlas_norteamerica/
+      Publication_Information:
+        Publication_Place: Reston, Virginia, USA
+        Publisher: U.S. Geological Survey
+      Online_Linkage: http://nationalatlas.gov/atlasftp-na.html
+
+  Description:
+    Abstract:
+      A joint venture involving the National Atlas programs in Canada (Natural 
+      Resources Canada), Mexico (Instituto Nacional de Estadística Geografía e 
+      Informática), and the United States (U.S. Geological Survey), as well as 
+      the North American Commission for Environmental Co-operation, has led to 
+      the release (June 2004) of several new products: an updated paper map of 
+      North America, and its associated geospatial data sets and their metadata.  
+      These data sets are available online from each of the partner countries 
+      for download. This data has been revised and re-released in 2006.
+
+      The North American Atlas data are standardized geospatial data sets at 
+      1:10,000,000 scale.  A variety of basic data layers (e.g. roads, 
+      railroads, populated places, political boundaries, hydrography, 
+      bathymetry, sea ice and glaciers) have been integrated so that their 
+      relative positions are correct.  This collection of data sets forms a base 
+      with which other North American thematic data may be integrated.  Any data 
+      outside of Canada, Mexico, and the United States of America included in 
+      the North American Atlas data sets is strictly to complete the context of 
+      the data.
+
+      The North American Atlas - Hydrography data set shows the coastline, 
+      linear hydrographic features, and area hydrographic features in North 
+      America. This data has been revised and re-released in 2006.
+
+      This data set was produced using digital files supplied by Natural 
+      Resources Canada, Instituto Nacional de Estadística Geografía e 
+      Informática, and the U.S. Geological Survey.  
+
+    Purpose:
+      The North American Atlas data are intended for geographic display and 
+      analysis at the national and continental level.  These data should be 
+      displayed and analyzed at scales appropriate for 1:10,000,000-scale data.  
+      No responsibility is assumed by Natural Resources Canada, Instituto 
+      Nacional de Estadística Geografía e Informática, or the U.S. Geological 
+      Survey in the use of these data.
+    Supplemental_Information:
+      The Commission for Environmental Cooperation (CEC) is an international
+      organization created by Canada, Mexico, and the United States of America 
+      under the North American Agreement on Environmental Cooperation (NAAEC).  
+      The CEC was established to address regional environmental concerns, help 
+      prevent potential trade and environmental conflicts, and to promote the 
+      effective enforcement of environmental law.  The Agreement complements the
+      environmental provisions of the North American Free Trade Agreement 
+      (NAFTA).  Further information on the CEC is available from 
+      http://www.cec.org/ or from 
+      >Commission for Environmental Cooperation
+      >393, rue St-Jacques Ouest
+      >Bureau 200
+      >Montréal (Québec)
+      >H2Y 1N9 Canada
+      >
+      >Telephone: 514 350 4300
+      >Facsimile: 514 350 4314
+      >Electronic mail: info@ccemtl.org
+      >
+      All North American Atlas data sets are available in three data formats: 
+      Arc/INFO Export format (e00), ArcView Shapefile, and Geography Markup Language 
+      (GML).
+
+      Although these data are distributed in geographic coordinates, the North 
+      American Atlas Map uses a Lambert Azimuthal Equal Area projection.  The 
+      following parameters were used for the map:
+      >Longitude_of_Projection_Center: -100.00 
+      >Latitude_of_Projection_Center: 45.00 
+      >False_Easting (metres): 0.0 
+      >False_Northing (metres): 0.0 
+      >Semi-major_Axis: 6370997.0 
+      >Denominator_of_Flattening_Ratio: 1.0
+      >Ellipsoid_Name: Sphere 
+      >Units: metres
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 200608
+    Currentness_Reference: Publication date
+
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular 
+
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 152.0 
+      East_Bounding_Coordinate: 4.0
+      North_Bounding_Coordinate: 90.0
+      South_Bounding_Coordinate: -5.0
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None 
+      Theme_Keyword: Hydrography
+      Theme_Keyword: Streams
+      Theme_Keyword: Rivers
+      Theme_Keyword: Lakes
+      Theme_Keyword: Coastline
+      Theme_Keyword: Shoreline
+      Theme_Keyword: Reservoirs
+
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Mid-latitude
+      Place_Keyword: Western Hemisphere
+      Place_Keyword: Northern Hemisphere
+      Place_Keyword: North America
+      Place_Keyword: NAFTA
+      Place_Keyword: North America Free Trade Agreement
+      Place_Keyword: Canada
+      Place_Keyword: Mexico
+      Place_Keyword: United States
+
+  Access_Constraints: None
+  Use_Constraints: 
+    All data for Canada and other areas outside of Mexico and the United 
+    States of America are covered by the Geogratis User Agreement for Digital 
+    Data; see http://geogratis.gc.ca/e_license.html.
+
+    No use constraints are applied to data for Mexico and the United States of 
+    America.  Acknowledgment of the North American Atlas, Instituto Nacional de 
+    Estadística Geografía e Informática, Natural Resources Canada, and (or) the 
+    U.S. Geological Survey would be appreciated in products derived from these 
+    data.
+
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Government of Canada, Natural Resources Canada, Canada Centre for 
+          Remote Sensing, The Atlas of Canada
+      Contact_Position: Atlas of Canada Client Services
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: Room 650-615 Booth Street
+        City: Ottawa
+        State_or_Province: Ontario
+        Country: Canada
+        Postal_Code: K1A 0E9
+      Contact_Facsimile_Telephone: +01 613 947 2410
+      Contact_Electronic_Mail_Address: info@atlas.gc.ca
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jorge Padilla Noriega
+        Contact_Organization: Dirección General de Geografía, INEGI
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: Av Heroe de Nacozari Sur 2301
+        Address: Fracc Jardines del Parque
+        City: Aguascalientes
+        State_or_Province: Aguascalientes
+        Country: Mexico
+        Postal_Code: 20270
+      Contact_Voice_Telephone: 52 449 910 5349
+      Contact_Electronic_Mail_Address: jorge.padilla@inegi.gob.mx
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+        Contact_Person: John Hutchinson
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: USGS EROS Data Center
+        City: Sioux Falls		
+        State_or_Province: South Dakota
+        Country: USA
+        Postal_Code: 57198-0001
+      Contact_Voice_Telephone: 605 594 6049
+      Contact_Facsimile_Telephone: 605 594 6529
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: 
+      Where possible, attribute data were quality controlled by creating 
+      symbolized digital displays or hard copy plots, which were visually 
+      verified with digital or hard copy reference data.  Attribute data that 
+      could not be verified in such a manner were interactively queried to check 
+      for anomalies such as duplication of data in fields requiring unique 
+      values and incorrect feature coding.  Data for areas outside of Canada, 
+      Mexico, and the United States of America are only provided for context;
+      Natural Resources Canada, Instituto Nacional de Estadística Geografía e 
+      Informática, and the U.S. Geological Survey assume no responsibility 
+      for the completeness, accuracy, or presentation of this data.
+  Logical_Consistency_Report: 
+    Topology was built and a quality control of the hydrography polygon data was 
+    done in order to ensure topological polygon structure.  A quality control of 
+    the linear hydrography data was done in order to ensure topological 
+    consistency within each country and across country boundaries.  
+  Completeness_Report:
+    This data set includes hydrography for all of North America as shown at 
+    1:10,000,000 scale.  The data completeness reflects the content of the 
+    source data, the integration done by the cartographers, and the quality 
+    control of the content performed by each country.
+  Positional_Accuracy: 
+    Horizontal_Positional_Accuracy: 
+      Horizontal_Positional_Accuracy_Report: 
+        Positional accuracy of the data is unknown.  Positions are dependent on 
+        the accuracy of the source data and on the result of the generalization 
+        and integration processes.  Data for areas outside of 
+        Canada, Mexico, and the United States of America are only provided for 
+        context; Natural Resources Canada, Instituto Nacional de Estadística 
+        Geografía e Informática, and the U.S. Geological Survey assume no 
+        responsibility for the completeness, accuracy, or presentation of this 
+        data.
+
+  Lineage:
+    Source_Information: 
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: Unpublished material
+          Title: North American Coastline
+          Geospatial_Data_Presentation_Form: Vector digital data     
+      Source_Scale_Denominator: 10,000,000
+      Type_of_Source_Media: Internal file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2003
+        Source_Currentness_Reference: Date of data compilation
+      Source_Citation_Abbreviation: 10M Coastline
+      Source_Contribution: Spatial information
+
+    Source_Information: 
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: Unpublished material
+          Title: 1:7,500,000 Hydrography
+          Geospatial_Data_Presentation_Form: Vector digital data     
+          Publication_Information:
+            Publication_Place: Reston, Virginia, USA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 7,500,000
+      Type_of_Source_Media: Internal file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1995
+        Source_Currentness_Reference: Date of data compilation
+      Source_Citation_Abbreviation: 7.5M USA Hydro
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information: 
+      Source_Citation:
+        Citation_Information:
+          Originator: 
+            Government of Canada, Natural Resources Canada, Canada Centre for 
+            Remote Sensing, The Atlas of Canada 
+          Publication_Date: 2002
+          Title: 1:7,500,000 National Atlas Reference Map Series
+          Geospatial_Data_Presentation_Form: Vector digital data     
+          Publication_Information:
+            Publication_Place: Ottawa, Ontario, Canada
+            Publisher: 
+              Government of Canada, Natural Resources Canada, Canada Centre for 
+              Remote Sensing, The Atlas of Canada
+      Source_Scale_Denominator: 7,500,000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information: 
+          Single_Date/Time:
+            Calendar_Date: 2002
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: 7.5M CA Reference
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information: 
+      Source_Citation:
+        Citation_Information:
+          Originator: Instituto Nacional de Estadística Geografía e Informática
+          Publication_Date: 200407
+          Title: Conjunto de Datos Vectoriales Topográficos escala 1:4,000,000
+          Geospatial_Data_Presentation_Form: Vector digital data     
+          Publication_Information:
+            Publication_Place: Aguascalientes, Aguascalientes, Mexico
+            Publisher: 
+              Instituto Nacional de Estadística, Geografía e Informática (INEGI)      
+      Source_Scale_Denominator: 4000000
+      Type_of_Source_Media: CD-ROM 
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 19930101
+            Ending_Date: 19970401
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: 4M Mexico
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information: 
+      Source_Citation:
+        Citation_Information:
+          Originator: 
+            Government of Canada, Natural Resources Canada, Canada Centre for 
+            Remote Sensing, The Atlas of Canada 
+          Publication_Date: 1985
+          Title: 1:10,000,000 National Atlas of Canada Reference Map Series
+          Geospatial_Data_Presentation_Form: Vector digital data     
+          Publication_Information:
+            Publication_Place: Ottawa, Ontario, Canada
+            Publisher: 
+              Government of Canada, Natural Resources Canada, Canada Centre for 
+              Remote Sensing, The Atlas of Canada
+      Source_Scale_Denominator: 10,000,000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1985
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: 10M CA Reference
+      Source_Contribution: Spatial information
+
+    Source_Information: 
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey 
+          Originator: Instituto Nacional de Estadística Geografía e Informática 
+          Originator: Government of Canada, Natural Resources Canada, Canada Centre for 
+            Remote Sensing, The Atlas of Canada 
+Publication_Date: 200406
+          Title: North Americia Atlas - Hydrography
+          Geospatial_Data_Presentation_Form: Vector digital data     
+          Publication_Information:
+            Publication_Place: Reston, Virginia, USA
+            Publisher: U.S. Geological Survey
+          Publication_Information:
+            Publication_Place: Ottawa, Ontario, Canada
+            Publisher: 
+              Gouvernement du Canada, Ressources naturelles Canada, Centre 
+              canadien de télédétection, Atlas du Canada
+          Publication_Information:
+            Publication_Place: Aguascalientes, Aguascalientes, Mexique
+            Publisher: 
+              Instituto Nacional de Estadística, Geografía e Informática 
+              (INEGI)
+Source_Scale_Denominator: 10,000,000
+      Type_of_Source_Media: Digital
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: Date of publication
+      Source_Citation_Abbreviation: NA_Hydro04
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information: 
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey 
+          Publication_Date: 200301
+          Title: Streams and Waterbodies of the United States
+          Geospatial_Data_Presentation_Form: Vector digital data     
+          Publication_Information:
+            Publication_Place: Reston, Virginia, USA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2,000,000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2002
+        Source_Currentness_Reference: Date of publication
+      Source_Citation_Abbreviation: HY0301
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information: 
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey 
+          Publication_Date: various
+          Title: 1:100,000 scale USGS topographic sheets
+          Geospatial_Data_Presentation_Form: Vector digital data     
+          Publication_Information:
+            Publication_Place: Reston, Virginia, USA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 100,000
+      Type_of_Source_Media: Paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: various
+        Source_Currentness_Reference: Date of data compilation
+      Source_Citation_Abbreviation: 1:100,000 maps
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information: 
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey 
+          Publication_Date: various
+          Title: 1:250,000  scale USGS topographic sheets
+          Geospatial_Data_Presentation_Form: Vector digital data     
+          Publication_Information:
+            Publication_Place: Reston, Virginia, USA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 250,000
+      Type_of_Source_Media: Paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: various
+        Source_Currentness_Reference: Date of data compilation
+      Source_Citation_Abbreviation: 1:250,000 maps
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information: 
+      Source_Citation:
+        Citation_Information:
+          Originator: Instituto Nacional de Estadística Geografía e Informática 
+          Publication_Date: unpublished
+          Title: North Americia Atlas – Hydrography – Mexican Names
+          Geospatial_Data_Presentation_Form: Vector digital data     
+      Source_Scale_Denominator: 10,000,000
+      Type_of_Source_Media: Internal file
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: Date of data compilation
+      Source_Citation_Abbreviation: NA_Hydro04_Mexico_Names
+      Source_Contribution: Attribute information
+
+    Source_Information: 
+      Source_Citation:
+        Citation_Information:
+          Originator: Originator: Government of Canada, Natural Resources Canada, Canada 
+		Centre for Remote Sensing, The Atlas of Canada 
+          Publication_Date: 2003
+          Title: National Scale Frameworks Hydrology - Drainage Network, Canada
+          Geospatial_Data_Presentation_Form: Vector digital data     
+      Series Name: Atlas Frameworks   
+         Publication_Information:
+            Publication_Place: Ottawa, Ontario, Canada
+            Publisher: Government of Canada
+      Source_Scale_Denominator: 1:1,000,000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2003
+        Source_Currentness_Reference: Date of data compilation
+      Source_Citation_Abbreviation: NSFH_2003
+      Source_Contribution: Attribute information
+
+    Source_Information: 
+      Source_Citation:
+        Citation_Information:
+          Originator: Originator: Government of Canada, Natural Resources Canada, Canada 
+		Centre for Remote Sensing, The Atlas of Canada 
+          Publication_Date: 2002
+          Title: 1:7,500,000 National Atlas Reference Map Series
+          Geospatial_Data_Presentation_Form: Vector digital data     
+         Publication_Information:
+            Publication_Place: Ottawa, Ontario, Canada
+            Publisher: Government of Canada, Natural Resources Canada, Canada Centre for 
+		Remote Sensing, The Atlas of Canada
+      Source_Scale_Denominator: 1:7,500,000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2002
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: 7.5M CA Reference
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information: 
+      Source_Citation:
+        Citation_Information:
+          Originator: Government of Canada, Natural Resources Canada, Canada 
+		Centre for Remote Sensing, The Atlas of Canada 
+          Publication_Date: 2004
+          Title: CANADA, UNITED STATES OF AMERICA, ESTADOS UNIDOS MEXICANOS         
+          Geospatial_Data_Presentation_Form: Vector digital data     
+         Publication_Information:
+            Publication_Place: Ottawa, Ontario, Canada
+            Publisher: Government of Canada, Natural Resources Canada, Canada Centre for 
+		Remote Sensing, The Atlas of Canada
+      Source_Scale_Denominator: 10,000,000
+      Type_of_Source_Media: Paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: Publication data
+      Source_Citation_Abbreviation: NA Map 2004
+      Source_Contribution: Spatial and attribute information
+
+    Process_Step:
+      Process_Description:
+        For the U.S. portion of the map, linework from the 1:7,500,000 
+        Hydrography file was generalized and fitted to the coastline by 
+        cartographers at the National Atlas of the United States.  The attribute 
+        for the country was added to the data.
+      Source_Used_Citation_Abbreviation: 7.5M USA Hydro 
+      Source_Used_Citation_Abbreviation: 10M Coastline 
+      Process_Date: 2003
+
+    Process_Step:
+      Process_Description:
+        For the Canadian portion of the map, linework from the 1:7,500,000 
+        National Atlas Reference Map Series was fitted to the coastline by 
+        cartographers at the Atlas of Canada.  The attribute for the country was 
+        added to the data.
+      Source_Used_Citation_Abbreviation: 7.5M CA Reference 
+      Source_Used_Citation_Abbreviation: 10M Coastline 
+      Process_Date: 2003
+
+    Process_Step:
+      Process_Description:
+        Linework from the 1:4,000,000 Topographical Dataset for Mexico was 
+        selected, generalized and fitted to the coastline by cartographers at 
+        the Atlas of Canada.  The attribute for the country was added to the 
+        data.
+      Source_Used_Citation_Abbreviation: 4M Mexico
+      Source_Used_Citation_Abbreviation: 10M Coastline 
+      Process_Date: 2003
+
+    Process_Step:
+      Process_Description:
+        Drainage needed to extend features to the map extent was compiled from 
+        the 1:10,000,000 National Atlas of Canada Reference Map Series data set.  
+        Linework was fitted to the coastline.  The attribute for the country was 
+        added to the data.
+      Source_Used_Citation_Abbreviation: 10M CA Reference
+      Source_Used_Citation_Abbreviation: 10M Coastline 
+      Process_Date: 2003
+
+    Process_Step:
+      Process_Description:
+        Linework was cartographically adjusted along country boundaries to 
+        ensure correct connection of adjoining hydrographic features. 
+      Process_Date: 2004
+
+    Process_Step:
+      Process_Description:
+        Because the linework came from many different sources and scales, a 
+        final cartographic review was done to the full hydrographic file to 
+        ensure cartographic compatibility at 1:10,000,000 scale.  A quality 
+        control of the linear hydrography data was done in order to ensure 
+        topological consistency within each country and across country 
+        boundaries.  Polygon topology was created so the area hydrography 
+        features could be shown as polygons and an area fill could be used for 
+        cartographic representation.  Each country then performed a final 
+        cartographic check to verify the selection and position of the linework.  
+        The attributes were also verified.
+      Process_Date: 2004
+
+    Process_Step:
+      Process_Description:
+        Using the original 1:10,000,000 hydro files (NA_Hydro04) the USA hydro feature lines 
+	(lakes and rivers) were refined using the 1:2,000,000 hydro data files (HY0301) as a 
+	guide. Some spatial features were added and others were corrected. Names were taken 
+	from the 1:2,000,000 data (HY0301), then researched and tagged to the geometry based 
+	on 1:100,000 scale base maps. For Alaska, the names were taken from the 1:250,000 
+	scale sheets.
+      Source_Used_Citation_Abbreviation: NA_Hydro04
+      Source_Used_Citation_Abbreviation: HY0301 
+      Source_Used_Citation_Abbreviation: 1:100,000 Maps 
+      Source_Used_Citation_Abbreviation: 1:250,000 Maps 
+      Process_Date: 2004
+
+    Process_Step:
+      Process_Description:
+Using the original 1:10,000,000 hydro files (NA_Hydro04) the Mexican hydro feature lines (lakes and rivers) were tagged with names taken from the Mexico source data. 
+      Source_Used_Citation_Abbreviation: NA_Hydro04
+      Source_Used_Citation_Abbreviation: NA_Hydro04_Mexico_Names  
+      Process_Date: 2004
+
+    Process_Step:
+      Process_Description:
+Using the original 1:10,000,000 hydro files (NA_Hydro04) which had the names for the hydro features in Mexico added, the data for the USA was replaced with the revised and named American data. Hydro features were adjusted along the border in Canada to match the changes in the USA. Then the Canadian hydro feature lines (lakes and rivers) were tagged with names taken from the 1:1,000,000 National Scale Frameworks Hydrology file (NSFH_2003), the 1:10,000,000 paper map and the 1:7,500,000 reference map data. The quality control of the data was performed in order to check the attributes and geometry, and to make corrections before release.
+      Source_Used_Citation_Abbreviation: NA_Hydro04
+      Source_Used_Citation_Abbreviation: NSFH_2003 
+      Source_Used_Citation_Abbreviation: 7.5M CA Reference  
+      Source_Used_Citation_Abbreviation: NA Map 2004 
+      Process_Date: 2004, 2006
+
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information: 
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Complete chain
+      Point_and_Vector_Object_Count: 11536
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 4015
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic: 
+      Latitude_Resolution: 0.000001 
+      Longitude_Resolution: 0.000001
+      Geographic_Coordinate_Units: Decimal degrees 
+    Geodetic_Model: 
+      Horizontal_Datum_Name: North American Datum of 1983 
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Hydrographic line
+      Entity_Type_Definition: A line representing a hydrographic feature.
+      Entity_Type_Definition_Source: North American Atlas GIS Group 
+    Attribute:
+      Attribute_Label: UIDENT
+      Attribute_Definition:
+        The unique identifier.  A unique number that is assigned to each feature 
+        in the North American Atlas.  The last two digits of the identifier 
+        are a suffix indicating the map layer.
+      Attribute_Definition_Source: North American Atlas GIS Group
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1052901
+          Range_Domain_Maximum: 2178101
+    Attribute:
+      Attribute_Label: Type
+      Attribute_Definition: The type of hydrographic line.
+      Attribute_Definition_Source: North American Atlas GIS Group
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 15
+          Enumerated_Domain_Value_Definition: The line represents the coastline.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 16
+          Enumerated_Domain_Value_Definition: 
+            The line represents the shoreline of a lake.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 17
+          Enumerated_Domain_Value_Definition: 
+            The line represents a river or stream.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 18
+          Enumerated_Domain_Value_Definition: 
+            The line represents an intermittent stream.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 89
+          Enumerated_Domain_Value_Definition: 
+            The line represents the hemisphere dividing line.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+    Attribute:
+      Attribute_Label: Country
+      Attribute_Definition: 
+        The country in which the hydrographic feature exists.
+      Attribute_Definition_Source: North American Atlas GIS Group
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CAN
+          Enumerated_Domain_Value_Definition: The feature is in Canada.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MEX
+          Enumerated_Domain_Value_Definition: The feature is in Mexico.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+        Enumerated_Domain:
+          Enumerated_Domain_Value: USA
+          Enumerated_Domain_Value_Definition: 
+            The feature is in the United States of America.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+        Enumerated_Domain:
+          Enumerated_Domain_Value: FN
+          Enumerated_Domain_Value_Definition: 
+            The feature is outside of Canada, Mexico, and the United States of 
+            America.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CAN USA
+          Enumerated_Domain_Value_Definition: 
+            The feature coincides with a political boundary.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MEX USA
+          Enumerated_Domain_Value_Definition:
+            The feature coincides with a political boundary.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MEX FN
+          Enumerated_Domain_Value_Definition: 
+            The feature coincides with a political boundary.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+    Attribute:
+      Attribute_Label: NameEn
+      Attribute_Definition:
+        The official name of the hydrographic feature in English.  If the 
+        feature has an official name in two languages, both names are included 
+        in the third name field.  For example: St. Lawrence River (NameEn), 
+        flueve St-Laurent (NameFr), and St. Lawrence River/flueve St-Laurent 
+        (NameSp).
+      Attribute_Definition_Source: North American Atlas GIS Group
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: The Canadian Geographical Names Data Base
+          Codeset_Source: 
+            The Canadian Permanent Committee on Geographical Names
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Geographic Names Information System
+          Codeset_Source: U.S. Board on Geographic Names
+    Attribute:
+      Attribute_Label: NameSp
+      Attribute_Definition: 
+        The official name of the hydrographic feature in Spanish. If the 
+        feature has an official name in two languages, both names are included 
+        in the third name field.  For example: St. Lawrence River (NameEn), 
+        flueve St-Laurent (NameFr), and St. Lawrence River/flueve St-Laurent 
+        (NameSp).
+      Attribute_Definition_Source: North American Atlas GIS Group
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Toponymic data set 1:4,000,000
+          Codeset_Source: 
+            Instituto Nacional de Estadística Geografía e Informática 
+            (INEGI)
+    Attribute:
+      Attribute_Label: NameFr
+      Attribute_Definition: 
+        The official name of the hydrographic feature in French. If the 
+        feature has an official name in two languages, both names are included 
+        in the third name field.  For example: St. Lawrence River (NameEn), 
+        flueve St-Laurent (NameFr), and St. Lawrence River/flueve St-Laurent 
+        (NameSp).
+      Attribute_Definition_Source: North American Atlas GIS Group
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: The Canadian Geographical Names Data Base
+          Codeset_Source: 
+            The Canadian Permanent Committee on Geographical Names
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Hydrographic area
+      Entity_Type_Definition: An area representing a hydrographic feature.
+      Entity_Type_Definition_Source: North American Atlas GIS Group 
+    Attribute:
+      Attribute_Label: UIDENT
+      Attribute_Definition:
+        The unique identifier.  A unique number that is assigned to each feature 
+        in the North American Atlas.  The last two digits of the identifier 
+        are a suffix indicating the map layer.
+      Attribute_Definition_Source: North American Atlas GIS Group
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 102
+          Range_Domain_Maximum: 563902
+    Attribute:
+      Attribute_Label: Type
+      Attribute_Definition: 
+        The type of hydrographic area, or whether the area is represents land.
+      Attribute_Definition_Source: North American Atlas GIS Group
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 15
+          Enumerated_Domain_Value_Definition: The area represents the landmass.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 16
+          Enumerated_Domain_Value_Definition: The area represents a lake.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 18
+          Enumerated_Domain_Value_Definition: The area represents a reservoir.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+    Attribute:
+      Attribute_Label: Country
+      Attribute_Definition: The country in which the hydrographic area exists.
+      Attribute_Definition_Source: North American Atlas GIS Group
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CAN
+          Enumerated_Domain_Value_Definition: The area is in Canada.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MEX
+          Enumerated_Domain_Value_Definition: The area is in Mexico.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+        Enumerated_Domain:
+          Enumerated_Domain_Value: USA
+          Enumerated_Domain_Value_Definition: 
+            The area is in the United States of America.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+        Enumerated_Domain:
+          Enumerated_Domain_Value: FN
+          Enumerated_Domain_Value_Definition: 
+            The area is outside of Canada, Mexico, and the United States of 
+            America.
+          Enumerated_Domain_Value_Definition_Source: 
+            North American Atlas GIS Group
+    Attribute:
+      Attribute_Label: NameEn
+      Attribute_Definition:
+        The official name of the hydrographic feature in English.  If the 
+        feature has an official name in two languages, both names are included 
+        in the third name field.  For example: St. Lawrence River (NameEn), 
+        flueve St-Laurent (NameFr), and St. Lawrence River/flueve St-Laurent 
+        (NameSp).
+      Attribute_Definition_Source: North American Atlas GIS Group
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: The Canadian Geographical Names Data Base
+          Codeset_Source: 
+            The Canadian Permanent Committee on Geographical Names
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Geographic Names Information System
+          Codeset_Source: U.S. Board on Geographic Names
+    Attribute:
+      Attribute_Label: NameSp
+      Attribute_Definition: 
+        The official name of the hydrographic feature in Spanish. If the 
+        feature has an official name in two languages, both names are included 
+        in the third name field.  For example: St. Lawrence River (NameEn), 
+        flueve St-Laurent (NameFr), and St. Lawrence River/flueve St-Laurent 
+        (NameSp).
+      Attribute_Definition_Source: North American Atlas GIS Group
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Toponymic data set 1:4,000,000
+          Codeset_Source: 
+            Instituto Nacional de Estadística Geografía e Informática 
+            (INEGI)
+    Attribute:
+      Attribute_Label: NameFr
+      Attribute_Definition: 
+        The official name of the hydrographic feature in French. If the 
+        feature has an official name in two languages, both names are included 
+        in the third name field.  For example: St. Lawrence River (NameEn), 
+        flueve St-Laurent (NameFr), and St. Lawrence River/flueve St-Laurent 
+        (NameSp).
+      Attribute_Definition_Source: North American Atlas GIS Group
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: The Canadian Geographical Names Data Base
+          Codeset_Source: 
+            The Canadian Permanent Committee on Geographical Names
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+  Government of Canada, Natural Resources Canada, Earth Sciences Sector, Data 
+ Management and Dissemination Branch
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: Room 650-615 Booth Street
+        City: Ottawa
+        State_or_Province: Ontario
+        Country: Canada
+        Postal_Code: K1A 0E9
+      Contact_Facsimile_Telephone: +01 613 947 2410
+      Contact_Electronic_Mail_Address: info@GeoGratis.gc.ca
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: INEGI
+        Contact_Person: Jose Luis Ornelas de Anda
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: Avenida Héroe de Nacozari Sur 2301
+        Address: Fraccionamiento Jardines del Parque
+        City: Aguascalientes
+        State_or_Province: Aguascalientes
+        Country: Mexico
+        Postal_Code: 20270
+      Contact_Voice_Telephone: 52 449 910 5300 ext 5856
+      Contact_Electronic_Mail_Address: jose.ornelas@inegi.gob.mx
+      Hours_of_Service: 8:30 - 16:00 (CST)
+Distribution_Information:
+  Distributor: 
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: EROS Data Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 47914 252nd Street
+        City: Sioux Falls
+        State_or_Province: South Dakota
+        Country: USA
+        Postal_Code: 57198-0001
+      Contact_Voice_Telephone: 800 252 4547
+      Contact_Voice_Telephone: 605 594 6151
+      Contact_TDD/TTY_Telephone: 605 594 6933
+      Contact_Facsimile_Telephone: 605 594 6589
+      Contact_Electronic_Mail_Address: custserv@usgs.gov
+
+  Distribution_Liability: 
+    Although these data have been processed successfully on computer systems at 
+    Natural Resources Canada, Instituto Nacional de Estadística Geografía e 
+    Informática, and the U.S. Geological Survey, no warranty expressed or 
+    implied is made by these agencies regarding the utility of the data on any 
+    other system, nor shall the act of distribution constitute any such 
+    warranty.  No responsibility is assumed by these agencies in the use of 
+    these data.  
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ARCE
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: 
+                http://geogratis.gc.ca/download/frameworkdata/North_America_Atlas10M/hydrography/
+              Network_Resource_Name: http://antares.inegi.gob.mx/atlas_norteamerica/
+              Network_Resource_Name: http://nationalatlas.gov/atlasftp-na.html
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: GML
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: 
+                http://geogratis.gc.ca/download/frameworkdata/North_America_Atlas10M/hydrography/
+              Network_Resource_Name: http://antares.inegi.gob.mx/atlas_norteamerica/
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: 
+                http://geogratis.gc.ca/download/frameworkdata/North_America_Atlas10M/hydrography/
+              Network_Resource_Name: http://antares.inegi.gob.mx/atlas_norteamerica/
+              Network_Resource_Name: http://nationalatlas.gov/atlasftp-na.html
+    Fees:
+      Gratuit-Free
+
+Metadata_Reference_Information:
+  Metadata_Date: 200608
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Government of Canada, Natural Resources Canada, Canada Centre for 
+          Remote Sensing, The Atlas of Canada
+      Contact_Position: Atlas of Canada Client Services
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: Room 650-615 Booth Street
+        City: Ottawa
+        State_or_Province: Ontario
+        Country: Canada
+        Postal_Code: K1A 0E9
+      Contact_Facsimile_Telephone: +01 613 947 2410
+      Contact_Electronic_Mail_Address: info@atlas.gc.ca
+ 
+  Metadata_Contact:
+   Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Dirección General de Geografía, INEGI
+      Contact_Position: Administrador de Metadatos Geográficos
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: Av Heroe de Nacozari Sur 2301
+        Address: Fracc Jardines del Parque
+        City: Aguascalientes
+        State_or_Province: Aguascalientes
+        Country: Mexico
+        Postal_Code: 20270
+      Contact_Voice_Telephone: 52 449 910 53 00 ext 5856
+      Contact_Electronic_Mail_Address: rafael.arrioja@inegi.gob.mx
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Peg Rawson 
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 561 National Center
+        City: Reston
+        State_or_Province: Virginia
+        Country: USA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703 648 4183
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: 
+    FGDC Content Standards for Digital Geospatial Metadata 
+  Metadata_Standard_Version: FGDC-STD-001-1998
