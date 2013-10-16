@@ -1,0 +1,697 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: U.S. Geological Survey, Water Resources of the United States
+        Publication_Date: 201007
+        Title: Estimated Use of Water in the United States, 2005
+        Geospatial_Data_Presentation_Form: Database
+        Publication_Information:
+          Publication_Place: Reston, VA
+          Publisher: National Atlas of the United States
+        Online_Linkage: <http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater>
+    Description:
+      Abstract:
+        This map layer portrays the estimated use of water in counties in the
+        United States, in the year 2005.  The map layer was extracted from
+        the U.S. Geological Survey Water Resources of the United States water
+        use database, which is a long term data set that documents
+        information on water use since 1950.
+
+        This map layer contains information about water use for public
+        supply, industrial, irrigation, mining, livestock, and
+        thermoelectric power, by county throughout the United States.
+      Purpose:
+        These data are intended for geographic display and analysis at the
+        national level, and for large regional areas.  The data should be
+        displayed and analyzed at scales appropriate for 1:2,000,000-scale
+        data.  No responsibility is assumed by the U.S. Geological Survey or
+        the National Atlas of the United States in the use of these data.
+      Supplemental_Information:
+        Data were drawn from Circular 1344 which serves as one of the few
+        sources of information about regional or national trends in water
+        withdrawals.  Circular 1344 provides information on eight categories
+        of water use: public supply, domestic, irrigation, livestock,
+        aquaculture, industrial, mining, and thermoelectric power.
+
+        The complete report can be found at
+        <http://pubs.usgs.gov/circ/1344/>
+
+        Water-use data compiled by the States are stored in the USGS
+        Aggregate Water Use Data System (AWUDS).  AWUDS is designed to store
+        both mandatory and optional data elements.  The system allows users
+        to input data, perform quality assurance and quality control, and
+        produce tables of water-use data for 1985, 1990, 1995, 2000, and 2005.
+        These water-use data are used by USGS, other agencies, organizations,
+        academic institutions, and the public for research, water-management
+        decisions, trend analysis, and water-demand forecasting.
+
+        To create maps that are similar to the maps in the National Atlas
+        <http://nationalatlas.gov/natlas/NatlasStart.asp>, wu2000t.dbf can be
+        joined to the 2001 county boundaries available from the National
+        Atlas raw data download page,
+        <http://nationalatlas.gov/atlasftp.html?openChapters=chpbound#chpbound>.
+    
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Range_of_Dates/Times:
+          Beginning_Date: 20050101
+          Ending_Date: 20051231
+      Currentness_Reference: Ground condition
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: As needed
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: 170
+        East_Bounding_Coordinate: -64
+        North_Bounding_Coordinate: 72
+        South_Bounding_Coordinate: 17
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: Farming
+        Theme_Keyword: Geoscientific Information
+        Theme_Keyword: Inland Waters
+        Theme_Keyword: Utilities/Communication
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: Water
+        Theme_Keyword: Withdrawals
+        Theme_Keyword: Ground
+        Theme_Keyword: Surface
+        Theme_Keyword: Fresh
+        Theme_Keyword: Saline
+        Theme_Keyword: Public Supply
+        Theme_Keyword: Industrial
+        Theme_Keyword: Irrigation
+        Theme_Keyword: Mining
+        Theme_Keyword: Thermoelectric Power
+        Theme_Keyword: Livestock
+
+      Place:
+        Place_Keyword_Thesaurus: None
+        Place_Keyword: United States
+        Place_Keyword: Alabama
+        Place_Keyword: Alaska
+        Place_Keyword: Arizona
+        Place_Keyword: Arkansas
+        Place_Keyword: California
+        Place_Keyword: Colorado
+        Place_Keyword: Connecticut
+        Place_Keyword: Delaware
+        Place_Keyword: District of Columbia
+        Place_Keyword: Florida
+        Place_Keyword: Georgia
+        Place_Keyword: Hawaii
+        Place_Keyword: Idaho
+        Place_Keyword: Illinois
+        Place_Keyword: Indiana
+        Place_Keyword: Iowa
+        Place_Keyword: Kansas
+        Place_Keyword: Kentucky
+        Place_Keyword: Louisiana
+        Place_Keyword: Maine
+        Place_Keyword: Maryland
+        Place_Keyword: Massachusetts
+        Place_Keyword: Michigan
+        Place_Keyword: Minnesota
+        Place_Keyword: Mississippi
+        Place_Keyword: Missouri
+        Place_Keyword: Montana
+        Place_Keyword: Nebraska
+        Place_Keyword: Nevada
+        Place_Keyword: New Hampshire
+        Place_Keyword: New Jersey
+        Place_Keyword: New Mexico
+        Place_Keyword: New York
+        Place_Keyword: North Carolina
+        Place_Keyword: North Dakota
+        Place_Keyword: Ohio
+        Place_Keyword: Oklahoma
+        Place_Keyword: Oregon
+        Place_Keyword: Pennsylvania
+        Place_Keyword: Rhode Island
+        Place_Keyword: South Carolina
+        Place_Keyword: South Dakota
+        Place_Keyword: Tennessee
+        Place_Keyword: Texas
+        Place_Keyword: Utah
+        Place_Keyword: Vermont
+        Place_Keyword: Virginia
+        Place_Keyword: Washington
+        Place_Keyword: West Virginia
+        Place_Keyword: Wisconsin
+        Place_Keyword: Wyoming
+        Place_Keyword: Puerto Rico
+        Place_Keyword: U.S. Virgin Islands
+        Place_Keyword: Virgin Islands
+        Place_Keyword: USA
+
+    Access_Constraints: None
+    Use_Constraints:
+      None.  Acknowledgment of the U.S. Geological Survey and (or) the
+      National Atlas of the United States of America would be appreciated in
+      products derived from these data.
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Water-Use Information Team
+          Contact_Organization: USGS Water Resources of the United States
+        Contact_Address:
+          Address_Type: Mailing and physical address
+          Address: University of Memphis
+          Address: Ground Water Institute
+          Address: 300 Administration Bldg.
+          City: Memphis
+          State_or_Province: TN
+          Postal_Code: 38152-2189
+          Country: USA
+        Contact_Voice_Telephone: 901-678-4135
+        Contact_Electronic_Mail_Address: gwimail@memphis.edu
+    Data_Set_Credit:
+      This map layer was developed and is maintained by USGS Water Resources
+      of the United States personnel with help from Federal, State, and local
+      agencies and private individuals.
+    Native_Data_Set_Environment: Microsoft Excel
+    Cross_Reference:
+      Citation_Information:
+        Originator: National Atlas of the United States
+        Publication_Date: 200509
+        Title: Estimated Use of Water in the United States, 2000
+        Publication_Information:
+          Publication_Place: Reston, VA
+          Publisher: National Atlas of the United States
+        Online_Linkage: <http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater>
+    Cross_Reference:
+      Citation_Information:
+        Originator: National Atlas of the United States
+        Publication_Date: 200512
+        Title: Estimated Use of Water in the United States, 1995
+        Publication_Information:
+          Publication_Place: Reston, VA
+          Publisher: National Atlas of the United States
+        Online_Linkage: <http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater>
+    Cross_Reference:
+      Citation_Information:
+        Originator: National Atlas of the United States
+        Publication_Date: 200603
+        Title: Estimated Use of Water in the United States, 1990
+        Publication_Information:
+          Publication_Place: Reston, VA
+          Publisher: National Atlas of the United States
+        Online_Linkage: <http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater>
+    Cross_Reference:
+      Citation_Information:
+        Originator: National Atlas of the United States
+        Publication_Date: 200603
+        Title: Estimated Use of Water in the United States, 1985
+        Publication_Information:
+          Publication_Place: Reston, VA
+          Publisher: National Atlas of the United States
+        Online_Linkage: <http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater>
+
+  Data_Quality_Information:
+    Attribute_Accuracy:
+      Attribute_Accuracy_Report:
+        AWUDS quality control checks were performed to check for outliers and
+        other data discrepancies.  Extensive manual checks were made to
+        check for unexplained trends or data values, and corrections were
+        made as necessary.
+    Logical_Consistency_Report: No tests for logical consistency were performed on this map layer.
+    Completeness_Report:
+      This map layer contains information on the estimated use of ground
+      water, surface water, fresh water, saline water and total water use,
+      for public supply, industrial, irrigation, mining, livestock, and
+      thermoelectric power.  Statistics are included for the 50 United
+      States, the District of Columbia, Puerto Rico, and the U.S. Virgin
+      Islands.
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey, Water Resources of the United States
+            Publication_Date: 2009
+            Title: AWUDS database
+            Online_Linkage: <http://water.usgs.gov/watuse/data/2005/index.html>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Range_of_Dates/Times:
+              Beginning_Date: 20050101
+              Ending_Date: 20051231
+          Source_Currentness_Reference: Ground condition
+        Source_Citation_Abbreviation: AWUDS
+        Source_Contribution: Spatial and attribute information
+      Process_Step:
+        Process_Description:
+          The AWUDS data were downloaded as an Excel spreadsheet with data for
+          public supply, industrial, irrigation, livestock, mining,
+          thermoelectric power, and totals for various sources.  Minor edits
+          were made and the file was saved as a dBASE IV table.
+        Source_Used_Citation_Abbreviation: AWUDS
+        Process_Date: 201006
+
+  Spatial_Data_Organization_Information:
+    Indirect_Spatial_Reference:
+      U.S. Department of Commerce, 1987, Codes for the Identification of the
+      States, the District of Columbia and the Outlying Areas of the United
+      States, and Associated Areas (FIPS 5-2): Washington, DC, National
+      Institute of Standards and Technology.
+
+      U.S. Department of Commerce, 1990, Counties and Equivalent Entities of
+      the United States, Its Possessions, and Associated Areas (FIPS 6-4):
+      Washington, DC, National Institute of Standards and Technology.
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Estimated water use by county (described by wu2005t.dbf)
+        Entity_Type_Definition:
+          Estimates of ground water, surface water, fresh water, saline
+          water, and total water use for public supply, industrial,
+          irrigation, mining, livestock, and thermoelectric power.
+        Entity_Type_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Fips
+        Attribute_Definition:
+          The 5-digit State and county Federal Information Processing
+          Standard (FIPS) code for the area.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name:
+              Counties and Equivalent Entities of the United States, Its
+              Possessions, and Associated Areas, FIPS 6-4, 1990
+            Codeset_Source:
+              U.S. Department of Commerce, National Institute of Standards
+              and Technology
+      Attribute:
+        Attribute_Label: County
+        Attribute_Definition:
+          The name of the county or county equivalent for which estimated
+          water use is provided.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name:
+              Counties and Equivalent Entities of the United States, Its
+              Possessions, and Associated Areas, FIPS 6-4, 1990.
+            Codeset_Source:
+              U.S. Department of Commerce, National Institute of Standards
+              and Technology
+      Attribute:
+        Attribute_Label: State
+        Attribute_Definition: The 2-character FIPS code of the State or State equivalent.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name:
+              Codes for the Identification of the States, the District of
+              Columbia and the Outlying Areas of the United States, and
+              Associated Areas, FIPS 5-2.
+            Codeset_Source:
+              U.S. Department of Commerce, National Institute of Standards
+              and Technology
+      Attribute:
+        Attribute_Label: Ps-wgwfr
+        Attribute_Definition:
+          The estimated total ground water withdrawal of fresh water for
+          public supply, in millions of gallons per day.  A value of 0.00 may
+          indicate no usage, usage of less than 0.01 Mgal/day, or that usage
+          information is unavailable.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 400.01
+      Attribute:
+        Attribute_Label: Ps-wswfr
+        Attribute_Definition:
+          The estimated total surface water withdrawal of fresh water for
+          public supply, in millions of gallons per day. A value of 0.00 may
+          indicate no usage, usage of less than 0.01 Mgal/day, or that usage
+          information is unavailable.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 1528.95
+      Attribute:
+        Attribute_Label: Ps-wfrto
+        Attribute_Definition:
+          The estimated total ground water and surface water withdrawal of
+          fresh water for public supply, in millions of gallons per day.  A
+          value of 0.00 may indicate no usage, usage of less than
+          0.01 Mgal/day, or that usage information is unavailable.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 1859.63
+      Attribute:
+        Attribute_Label: In-wfrto
+        Attribute_Definition:
+          The estimated total self-supplied withdrawal of fresh water for
+          industrial use, in millions of gallons per day.  A value of 0.00
+          may indicate no usage, usage of less than 0.01 Mgal/day, or that
+          usage information is unavailable.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 1200.66
+      Attribute:
+        Attribute_Label: In-wsato
+        Attribute_Definition:
+          The estimated total self-supplied withdrawal of saline water for
+          industrial use, in millions of gallons per day.  A value of 0.00
+          may indicate no usage, usage of less than 0.01 Mgal/day, or that
+          usage information is unavailable.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 645.05
+      Attribute:
+        Attribute_Label: In-wtotl
+        Attribute_Definition:
+          The estimated total self-supplied withdrawal of fresh water and
+          saline water for industrial use, in millions of gallons per day.  A
+          value of 0.00 may indicate no usage, usage of less than
+          0.01 Mgal/day, or that usage information is unavailable.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 1200.66
+      Attribute:
+        Attribute_Label: IR-wgwfr
+        Attribute_Definition:
+          The estimated ground water withdrawal of fresh water for
+          irrigation, in millions of gallons per day.  A value of 0.00 may
+          indicate no usage, usage of less than 0.01 Mgal/day, or that usage
+          information is unavailable.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 986.45
+      Attribute:
+        Attribute_Label: IR-wswfr
+        Attribute_Definition:
+          The estimated surface water withdrawal of fresh water for
+          irrigation, in millions of gallons per day.  A value of 0.00 may
+          indicate no usage, usage of less than 0.01 Mgal/day, or that usage
+          information is unavailable.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 2076.68
+      Attribute:
+        Attribute_Label: IR-wfrto
+        Attribute_Definition:
+          The estimated total withdrawal of fresh water for irrigation, in
+          millions of gallons per day.  A value of 0.00 may indicate no
+          usage, usage of less than 0.01 Mgal/day, or that usage information
+          is unavailable.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 2698.72
+      Attribute:
+        Attribute_Label: Ls-wfrto
+        Attribute_Definition:
+          The estimated total ground water and surface water withdrawal of
+          fresh water for livestock, in millions of gallons per day.  A value
+          of 0.00 may indicate either no usage or usage of less than
+          0.01 Mgal/day.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: No estimate of water use is available.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 40.96
+      Attribute:
+        Attribute_Label: Mi-wfrto
+        Attribute_Definition:
+          The estimated total withdrawal of fresh water for mining, in
+          millions of gallons per day.  A value of 0.00 may indicate either
+          no usage or usage of less than 0.01 Mgal/day.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: No estimate of water use is available.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 170.54
+      Attribute:
+        Attribute_Label: Mi-wsato
+        Attribute_Definition:
+          The estimated total withdrawal of saline water for mining, in
+          millions of gallons per day.  A value of 0.00 may indicate either
+          no usage or usage of less than 0.01 Mgal/day.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: No estimate of water use is available.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 174.68
+      Attribute:
+        Attribute_Label: Mi-wtotl
+        Attribute_Definition:
+          The estimated total withdrawal of fresh water and saline water for
+          mining, in millions of gallons per day.  A value of 0.00 may
+          indicate either no usage or usage of less than 0.01 Mgal/day.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: -9999
+            Enumerated_Domain_Value_Definition: No estimate of water use is available.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 175.31
+      Attribute:
+        Attribute_Label: Pt-wfrto
+        Attribute_Definition:
+          The estimated total withdrawal of fresh water for thermoelectric
+          power, in millions of gallons per day.  A value of 0.00 may
+          indicate no usage, usage of less than 0.01 Mgal/day, or that usage
+          information is unavailable.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 2592
+      Attribute:
+        Attribute_Label: Pt-wsato
+        Attribute_Definition:
+          The estimated total withdrawal of saline water for thermoelectric
+          power, in millions of gallons per day.  A value of 0.00 may
+          indicate no usage, usage of less than 0.01 Mgal/day, or that usage
+          information is unavailable.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 3470.7
+      Attribute:
+        Attribute_Label: Pt-wtotl
+        Attribute_Definition:
+          The estimated total withdrawals of fresh water and saline water for
+          thermoelectric power, in millions of gallons per day.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 3470.7
+      Attribute:
+        Attribute_Label: To-wgwfr
+        Attribute_Definition:
+          The estimated total ground water withdrawals of fresh water for
+          all categories, in millions of gallons per day.  Totals may include
+          null values (unknowns) for domestic, livestock, or mining use.
+          These categories generally represent negligible amounts of water
+          use for a county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 1184.12
+      Attribute:
+        Attribute_Label: To-wgwsa
+        Attribute_Definition:
+          The estimated total ground water withdrawal of saline water for
+          all categories, in millions of gallons per day.  Totals may include
+          null values (unknowns) for domestic, livestock, or mining use.
+          These categories generally represent negligible amounts of water
+          use for a county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 1380.19
+      Attribute:
+        Attribute_Label: To-wgwto
+        Attribute_Definition:
+          The estimated total ground water withdrawal of fresh water and
+          saline water for all categories, in millions of gallons per day.
+          Totals may include null values (unknowns) for domestic, livestock,
+          or mining use.  These categories generally represent negligible
+          amounts of water use for a county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 1557.65
+      Attribute:
+        Attribute_Label: To-wswfr
+        Attribute_Definition:
+          The estimated total surface water withdrawal of fresh water for all
+          categories, in millions of gallons per day.  Totals may include
+          null values (unknowns) for domestic, livestock, or mining use.
+          These categories generally represent negligible amounts of water
+          use for a county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 3124.91
+      Attribute:
+        Attribute_Label: To-wswsa
+        Attribute_Definition:
+          The estimated total surface water withdrawal of saline water for
+          all categories, in millions of gallons per day.  Totals may include
+          null values (unknowns) for domestic, livestock, or mining use.
+          These categories generally represent negligible amounts of water
+          use for a county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 3470.71
+      Attribute:
+        Attribute_Label: To-wswto
+        Attribute_Definition:
+          The estimated total surface water withdrawal of fresh water and
+          saline water for all categories, in millions of gallons per day.
+          Totals may include null values (unknowns) for domestic, livestock,
+          or mining use.  These categories generally represent negligible
+          amounts of water use for a county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 3978.63
+      Attribute:
+        Attribute_Label: To-wfrto
+        Attribute_Definition:
+          The estimated total withdrawal of fresh water for all categories, in
+          millions of gallons per day.  Totals may include null values
+          (unknowns) for domestic, livestock, or mining use.  These categories
+          generally represent negligible amounts of water use for a county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 3251.83
+      Attribute:
+        Attribute_Label: To-wsato
+        Attribute_Definition:
+          The estimated total withdrawal of saline water for all categories,
+          in millions of gallons per day.  Totals may include null values
+          (unknowns) for domestic, livestock, or mining use.  These
+          categories generally represent negligible amounts of water use for
+          a county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 3472.98
+      Attribute:
+        Attribute_Label: To-wtotl
+        Attribute_Definition:
+          The estimated total withdrawal of fresh water and saline water for
+          all categories, in millions of gallons per day.  Totals may include
+          null values (unknowns) for domestic, livestock, or mining use.
+          These categories generally represent negligible amounts of water
+          use for a county.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00
+            Range_Domain_Maximum: 4085.08
+
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: Earth Science Information Center, U.S. Geological Survey
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: 507 National Center
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Voice_Telephone: 703-648-5920
+        Contact_Instructions:
+          In addition to the address above there are other ESIC offices
+          throughout the country.  A full list of these offices is at
+          <http://ask.usgs.gov/esic_index.html>.
+
+    Distribution_Liability:
+      Although these data have been processed successfully on a computer
+      system at the U.S. Geological Survey, no warranty expressed or implied
+      is made by the U.S. Geological Survey regarding the utility of the data
+      on any other system, nor shall the act of distribution constitute any
+      such warranty.  No responsibility is assumed by the U.S. Geological
+      Survey in the use of these data.
+
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: dBASE IV file
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater>
+      Fees: There is no charge for the map layer.
+
+  Metadata_Reference_Information:
+    Metadata_Date: 20100707
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Terry Higgins	
+          Contact_Organization: National Atlas of the United States
+        Contact_Address:
+          Address_Type: Mailing and physical address
+          Address: 1400 Independence Road
+          Address: MS 760
+          City: Rolla
+          State_or_Province: MO
+          Postal_Code: 65401
+          Country: USA
+        Contact_Voice_Telephone: 573-308-3592
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+    Metadata_Standard_Name: FGDC Content Standard For Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Security_Information:
+      Metadata_Security_Classification_System: None
+      Metadata_Security_Classification: Unclassified
+      Metadata_Security_Handling_Description: None
+
+
+
