@@ -1,0 +1,1966 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: USGS; Eastern Energy Team; John Tully (comp.)
+      Publication_Date: 200108
+      Title: Coal Fields of the United States
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: U.S. Geological Survey
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+
+  Description: 
+    Abstract:
+      This data set shows the coal fields of Alaska and the conterminous United 
+      States.  Most of the material for the conterminous United States was 
+      collected from James Trumbull's "Coal Fields of the United States, 
+      Conterminous United States" map (sheet 1, 1960).  The Gulf Coast region 
+      was updated using generalized, coal-bearing geology obtained from State 
+      geologic maps.  The Alaska coal fields were collected from Farrell 
+      Barnes's "Coal Fields of the United States, Alaska" map (sheet 2, 1961).  
+    Purpose:
+      These data are intended for geographic display and analysis at the 
+      National level, and for large regional areas.  The data should be 
+      displayed and analyzed at scales appropriate for 1:5,000,000-scale data.  
+      No responsibility is assumed by the U.S. Geological Survey in the use of 
+      these data.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 200108
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -176.000
+      East_Bounding_Coordinate: -66.000
+      North_Bounding_Coordinate: 70.981
+      South_Bounding_Coordinate: 26.000
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: coal fields
+      Theme_Keyword: Eastern Energy Team
+      Theme_Keyword: energy
+      Theme_Keyword: power
+      Theme_Keyword: coal
+      Theme_Keyword: resources
+    Place:
+      Place_Keyword_Thesaurus: Geographic Names Information System
+      Place_Keyword: United States
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Indiana 
+      Place_Keyword: Illinois 
+      Place_Keyword: Idaho
+      Place_Keyword: Iowa 
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan 
+      Place_Keyword: Minnesota 
+      Place_Keyword: Mississippi 
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota 
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+      Place_Keyword: Appalachians
+      Place_Keyword: Gulf Coast
+      Place_Keyword: Northern Great Plains
+      Place_Keyword: Rocky Mountains
+      Place_Keyword: Midwest
+    Stratum:
+      Stratum_Keyword_Thesaurus:
+        Geologic Names Unit Lexicon (GNULEX), 1996; Stratigraphic Nomenclature 
+        Databases for the United States, It's Possessions, and Territories; U.S. 
+        Geological Survey Digital Data Series DDS-6, release 3.
+      Stratum_Keyword: lignite
+      Stratum_Keyword: subbituminous
+      Stratum_Keyword: bituminous
+      Stratum_Keyword: anthracite
+      Stratum_Keyword: semianthracite
+      Stratum_Keyword: meta-anthracite
+
+  Access_Constraints: None
+  Use_Constraints: 
+    None.  Acknowledgement of the National Atlas of the United States of America
+    would be appreciated in products derived from these data.                    
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Susan J. Tewalt
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 956 National Center
+        City: Reston
+        State_or_Province: Virginia
+        Postal_Code: 20192
+        Country: USA
+      Contact_Voice_Telephone: 703-648-6437
+  Browse_Graphic:
+    Browse_Graphic_File_Name: 
+      <http://energy.er.usgs.gov/products/openfile/OF96-92/Comp/main.gif>
+    Browse_Graphic_File_Description:
+      This is a simplified GIF image of the coal fields in the conterminous
+      United States.
+    Browse_Graphic_File_Type: GIF
+Data_Quality_Information:
+  Logical_Consistency_Report:
+    Topology for this data set was built using the CLEAN command within
+    Arc/INFO.  This command eliminates dangling nodes, calculates intersections
+    of arcs, eliminates redundant arcs, and creates a polygon attribute table.
+  Completeness_Report:
+    This data set is a representation of the coal fields in the conterminous
+    United States and Alaska.  There are no coal fields in Hawaii. 
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Campbell, M.R.
+          Publication_Date: 1908
+          Title: Coal Fields of the United States
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 7500000
+      Type_Of_Source_Media: paper
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1908
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: CF1908
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Averitt, P.
+          Publication_Date: 1942
+          Title: Coal Fields of the United States
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2500000
+      Type_Of_Source_Media: paper
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1942
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: CF1942
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Trumbull, J.
+          Publication_Date: 1960
+          Title: Coal Fields of the United States, sheet 1
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 5000000
+      Type_Of_Source_Media: paper
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1960
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: CF1960
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Barnes, F.F.
+          Publication_Date: 1961
+          Title: Coal Fields of the United States, sheet 2
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 5000000
+      Type_Of_Source_Media: paper
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1961
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: CF1961
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Wood, Jr., G.H.
+          Originator: Bour, III, W.V. 
+          Publication_Date: 1988
+          Title: Coal Map of North America, south sheet
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 5000000
+      Type_Of_Source_Media: paper
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1988
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Coal88
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Missouri Geological Survey
+          Publication_Date: 1979
+          Title: Geologic Map of Missouri
+      Source_Scale_Denominator: 500000
+      Type_Of_Source_Media: paper
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1979
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Missouri
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Mississippi Geological Society 
+          Originator: U.S. Geological Survey
+          Publication_Date: 1945
+          Title: Geologic Map of Mississippi
+      Source_Scale_Denominator: 500000
+      Type_Of_Source_Media: paper
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1945
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Mississippi
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Louisiana Geological Survey
+          Publication_Date: 1984
+          Title: Geologic Map of Louisiana
+      Source_Scale_Denominator: 500000
+      Type_Of_Source_Media: paper
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1984
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Louisiana
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Arkansas Geological Commission
+          Originator: U.S. Geological Survey
+          Publication_Date: 1976
+          Title: Geologic Map of Arkansas
+      Source_Scale_Denominator: 500000
+      Type_Of_Source_Media: paper
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1976
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Arkansas
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Texas Bureau of Economic Geology
+          Publication_Date: 1992
+          Title: Geologic Map of Texas
+      Source_Scale_Denominator: 500000
+      Type_Of_Source_Media: paper
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1992
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Texas
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Georgia Department of Natural Resources
+          Originator: Georgia Geological Survey
+          Publication_Date: 1975
+          Title: Geologic Map of Georgia
+      Source_Scale_Denominator: 500000
+      Type_Of_Source_Media: paper
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1976
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Georgia
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Kentucky Geological Survey
+          Originator: U.S. Geological Survey
+          Publication_Date: 1981
+          Title: Geologic Map of Kentucky
+      Source_Scale_Denominator: 250000
+      Type_Of_Source_Media: paper
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1981
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Kentucky
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: 
+            Tennessee Department of Conservation, Division of Geology
+          Publication_Date: 1966
+          Title: Geologic Map of Tennessee
+      Source_Scale_Denominator: 250000
+      Type_Of_Source_Media: paper
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1966
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Tennessee
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Geological Survey of Alabama
+          Publication_Date: 1989
+          Title: Geologic Map of Alabama
+      Source_Scale_Denominator: 500000
+      Type_Of_Source_Media: paper
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1989
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Alabama
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1995
+          Title: Coal Fields Data Set
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 5000000
+      Type_Of_Source_Media: online
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1908
+            Ending_Date: 1992
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: CFALL
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 2001
+          Title: Coal Fields Data Set
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 5000000
+      Type_Of_Source_Media: online
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1908
+            Ending_Date: 2000
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: CFNEW
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Intertec Publishing Corporation
+          Publication_Date: 2000
+          Title: Keystone Coal Industry Manual 
+          Publication_Information:
+            Publication_Place: Chicago, Illinois
+            Publisher: Intertec Publishing Corporation
+      Type_Of_Source_Media: book
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Single_Date/Time: 
+            Calendar_Date:  2000          
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: KEYSTONE
+      Source_Contribution: Attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1999
+          Title: Hydrography Features of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2000000
+      Type_Of_Source_Media: online
+      Source_Time_Period_Of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1995
+            Ending_Date: 1999
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: ATLASHY
+      Source_Contribution: Spatial and attribute information
+    Process_Step:
+      Process_Description:
+        All the paper maps were manually digitized on a tablet using Arc/INFO.
+        All data were then appended into one data set.  This data set was edited 
+        to resolve inconsistencies between maps and to form a polygon coverage.  
+        The final data set was then attributed using the coaltype codes
+        described within this document.
+      Source_Used_Citation_Abbreviation: CF1908
+      Source_Used_Citation_Abbreviation: CF1942
+      Source_Used_Citation_Abbreviation: CF1960
+      Source_Used_Citation_Abbreviation: CF1961
+      Source_Used_Citation_Abbreviation: Coal88
+      Source_Used_Citation_Abbreviation: Missouri
+      Source_Used_Citation_Abbreviation: Mississippi
+      Source_Used_Citation_Abbreviation: Louisiana
+      Source_Used_Citation_Abbreviation: Arkansas
+      Source_Used_Citation_Abbreviation: Texas
+      Source_Used_Citation_Abbreviation: Georgia
+      Source_Used_Citation_Abbreviation: Kentucky
+      Source_Used_Citation_Abbreviation: Tennessee
+      Source_Used_Citation_Abbreviation: Alabama
+      Process_Date: 1995
+      Source_Produced_Citation_Abbreviation: CFALL
+    Process_Step:
+      Process_Description:
+        Some arcs in Alaska, Florida, Michigan, Oregon, Rhode
+        Island, Texas, and Washington were adjusted to align with
+        National Atlas shoreline.
+      Source_Used_Citation_Abbreviation: CFALL
+      Source_Used_Citation_Abbreviation: ATLASHY
+      Process_Date: 2001
+      Source_Produced_Citation_Abbreviation: CFNEW
+    Process_Step:
+      Process_Description:
+        Coal province and coal field/region name attributes were added to 
+        polygons based on the CF1960 and CF1961 maps.  One additional name was 
+        obtained from State coal field summaries in KEYSTONE. 
+      Source_Used_Citation_Abbreviation: CF1960
+      Source_Used_Citation_Abbreviation: CF1961
+      Source_Used_Citation_Abbreviation: KEYSTONE
+      Source_Used_Citation_Abbreviation: CFNEW
+      Process_Date: 2001
+    Process_Step:
+      Process_Description: The polygon coverage was converted to a shapefile.
+      Process_Date: 2001
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.001
+      Longitude_Resolution: 0.001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS1980
+      Semi-Major_Axis: 6378137.0
+      Denominator_of_Flattening_Ratio: 298.257222
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Coal fields (described by uscoalp050.dbf)
+      Entity_Type_Definition: An area underlain by coal-bearing rocks.
+      Entity_Type_Definition_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Polygon
+          Enumerated_Domain_Value_Definition: 2-dimensional element
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS Software
+    Attribute:
+      Attribute_Label: Area
+      Attribute_Definition: The size of the shape in coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 580104.500
+          Range_Domain_Maximum: 270722121728
+    Attribute:
+      Attribute_Label: Perimeter
+      Attribute_Definition: The perimeter of the shape in coverage units.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 3617.981
+          Range_Domain_Maximum: 10878455.000
+    Attribute:
+      Attribute_Label: Coalfdp050
+      Attribute_Definition: Internal feature number
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values: 
+        Range_Domain:
+          Range_Domain_Minimum: 2
+          Range_Domain_Maximum: 994
+    Attribute:
+      Attribute_Label: Max_rank
+      Attribute_Definition: 
+        A unique code that indicates the maximum rank of coal within the field 
+        or part of a coal region.
+      Attribute_Definition_Source: 
+        Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S.
+        Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+        United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 1:500000.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: 
+            An internal polygon where no coal is present.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 20
+          Enumerated_Domain_Value_Definition:
+            Anthracite coal that is potentially minable.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 25
+          Enumerated_Domain_Value_Definition:
+            Anthracite coal of other potential uses.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 30
+          Enumerated_Domain_Value_Definition:
+            Sub-bituminous coal that is potentially minable.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 35
+          Enumerated_Domain_Value_Definition:
+            Sub-bituminous coal of other potential uses.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 40
+          Enumerated_Domain_Value_Definition:
+            Low-volatile bituminous coal that is potentially minable.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 45
+          Enumerated_Domain_Value_Definition:
+            Low-volatile bituminous coal of other potential uses.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 50
+          Enumerated_Domain_Value_Definition:
+            Lignite coal that is potentially minable.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 55
+          Enumerated_Domain_Value_Definition: 
+            Lignite coal of other potential uses.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 60
+          Enumerated_Domain_Value_Definition:
+            Medium and high volatile bituminous coal that is potentially 
+            minable.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 65
+          Enumerated_Domain_Value_Definition:
+            Medium and high volatile bituminous coal of other potential uses.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Description
+      Attribute_Definition: 
+        A description of the maximum rank, denoting potential minability and 
+        other potential uses. 
+      Attribute_Definition_Source: 
+        Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+        Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+        United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 1:500000.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: NO COAL / INTERNAL POLYGON 
+          Enumerated_Domain_Value_Definition: 
+            Non-coal area within a coal field.
+          Enumerated_Domain_Value_Definition_Source: 
+            American Society for Testing and Materials, 1996, Standard 388.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Anthracite / potentially minable
+          Enumerated_Domain_Value_Definition: 
+            Anthracite is highly metamorphosed coal in which fixed carbon 
+            content is between 92% and 98% (on a dry, mineral-matter-free 
+            basis).  It is hard and black, with a semimetallic luster and a 
+            semiconchoidal fracture.  Can include meta-anthracite and 
+            semianthracite in this data set.  Sufficient data exist to define 
+            these known coal areas.
+          Enumerated_Domain_Value_Definition_Source: 
+            American Society for Testing and Materials, 1996, Standard 388.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Anthracite / other uses
+          Enumerated_Domain_Value_Definition: 
+            Anthracite is highly metamorphosed coal in which fixed carbon 
+            content is between 92% and 98% (on a dry, mineral-matter-free 
+            basis).  It is hard and black, with a semimetallic luster and a 
+            semiconchoidal fracture.  Can include meta-anthracite and 
+            semianthracite in this data set.  Information on coal is meager or 
+            coals may be thin or of poor quality.  Potential uses may include
+            carbon dioxide sequestration, in-situ gasification, and coalbed 
+            methane production.
+          Enumerated_Domain_Value_Definition_Source: 
+            American Society for Testing and Materials, 1996, Standard 388.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Low Volatile Bituminous / potentially minable
+          Enumerated_Domain_Value_Definition: 
+            Low volatile bituminous coal has a fixed carbon content equal to or 
+            greater than 78% and less than 86% and a volatile matter content 
+            greater than 14% and less than or equal to 22% (on a dry, mineral-
+            matter-free basis).  Sufficient data exist to define these known 
+            coal areas.
+          Enumerated_Domain_Value_Definition_Source: 
+            American Society for Testing and Materials, 1996, Standard 388.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Low Volatile Bituminous / other uses
+          Enumerated_Domain_Value_Definition: 
+            Low volatile bituminous coal has a fixed carbon content equal to or 
+            greater than 78% and less than 86% and a volatile matter content 
+            greater than 14% and less than or equal to 22% (on a dry, mineral-
+            matter-free basis).  Information on coal is meager or coals may be 
+            thin or of poor quality.  Potential uses include carbon dioxide 
+            sequestration, in-situ gasification, and coalbed methane production.
+          Enumerated_Domain_Value_Definition_Source: 
+            American Society for Testing and Materials, 1996, Standard 388.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 
+            Medium and High Volatile Bituminous / potentially minable
+          Enumerated_Domain_Value_Definition: 
+            Medium volatile bituminous coal has a fixed carbon content equal to 
+            or greater than 69% and less than 78% and a volatile matter content 
+            greater than 22% and less than or equal to 31% (on a dry, mineral-
+            matter-free basis).  High volatile bituminous coal has less than 69% 
+            fixed carbon and greater than 31% volatile matter (on a dry,
+            mineral-matter-free basis).  Sufficient data exist to define these 
+            known coal areas.
+          Enumerated_Domain_Value_Definition_Source: 
+            American Society for Testing and Materials, 1996, Standard 388.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 
+            Medium and High Volatile Bituminous / other uses
+          Enumerated_Domain_Value_Definition: 
+            Medium volatile bituminous coal has a fixed carbon content equal to
+            or greater than 69% and less than 78% and a volatile matter content 
+            greater than 22% and less than or equal to 31% (on a dry, mineral-
+            matter-free basis).  High volatile bituminous coal has less than 69%
+            fixed carbon and greater than 31% volatile matter (on a dry,
+            mineral-matter-free basis).  Information on coal is meager or coals 
+            may be thin or of poor quality.  Potential uses include carbon
+            dioxide sequestration, in-situ gasification, and coalbed methane 
+            production.
+          Enumerated_Domain_Value_Definition_Source: 
+            American Society for Testing and Materials, 1996, Standard 388.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Subbituminous / potentially minable
+          Enumerated_Domain_Value_Definition: 
+            Subbituminous coal has gross calorific values less than 11,500 
+            British thermal units per pound but greater than 8,300 British 
+            thermal units per pound (on a moist, mineral-matter-free basis).  It 
+            is intermediate in rank between lignite and bituminous coal.  
+            Sufficient data exist to define these known coal areas.
+          Enumerated_Domain_Value_Definition_Source: 
+            American Society for Testing and Materials, 1996, Standard 388.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Subbituminous / other uses
+          Enumerated_Domain_Value_Definition: 
+            Subbituminous coal has gross calorific values less than 11,500 
+            British thermal units per pound but greater than 8,300 British 
+            thermal units per pound (on a moist, mineral-matter-free basis).  It 
+            is intermediate in rank between lignite and bituminous coal.  
+            Information on coal is meager or coals may be thin or of poor 
+            quality.  Potential uses include carbon dioxide sequestration,
+            in-situ gasification, and coalbed methane production.
+          Enumerated_Domain_Value_Definition_Source: 
+            American Society for Testing and Materials, 1996, Standard 388.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Lignite / potentially minable
+          Enumerated_Domain_Value_Definition: 
+            Lignite coal has gross calorific values less than 8,300 British
+            thermal units per pound (on a moist, mineral-matter-free basis).  It 
+            is the lowest rank of consolidated coal, usually brownish-black in 
+            color.  Sufficient data exist to define these known coal areas.
+          Enumerated_Domain_Value_Definition_Source: 
+            American Society for Testing and Materials, 1996, Standard 388.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Lignite / other uses
+          Enumerated_Domain_Value_Definition: 
+            Lignite coal has gross calorific values less than 8,300 British
+            thermal units per pound (on a moist, mineral-matter-free basis).  It 
+            is the lowest rank of consolidated coal, usually brownish-black in 
+            color.  Information on coal is meager or coals may be thin or of 
+            poor quality.  Potential uses include carbon dioxide sequestration, 
+            in-situ gasification, and coalbed methane production.
+          Enumerated_Domain_Value_Definition_Source: 
+            American Society for Testing and Materials, 1996, Standard 388.
+    Attribute:
+      Attribute_Label: Province
+      Attribute_Definition: Name of the coal province in which the field occurs.
+      Attribute_Definition_Source: 
+        Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+        Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+        United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 1:500000.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Alaska
+          Enumerated_Domain_Value_Definition: 
+            Province includes coal fields in Alaska.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Eastern
+          Enumerated_Domain_Value_Definition: 
+            Province includes coal fields along U.S. eastern seaboard.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Gulf
+          Enumerated_Domain_Value_Definition: 
+            Province includes coal fields along U.S. Gulf Coastal region.
+          Enumerated_Domain_Value_Definition_Source:
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Interior
+          Enumerated_Domain_Value_Definition: 
+            Province includes coal fields in the central U.S.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Northern Great Plains
+          Enumerated_Domain_Value_Definition: 
+            Province includes coal fields in the Northern Great Plains area 
+            between the Rocky Mountain and Interior coal provinces.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Pacific Coast
+          Enumerated_Domain_Value_Definition: 
+            Province includes coal fields along U.S. western seaboard.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Rocky Mountain
+          Enumerated_Domain_Value_Definition: 
+            Province includes coal fields in the Rocky Mountain region between
+            Canadian and Mexican borders.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.
+    Attribute:
+      Attribute_Label: Name
+      Attribute_Definition: Name of the coal field or region.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The area has no coal field or region name in the sources.
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Appalachian Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Alabama, Georgia, Kentucky, Maryland,
+            Mississippi, New York, Ohio, Pennsylvania, Tennessee, Virginia, and
+            West Virginia in the Appalachian Mountains.
+          Enumerated_Domain_Value_Definition_Source:
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Atlantic Coast Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of North Carolina, Virginia, and West Virginia.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Bering River Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Alaska near the Bering River.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Big Horn Basin Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Montana and Wyoming around the Big Horn Basin.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Black Hills Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of South Dakota and Wyoming around the Black
+            Hills.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Black Mesa Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of northeastern Arizona near Black Mesa.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Blackfeet-Valier Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of northwestern Montana.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Broad Pass Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central Alaska near Broad Pass.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Bull Mountain Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central Montana around Bull Mountain.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Canon City Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central Colorado around Canon City.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Carthage Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central New Mexico around Carthage.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Centralia-Chehalis Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southwestern Washington around Centralia and
+            Chehalis.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Cerrillos Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of north central New Mexico around Cerrillos.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Chicago Creek Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Alaska near Chicago Creek.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Chignik Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southwestern Alaska near Chignik.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Coaldale Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of western Nevada around Coaldale.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Coos Bay Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Oregon around Coos Bay.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Cretaceous Lignite Area
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central Kansas.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Datil Mountains Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of western New Mexico near the Datil Mountains.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Deer Creek Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southeastern Arizona.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Denver Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Colorado around Denver.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Eagle Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of eastern Alaska near the town of Eagle.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Eagle Pass Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Texas near the town of Eagle Pass.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Eagle Springs Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of western Texas.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Eastern Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Illinois, Indiana, Iowa, Kentucky, and
+            Missouri.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Eden Ridge Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southwestern Oregon near Eden Ridge.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Electric Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Montana and Wyoming near the town of Electric.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Engle Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southwestern New Mexico near the town of Engle.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Fort Union Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Montana, North Dakota, South Dakota, and
+            Wyoming around Fort Union.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Garfield County Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of east central Montana in Garfield County.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Glacier Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of northwestern Washington near the town of
+            Glacier.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Goose Creek Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Idaho, Nevada, and Utah near the Goose Creek
+            Mountains.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Goshen Hole Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Nebraska and Wyoming near Goshen Hole.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Great Falls Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central Montana near Great Falls.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Green River Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Colorado, Utah, and Wyoming.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Hams Fork Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Idaho, Utah, and Wyoming.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Hanna Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of south central Wyoming near the town of Hanna.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Henry Mountains Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southern Utah near the Henry Mountains.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Herendeen Bay Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southwestern Alaska near Herendeen Bay.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Horseshoe Bend Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Idaho near the town of Horseshoe Bend.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Ione Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central California near the town of Ione.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Jackson Hole Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Wyoming near Jackson Hole.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Jarvis Creek Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of eastern Alaska near Jarvis Creek.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Jornada del Muerto Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central New Mexico.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Kelso-Castle Rock Area
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southwestern Washington near the towns of
+            Kelso and Castle Rock.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Kenai Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southern Alaska around Kenai.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Kobuk Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of northwestern Alaska near the town of Kobuk.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Lewistown Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central Montana near Lewistown.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Livingston-Trail Creek Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southwestern Montana near Livingston and Trail
+            Creek.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Lombard Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southwestern Montana near Lombard.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Matanuska Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southern Alaska near Matanuska.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Mississippi Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Alabama, Arkansas, Florida, Georgia, Kentucky,
+            Mississippi, Missouri, and Tennessee.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Missoula Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of western Montana near Missoula.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Monero Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of northern New Mexico near Monero.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Nenana Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central Alaska near Nenana.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: North Central Fields
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of north central Pennsylvania.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: North Park Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of northern Colorado near North Park.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: North-Central Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of north central Montana.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Northern Alaska Fields
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of northern Alaska.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Northern Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central Michigan.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Orofino Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Idaho near the town of Orofino.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Pagosa Springs Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of south central Colorado near Pagosa Springs.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Pennsylvania Anthracite Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of eastern Pennsylvania.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Pinedale Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of eastern Arizona near the town of Pinedale.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Powder River Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Montana and Wyoming around the Powder River.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Rampart Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central Alaska near the town of Rampart.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Raton Mesa Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Colorado and New Mexico near the town of Raton,
+            New Mexico.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Rhode Island Meta-Anthracite Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Massachusetts and Rhode Island.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Rio Puerco Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of northwestern New Mexico.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Rock Creek Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southeastern Wyoming.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Roslyn Cleelum Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central Washington.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: San Carlos Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of western Texas.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: San Juan River Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Arizona, Colorado, New Mexico, and Utah around
+            the San Juan River.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Santo Tomas Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southern Texas around the town of Santo Tomas.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Sierra Blanca Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of south central New Mexico.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Skagit County Area
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of western Washington in Skagit County.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: South Park Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central Colorado.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Southwestern Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central Texas.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Southwestern Utah Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southwestern Utah.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Stillwater Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southern Montana in Stillwater County.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Stone Canyon Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central California.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Summit Creek Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of western Washington.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Susitna Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southern Alaska near the town of Susitna.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Terlingua Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southwestern Texas near the town of Terlingua.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Tertiary Lake Beds Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of western Montana.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Texas Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Arkansas, Louisiana, and Texas.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Tijeras Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central New Mexico near the town of Tijeras.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Tongue Mesa Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southwestern Colorado.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Uinta Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Colorado and Utah.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Una del Gato Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central New Mexico.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Unga Island Field
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of southwestern Alaska near Unga Island.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Western Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of Arkansas, Iowa, Kansas, Missouri, Nebraska, and
+            Oklahoma.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Whatcom County Area
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of western Washington in Whatcom County.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Wind River Region
+          Enumerated_Domain_Value_Definition:
+            The name given to the area, underlain by coal-bearing strata, which
+            includes portions of central Wyoming.
+          Enumerated_Domain_Value_Definition_Source: 
+            Trumbull, 1960, Coal Fields of the United States (Sheet 1): U.S. 
+            Geological Survey Map, 1:5000000.  Barnes, 1961, Coal Fields of the 
+            United States (Sheet 2 - Alaska): U.S. Geological Survey Map, 
+            1:500000.  Keystone Coal Industry Manual, 2000: Intertec Publishing
+            Corporation, Chicago, Illinois, 793 p.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Susan J. Tewalt
+      Contact_Address:
+        Address_Type: mailing address
+        Address: MS 956 National Center
+        City: Reston
+        State_or_Province: Virginia
+        Postal_Code: 20192
+        Country: USA
+      Contact_Voice_Telephone: 703-648-6437
+  Distribution_Liability:
+    Although these data have been processed successfully on a computer system 
+    at the U.S. Geological Survey, no warranty expressed or implied is made by 
+    the U.S. Geological Survey regarding the utility of the data on any other 
+    system, nor shall the act of distribution constitute any such warranty. 
+    No responsibility is assumed by the U.S. Geological Survey in the use of 
+    these data.
+
+    Any use of trade, product, or firm names is for descriptive purposes only
+    and does not imply endorsement by the U.S. Government.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: 
+                <http://nationalatlas.gov/atlasftp.html>
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SDTS
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name:
+                <http://nationalatlas.gov/atlasftp.html>
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+
+    Fees:
+      There is no charge for the online option.  For National Atlas files
+      ordered on CD-ROM there is a base price of $45.00 per disc, a handling
+      fee of $5.00, and a per-file charge based on file size.  The charge for
+      files less than 10 megabytes in size is $1.00.  The charge for files
+      that range in size from 10 to 150 megabytes is $7.50.  The charge for
+      files of 150 megabytes or larger is $15.00.   The charge is $7.50 for
+      the Coal Fields of the United States data set.
+    Ordering_Instructions:
+      To order files on CD-ROM, please see
+      <http://nationalatlas.gov/atlasftp.html#q12>.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20010801
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Peg Rawson
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 521 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-4183
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: 
+    FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
