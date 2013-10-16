@@ -1,0 +1,24 @@
+﻿https://hazards.fema.gov/femaportal/wps/portal/NFHLWMSkmzdownload
+Using the National Flood Hazard Layer Web Map Service (WMS) in Google Earth™
+
+Stay Dry
+"Stay Dry" is a focused application that provides basic flood hazard map information from FEMA's National Flood Hazard Layer for an address. It allows you to view flood hazard zones and Flood Insurance Rate Map numbers and boundaries.
+
+For best performance please delete or turn off previous versions of the "Stay Dry" or "FEMA NFHL" folders that you have loaded in Google Earth before using the new version of "Stay Dry."
+
+Stay_Dry_v3.0.kmz
+
+FEMA NFHL
+"FEMA NFHL" is a general application that provides for the display of flood hazard zones and labels, floodways, Coastal Barrier Resources System and Otherwise Protected Area units, community boundaries and names, base flood elevations, cross sections and coastal transects and their labels, hydraulic and flood control structures, flood profile baselines, coastal transect baselines, limit of moderate wave action lines, river mile markers, and Flood Insurance Rate Map and Letter of Map Revision boundaries and numbers. Additional reference layers include the status of NFHL data availability, point locations for Letters of Map Amendment (LOMAs) and Letters of Map Revision Based on Fill (LOMRFs). You control the information displayed by turning layers on and off. A basic knowledge of Google Earth and FEMA flood hazard information will help users of this application.
+
+The name of each layer is hyperlinked to a description of the layer, the map symbols used for the layer, and links to other FEMA web sites relevant to the layer. If a layer is turned on, clicking the text below the name of the layer (text that starts with "Draws at") zooms the Google Earth view to a sample display of the layer. Layers are organized for display at one or more of three "eye altitude" (map scale) ranges in Google Earth: status maps at high altitudes, regional overviews of flood hazards at medium altitudes, and detailed flood hazard maps at low altitudes. Click on the hyperlinked folder name of the application to see the altitudes at which data in the layers are displayed.
+
+For best performance please delete or turn off previous versions of the "Stay Dry" or "FEMA NFHL" folders that you have loaded in Google Earth before using the new version of "FEMA NFHL."
+
+FEMA_NFHL_v3.0.kmz
+
+FEMA NFHL Google Earth Application Instructions
+
+Version 3.0 includes a new NFHL data status layer, simplified flood hazard symbols which match the latest in Flood Insurance Rate Map (FIRM) specifications and an updated organiz
+
+https://hazards.fema.gov/femaportal/wps/portal/NFHLWMSkmzdownload
