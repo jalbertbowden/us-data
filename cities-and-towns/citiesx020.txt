@@ -1,0 +1,961 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Atlas of the United States
+      Publication_Date: 200402
+      Title: Cities and Towns of the United States
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+  Description:
+    Abstract:
+      This map layer includes cities in the United States, Puerto Rico and the 
+      U.S. Virgin Islands.  These cities were collected from the 1970
+      National Atlas of the United States.  Where applicable, U.S. Census Bureau
+      codes for named populated places were associated with each name to allow
+      additional information to be attached. The Geographic Names Information
+      System (GNIS) was also used as a source for additional information.  This
+      is a revised version of the December 2003 map layer. 
+    Purpose:
+      These data are intended for geographic display and analysis at the
+      national level, and for large regional areas.  The data should be
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
+      No responsibility is assumed by the National Atlas of the United States in 
+      the use of these data. 
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1972
+        Ending_Date: 2004
+    Currentness_Reference: Ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 172.0
+      East_Bounding_Coordinate: -64.0
+      North_Bounding_Coordinate: 72.0
+      South_Bounding_Coordinate: 17.0
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: Society
+
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Cities
+      Theme_Keyword: Towns
+      Theme_Keyword: Populated places
+      Theme_Keyword: County seat
+      Theme_Keyword: State capital
+    Place:
+      Place_Keyword_Thesaurus:
+        U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of
+        Special Sovereignty, and Their Principal Administrative Divisions
+        (Federal Information Processing Standard (FIPS) 10-4): Washington, DC,
+        National Institute of Standards and Technology.
+      Place_Keyword: United States
+      Place_Keyword: USA
+    Place:
+      Place_Keyword_Thesaurus:  
+        U.S. Department of Commerce, 1987, Codes for the Identification of the
+        States, the District of Columbia and the Outlying Areas of The United
+        States, and Associated Areas (Federal Information Processing Standard
+        5-2):  Washington, DC, National Institute of Standards and Technology.
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi 
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+      Place_Keyword: Puerto Rico
+      Place_Keyword: Virgin Islands
+      Place_Keyword: Virgin Islands of the United States
+
+  Access_Constraints: None
+  Use_Constraints:
+    None.  Acknowledgment of the National Atlas of the United States of America
+    would be appreciated in products derived from these data.  
+
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Woodley Chu
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Drive 
+        Address: MS 561 
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-6375
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+
+Data_Quality_Information:
+  Logical_Consistency_Report:
+    The map layer was checked for topological consistency using the Arc/INFO
+    command BUILD.  No other checks for logical consistency were performed on
+    this map layer.
+  Completeness_Report:
+    This map layer includes built-up areas and populated places for all fifty of 
+    the United States, the District of Columbia, U.S. Virgin Islands, and the
+    Commonwealth of Puerto Rico.  Capitals and county seats are identified as
+    well as population ranges where known.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1995
+          Title: 
+            1:2,000,000-Scale Digital Line Graph Data - Manmade Features
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 1994
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: 2MILMM
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1998
+          Title: Geographic Names Information System
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+          Online_Linkage: <http://geonames.usgs.gov/>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1998
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GNIS98
+      Source_Contribution: Attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Institute of Standards and Technology
+          Publication_Date: 1998
+          Title:
+            FIPS 55-DC3 Index - Guideline: Codes for Named Populated Places, 
+            Primary County Divisions, and Other Locational Entities of the 
+            United States, Puerto Rico, and Outlying Areas 
+          Publication_Information:
+            Publication_Place: Gaithersburg, MD
+            Publisher: 
+              National Institute of Standards and Technology
+          Online_Linkage: 
+            <http://www.itl.nist.gov/fipspubs/55new/nav-top-fr.htm>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 1998
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: FIPS55-3_98
+      Source_Contribution: Attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 1998
+          Title: Cities and Towns of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 1994
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: ATLAS-CITIES98
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 200002
+          Title: Cities and Towns of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 1994
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: ATLAS-CITIES00
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Census Bureau
+          Publication_Date: 1990
+          Title: U.S. Gazetteer Place File
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: U.S. Census Bureau
+          Online_Linkage: 
+            <http://www.census.gov/geo/www/gazetteer/places.html>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1990
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GAZETTEER
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Institute of Standards and Technology
+          Publication_Date: 1999
+          Title:
+            FIPS 55-DC3 Index - Guideline: Codes for Named Populated Places, 
+            Primary County Divisions, and Other Locational Entities of the 
+            United States, Puerto Rico, and Outlying Areas 
+          Publication_Information:
+            Publication_Place: Gaithersburg, MD
+            Publisher: 
+              National Institute of Science and Technology
+          Online_Linkage: 
+            <http://www.itl.nist.gov/fipspubs/55new/nav-top-fr.htm>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 1999
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: FIPS55-3_99
+      Source_Contribution: Attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 2000
+          Title: 
+            Geographic Names Information System - Populated Places 
+            (Pop_places_deci.zip)
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+          Online_Linkage: <http://geonames.usgs.gov/stategaz/index.html>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2000
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: POP_PL
+      Source_Contribution: Attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 2000
+          Title: Geographic Names Information System
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+          Online_Linkage: <http://geonames.usgs.gov/>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2000
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GNIS00
+      Source_Contribution: Attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Census Bureau
+          Publication_Date: 1998
+          Title: 
+            Population Estimates for Places: July 1, 1998, and Population 
+            Change: April 1, 1990 to July 1, 1998
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: U.S. Census Bureau
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1990
+            Ending_Date: 1998
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: POP_ESTIMATE
+      Source_Contribution: Attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 1999
+          Title: Hydrography Features of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1999
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: ATLAS-HY
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 1999
+          Title: County Boundaries of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1999
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: ATLAS-CNTY
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 20001106
+          Title: Cities and Towns of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 2000
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: ATLAS-CITIES00A
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 20021010
+          Title: Cities and Towns of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 2000
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: ATLAS-CITIES2002
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Association of Counties
+          Publication_Date: 2003
+          Title: United States Counties - Find a County
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: National Association of Counties
+          Online_Linkage: 
+            <http://www.naco.org/Template.cfm?Section=Find_a_County>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2003
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: NACO
+      Source_Contribution: Attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 200312
+          Title: Cities and Towns of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 2003
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: ATLAS-CITIES2003
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 2004
+          Title: Geographic Names Information System
+          Publication_Information:
+            Publication_Place: Reston, Virginia
+            Publisher: U.S. Geological Survey
+          Online_Linkage: <http://geonames.usgs.gov/>
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: GNIS04
+      Source_Contribution: Attribute information
+
+    Process_Step:
+      Process_Description:
+        Digitized place names from the 1970 National Atlas of the United States 
+        were compared with U.S. Census Bureau place names from FIPS55-3_98.  
+        Where there were discrepancies, names from the GNIS were used.  A small 
+        number of places could not be assigned FIPS55 codes and were removed 
+        from the map layer.  Minor positional corrections were also made.
+      Source_Used_Citation_Abbreviation: 2MILMM
+      Source_Used_Citation_Abbreviation: GNIS98
+      Source_Used_Citation_Abbreviation: FIPS55-3_98
+      Process_Date: 1998
+      Source_Produced_Citation_Abbreviation: ATLAS-CITIES98
+
+    Process_Step:
+      Process_Description:
+        No spatial data was changed in ATLAS-CITIES98.  The following edits were 
+        made to the attribute data base file.  In the Feature field, 
+        inconsistencies were removed and the population ranges were corrected as 
+        necessary to match the 1990 population information in the Pop field.  
+        Unnecessary fields were deleted (Idnum, Capcode, Stid).  Fields were 
+        added for State, State_Fips, and County.  Lakewood Center, Washington 
+        was changed to Lakewood, Washington with a population of 58412.  
+        Incorrect population information for Lakewood, Snohomish County was 
+        deleted.  Boise City, Idaho was changed to Boise, Idaho.
+      Source_Used_Citation_Abbreviation: ATLAS-CITIES98
+      Process_Date: 200002
+      Source_Produced_Citation_Abbreviation: ATLAS-CITIES00
+
+    Process_Step:
+
+      Process_Description:
+        Points generated from the GAZETTEER text file were added; points with 
+        duplicate FIPS55 codes were removed.  County, State, and FIPS data were 
+        compared and corrected, if necessary, with data from FIPS55-3_99, and 
+        with POP_PL.  Remaining incorporated and Census Designated Places 
+        (CDP's) from GNIS00 were added; all unincorporated and non-CDP places 
+        were then removed.  A few populated places in high density areas were 
+        filtered out.  Population data from the POP_ESTIMATE and GAZETTEER files 
+        were added, and a population value of -99999 was used where population 
+        data was not available.  Some places were updated with new FIPS55 codes.  
+        Minor positional corrections were made using ATLAS-HY and ATLAS-CNTY as 
+        references.  A display attribute, based on population size and distance 
+        to nearest town, was added to determine which place names will be shown 
+        at the most detailed scale on the National Atlas interactive map 
+        browser.
+      Source_Used_Citation_Abbreviation: ATLAS-CITIES00
+      Source_Used_Citation_Abbreviation: GAZETTEER
+      Source_Used_Citation_Abbreviation: FIPS55-3_99
+      Source_Used_Citation_Abbreviation: POP_PL
+      Source_Used_Citation_Abbreviation: GNIS00
+      Source_Used_Citation_Abbreviation: POP_ESTIMATE
+      Source_Used_Citation_Abbreviation: ATLAS-HY
+      Source_Used_Citation_Abbreviation: ATLAS-CNTY
+      Process_Date: 200011
+      Source_Produced_Citation_Abbreviation: ATLAS-CITIES00A
+
+    Process_Step:
+      Process_Description:
+        1990 and 1998 population figures for Newtown, Connecticut were updated.
+      Source_Used_Citation_Abbreviation: ATLAS-CITIES00A
+      Process_Date: 20021010
+      Source_Produced_Citation_Abbreviation: ATLAS-CITIES2002
+
+    Process_Step:
+      Process_Description:
+        County and county FIPS fields for the town of Bloomfield, CO were 
+        updated and it was listed as the county seat for Bloomfield county.  
+        County seats were added for counties where they were missing.  These 
+        include:
+        >   Plumas County, CA-Quincy
+        >   Towns County, GA-Hiawassee
+        >   Kauai County, HI-Lihue
+        >   Hardin County, IL-Elizabethtown
+        >   Saginaw County, MI-Saginaw
+        >   Koochiching County, MN-International Falls
+        >   Holt County, NE-O'Neill
+        >   Cass County, ND-Fargo
+        >   Price County, WI-Phillips
+        Please note that Shannon County, SD; Todd County, SD; Kings, NY; 
+        Bronx, NY; Queens, NY; and Richmond, NY do not have official county 
+        seats.        
+      Source_Used_Citation_Abbreviation: ATLAS-CITIES2002
+      Source_Used_Citation_Abbreviation: NACO
+      Process_Date: 20031215
+      Source_Produced_Citation_Abbreviation: ATLAS-CITIES03
+
+    Process_Step:
+      Process_Description:
+        Incorporated place names in ATLAS-CITIES03 were compared with those from 
+        the GNIS database.  GNIS names were used where there were discrepancies.  
+        New incorporated places were added; duplicate points and places no 
+        longer incorporated were removed.  Positions of all incorporated places 
+        were adjusted to match GNIS coordinates.  Minor positional corrections 
+        of incorporated places were made using ATLAS-HY and ATLAS-CNTY as 
+        references.  The population range values were adjusted to reflect 2000 
+        population figures and the POP_2000 attribute was added; earlier 
+        population figures were dropped.
+      Source_Used_Citation_Abbreviation: ATLAS-CITIES03
+      Source_Used_Citation_Abbreviation: ATLAS-CNTY
+      Source_Used_Citation_Abbreviation: ATLAS-HY
+      Source_Used_Citation_Abbreviation: GNIS04
+      Process_Date: 200402
+
+Spatial_Data_Organization_Information: 
+  Indirect_Spatial_Reference: 
+    U.S. Department of Commerce, 1987, Codes for the Identification of the
+    States, the District of Columbia and the Outlying areas of the United
+    States, and Associated Areas (FIPS 5-2): Washington, DC, National
+    Institute of Standards and Technology.
+
+    U.S. Department of Commerce, 1990, Counties and Equivalent Entities of the
+    United States, Its Possessions, and Associated Areas (FIPS 6-4):
+    Washington, DC, National Institute of Standards and Technology. 
+
+  Direct_Spatial_Reference_Method: Vector 
+  Point_and_Vector_Object_Information: 
+    SDTS_Terms_Description: 
+      SDTS_Point_and_Vector_Object_Type: Point 
+      Point_and_Vector_Object_Count: 35432 
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000278
+      Longitude_Resolution: 0.000278
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257222
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: 
+        Cities and Towns (described by Citiesx020.dbf)
+      Entity_Type_Definition: 
+        Populated places in the United States, Puerto Rico, and the U.S. Virgin
+        Islands.
+      Entity_Type_Definition_Source: National Atlas of the United States
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Point
+          Enumerated_Domain_Value_Definition: 0-dimensional element
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Citiesx020
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 35432
+    Attribute:
+      Attribute_Label: Feature
+      Attribute_Definition: The type of city or town.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: County Seat
+          Enumerated_Domain_Value_Definition: 
+            A populated place that serves as the seat of the county government.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: National Capital
+          Enumerated_Domain_Value_Definition:
+            A populated place that serves as the seat of the national government
+            of the United States of America.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Populated Place
+          Enumerated_Domain_Value_Definition: 
+            A populated place that is neither a county seat, a State capital,
+            nor the capital of the United States of America.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: State Capital
+          Enumerated_Domain_Value_Definition:  
+            A populated place that serves as the seat of the State government.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: State Capital County Seat
+          Enumerated_Domain_Value_Definition:  
+            A populated place that serves as the seat of the State government
+            and the county government.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+    Attribute:
+      Attribute_Label: Name
+      Attribute_Definition: The name of the city or town.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Geographic Names Information System (GNIS) 
+          Codeset_Source: U.S. Board on Geographic Names 
+    Attribute:
+      Attribute_Label: Pop_range
+      Attribute_Definition:
+        The population range of the city or town based on 2000 U.S. Census
+        Bureau data.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0 - 9,999
+          Enumerated_Domain_Value_Definition: 
+            The population is less than 10,000.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 10,000 - 49,999
+          Enumerated_Domain_Value_Definition:  
+            The population is between 10,000 and 49,999.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 50,000 - 99,999
+          Enumerated_Domain_Value_Definition: 
+            The population is between 50,000 and 99,999.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 100,000 - 249,999
+          Enumerated_Domain_Value_Definition:
+            The population is between 100,000 and 249,999.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 250,000 - 499,999
+          Enumerated_Domain_Value_Definition:  
+            The population is between 250,000 and 499,999.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 500,000 - 999,999
+          Enumerated_Domain_Value_Definition: 
+            The population is between 500,000 and 999,999.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1,000,000 - 9,999,999
+          Enumerated_Domain_Value_Definition:  
+            The population is between 1,000,000 and 9,999,999.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Undetermined
+          Enumerated_Domain_Value_Definition: The population is not known.
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+    Attribute:
+      Attribute_Label: Pop_2000
+      Attribute_Definition: The 2000 population of the city or town.
+      Attribute_Definition_Source: U.S. Census Bureau
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -99999
+          Enumerated_Domain_Value_Definition: The population is not known. 
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 8008278
+    Attribute:
+      Attribute_Label: Fips55
+      Attribute_Definition: 
+        The 5-digit FIPS code of the named populated place, primary county
+        division, or other locational entity of the United States. 
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Codes for Named Populated Places, Primary County Divisions, and
+            Other Locational Entities of the United States, Puerto Rico, and the
+            Outlying Areas, FIPS 55-DC3. 
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and
+            Technology
+    Attribute: 
+      Attribute_Label: County 
+      Attribute_Definition: The name of the county or county equivalent. 
+      Attribute_Definition_Source: National Atlas of the United States 
+      Attribute_Domain_Values: 
+        Codeset_Domain: 
+          Codeset_Name: 
+            Counties and Equivalent Entities of the United States, Its
+            Possessions, and Associated Areas, FIPS 6-4, 1990. 
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and
+            Technology
+    Attribute:
+      Attribute_Label: Fips
+      Attribute_Definition: 
+        The 5-digit FIPS code of the county or county equivalent.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Counties and Equivalent Entities of the United States, Its
+            Possessions, and Associated Areas, FIPS 6-4, 1990.
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and
+            Technology
+    Attribute:  
+      Attribute_Label: State 
+      Attribute_Definition: 
+        The 2-character FIPS code of the State or State equivalent. 
+      Attribute_Definition_Source: National Atlas of the United States 
+      Attribute_Domain_Values: 
+        Codeset_Domain: 
+          Codeset_Name: 
+            Codes for the Identification of the States, the District of Columbia
+            and the Outlying Areas of the United States, and Associated Areas,
+            FIPS 5-2. 
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and
+            Technology
+    Attribute:
+      Attribute_Label: State_fips
+      Attribute_Definition: 
+        The 2-digit FIPS code of the State or State equivalent.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Codes for the Identification of the States, the District of Columbia
+            and the Outlying Areas of the United States, and Associated Areas,
+            FIPS 5-2. 
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and
+            Technology
+    Attribute:
+      Attribute_Label: Display
+      Attribute_Definition:
+        A value used to specify whether a place name text label will be shown at 
+        the most detailed display scale in the National Atlas Map Maker.  This 
+        attribute applies only to cities and towns where the attribute Feature 
+        has a value of Populated Place; all other cities and towns will have 
+        Display = 0 but will still be labeled at the most detailed display 
+        scale.  This attribute value is determined by a ratio based on 
+        population size and distance to nearest town and was set by the 
+        following steps:
+        >1. Distance to the nearest neighbor was calculated for each populated 
+        >   place.
+        >2. Population density was calculated by adding the 1990 population 
+        >   values for each county and then dividing the total by the area of 
+        >   the county. The 1990 population values of -99999 were set to 1.
+        >3. A display ratio was calculated using the formula 1990 Population x 
+        >   Distance / Population Density.
+        >4. Display was set to 1 for all points with a minimum result of 15000, 
+        >   and set to 0 for the remainder of points.
+        This attribute was not updated in the February 2004 version of this 
+        map layer.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: 
+            The place name will not be shown, or the place is a major city, 
+            national capital, State capital, or county seat.
+          Enumerated_Domain_Value_Definition_Source:
+            National Atlas of the United States
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: The place name will be shown.
+          Enumerated_Domain_Value_Definition_Source:
+            National Atlas of the United States
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747) 
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions:
+        In addition to the address above, there are other ESIC offices 
+        throughout the country.  A full list of these offices is at
+        <http://geography.usgs.gov/esic/esic_index.html>. 
+  Distribution_Liability:
+    Although these data have been processed successfully on a computer system at
+    the U.S. Geological Survey, no warranty expressed or implied is made by the
+    U.S. Geological Survey regarding the utility of the data on any other
+    system, nor shall the act of distribution constitute any  such warranty.  
+    No responsibility is assumed by the U.S. Geological Survey in the use of 
+    these data.
+
+  Standard_Order_Process: 
+    Digital_Form: 
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile 
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SDTS
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+    Fees:
+      There is no charge for the online option.  For National Atlas files
+      ordered on CD-ROM there is a base price of $45.00 per disc, a handling fee
+      of $5.00, and a per-file charge based on file size.  The charge for files
+      less than 10 megabytes in size is $1.00.  The charge for files that range
+      in size from 10 to 150 megabytes is $7.50.  The charge for files of 150
+      megabytes or larger is $15.00.  The charge is $1.00 for the Cities and
+      Towns of the United States map layer.
+    Ordering_Instructions:
+      To order files on CD-ROM, please see
+      <http://nationalatlas.gov/atlasftp.html#q12>.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20050103
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Gita Urban-Mathieux
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 561 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-5175
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: 
+    FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
