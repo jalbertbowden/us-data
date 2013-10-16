@@ -1,0 +1,1470 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: National Atlas of the United States
+        Publication_Date: 201207
+        Title: 1:1,000,000-Scale Waterbodies and Wetlands of the United States
+        Geospatial_Data_Presentation_Form: Vector digital data
+        Publication_Information:
+          Publication_Place: Rolla, MO
+          Publisher: National Atlas of the United States
+        Online_Linkage: <http://nationalatlas.gov/atlasftp-1m.html>
+    Description:
+      Abstract: 
+        This map layer contains waterbodies and wetlands of the United States, 
+        Puerto Rico, and the U.S. Virgin Islands.  The map layer was produced 
+        from the medium-resolution National Hydrography Dataset waterbody 
+        feature class, through feature selection and cartographic 
+        generalization, based on reference to published small-scale ancillary 
+        data sets.
+      Purpose: 
+        These data are intended for geographic display and analysis at the 
+        national level, and for large regional areas.  The data should be 
+        displayed and analyzed at scales appropriate for 1:1,000,000-scale data.  
+        No responsibility is assumed by the National Atlas of the United States 
+        in the use of these data.
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Single_Date/Time:
+          Calendar_Date: 201207
+      Currentness_Reference: Publication date
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: Irregular
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: -168
+        East_Bounding_Coordinate: -65
+        North_Bounding_Coordinate: 72
+        South_Bounding_Coordinate: 17
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: Inland Waters
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: Water
+        Theme_Keyword: Hydrology
+        Theme_Keyword: Drainage
+        Theme_Keyword: Hydrography
+        Theme_Keyword: Waterbodies
+        Theme_Keyword: Wetlands
+
+      Place:
+        Place_Keyword_Thesaurus: 
+          U.S. Department of Commerce; 1995; Countries, Dependencies, Areas of
+          Special Sovereignty, and Their Principal Administrative Divisions
+          Federal Information Processing Standard (FIPS) 10-4; Washington, DC;
+          National Institute of Standards and Technology.
+        Place_Keyword: United States
+      Place:
+        Place_Keyword_Thesaurus: None
+        Place_Keyword: US
+        Place_Keyword: USA
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce; 1987; Codes for the Identification of the
+          States, the District of Columbia and the Outlying Areas of The United
+          States, and Associated Areas; FIPS 5-2; Washington, DC; National 
+          Institute of Standards and Technology.
+        Place_Keyword: Alabama
+        Place_Keyword: Alaska
+        Place_Keyword: Arizona
+        Place_Keyword: Arkansas
+        Place_Keyword: California
+        Place_Keyword: Colorado
+        Place_Keyword: Connecticut
+        Place_Keyword: Delaware
+        Place_Keyword: District of Columbia
+        Place_Keyword: Florida
+        Place_Keyword: Georgia
+        Place_Keyword: Hawaii
+        Place_Keyword: Idaho
+        Place_Keyword: Illinois
+        Place_Keyword: Indiana
+        Place_Keyword: Iowa
+        Place_Keyword: Kansas
+        Place_Keyword: Kentucky
+        Place_Keyword: Louisiana
+        Place_Keyword: Maine
+        Place_Keyword: Maryland
+        Place_Keyword: Massachusetts
+        Place_Keyword: Michigan
+        Place_Keyword: Minnesota
+        Place_Keyword: Mississippi
+        Place_Keyword: Missouri
+        Place_Keyword: Montana
+        Place_Keyword: Nebraska
+        Place_Keyword: Nevada
+        Place_Keyword: New Hampshire
+        Place_Keyword: New Jersey
+        Place_Keyword: New Mexico
+        Place_Keyword: New York
+        Place_Keyword: North Carolina
+        Place_Keyword: North Dakota
+        Place_Keyword: Ohio
+        Place_Keyword: Oklahoma
+        Place_Keyword: Oregon
+        Place_Keyword: Pennsylvania
+        Place_Keyword: Rhode Island
+        Place_Keyword: South Carolina
+        Place_Keyword: South Dakota
+        Place_Keyword: Tennessee
+        Place_Keyword: Texas
+        Place_Keyword: Utah
+        Place_Keyword: Vermont
+        Place_Keyword: Virginia
+        Place_Keyword: Washington
+        Place_Keyword: West Virginia
+        Place_Keyword: Wisconsin
+        Place_Keyword: Wyoming
+        Place_Keyword: Puerto Rico
+        Place_Keyword: Virgin Islands
+        Place_Keyword: U.S. Virgin Islands
+    Access_Constraints: None.
+    Use_Constraints: 
+      None.  Acknowledgment of the National Atlas of the United States of 
+      America would be appreciated in products derived from these data.
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: National Atlas of the United States
+        Contact_Address:
+          Address_Type: Mailing and physical address
+          Address: U.S. Geological Survey
+          Address: 511 National Center
+          Address: 12201 Sunrise Valley Drive 
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+        Contact_Instructions:
+          For questions about this map layer or metadata, please contact the 
+          National Atlas using the information above, or through the U.S. 
+          Geological Survey contact page at <http://www.usgs.gov/ask/>.  For 
+          distribution questions, please see the Distribution Information 
+          elsewhere in this metadata. 
+    Native_Data_Set_Environment: 
+      Microsoft Windows XP Version 5.1.2600 (Build 2600); ESRI ArcGIS 9.3.1.4000
+  Data_Quality_Information:
+    Attribute_Accuracy:
+      Attribute_Accuracy_Report:
+        All attributes were checked to make sure their values are in the correct 
+        domains.  No null (blank) values are present except in the Name 
+        attribute.
+
+        The WaterbdyID was checked for duplicates and nulls.  All features have 
+        a unique WaterbdyID.
+
+        Names come from Geographic Names Information System (GNIS) names in the 
+        National Hydrography Dataset (NHD) 100K waterbodies.  Additional names 
+        were added manually based on information from other maps and data sets.  
+        They were reordered so that the generic feature type such as "Lake", 
+        "River", "Glacier", etc. was in the correct position for a label.  They 
+        were checked for invalid characters and foreign characters.  Waterbodies 
+        with no name have a null value.
+
+        Selections by attribute and location were used to ensure the Region 
+        attribute matches the region the waterbody is in.
+
+        Perimeter in miles and area in square miles were calculated using the 
+        North America Albers Equal Area Conic projection.  Features have been 
+        generalized and aggregated so their measurements may be different from a 
+        measurement in a larger-scale data set.
+    Logical_Consistency_Report: 
+      Waterbodies were checked for topological consistency using ArcGIS, to 
+      ensure there were no overlapping waterbodies or small gaps between 
+      waterbodies.  The topology rules were also used to check the alignment of 
+      waterbodies with coastlines and international borders.  Multi-part 
+      features were divided into separate waterbodies.  Waterbodies were 
+      compared to aerial imagery to verify location and extent.
+    Completeness_Report:
+      This map layer contains waterbodies and wetlands of the United States, 
+      Puerto Rico, and the U.S. Virgin Islands.  Only waterbodies and wetlands 
+      appropriate for a 1:1,000,000-scale data set are included.  Waterbodies 
+      and wetlands smaller than one square kilometer are excluded unless one of 
+      the following applies: they are in the National Atlas 1:2,000,000-scale 
+      map layer, they are in other small-scale data sets or maps, they cover a 
+      small coastal island, they have been merged with a larger feature, or 
+      their size has been reduced during alignment with other 1:1,000,000-scale 
+      map layers.
+
+      Swamps and marshes may be underrepresented in some areas.  In the 
+      southeastern U.S. some swamp/marsh limits were difficult to determine 
+      due to unclear or conflicting information in imagery, topographical maps, 
+      and landcover.  In Alaska, swamps and marshes appear to be 
+      underrepresented when compared to land cover data sets and topographical 
+      maps.
+
+      Waterbodies and wetlands may also be underrepresented in areas that 
+      contain large numbers of small isolated features which were too far apart 
+      to aggregate and too small to be included by themselves.
+    Positional_Accuracy:
+      Horizontal_Positional_Accuracy:
+        Horizontal_Positional_Accuracy_Report: 
+          Waterbodies and wetlands are in approximately the same locations as in 
+          the NHD 100K waterbodies data used as a source.  However, many 
+          processes and editing tasks resulted in the movement of waterbody 
+          and wetland limits from their original positions, including: 
+          generalizing and aggregating waterbodies and wetlands, modifying 
+          waterbodies and wetlands to meet minimum width standards, moving 
+          waterbody and wetland limits 300 meters from transportation features 
+          if the two were parallel, extending or trimming waterbodies and 
+          wetlands to intersect coastlines or international boundaries, 
+          increasing or decreasing the gap between neighboring waterbodies and 
+          wetlands, adjusting waterbodies and wetlands to fit the streams that 
+          flow through them, and modifying waterbodies and wetlands to match 
+          imagery.
+
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: 1999
+            Title: National Hydrography Dataset Waterbody
+            Geospatial_Data_Presentation_Form: Vector digital data
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: U.S. Geological Survey
+            Online_Linkage: <http://nhd.usgs.gov/data.html>
+        Source_Scale_Denominator: 100000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 1999
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: NHD Waterbody 1:100K
+        Source_Contribution: 
+          Spatial and attribute information.  Served as the primary source data 
+          from which the 1:1,000,000-scale map layer was created.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200512
+            Title: Streams and Waterbodies of the United States
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+            Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Range_of_Dates/Times:
+              Beginning_Date: 1995
+              Ending_Date: 2002
+          Source_Currentness_Reference: Ground condition
+        Source_Citation_Abbreviation: National Atlas Waterbodies 1:2M
+        Source_Contribution: 
+          Spatial and attribute information.  Used to identify additional 
+          features to include in the map layer.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 201207
+            Title: 1:1,000,000-Scale Streams of the United States 
+            Geospatial_Data_Presentation_Form: Vector digital data
+            Online_Linkage: <http://nationalatlas.gov/atlasftp-1m.html>
+        Source_Scale_Denominator: 1000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2012
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Atlas Streams 1:1M
+        Source_Contribution: 
+          Spatial information.  Used as a guide to determine the location and 
+          extent of waterbody and wetland limits during manual generalization 
+          processes.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 201207
+            Title: 1:1,000,000-Scale Coastlines of the United States
+            Geospatial_Data_Presentation_Form: Vector digital data
+            Online_Linkage: <http://nationalatlas.gov/atlasftp-1m.html>
+        Source_Scale_Denominator: 1000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 201207
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Atlas Coastline 1:1M
+        Source_Contribution: 
+          Spatial and attribute information.  The coastlines were used as the 
+          limit for waterbodies and wetlands bordering the ocean or Great Lakes.  
+          They were also used as the source for the shoreline of the Great 
+          Lakes.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: Environmental Systems Research Institute - ESRI
+            Publication_Date: 2009
+            Title: ESRI Imagery World 2D Map Service
+            Geospatial_Data_Presentation_Form: Raster digital data
+            Online_Linkage: <http://tinyurl.com/cuzxlxg>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2009
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: ESRI Imagery World 2D
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: Multi-Resolution Land Characteristics Consortium
+            Publication_Date: 2004
+            Title: National Land Cover Database 2001
+            Edition: 1
+            Geospatial_Data_Presentation_Form: Raster digital data
+            Online_Linkage: <http://seamless.usgs.gov>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2001
+          Source_Currentness_Reference: Ground condition
+        Source_Citation_Abbreviation: NLCD 2001 Image Service
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Environmental Protection Agency (USEPA)
+            Originator: U.S. Geological Survey (USGS)
+            Publication_Date: 2005
+            Title: National Hydrography Dataset Plus Waterbody
+            Edition: 1.0
+            Geospatial_Data_Presentation_Form: Vector digital data
+            Online_Linkage: <http://www.horizon-systems.com/nhdplus/>
+        Source_Scale_Denominator: 100000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2005
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: NHDPlus Waterbody 1:100K
+        Source_Contribution: 
+          Spatial information.  Used as a guide to determine the location and 
+          extent of waterbodies and wetlands during manual generalization and 
+          aggregation processes.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Environmental Protection Agency (USEPA)
+            Originator: U.S. Geological Survey (USGS)
+            Publication_Date: 2005
+            Title: National Hydrography Dataset Plus Area
+            Edition: 1.0
+            Geospatial_Data_Presentation_Form: Vector digital data
+            Online_Linkage: <http://www.horizon-systems.com/nhdplus/>
+        Source_Scale_Denominator: 100000
+        Type_of_Source_Media: online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2005
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: NHDPlus Area 1:100K
+        Source_Contribution: 
+          Spatial information.  Used as a guide to determine the location and 
+          extent of waterbodies and wetlands during manual generalization and 
+          aggregation processes.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: Environmental Systems Research Institute - ESRI
+            Publication_Date: 2009
+            Title: ESRI USA Topo Maps Map Service
+            Geospatial_Data_Presentation_Form: Raster digital data
+            Online_Linkage: <http://tinyurl.com/cuzxlxg>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2009
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: USA Topo Maps Map Service
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 201207
+            Title: 1:1,000,000-Scale National Boundaries of the United States
+            Geospatial_Data_Presentation_Form: Vector digital data
+            Online_Linkage: <http://nationalatlas.gov/atlasftp-1m.html>
+        Source_Scale_Denominator: 1000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 201207
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Atlas National Boundaries 1:1M
+        Source_Contribution: 
+          Spatial information.  The national boundary was used to delimit 
+          waterbodies and wetlands that intersect the borders of Canada and 
+          Mexico.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: Unknown
+            Title: 1:500,000-Scale State Base Map Series
+        Source_Scale_Denominator: 500000
+        Type_of_Source_Media: Paper
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: Unknown
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: State Base Maps 1:500K
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: Unknown
+            Title: 1:24,000-Scale Topographic Map Series
+        Source_Scale_Denominator: 24000
+        Type_of_Source_Media: Paper
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: Unknown
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: Paper Topo Maps 1:24K
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: Unknown
+            Title: 1:63,360-Scale Topographic Map Series
+        Source_Scale_Denominator: 63360
+        Type_of_Source_Media: Paper
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: Unknown
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: Paper Topo Maps 1:63,360
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: Unknown
+            Title: 1:100,000-Scale Topographic Map Series
+        Source_Scale_Denominator: 100000
+        Type_of_Source_Media: Paper
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: Unknown
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: Paper Topo Maps 1:100K
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: Unknown
+            Title: 1:250,000-Scale Topographic Map Series
+        Source_Scale_Denominator: 250000
+        Type_of_Source_Media: Paper
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: Unknown
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: Paper Topo Maps 1:250K
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Forest Service
+            Publication_Date: Unknown
+            Title: National Forest Maps
+        Type_of_Source_Media: Paper
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: Unknown
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Forest Maps
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: Unknown
+            Title: Sectional Maps
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Paper
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Range_of_Dates/Times:
+              Beginning_Date: 1972
+              Ending_Date: 1973
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Atlas Sectional Maps 1:2M
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: Unknown
+            Title: 1:1,000,000-Scale State Base Map Series
+        Source_Scale_Denominator: 1000000
+        Type_of_Source_Media: Paper
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: Unknown
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: State Base Maps 1:1M
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: Unknown
+            Title: Alaska State Base Map
+        Type_of_Source_Media: Paper
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: Unknown
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: Alaska State Base Map
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: State Transportation Departments
+            Publication_Date: Unknown
+            Title: (variable) Official State Highway Maps
+        Type_of_Source_Media: Paper
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: Unknown
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: Official State Highway Maps
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: Google
+            Publication_Date: Unknown
+            Title: Google Maps
+            Online_Linkage: <http://maps.google.com/>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: Unknown
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: Google Maps
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: Google
+            Publication_Date: Unknown
+            Title: Google Earth
+            Online_Linkage: <http://earth.google.com/>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: Unknown
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: Google Earth
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 201207
+            Title: 1:1,000,000-Scale Major Roads of the United States
+            Geospatial_Data_Presentation_Form: Vector digital data
+            Online_Linkage: <http://nationalatlas.gov/atlasftp-1m.html>
+        Source_Scale_Denominator: 1000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 201207
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Atlas Roads 1:1M
+        Source_Contribution: 
+          Spatial information.  Waterbody and wetland limits were offset from 
+          roads if the limit of the waterbody or wetland was parallel to the 
+          road and within 300 meters of the road.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 201207
+            Title: 1:1,000,000-Scale Railroads of the United States
+            Online_Linkage: <http://nationalatlas.gov/atlasftp-1m.html>
+        Source_Scale_Denominator: 1000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 201207
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Atlas Railroads 1:1M
+        Source_Contribution: 
+          Spatial information.  Waterbody and wetland limits were offset from 
+          railroads if the limit of the waterbody or wetland was parallel to the 
+          railroad and within 300 meters of the railroad.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 201207
+            Title: 1:1,000,000-Scale County Boundaries of the United States
+            Geospatial_Data_Presentation_Form: Vector digital data
+            Online_Linkage: <http://nationalatlas.gov/atlasftp-1m.html>
+        Source_Scale_Denominator: 1000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 201207
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Atlas Counties 1:1M
+        Source_Contribution: 
+          Spatial information.  Used to determine the location of waterbody and 
+          wetland limits that are coincident with county boundaries.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 201207
+            Title: 1:1,000,000-Scale State Boundaries of the United States
+            Geospatial_Data_Presentation_Form: Vector digital data
+            Online_Linkage: <http://nationalatlas.gov/atlasftp-1m.html>
+        Source_Scale_Denominator: 1000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 201207
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Atlas States 1:1M
+        Source_Contribution: 
+          Attribute information.  Used to determine the State code and FIPS 
+          code.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: 200506
+            Title: 1:2,000,000-Scale Hydrologic Unit Boundaries
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+            Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+        Source_Scale_Denominator: 2000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 200505
+          Source_Currentness_Reference: Ground condition
+        Source_Citation_Abbreviation: National Atlas Hydrologic Units 1:2M
+        Source_Contribution: 
+          Attribute information.  Used to determine which region a waterbody or 
+          wetland belonged in if it crossed regional boundaries.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: International Steering Committee for Global Mapping
+            Publication_Date: 2011
+            Title: Global Map Specifications Version 2.1
+            Edition: 2.1
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2011
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: Global Map Specifications Version 2.1
+        Source_Contribution: 
+          Attribute information.  Used to define the Global Map attributes and 
+          determine their values.
+
+      Process_Step:
+        Process_Description:
+          Feature Selection
+
+          Waterbodies and wetlands with an area greater than 1.0 square 
+          kilometer were selected from the NHD Waterbody 100K data set.  
+          Waterbodies and wetlands between 0.5625 square kilometers and 1 square 
+          kilometer were selected from the NHD Waterbody 100K data set if there 
+          was a corresponding waterbody or wetland represented by the National 
+          Atlas Waterbodies 1:2M map layer.
+        Source_Used_Citation_Abbreviation: NHD Waterbody 1:100K
+        Source_Used_Citation_Abbreviation: National Atlas Waterbodies 1:2M
+        Process_Date: 2007
+
+      Process_Step:
+        Process_Description:
+          Cartographic Generalization - Phase 1
+
+          All waterbodies and wetlands selected in the feature-selection process 
+          were exported as a new feature class, then simplified using the Bend 
+          Simplify algorithm with a tolerance of 500 meters.  The feature class 
+          was further simplified using the Douglas-Peucker algorithm with a 1-
+          meter tolerance to remove extraneous vertices.  The new, simplified 
+          and generalized data set was checked for multipart features, overlaps, 
+          and gaps.  Topology errors were corrected.
+        Process_Date: 2007
+
+      Process_Step:
+        Process_Description:
+          Calculation of Feature Types
+
+          The Feature attribute describes the type of waterbody or wetland.  The 
+          set of feature types comes from the National Atlas Waterbodies 1:2M 
+          map layer.  The Feature attribute value for each waterbody or wetland 
+          was calculated based on the NHD Fcode, using the following crosswalk:
+          >Lake: NHD FCode is 39000, 39004, 39009, 39010, 39011, or 39012.
+          >Lake Dry: NHD FCode is 36100.		
+          >Lake Intermittent: NHD FCode is 39001, 39005, or 39006.
+          >Reservoir: NHD FCode starts with 436.
+          >Swamp or Marsh: NHD FCode is 46600.
+          >Glacier: NHD FCode is 37800.
+          >Stream: NHD FCode is 46006 (perennial), 46003 (intermittent), or 
+          >        46000 (no info).
+          >Canal: Added manually
+        Source_Used_Citation_Abbreviation: National Atlas Waterbodies 1:2M
+        Source_Used_Citation_Abbreviation: NHD Waterbody 1:100K
+        Process_Date: 2007
+
+      Process_Step:
+        Process_Description:
+          Calculation of F_Code
+
+          The F_code is a numeric code indicating the type of water feature 
+          described by the feature label.  The set of F_codes comes from the 
+          National Atlas Waterbodies 1:2M map layer.  The following crosswalk 
+          was used to create F_codes from the Feature values.
+          >F_code    Feature value
+          >-----------------------------
+          >1	   Lake
+          >2	   Reservoir
+          >4	   Stream
+          >5	   Canal
+          >7 	   Glacier
+          >10 	   Lake Dry
+          >11 	   Lake Intermittent
+          >26	   Swamp or Marsh
+        Source_Used_Citation_Abbreviation: National Atlas Waterbodies 1:2M
+        Process_Date: 2007
+
+      Process_Step:
+        Process_Description:
+          Addition of River Polygons
+
+          Polygons representing major rivers were added from the National Atlas 
+          Waterbodies 1:2M dataset and aligned with imagery and existing 1:1M 
+          waterbodies and wetlands.
+        Source_Used_Citation_Abbreviation: National Atlas Waterbodies 1:2M
+        Source_Used_Citation_Abbreviation: ESRI Imagery World 2D
+        Process_Date: 2009
+
+      Process_Step:
+        Process_Description:
+          Integration of Waterbodies and Wetlands with 1:1M Streams
+
+          During the generalization process, waterbodies sometimes became 
+          misaligned with the streams that flow through them.  The streams and 
+          waterbody limits were corrected so that the streams flow through the 
+          waterbodies.  The waterbody types included in the alignment process 
+          were lake, lake dry, lake intermittent, reservoir, and stream.  No 
+          realignment was done for swamp or marsh.
+        Source_Used_Citation_Abbreviation: National Atlas Streams 1:1M
+        Process_Date: 2009
+
+      Process_Step:
+        Process_Description:
+          Integration of Waterbodies and Wetlands with 1:1M Coastlines
+
+          Waterbodies and wetlands were clipped or extended to the 1:1M 
+          Coastline.  Aerial imagery, land cover, NHDPlus Waterbody, NHDPlus 
+          Area, and topographical maps were used to determine where the limits 
+          of waterbodies and wetlands should coincide with the coastline.  Swamp 
+          or Marsh waterbodies were created for islands that were predominantly 
+          wetlands.  To ensure alignment of waterbodies and coastlines, the data 
+          were checked for topological consistency using ArcGIS.
+        Source_Used_Citation_Abbreviation: National Atlas Coastline 1:1M
+        Source_Used_Citation_Abbreviation: ESRI Imagery World 2D
+        Source_Used_Citation_Abbreviation: NLCD 2001 Image Service
+        Source_Used_Citation_Abbreviation: NHDPlus Waterbody 1:100K
+        Source_Used_Citation_Abbreviation: NHDPlus Area 1:100K
+        Source_Used_Citation_Abbreviation: USA Topo Maps Map Service
+        Process_Date: 2009
+
+      Process_Step:
+        Process_Description:
+          Elimination of Small Islands and Gaps Within and Between Waterbodies
+
+          The 1 square kilometer size threshold for waterbodies and wetlands 
+          eliminated many small waterbodies that were completely surrounded by 
+          larger waterbodies (usually a lake within a wetland).  This left holes 
+          in the waterbodies or wetlands.  There were also gaps between 
+          waterbodies and islands within waterbodies, some of which were too 
+          small for the scale of the map layer.  Polygons were created for the 
+          small holes and gaps and merged with the surrounding waterbodies or 
+          wetlands.
+        Source_Used_Citation_Abbreviation: USA Topo Maps Map Service
+        Process_Date: 2009
+
+      Process_Step:
+        Process_Description:
+          Cartographic Generalization - Phase 2
+
+          A second phase of generalization was needed to address the width of 
+          waterbodies and the distance between waterbodies.  It was determined 
+          that a minimum waterbody width of 500 meters was appropriate for this 
+          scale.  Sections of a waterbody that were as narrow as 300 meters were 
+          acceptable if they connected wider areas or if they were the tapered 
+          end of a waterbody.  
+
+          The Buffer tool was used with a series of negative and positive buffer 
+          distances to create two sets of interior polygons for the waterbodies, 
+          one set representing the parts of the waterbodies that were at least 
+          300 meters wide, and another set representing the parts of the 
+          waterbodies that were at least 500 meters wide.  The waterbodies were 
+          then edited manually using the interior polygons as guidelines and 
+          using imagery, land cover, NHDPlus Waterbody, NHDPlus Area, and 
+          topographical maps to support decisions.  Some features were 
+          eliminated based on width.  Other features were trimmed, widened, or 
+          merged with neighboring features.
+
+          The minimum acceptable distance between waterbodies was 300 meters.  A 
+          set of exterior buffers 150 meters wide was created from the 
+          waterbodies.  If the exterior buffer of one feature overlapped that of 
+          another, the two features were separated or merged, or they were 
+          modified so that they shared a common limit.  Imagery, land cover, 
+          NHDPlus Waterbody, NHDPlus Area, and topographical maps were used to 
+          support decisions.
+        Source_Used_Citation_Abbreviation: National Atlas Waterbodies 1:2M
+        Source_Used_Citation_Abbreviation: ESRI Imagery World 2D
+        Source_Used_Citation_Abbreviation: NLCD 2001 Image Service
+        Source_Used_Citation_Abbreviation: NHDPlus Waterbody 1:100K
+        Source_Used_Citation_Abbreviation: NHDPlus Area 1:100K
+        Source_Used_Citation_Abbreviation: USA Topo Maps Map Service
+        Process_Date: 2010
+
+      Process_Step:
+        Process_Description:
+          Addition of the Great Lakes
+
+          A Great Lakes polygon was created with the 1:1M coastline as the 
+          southern limit and the 1:1M national boundary between the 
+          United States and Canada as the northern limit.  The resulting 
+          polygon was then divided into Lake Superior, Lake Michigan, Lake 
+          Huron, Lake Erie, Lake Ontario and smaller adjacent lakes, bays, and 
+          rivers.
+        Source_Used_Citation_Abbreviation: National Atlas Coastline 1:1M
+        Source_Used_Citation_Abbreviation: 
+          National Atlas National Boundaries 1:1M
+        Process_Date: 2010
+ 
+      Process_Step:
+        Process_Description:
+          Cartographic Review - Phase 1
+
+          Cartographers reviewed waterbodies and wetlands by comparing them to 
+          existing data sets, imagery, and maps.  The  name, location, 
+          extent, and feature type were examined and recommendations for 
+          deletions, modifications, and additions were incorporated.
+        Source_Used_Citation_Abbreviation: NLCD 2001 Image Service
+        Source_Used_Citation_Abbreviation: USA Topo Maps Map Service
+        Source_Used_Citation_Abbreviation: ESRI Imagery World 2D
+        Source_Used_Citation_Abbreviation: State Base Maps 1:500K
+        Source_Used_Citation_Abbreviation: Paper Topo Maps 1:24K
+        Source_Used_Citation_Abbreviation: Paper Topo Maps 1:63,360
+        Source_Used_Citation_Abbreviation: Paper Topo Maps 1:100K
+        Source_Used_Citation_Abbreviation: Paper Topo Maps 1:250K
+        Source_Used_Citation_Abbreviation: National Forest Maps
+        Source_Used_Citation_Abbreviation: National Atlas Sectional Maps 1:2M
+        Source_Used_Citation_Abbreviation: State Base Maps 1:1M
+        Source_Used_Citation_Abbreviation: Alaska State Base Map
+        Source_Used_Citation_Abbreviation: Official State Highway Maps
+        Source_Used_Citation_Abbreviation: Google Maps
+        Source_Used_Citation_Abbreviation: Google Earth
+        Process_Date: 2010
+
+      Process_Step:
+        Process_Description:
+          Integration of Waterbodies and Wetlands with 1:1M National Boundaries
+
+          Waterbodies and wetlands were clipped or extended to 1:1M National 
+          Boundaries.  To ensure alignment, the data were checked for 
+          topological consistency using ArcGIS.
+        Source_Used_Citation_Abbreviation: 
+          National Atlas National Boundaries 1:1M
+        Process_Date: 2011
+
+      Process_Step:
+        Process_Description:
+          Integration of Waterbodies and Wetlands with 1:1M Transportation 
+          Features
+
+          Waterbody and wetland limits that were parallel to transportation 
+          features in the National Atlas 1:1M Roads and Railroads were moved 
+          away from the transportation features to ensure that there was a 300 
+          meter gap between the two types of features.
+        Source_Used_Citation_Abbreviation: National Atlas Roads 1:1M
+        Source_Used_Citation_Abbreviation: National Atlas Railroads 1:1M
+        Process_Date: 2011
+
+      Process_Step:
+        Process_Description:
+          Cartographic Review - Phase 2
+
+          National Atlas 1:1,000,000-scale map layers were reviewed together to 
+          check for features that needed to be added, deleted, or modified, and 
+          to determine if the distances between features were appropriate for 
+          the product scale.
+        Source_Used_Citation_Abbreviation: National Atlas Coastline 1:1M
+        Source_Used_Citation_Abbreviation: 
+          National Atlas National Boundaries 1:1M
+        Source_Used_Citation_Abbreviation: National Atlas Roads 1:1M
+        Source_Used_Citation_Abbreviation: National Atlas Railroads 1:1M
+        Source_Used_Citation_Abbreviation: National Atlas Streams 1:1M
+        Source_Used_Citation_Abbreviation: National Atlas Counties 1:1M
+        Process_Date: 2011
+
+      Process_Step:
+        Process_Description:
+          Integration of Waterbodies and Wetlands with 1:1M Counties
+
+          Waterbodies and wetlands that have limit on a county line were aligned 
+          with the county line so that the two are coincident.
+        Source_Used_Citation_Abbreviation: National Atlas Counties 1:1M
+        Source_Used_Citation_Abbreviation: USA Topo Maps Map Service
+        Source_Used_Citation_Abbreviation: ESRI Imagery World 2D
+        Process_Date: 2011
+
+      Process_Step:
+        Process_Description:
+          Calculation of WaterbdyID
+
+          The WaterbdyID is the unique identifier for the features.  The 
+          starting number is 1,000,001.
+        Process_Date: 2012
+
+      Process_Step:
+        Process_Description:
+          Calculation of Name
+
+          The name of the waterbody or wetland generally comes from the 
+          GNIS_Name attribute in NHDPlus Waterbody 1:100K.  Some waterbodies and 
+          wetlands without names were identified  manually if they intersected a 
+          waterbody in the National Atlas Waterbodies 1:2M file.  Additional 
+          waterbody and wetland names were selected manually based on waterbody 
+          names on other small scale maps.  If two named waterbodies or wetlands 
+          were merged, the name attribute was changed to null.
+        Source_Used_Citation_Abbreviation: NHDPlus Waterbody 1:100K
+        Source_Used_Citation_Abbreviation: National Atlas Waterbodies 1:2M
+        Source_Used_Citation_Abbreviation: USA Topo Maps Map Service
+        Source_Used_Citation_Abbreviation: State Base Maps 1:500K
+        Source_Used_Citation_Abbreviation: Paper Topo Maps 1:24K
+        Source_Used_Citation_Abbreviation: Paper Topo Maps 1:63,360
+        Source_Used_Citation_Abbreviation: Paper Topo Maps 1:100K
+        Source_Used_Citation_Abbreviation: Paper Topo Maps 1:250K
+        Source_Used_Citation_Abbreviation: National Forest Maps
+        Source_Used_Citation_Abbreviation: National Atlas Sectional Maps 1:2M
+        Source_Used_Citation_Abbreviation: State Base Maps 1:1M
+        Source_Used_Citation_Abbreviation: Alaska State Base Map
+        Source_Used_Citation_Abbreviation: Official State Highway Maps
+        Source_Used_Citation_Abbreviation: Google Maps
+        Process_Date: 2012
+
+      Process_Step:
+        Process_Description:
+          Calculation of State Abbreviation and FIPS codes
+
+          The waterbodies and wetlands were intersected with the National Atlas 
+          States 1:1M map layer to transfer the State abbreviations and FIPS 
+          codes.  The intersected layer was analyzed to determine which 
+          waterbodies or wetlands were located in multiple States.  For features 
+          crossing State boundaries, the State abbreviations and FIPS codes were 
+          concatenated with a hyphen to include information from multiple 
+          States.
+        Source_Used_Citation_Abbreviation: National Atlas States 1:1M
+        Process_Date: 2012
+
+      Process_Step:
+        Process_Description:
+          Calculation of Region
+
+          The two-digit Hydrologic Unit Code was calculated from the four-digit 
+          NHD Waterbody Subregion code.  Waterbodies and wetlands were also 
+          checked against the National Atlas Hydrologic Units.  In cases where a 
+          waterbody or wetland was in two regions, the code for the region 
+          containing the majority of the waterbody or wetland was used.
+        Source_Used_Citation_Abbreviation: NHDPlus Waterbody 1:100K
+        Source_Used_Citation_Abbreviation: National Atlas Hydrologic Units 1:2M
+        Process_Date: 2012
+
+      Process_Step:
+        Process_Description:
+          Calculation of Perimeter and Area
+
+          The data were converted to a North America Albers Equal Area Conic 
+          projection.  Perimeter in miles and area in square miles were 
+          calculated, then the data were converted back to geographic 
+          coordinates.
+        Process_Date: 2012
+
+      Process_Step:
+        Process_Description:
+          Calculation of Global Map Attributes
+
+          The attributes GM_f_code, GM_hyc, GM_hyt, GM_nam, and GM_soc are 
+          attributes for Global Map.  They facilitate the use of National Atlas 
+          1:1,000,000-scale data with other nations' Global Map data.  
+          GM_f_code, GM_hyc, and GM_hyt were calculated based on the Feature 
+          attribute.  GM_nam was calculated from the Name attribute.  GM_soc is 
+          the abbreviation for the United States listed in the Global Map 
+          Specifications Version 2.1.
+        Source_Used_Citation_Abbreviation: Global Map Specifications 2.1
+        Process_Date: 2012
+
+  Spatial_Data_Organization_Information:
+    Direct_Spatial_Reference_Method: Vector
+    Point_and_Vector_Object_Information:
+      SDTS_Terms_Description:
+        SDTS_Point_and_Vector_Object_Type: G-polygon
+        Point_and_Vector_Object_Count: 26871
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Geographic:
+        Latitude_Resolution: 0.000150
+        Longitude_Resolution: 0.000150
+        Geographic_Coordinate_Units: Decimal degrees
+      Geodetic_Model:
+        Horizontal_Datum_Name: North American Datum of 1983
+        Ellipsoid_Name: Geodetic Reference System 80
+        Semi-major_Axis: 6378137.000000
+        Denominator_of_Flattening_Ratio: 298.257222
+
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Waterbody or wetland
+        Entity_Type_Definition: An areal water feature.
+        Entity_Type_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Shape
+        Attribute_Definition: The representation of the entity in the data.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Polygon
+            Enumerated_Domain_Value_Definition: 2-dimensional element
+            Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+      Attribute:
+        Attribute_Label: Waterbdyid
+        Attribute_Definition: The unique identifier for the feature.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1000001
+            Range_Domain_Maximum: 1026871
+      Attribute:
+        Attribute_Label: Name
+        Attribute_Definition: The proper name of the waterbody or wetland.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values: 
+          Enumerated_Domain: 
+            Enumerated_Domain_Value: <blank> 
+            Enumerated_Domain_Value_Definition: 
+              The name is unknown, or the feature represents two or more 
+              waterbodies and (or) wetlands that have been merged.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values: 
+          Unrepresentable_Domain: 
+            There is no predefined set of valid waterbody and wetland names.  
+            Most names come from the Geographic Names Information System.
+      Attribute:
+        Attribute_Label: Feature
+        Attribute_Definition: The type of waterbody.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Canal
+            Enumerated_Domain_Value_Definition: 
+              An artificial open waterway constructed to transport water, to 
+              irrigate or drain land, to connect two or more bodies of water, or 
+              to serve as a waterway for water craft.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Glacier
+            Enumerated_Domain_Value_Definition: A field of ice.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Lake
+            Enumerated_Domain_Value_Definition: 
+              A standing body of water with a predominately natural shoreline 
+              surrounded by land.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Lake Dry
+            Enumerated_Domain_Value_Definition: 
+              An area that at one time contained a standing body of water.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Lake Intermittent
+            Enumerated_Domain_Value_Definition: 
+              A standing body of water that contains water for only part of the 
+              year.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Reservoir
+            Enumerated_Domain_Value_Definition: 
+              A constructed basin formed to contain water.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Stream
+            Enumerated_Domain_Value_Definition: A body of flowing water.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Swamp or Marsh
+            Enumerated_Domain_Value_Definition: 
+              A non-cultivated, vegetated area that is inundated or saturated 
+              for a significant part of the year.
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+      Attribute:
+        Attribute_Label: F_Code
+        Attribute_Definition: 
+          A numeric code indicating the type of waterbody or wetland described 
+          by the feature label.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 1
+            Enumerated_Domain_Value_Definition: Lake
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 2
+            Enumerated_Domain_Value_Definition: Reservoir
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values:
+         Enumerated_Domain:
+            Enumerated_Domain_Value: 4
+            Enumerated_Domain_Value_Definition: Stream
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 5
+            Enumerated_Domain_Value_Definition: Canal
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 7
+            Enumerated_Domain_Value_Definition: Glacier
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 10
+            Enumerated_Domain_Value_Definition: Lake Dry
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 11
+            Enumerated_Domain_Value_Definition: Lake Intermittent
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 26
+            Enumerated_Domain_Value_Definition: Swamp or Marsh
+            Enumerated_Domain_Value_Definition_Source: 
+              National Atlas of the United States
+      Attribute:
+        Attribute_Label: State
+        Attribute_Definition: 
+          The 2-letter Federal Information Processing Standard (FIPS) code for 
+          the State or State equivalent in which the waterbody or wetland is 
+          located.  If the waterbody or wetland falls in multiple States, 
+          multiple State codes are listed, separated by a dash.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: 
+              Codes for the Identification of the States, the District of 
+              Columbia and the Outlying Areas of the United States, and 
+              Associated Areas; FIPS 5-2.
+            Codeset_Source: U.S. Department of Commerce
+      Attribute:
+        Attribute_Label: State_FIPS
+        Attribute_Definition: 
+          The 2-digit FIPS code for the State or State equivalent in which the 
+          waterbody or wetland is located.  If the waterbody or wetland falls in 
+          multiple States, multiple codes are listed, separated by a dash.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: 
+              Codes for the Identification of the States, the District of 
+              Columbia and the Outlying Areas of the United States, and 
+              Associated Areas; FIPS 5-2.
+            Codeset_Source: U.S. Department of Commerce
+      Attribute:
+        Attribute_Label: Region
+        Attribute_Definition: 
+          The hydrologic unit code for the major river basin in which the 
+          waterbody or wetland is located.  Leading zeroes are not shown.  If 
+          the waterbody or wetland falls in two regions, the code for the region 
+          containing the majority of the waterbody or wetland is used.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 21
+      Attribute:
+        Attribute_Label: Perim_mi
+        Attribute_Definition: 
+          The length of the waterbody or wetland perimeter in miles, calculated 
+          using the North America Albers Equal Area Conic projection.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.24455447440
+            Range_Domain_Maximum: 5844.09486609000
+      Attribute:
+        Attribute_Label: Area_mi
+        Attribute_Definition: 
+          The area of the waterbody or wetland in square miles, calculated using 
+          the North America Albers Equal Area Conic projection.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.00282465086
+            Range_Domain_Maximum: 20459.238446200000
+      Attribute:
+        Attribute_Label: GM_f_code
+        Attribute_Definition: Global Map FACC feature code
+        Attribute_Definition_Source: Global Map Specifications Version 2.1
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BH000
+            Enumerated_Domain_Value_Definition: 
+              Any known inland waterway body, such as: lake/pond, reservoir, 
+              river/stream, etc. requiring separation into individual features 
+              due to status/type grouping that is currently indeterminable.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Map Specifications Version 2.1
+      Attribute:
+        Attribute_Label: Gm_hyc
+        Attribute_Definition: Global Map Hydrological category
+        Attribute_Definition_Source: Global Map Specifications Version 2.1
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 6
+            Enumerated_Domain_Value_Definition: 
+              Non-perennial/Intermittent/Fluctuating
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Map Specifications Version 2.1
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 8
+            Enumerated_Domain_Value_Definition: Perennial/Permanent
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Map Specifications Version 2.1
+      Attribute:
+        Attribute_Label: GM_hyt
+        Attribute_Definition: Global Map Hydrological type
+        Attribute_Definition_Source: Global Map Specifications Version 2.1
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 0
+            Enumerated_Domain_Value_Definition: Unknown
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Map Specifications Version 2.1
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 1
+            Enumerated_Domain_Value_Definition: River
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Map Specifications Version 2.1
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 4
+            Enumerated_Domain_Value_Definition: Lake
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Map Specifications Version 2.1
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 10
+            Enumerated_Domain_Value_Definition: Reservoir
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Map Specifications Version 2.1
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 13
+            Enumerated_Domain_Value_Definition: Swamp or Marsh
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Map Specifications Version 2.1
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 16
+            Enumerated_Domain_Value_Definition: Glacier
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Map Specifications Version 2.1
+      Attribute:
+        Attribute_Label: Gm_nam
+        Attribute_Definition: 
+          The Global Map name, which is the proper name of the feature.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: UNK
+            Enumerated_Domain_Value_Definition: The name is unknown.
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Map Specifications Version 2.1
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: 
+            There is no predefined set of valid feature names.
+      Attribute:
+        Attribute_Label: Gm_soc
+        Attribute_Definition: Global Map Source country
+        Attribute_Definition_Source: Global Map Specifications Version 2.1
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: USA
+            Enumerated_Domain_Value_Definition: United States of America
+            Enumerated_Domain_Value_Definition_Source: 
+              Global Map Specifications Version 2.1
+
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: Earth Explorer, U.S. Geological Survey
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: U.S. Geological Survey
+          Address: 47914 252nd Street
+          City: Sioux Falls
+          State_or_Province: SD
+          Postal_Code: 57198-0001
+        Contact_Voice_Telephone: 605-594-6116
+        Contact_Voice_Telephone: 866-573-3222
+        Contact_Electronic_Mail_Address: lpdaac@usgs.gov
+    Distribution_Liability: 
+      Although these data have been processed successfully on a computer system 
+      at the U.S. Geological Survey, no warranty expressed or implied is made by 
+      the U.S. Geological Survey regarding the utility of the data on any other
+      system, nor shall the act of distribution constitute any such warranty.  
+      No responsibility is assumed by the U.S. Geological Survey in the use of 
+      these data.
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: ESRI Shapefile
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: 
+                  <http://nationalatlas.gov/atlasftp-1m.html>
+      Fees: None
+
+  Metadata_Reference_Information:
+    Metadata_Date: 20120821
+    Metadata_Contact: 
+      Contact_Information: 
+        Contact_Organization_Primary: 
+          Contact_Organization: National Atlas of the United States
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: U.S. Geological Survey
+          Address: 511 National Center
+          Address: 12201 Sunrise Valley Drive 
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+    Metadata_Standard_Name: 
+      FGDC Content Standards for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Security_Information: 
+      Metadata_Security_Classification_System: None 
+      Metadata_Security_Classification: Unclassified 
+      Metadata_Security_Handling_Description: None 
+
