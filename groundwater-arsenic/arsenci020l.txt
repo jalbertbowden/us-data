@@ -1,0 +1,475 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date: 200212
+      Title: Arsenic in Ground Water of the United States
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+  Description:
+    Abstract:
+      This image shows national-scale patterns of naturally occurring 
+      arsenic in potable ground-water resources of the continental 
+      United States.  The image was generated from the most recent 
+      arsenic measurement available for each of 31,350 wells and 
+      springs across the United States.  Over 20,000 of the water 
+      samples were collected by the U.S. Geological Survey between 1973 
+      and 2001.  The remainder of the samples were collected by State 
+      agencies and analyzed by comparable laboratory techniques.  The 
+      data set shows a moving 75th percentile, which can also be 
+      described as the maximum arsenic concentration found in 75% of 
+      samples within a moving 50 km radius (the median size of a U.S. 
+      county).  In other words, for any given 50-km-radius region in 
+      the data, lower concentrations of arsenic were found in 75% of 
+      sampled wells, while higher concentrations of arsenic were found 
+      in 25% of sampled wells.  This is a revised version of the 
+      August 2002 map layer, with a corrected shoreline for Greenland.
+
+    Purpose:
+      This map layer is intended to provide national-scale, broad-brush 
+      answers to questions such as, "Where in the country might at 
+      least 25 percent of wells have high arsenic concentrations?"  The 
+      data should be displayed and analyzed at scales appropriate for 
+      1:2,000,000-scale data.  
+
+      The data should not be used to infer an arsenic concentration for 
+      an individual well.  Although the data set shows that 
+      concentrations of arsenic are likely to be higher in certain 
+      geographic regions relative to others, there can be a high degree 
+      of local variability because of factors such as the well’s depth, 
+      the type of aquifer used by the well, and local geology and water 
+      chemistry.  The only way to be certain of the arsenic 
+      concentration in the water supplied by any given well is to have 
+      the water tested.  
+
+      No responsibility is assumed by the U.S. Geological Survey in the 
+      use of these data.
+
+    Supplemental_Information:
+      Some of the samples came from individual homeowner wells used, 
+      without treatment, for drinking water.  Other samples came from 
+      wells supplying water for irrigation and other purposes.  The 
+      data set does not include samples of saline or thermal water; all 
+      the samples represent aquifers used for drinking water supply, 
+      even if the specific well was not used to supply drinking water.  
+
+      The intent of this study was to describe the quality of the 
+      untreated ground-water resource itself, rather than to directly 
+      measure the quality of drinking water by monitoring water from 
+      taps and other "finished" water.  Comparisons of these findings 
+      with those from previous drinking-water studies indicate that the 
+      concentrations reported here are comparable on a national scale 
+      to concentrations in untreated ground water tapped by water 
+      utilities across the Nation.  These findings also reflect the 
+      quality of the ground-water tapped without treatment by 
+      homeowners and small community water systems.
+
+      Arsenic concentrations are measured in units of micrograms per 
+      liter (ug/L), which is equivalent to parts per billion.
+
+      The following table describes the display of the 75th percentile 
+      of arsenic concentrations in the GeoTIFF image:
+
+      > Arsenic              Color         RGB values
+      > Concentration         
+      >----------------------------------------------------------------
+      >  1 ug/L or less      dark green     50.67328 150.3464   0.67328
+      >  3 ug/L              light green   152       251      152
+      >  5 ug/L              yellow        255       255        0
+      > 10 ug/L              orange        255       165        0
+      > 50 ug/L or greater   red           255         0        0
+      > Insufficient data    white         255       255      255
+      > Non-US land          grey          204       204      204
+      > Water                light blue    132       193      255
+      >
+      Further information on arsenic in ground water is available from 
+      the USGS Water Resources Discipline page about Arsenic in ground 
+      water in the United States, at 
+      <http://water.usgs.gov/nawqa/trace/arsenic/>.
+
+      The associated world file is included as part of the GeoTIFF.  The 
+      contents of the world file are:
+      >1000.0000
+      >0.000000
+      >0.000000
+      >-1000.0000
+      >-6086629.0000
+      >4488761.0000
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1973
+        Ending_Date: 200111
+    Currentness_Reference: Ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 166
+      East_Bounding_Coordinate: -4
+      North_Bounding_Coordinate: 83
+      South_Bounding_Coordinate: 15
+
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: Geoscientific Information
+      Theme_Keyword: Environment
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Arsenic
+      Theme_Keyword: Water
+      Theme_Keyword: Ground water
+      Theme_Keyword: Groundwater
+      Theme_Keyword: Well
+      Theme_Keyword: Drinking water
+      Theme_Keyword: Environment
+      Theme_Keyword: Water quality
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: North America
+      Place_Keyword: United States
+      Place_Keyword: Puerto Rico
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+
+  Access_Constraints: None.
+  Use_Constraints:
+    None.  Acknowledgment of the National Atlas of the United States and (or) 
+    the U.S. Geological Survey would be appreciated in products derived from 
+    these data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          National Water-Quality Assessment Program, U.S. Geological 
+          Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Drive, MS-413
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+        Country: USA
+      Contact_Voice_Telephone: 703-648-5716
+      Contact_Electronic_Mail_Address: nawqa_whq@usgs.gov
+  Data_Set_Credit: 
+    This image incorporates field data collected by the U.S. Geological 
+    Survey, the Maine Department of Health, the Massachusetts 
+    Department of Environmental Protection, the Minnesota Pollution 
+    Control Agency, the New Hampshire Department of Environmental 
+    Services, the Rhode Island Department of Health, the Texas Water 
+    Development Board, and the Wisconsin Department of Natural 
+    Resources.
+  Native_Data_Set_Environment: 
+    RGB (24-bit) compressed TIFF format created using Arc/INFO 8.0.2.
+Data_Quality_Information:
+  Logical_Consistency_Report:
+    No tests for logical consistency have been performed on this map layer.  
+    The data samples were collected from a variety of agencies over a span of 
+    28 years, but were all processed with comparable laboratory techniques.
+  Completeness_Report:
+    This map layer includes arsenic measurements from ground water in 49 
+    States and Puerto Rico.  Arsenic data were not available for the 
+    Hawaiian Islands.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Ryker, S.J.
+          Publication_Date: 2001
+          Title: Mapping arsenic in ground water
+          Series_Information:	
+            Series_Name: Geotimes Newsmagazine of the Earth Sciences
+            Issue_Identification: v. 46, no. 11, p. 34-36
+          Publication_Information:
+            Publication_Place: Richmond, VA
+            Publisher: American Geological Institute
+      Type_of_Source_Media: Journal article
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2002
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: USARSENIC
+      Source_Contribution: 
+        National distribution of arsenic concentrations in ground 
+        water.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: USDA Forest Service
+          Originator: U.S. Geological Survey
+          Publication_Date: 200205
+          Title: Forest Cover Types
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2000
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Atlas-FCT
+      Source_Contribution: Background and shoreline.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 200208
+          Title: Arsenic in Ground Water of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1973
+            Ending_Date: 200111
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: Atlas-AR200208
+      Source_Contribution: Spatial and attribute information.
+ 
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Imagery and Mapping Agency 
+          Publication_Date: 1990
+          Title: World Vector Shoreline
+          Publication_Information:
+            Publication_Place: Bethesda, MD
+            Publisher: National Imagery and Mapping Agency
+          Online_Linkage:
+            <http://www.ngdc.noaa.gov/mgg/shorelines/shorelines.html>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time: 
+            Calendar_Date: 1990 
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: WVS 
+      Source_Contribution: Shoreline information.
+
+    Process_Step:
+      Process_Description:
+        A detailed description of how this map layer was created, and 
+        discussion on interpreting the map layer, may be found in 
+        USARSENIC.  Information on sources is included under Data Set 
+        Credit, above.
+
+        The area of the United States was divided into a grid using 
+        equal-area hexagons 100 kilometers across (the median size of a 
+        U.S. county).  For areas with a minimum data density of five 
+        wells per hexagon, the 75th percentile of arsenic concentration 
+        was computed.  A moving 75th percentile was then approximated 
+        by "smoothing" across hexagon boundaries based on neighboring 
+        values.
+      Source_Used_Citation_Abbreviation: USARSENIC
+      Process_Date: 2001
+
+    Process_Step:
+      Process_Description:
+        The map layer was projected to a Lambert Azimuthal Equal Area 
+        projection, merged with the background information from Atlas-
+        FCT, and converted to a GeoTIFF image. 
+      Source_Used_Citation_Abbreviation: USARSENIC
+      Source_Used_Citation_Abbreviation: Atlas-FCT
+      Process_Date: 2002
+      Source_Produced_Citation_Abbreviation: Atlas-AR200208
+
+    Process_Step:
+      Process_Description:
+        The coastline of Greenland was replaced by a new, corrected 
+        version derived from World Vector Shoreline (WVS). This image 
+        contains no thematic data for Greenland; the new data were 
+        inserted only to maintain consistency with other National Atlas 
+        data layers.
+      Source_Used_Citation_Abbreviation: Atlas-AR200208
+      Source_Used_Citation_Abbreviation: WVS
+      Process_Date: 200212
+
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+  Raster_Object_Information:
+    Raster_Object_Type: Grid Cell
+    Row_Count: 7273
+    Column_Count: 10366
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Lambert Azimuthal Equal Area
+        Lambert_Azimuthal_Equal_Area:
+          Longitude_of_Projection_Center: -100.00
+          Latitude_of_Projection_Center: 45.00
+          False_Easting: 0.0
+          False_Northing: 0.0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Row and column
+        Coordinate_Representation:
+          Abscissa_Resolution: 1000.0
+          Ordinate_Resolution: 1000.0
+        Planar_Distance_Units: Meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: None
+      Ellipsoid_Name: Sphere
+      Semi-major_Axis: 6370997.0
+      Denominator_of_Flattening_Ratio: 1.0
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Arsenic concentration grid cell
+      Entity_Type_Definition: 
+        Any of the grid cell elements in the arsenic concentration 
+        raster file.
+      Entity_Type_Definition_Source: U.S. Geological Survey
+    Attribute:
+      Attribute_Label: Arsenic concentration grid cell value.
+      Attribute_Definition: 
+        Each grid cell value is a color definition that represents an 
+        estimate of the 75th percentile of arsenic concentration in 
+        that region.  The concentrations were recorded in micrograms 
+        per liter (ug/L; equivalent to parts per billion), and were 
+        converted to colors according to the following table.  All 
+        arsenic concentrations greater than 50 micrograms per liter 
+        were recoded as 50 micrograms per liter.  There may be 
+        intermediate colors in the image that are not included in this 
+        table. 
+        > Arsenic             Color        RGB values
+        > Concentration         
+        >--------------------------------------------------------------
+        >  1 ug/L or less     dark green    50.67328 150.3464   0.67328
+        >  3 ug/L             light green  152       251      152
+        >  5 ug/L             yellow       255       255        0
+        > 10 ug/L             orange       255       165        0
+        > 50 ug/L or greater  red          255         0        0
+        > Insufficient data   white        255       255      255
+        > Non-US land         grey         204       204      204
+        > Water               light blue   132       193      255
+        >
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+           Range_Domain_Minimum: 0 
+           Range_Domain_Maximum: 255
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+        Country: USA
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions:
+        In addition to the address above there are other ESIC offices 
+        throughout the country.  A full list of these offices is at 
+        <http://geography.usgs.gov/esic/esic_index.html>.
+  Distribution_Liability:
+    Although these data have been processed successfully on a computer 
+    system at the U.S. Geological Survey, no warranty expressed or 
+    implied is made by the U.S. Geological Survey regarding the utility 
+    of the data on any other system, nor shall the act of distribution 
+    constitute any such warranty.  No responsibility is assumed by the 
+    U.S. Geological Survey in the use of these data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: TIFF
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name:
+                <http://nationalatlas.gov/atlasftp.html>
+    Fees:
+      There is no charge for the map layer.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20050923
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Peg Rawson
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Drive
+        Address: MS-561 
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+        Country: USA
+      Contact_Voice_Telephone: 703-648-4183
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: 
+    FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
