@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="agency">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="alttext">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="caption">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="category">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="description">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="ID">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="identifier">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="url" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="image">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="url" />
+        <xs:element ref="caption" />
+        <xs:element ref="alttext" />
+        <xs:element ref="sourceurl" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="interestingfact">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="url" />
+        <xs:element ref="text" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="itemdate">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="recordcreated" />
+        <xs:element ref="placedonline" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="keywords">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="term" maxOccurs="unbounded" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="name">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="placedonline">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="primary">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="publisher">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="name" />
+        <xs:element ref="agency" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="recordcreated">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="resource">
+    <xs:complexType>
+      <xs:choice>
+        <xs:element ref="ID" />
+        <xs:element ref="description" />
+        <xs:element ref="identifier" />
+        <xs:element ref="image" />
+        <xs:element ref="interestingfact" />
+        <xs:element ref="itemdate" />
+        <xs:element ref="publisher" />
+        <xs:element ref="resourcekeywords" />
+        <xs:element ref="subjects" />
+        <xs:element ref="title" />
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="resourcekeywords">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="keywords" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="resource" maxOccurs="unbounded" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="sourceurl">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="subject">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="category" />
+        <xs:element ref="subcategory" />
+        <xs:element ref="primary" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="subjects">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="subject" maxOccurs="unbounded" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="term">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="text">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="title">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="url">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+</xs:schema>
