@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<metadata>
+	<idinfo><ptcontac><cntinfo><cntorgp><cntorg>U.S. Geological Survey</cntorg><cntper>Public Information Officer</cntper></cntorgp><cntaddr><addrtype>mailing and physical address</addrtype><address>8027 Exchange Dr</address><city>Austin</city><state>Texas</state><postal>78754</postal><country>USA</country></cntaddr><cntvoice>512-927-3500</cntvoice><cntfax>512-927-3590</cntfax><cntemail>gs-w-txpublic-info@usgs.gov</cntemail></cntinfo></ptcontac><descript><abstract>This UNOFFICIAL United States-Mexico boundary dataset was developed by the U.S. Geological Survey’s Border Environmental Health Initiative (BEHI) (http://borderhealth.cr.usgs.gov/index.html), to be used as a common boundary for the clipping and geometric integration of binational geospatial datasets. It provides a single boundary that has been used throughout the project, but is not representative of any officially recognized international boundary.
+
+International borders politically divide the landscape but rarely represent barriers for environmental issues. The major issues surrounding the U.S.-Mexico border involve economics and population growth that present challenges to environmental management and natural resource planning. To monitor trends and analyze the stresses to the environment, binationally integrated baseline datasets that portray the status of the landscape are needed. The primary objective of this project is to develop integrated, environmental resource and human health datasets for display and further analysis within a geographic information system (GIS) framework.   Datasets created for the BEHI follow watershed boundaries as defined by Woodward and Durall (1996).  As part of the U.S.-Mexico Border Field Coordinating Committee Issues Team, Woodward and Durall (1996) used surface-water drainage basins as the primary basis for defining and delineating the extent of the border area from a shared-water resources perspective.  In order to provide integrated datasets in the border region, local and regional BEHI datasets have been clipped to this boundary.</abstract><purpose>This dataset was created to provide resource managers, public officials, researchers, and the general public with ready access to accurate, impartial, scientific information to strike a balance among human needs for resource utilization, environmental quality, and human health.</purpose><supplinf>Additional information about the Border Environmental Health Initiative can be found at http://borderhealth.cr.usgs.gov and datasets are available for viewing through an Internet Mapping Service (follow links on the main page to the Internet Mapping Service Viewer).</supplinf><langdata Sync="TRUE">en</langdata></descript><accconst>The data are available for viewing at http://borderhealth.cr.usgs.gov</accconst><useconst>Accuracy of the data is not guaranteed. Users should be aware that temporal changes might have occurred since these data were collected and that some parts of the data might no longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of their limitations. Acknowledgment of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data is obligated to describe the modifications made. User specifically agrees not to misrepresent the data, nor to imply that changes made were approved or endorsed by the U.S. Geological Survey. Please refer to &lt;http://www.usgs.gov/privacy.html&gt; for the U.S. Geological Survey disclaimer.</useconst><keywords><theme><themekey>Environmental Heath</themekey><themekt>Library of Congress</themekt><themekey>Water</themekey></theme><place><placekey>Mexican-American Border Region</placekey><placekey>United States of America</placekey><placekey>Mexico</placekey><placekey>Rio Grande</placekey><placekey>Río Bravo</placekey></place><theme><themekey>imageryBaseMapsEarthCover</themekey><themekey>Imagery and Base Maps</themekey><themekt>ISO 19115 Topic Category</themekt></theme></keywords><citation><citeinfo><origin>U.S. Geological Survey</origin><pubdate>2007</pubdate><title>USGS U.S.-Mexico Border Environmental Health Initiative International Boundary Feature Class</title><geoform>vector digital data</geoform><onlink>http://borderhealth.cr.usgs.gov</onlink><ftname Sync="TRUE">International_Boundary_Final</ftname></citeinfo></citation><timeperd><timeinfo><rngdates><begdate>19990101</begdate><enddate>20041106</enddate></rngdates></timeinfo><current>ground condition</current></timeperd><status><progress>Complete</progress><update>None planned</update></status><native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.1.1332</native><natvform Sync="TRUE">Shapefile</natvform><spdom><lboundng><leftbc Sync="TRUE">-960887.299610</leftbc><rightbc Sync="TRUE">987199.123139</rightbc><bottombc Sync="TRUE">-421252.614848</bottombc><topbc Sync="TRUE">326072.037070</topbc></lboundng><bounding><westbc Sync="TRUE">-117.248098</westbc><eastbc Sync="TRUE">-96.472831</eastbc><northbc Sync="TRUE">32.938067</northbc><southbc Sync="TRUE">25.818319</southbc></bounding></spdom></idinfo><dataqual>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U. S. Department of Agriculture, Farm Services Administration, Aerial Photography Field Office</origin>
+						<pubdate>2005</pubdate>
+						<title>National Agriculture Imagery Program (NAIP) 2004 1-meter resolution digital orthophotos</title>
+						<geoform>raster digital data</geoform>
+						<onlink>http://www.tnris.state.tx.us/</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>1-meter resolution</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>20040601</begdate>
+							<enddate>20041106</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>NAIP 2004 Imagery</srccitea>
+				<srccontr>NAIP 2004 Imagery was used for digitizing the center of the Rio Grande/Rio Bravo along the United States-Mexico border.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Instituto Nacional de Estadística, Geografía, e Informática (INEGI) (México)</origin>
+						<pubdate>19990101</pubdate>
+						<title>INEGI 1:250,000 Limite feature class</title>
+						<geoform>vector digital data</geoform>
+						<serinfo>
+							<sername>Conjunto de Datos Vectoriales de la Carta Topográfica Escala 1:250,000</sername>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Aguascalientes, Aguascalientes, México</pubplace>
+							<publish>INEGI</publish>
+						</pubinfo>
+						<onlink>http://antares.inegi.gob.mx/consultar/consultar.html</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>250,000</srcscale>
+				<typesrc>disc</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>19990101</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>INEGI 1:250k Limite feature class</srccitea>
+				<srccontr>The INEGI 1:250k Limite feature class was used to delineate the United States-Mexico border along parts of the boundary (California, Baja California, Arizona, Sonora, New Mexico, and Chihuahua) that are not defined by the Rio Grande/Rio Bravo.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>With the data frame scale set to 1:5,000 in ArcMap, the center of the Rio Grande/Rio Bravo was digitized using the NAIP 2004 Imagery. In areas with dense stands of salt cedar (bounding box = UL -104.714 30.038, UR -104.664 30.037, LR -104.666 29.933, LL -104.717 29.934; NAD83), the center of the channel was difficult, and sometimes impossible, to determine. In those cases, the digitizer made a judgment on the basis of the location of the line in the INEGI 1:250K Limite feature class and the NAIP 2004 Imagery. Thus, the delineation of the international boundary is less certain in these areas.</procdesc>
+				<srcused>NAIP 2004 Imagery</srcused>
+				<procdate>20060601</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>The part of the border not delineated by the Rio Grande/Río Bravo was extracted from the INEGI 1:250K Limite feature class and appended to the line feature class created in Process Step 1.</procdesc>
+				<srcused>INEGI 1:250k Limite feature class</srcused>
+				<procdate>20060605</procdate>
+			</procstep>
+		</lineage>
+		<posacc><horizpa><horizpar>The international boundary line feature class might contain as much as 100 meters or more of error in the horizontal position of vertices. Errors of this magnitude were present in the original INEGI 1:250K Limite feature class. Smaller errors, as much as 5 meters, might have resulted from error present in digital orthophotos used to digitize the international boundary along the Rio Grande/Rio Bravo. Errors of unknown magnitude might have been introduced in areas where the determination of the location of the channel of the Rio Grande/Rio Bravo was difficult, for example, in dense salt cedar stands.</horizpar></horizpa></posacc><logic>The international boundary feature class was check for duplicate line segments, dangles, and overlaps.</logic><complete>The international boundary feature class represents the United States-Mexico border to the extent made possible by the source data described in the Source Information section of these metadata.</complete></dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="International_Boundary_Final">
+				<sdtstype Sync="TRUE">String</sdtstype>
+				<ptvctcnt Sync="TRUE">43</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="International_Boundary_Final"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polyline</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">43</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Albers Conical Equal Area</mapprojn><albers><stdparll Sync="TRUE">27.000000</stdparll><stdparll Sync="TRUE">33.000000</stdparll><longcm Sync="TRUE">-107.000000</longcm><latprjo Sync="TRUE">30.000000</latprjo><feast Sync="TRUE">0.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></albers></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">borderwide</projcsn></cordsysn></horizsys>
+		<vertdef>
+			<altsys>
+				<altres Sync="TRUE">0.000003</altres>
+				<altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="International_Boundary_Final">
+			<enttyp>
+				<enttypl Sync="TRUE">International_Boundary_Final</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">43</enttypc><enttypd>Unofficial U.S.-Mexico international boundary for use in clipping geospatial data at the border.</enttypd><enttypds>author</enttypds></enttyp>
+			<attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>src_date</attrlabl>
+				<attrdef>Date of source data.</attrdef>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth></attr>
+			<attr>
+				<attrlabl>src_type</attrlabl>
+				<attrdef>Type of source data.</attrdef>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth></attr>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape_Leng</attrlabl><attalias Sync="TRUE">Shape_Leng</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr>
+				<attrlabl>src_name</attrlabl>
+				<attrdef>Name of producer of source data.</attrdef>
+				<attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+		</detailed>
+	</eainfo>
+	<distinfo><distrib><cntinfo><cntorgp><cntorg>U.S. Geological Survey</cntorg><cntper>Public Information Officer</cntper></cntorgp><cntaddr><addrtype>mailing and physical address</addrtype><address>8027 Exchange Dr</address><city>Austin</city><state>Texas</state><postal>78754</postal><country>USA</country></cntaddr><cntvoice>512-917-3500</cntvoice><cntfax>512-927-3590</cntfax><cntemail>gs-w-txpublic-info@usgs.gov</cntemail></cntinfo></distrib><distliab>These data have not received Bureau approval and as such are provisional and subject to revision. The data are released on the condition that neither the U.S. Geological Survey, its cooperators,  nor the U. S. Government may be held liable for any damages resulting from its authorized or unauthorized use.  Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab><resdesc Sync="TRUE">Downloadable Data</resdesc><stdorder><digform><digtinfo><transize Sync="TRUE">0.512</transize><dssize Sync="TRUE">0.512</dssize></digtinfo></digform></stdorder></distinfo><metainfo><metd Sync="TRUE">20070417</metd><metc><cntinfo><cntorgp><cntorg>U.S. Geological Survey</cntorg></cntorgp><cntaddr><addrtype>mailing and physical address</addrtype><address>8027 Exchange Dr</address><city>Austin</city><state>Texas</state><postal>78754-4733</postal><country>USA</country></cntaddr><cntvoice>512-927-3500</cntvoice><cntfax>512-927-3590</cntfax><cntemail>gs-w-txpublic-info@usgs.gov</cntemail></cntinfo></metc><langmeta Sync="TRUE">en</langmeta><metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv><mettc Sync="TRUE">local time</mettc><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo><Esri><ModDate>20070417</ModDate><ModTime>15021100</ModTime><SyncDate>20070417</SyncDate><SyncTime>15021100</SyncTime><DataProperties><lineage><Process Name="FeatureClassToFeatureClass_1" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20070412" Time="153219">FeatureClassToFeatureClass \\igskiacwgsnas\gis_proj\b8172_bef\bef02\master_bw\anth\work\anth_work_gdb.mdb\boundaries\intl_boundary_final \\igskiacwgsnas\gis_proj\b8172_bef\bef03\admin\Website\For_Spooner\International_boundary\International_Boundary.mdb International_Boundary_Final # "src_name src_name true true false 50 Text 0 0 ,First,#,\\igskiacwgsnas\gis_proj\b8172_bef\bef02\master_bw\anth\work\anth_work_gdb.mdb\boundaries\intl_boundary_final,src_name,-1,-1;src_type src_type true true false 50 Text 0 0 ,First,#,\\igskiacwgsnas\gis_proj\b8172_bef\bef02\master_bw\anth\work\anth_work_gdb.mdb\boundaries\intl_boundary_final,src_type,-1,-1;src_date src_date true true false 50 Text 0 0 ,First,#,\\igskiacwgsnas\gis_proj\b8172_bef\bef02\master_bw\anth\work\anth_work_gdb.mdb\boundaries\intl_boundary_final,src_date,-1,-1;SHAPE_Length SHAPE_Length false true true 8 Double 0 0 ,First,#,\\igskiacwgsnas\gis_proj\b8172_bef\bef02\master_bw\anth\work\anth_work_gdb.mdb\boundaries\intl_boundary_final,SHAPE_Length,-1,-1" # \\igskiacwgsnas\gis_proj\b8172_bef\bef03\admin\Website\For_Spooner\International_boundary\International_Boundary.mdb\International_Boundary_Final</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20070417" Time="145804">CopyFeatures \\igskiacwgsnas\gis_proj\b8172_bef\bef03\admin\Website\For_Spooner\International_boundary\International_Boundary.mdb\International_Boundary_Final \\igskiacwgsnas\gis_proj\b8172_bef\bef03\admin\Website\For_Spooner\International_boundary\Shapefile\International_Boundary_Final.shp # 0 0 0</Process></lineage></DataProperties></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.1.1332</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">International_Boundary_Final</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-960887.29961</westBL><eastBL Sync="TRUE">987199.123139</eastBL><northBL Sync="TRUE">326072.03707</northBL><southBL Sync="TRUE">-421252.614848</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-117.248098</westBL><eastBL Sync="TRUE">-96.472831</eastBL><northBL Sync="TRUE">32.938067</northBL><southBL Sync="TRUE">25.818319</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\igskiacwgsnas\gis_proj\b8172_bef\bef03\admin\Website\For_Spooner\International_boundary\Shapefile\International_Boundary_Final.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.512</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">borderwide</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="International_Boundary_Final"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">43</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20070417</mdDateSt></metadata>
