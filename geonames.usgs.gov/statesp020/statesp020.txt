@@ -1,0 +1,688 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Atlas of the United States
+      Publication_Date: 200506
+      Title: State Boundaries of the United States
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: National Atlas of the United States
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+  Description:
+    Abstract:
+      This map layer portrays the State boundaries of the United States, and the
+      boundaries of Puerto Rico and the U.S. Virgin Islands.  The map layer was 
+      created by extracting the State boundary polygons from the individual 
+      1:2,000,000-scale State boundary Digital Line Graph (DLG) files produced 
+      by the U.S. Geological Survey.  These files were then merged into a single 
+      coverage.  This is an updated version of the June 2002 map layer; the 
+      date when each State was admitted to the United States was added.
+    Purpose:
+      These data are intended for geographic display and analysis at the 
+      national level, and for large regional areas.  The data should be 
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale data.  
+      No responsibility is assumed by the National Atlas of the United States in 
+      the use of these data.  
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1972
+        Ending_Date: 2005
+    Currentness_Reference: Ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 170
+      East_Bounding_Coordinate: -64
+      North_Bounding_Coordinate: 72
+      South_Bounding_Coordinate: 17
+
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: Boundaries
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Boundaries
+      Theme_Keyword: State boundaries
+      Theme_Keyword: States
+      Theme_Keyword: Statehood
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: United States
+      Place_Keyword: USA
+    Place:
+      Place_Keyword_Thesaurus:  
+        U.S. Department of Commerce, 1987, Codes for the Identification of the 
+        States, the District of Columbia and the Outlying Areas of The United 
+        States, and Associated Areas (Federal Information Processing Standard
+        5-2):  Washington, DC, National Institute of Standards and Technology.
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+      Place_Keyword: Puerto Rico
+      Place_Keyword: Virgin Islands
+      Place_Keyword: U.S. Virgin Islands 
+
+  Access_Constraints: None
+  Use_Constraints: 
+    None.  Acknowledgment of the National Atlas of the United States of America 
+    would be appreciated in products derived from these data.  
+
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Woodley Chu
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Dr
+        Address: MS 561
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-6375
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+Data_Quality_Information:
+  Logical_Consistency_Report: 
+    The map layer was checked for topological consistency using the Arc/INFO 
+    command BUILD.  No other checks for logical consistency were performed on 
+    this map layer.
+  Completeness_Report:
+    This map layer includes State boundaries for all 50 States, and boundaries 
+
+
+    for Puerto Rico and the U.S. Virgin Islands.  Data completeness generally 
+    reflects the content of the original DLG files.
+
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1995
+          Title: 1:2,000,000-scale Digital Line Graph Data - Boundaries
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1970
+            Ending_Date: 1995
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: 2MILBD
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 1998
+          Title: Hydrography Features of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1998
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: ATLAS-HY98
+      Source_Contribution: Spatial information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 1998
+          Title: State Boundaries of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1998
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: ATLAS-STATES98
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 199903
+          Title: Hydrography Features of the United States
+          Publication_Information:
+            Publication_Place: Reston, Virginia
+            Publisher: National Atlas of the United States
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 199903
+        Source_Currentness_Reference: Publication date
+
+ 
+      Source_Citation_Abbreviation: ATLAS-HY9903
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas of the United States
+          Publication_Date: 199903
+          Title: State Boundaries of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1999
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: ATLAS-STATES9903
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: Unknown
+          Title: 1:100,000-scale USGS topographic maps
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 100000
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: 1:100,000-scale base maps
+      Source_Contribution: spatial and attribute information
+
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: National Atlas of the United States 
+          Publication_Date: 199911
+          Title: State Boundaries of the United States 
+          Publication_Information: 
+            Publication_Place: Reston, VA 
+            Publisher: National Atlas of the United States 
+      Source_Scale_Denominator: 2000000 
+      Type_of_Source_Media: Online 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Range_of_Dates/Times: 
+            Beginning_Date: 1972
+            Ending_Date: 1999
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: ATLAS-STATES199911
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: National Atlas of the United States 
+          Publication_Date: 200206
+          Title: County Boundaries of the United States 
+          Publication_Information: 
+            Publication_Place: Reston, VA 
+            Publisher: National Atlas of the United States 
+      Source_Scale_Denominator: 2000000 
+      Type_of_Source_Media: Online 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Range_of_Dates/Times: 
+            Beginning_Date: 1972
+            Ending_Date: 2001
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: ATLAS-CNTY200206
+      Source_Contribution: Spatial and attribute information 
+
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: National Atlas of the United States 
+          Publication_Date: 200206
+          Title: State Boundaries of the United States 
+          Publication_Information: 
+            Publication_Place: Reston, VA 
+            Publisher: National Atlas of the United States 
+      Source_Scale_Denominator: 2000000 
+      Type_of_Source_Media: Online 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Range_of_Dates/Times: 
+            Beginning_Date: 1972
+            Ending_Date: 2002
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: ATLAS-STATES200206
+      Source_Contribution: Spatial and attribute information
+
+    Source_Information: 
+      Source_Citation: 
+        Citation_Information: 
+          Originator: U.S. Government Printing Office 
+          Publication_Date: 20031104
+          Title: Ben's Guide to U.S. Government 
+          Publication_Information: 
+            Publication_Place: Washington, DC 
+            Publisher: U.S. Government Printing Office 
+          Online_Linkage: <http://bensguide.gpo.gov/3-5/state/index.html>
+      Type_of_Source_Media: Online 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Single_Date/Time: 
+            Calendar_Date: 20031104
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: STATEHOOD 
+      Source_Contribution: Attribute information
+
+    Source_Information:  
+      Source_Citation:  
+        Citation_Information:  
+          Originator: National Atlas of the United States  
+          Publication_Date: 200301
+          Title: Streams and Waterbodies of the United States 
+          Publication_Information: 
+            Publication_Place: Reston, VA
+            Publisher: National Atlas of the United States 
+          Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+      Source_Scale_Denominator: 2000000 
+      Type_of_Source_Media: Online 
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Single_Date/Time: 
+
+
+            Calendar_Date: 200301
+        Source_Currentness_Reference: Publication date 
+      Source_Citation_Abbreviation: ATLAS-hydro
+      Source_Contribution: Spatial and attribute information 
+
+    Process_Step:
+      Process_Description:
+        The 2MILBD data files were originally digitized by the National Mapping 
+        Discipline of the U.S. Geological Survey (USGS), based on the sectional 
+        maps contained in 'The National Atlas of the United States of America' 
+        published by the USGS in 1970.  The sectional maps were updated during 
+        1978-1981 and digitized in the early 1980's.  The data were updated 
+        again in the early 1990's by the USGS and published on CD-ROM in 1995 as 
+        State DLGs.  These DLG files were updated in 1997.  Using Arc/INFO 
+        software, the DLG optional format files were converted to Arc/INFO 
+        coverages using the DLGARC command.  Only State political boundaries and 
+        attribute information were extracted for inclusion.  The file was 
+        compared to ATLAS-HY98.  State boundary lines that crossed open water 
+        were excluded for graphic purposes, and polygons that represented 
+        islands were attributed with the appropriate State information.  The 
+        individual State coverages were then merged together using the Arc/INFO 
+        command MAPJOIN.  'Slivers' created during the MAPJOIN process were 
+        identified and deleted using the ELIMINATE command. 
+      Source_Used_Citation_Abbreviation: 2MILBD
+      Source_Used_Citation_Abbreviation: ATLAS-HY98
+      Process_Date: 1998
+      Source_Produced_Citation_Abbreviation: ATLAS-STATES98
+
+    Process_Step:
+      Process_Description:
+        The spatial features in ATLAS-STATES98 were compared to ATLAS-HY9903 and 
+        modified where necessary.  Incorrect attributes were corrected.  Puerto 
+        Rico and the U.S. Virgin Islands were added. 
+      Source_Used_Citation_Abbreviation: ATLAS-STATES98
+      Source_Used_Citation_Abbreviation: ATLAS-HY9903
+      Process_Date: 1999
+      Source_Produced_Citation_Abbreviation: ATLAS-STATES9903
+   
+    Process_Step:
+      Process_Description:
+        A minor adjustment was made to the shoreline in Galveston Bay, Texas.
+      Source_Used_Citation_Abbreviation: ATLAS-STATES9903
+      Source_Used_Citation_Abbreviation: 1:100,000 scale base maps
+      Process_Date: 1999
+      Source_Produced_Citation_Abbreviation: ATLAS-STATES199911
+
+    Process_Step:
+      Process_Description:
+        Boundary adjustments of 1 square mile or greater were made between 
+        the following:
+        >1. Arkansas and Mississippi
+        >2. Arkansas and Oklahoma
+        >3. Arkansas and Tennessee
+        >4. Idaho and Montana
+        >5. Idaho and Oregon
+        >6. Illinois and Missouri
+        >7. Iowa and Nebraska
+        >8. Louisiana and Mississippi
+        >9. Missouri and Nebraska
+        >10. Montana and Wyoming
+        >11. Nebraska and South Dakota
+        >12. Oklahoma and Texas
+        >13. Tennessee and Virginia
+        >14. Texas and Mexico (southern border of Texas)
+        In addition, some minor adjustments were made to other States.  
+      Source_Used_Citation_Abbreviation: ATLAS-CNTY200206
+      Source_Used_Citation_Abbreviation: ATLAS-STATES199911
+      Process_Date: 200205
+      Source_Produced_Citation_Abbreviation: ATLAS-STATES200206
+
+    Process_Step:
+      Process_Description:
+        Attributes were added that provide, for each State, the month, day, and 
+        year of admission to the United States.  The order of admission was also
+        added.  In addition, two line segments along the Texas/Mexico border 
+        were modified to align to ATLAS-hydro.
+      Source_Used_Citation_Abbreviation: ATLAS-STATES200206
+      Source_Used_Citation_Abbreviation: STATEHOOD 
+      Source_Used_Citation_Abbreviation: ATLAS-hydro
+      Process_Date: 200505
+
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference:
+    U.S. Department of Commerce, 1987, Codes for the Identification of the 
+    States, the District of Columbia and the Outlying Areas of the United 
+    States, and Associated Areas (FIPS 5-2): Washington, DC, National 
+    Institute of Standards and Technology.           
+
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 2895
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000278
+      Longitude_Resolution: 0.000278
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257222
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: State (described by Statesp020.dbf)
+      Entity_Type_Definition: 
+        First order division of a nation, including States and State 
+        equivalents.
+      Entity_Type_Definition_Source: National Atlas of the United States
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Polygon
+          Enumerated_Domain_Value_Definition: 2-dimensional element
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Area
+      Attribute_Definition:
+        The size of the shape in square coverage units.  In the distributed 
+        file, coverage units represent square decimal degrees.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 267.357
+    Attribute:
+      Attribute_Label: Perimeter
+      Attribute_Definition: 
+        The perimeter of shape in coverage units.  In the distributed file, 
+        coverage units represent decimal degrees.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+       Range_Domain:
+          Range_Domain_Minimum: 0.010
+          Range_Domain_Maximum: 374.768
+    Attribute:
+      Attribute_Label: Statesp020
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 2
+          Range_Domain_Maximum: 2896
+    Attribute: 
+      Attribute_Label: State 
+      Attribute_Definition: The name of the State or State equivalent. 
+      Attribute_Definition_Source: National Atlas of the United States 
+      Attribute_Domain_Values: 
+        Codeset_Domain: 
+          Codeset_Name: 
+            Codes for the Identification of the States, the District of Columbia 
+            and the Outlying Areas of the United States, and Associated Areas, 
+            FIPS 5-2. 
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology
+    Attribute:
+      Attribute_Label: State_fips
+      Attribute_Definition: 
+        The 2-digit FIPS code of the State or State equivalent.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: 
+            Codes for the Identification of the States, the District of Columbia 
+            and the Outlying Areas of the United States, and Associated Areas,
+            FIPS 5-2.
+          Codeset_Source: 
+            U.S. Department of Commerce, National Institute of Standards and 
+            Technology
+    Attribute:
+      Attribute_Label: Order_adm
+      Attribute_Definition: 
+        An ordinal value indicating the State’s order of admission to the United 
+        States.
+      Attribute_Definition_Source: National Atlas of the United States
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 50
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: 
+            The area is not a State.  Washington, DC is a district, Puerto Rico 
+            is a commonwealth, and the U.S. Virgin Islands is a territory of the 
+            United States. 
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+    Attribute:
+      Attribute_Label: Month_adm
+      Attribute_Definition: 
+        The month when the State was admitted to the United States.
+      Attribute_Definition_Source: National Atlas of the United States 
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: January
+          Range_Domain_Maximum: December
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: <blank>
+          Enumerated_Domain_Value_Definition: 
+            The area is not a State.  Washington, DC is a district, Puerto Rico 
+            is a commonwealth, and the U.S. Virgin Islands is a territory of the 
+            United States. 
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+    Attribute:
+      Attribute_Label: Day_adm
+      Attribute_Definition: 
+        The day when the State was admitted to the United States.
+      Attribute_Definition_Source: National Atlas of the United States 
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 31
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: 
+            The area is not a State.  Washington, DC is a district, Puerto Rico 
+            is a commonwealth, and the U.S. Virgin Islands is a territory of the 
+            United States. 
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+    Attribute:
+      Attribute_Label: Year_adm
+      Attribute_Definition: 
+        The year when the State was admitted to the United States.
+      Attribute_Definition_Source: National Atlas of the United States 
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1787
+          Range_Domain_Maximum: 1959
+      Attribute_Domain_Values:
+        Enumerated_Domain: 
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: 
+            The area is not a State.  Washington, DC is a district, Puerto Rico 
+            is a commonwealth, and the U.S. Virgin Islands is a territory of the 
+            United States. 
+          Enumerated_Domain_Value_Definition_Source: 
+            National Atlas of the United States
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions: 
+        In addition to the address above there are other ESIC offices throughout 
+        the country.  A full list of these offices is at
+        <http://geography.usgs.gov/esic/esic_index.html>.
+
+  Distribution_Liability: 
+    Although these data have been processed successfully on a computer system at 
+    the U.S. Geological Survey, no warranty expressed or implied is made by the 
+
+ 
+    U.S. Geological Survey regarding the utility of the data on any other  
+    system, nor shall the act of distribution constitute any such warranty.  No 
+    responsibility is assumed by the U.S. Geological Survey in the use of these 
+    data.  
+
+
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+    Digital_Form: 
+      Digital_Transfer_Information: 
+        Format_Name: SDTS 
+      Digital_Transfer_Option: 
+        Online_Option: 
+          Computer_Contact_Information:
+            Network_Address: 
+              Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html>
+
+    Fees:
+      There is no charge for this map layer. 
+
+Metadata_Reference_Information:
+  Metadata_Date: 20050601
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Peg Rawson
+        Contact_Organization: National Atlas of the United States
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 12201 Sunrise Valley Dr
+        Address: MS 561
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-4183
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: 
+    FGDC Content Standards for Digital Geospatial Metadata 
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information: 
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
