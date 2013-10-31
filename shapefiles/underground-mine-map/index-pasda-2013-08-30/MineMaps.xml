@@ -1,0 +1,230 @@
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<title>Pennsylvania DEP Mine Maps</title>
+				<origin>Pennsylvania Department of Environmental Protection, Bureau of District Mining Operations</origin><onlink>http://www.depweb.state.pa.us/portal/server.pt/community/bureau_of_district_mining_operations/20764</onlink><pubinfo><pubplace>Coal Center, PA</pubplace><publish>Pennsylvania Department of Environmental Protection, Bureau of District Mining Operations</publish></pubinfo><onlink>http://www.pasda.psu.edu/</onlink></citeinfo>
+		</citation>
+		<spdom>
+			<bounding>
+				<westbc>-80.583333</westbc>
+				<eastbc>-76.583333</eastbc>
+				<northbc>41.750000</northbc>
+				<southbc>39.666667</southbc>
+			</bounding>
+		</spdom>
+		<accconst>None</accconst>
+		<useconst>The Originator, Publisher and Distributor exclude any and all implied warranties and make no warranty or representation with respect to the data files or accompanying documentation, including quality, performance, merchantability or fitness for a particular purpose. These data files and documentation are provided 'as is' and the User assumes the entire risk as to their quality and performance. 
+These data are not to be redistributed for commercial profit. Reproduction or redistribution of this digital data set without permission of the Originator/Publisher is expressly forbidden. The Originator and Publisher should be clearly cited in any product derived from this data. Any modifications to this data must be described in any digital or hardcopy product derived from this data.
+Any digital or hardcopy product derived from this data should not be larger than a scale of 1:24,000 and the following disclaimer should be added to the product: "The georeferenced map layer on this product was provided by the Pennsylvania Department of Environmental Protection.  This map was georeferenced using information considered to be the best historic data available. It is understood that there is an inherit loss of accuracy in the georeferencing process and the georeferenced map may not align correctly with base maps, real world locations, and/or established coordinate systems. The Department assumes no responsibility for the accuracy or completeness of this information."
+ Not for commercial use or resale. The User shall save the Commonwealth harmless from any suits, claims or actions arising out of the use of the data files or accompanying documentation, or arising out of any defect in the data files or accompanying documentation. The Commonwealth excludes any and all implied warranties and makes no warranty or representation with respect to the data files or accompanying documentation, including quality, performance, merchantability, or fitness for a particular purpose. These data files and documentation are provided AS IS and the User assumes the entire risk as to their quality and performance
+ Those parties involved with the development and distribution of this data will not be liable for any direct, indirect, special, incidental, or consequential damages arising out of the use or inability to use the FILES or any accompanying documentation.
+</useconst>
+		<native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; ESRI ArcGIS 10.0.4.4000</native>
+		<keywords><theme><themekey>mining</themekey><themekt>ISO 19115 Topic Categories</themekt><themekey>geoscientificInformation</themekey></theme></keywords><ptcontac><cntinfo><cntaddr><address>DEP- California District Office</address><address>25 Technology Drive</address><addrtype>mailing and physical address</addrtype><address>California Technology Park</address><city>Coal Center</city><state>PA</state><postal>15423</postal><country>USA</country></cntaddr><cntperp><cntper>James Welsh</cntper><cntorg>Pennsylvania Department of Environmental Protection, Bureau of District Mining Operations</cntorg></cntperp><cntpos>Technical Services Unit Supervisor</cntpos><cntvoice>724-769-1100</cntvoice><cntfax>724-769-1102</cntfax></cntinfo></ptcontac><descript><abstract>Coal mining has occurred in Pennsylvania for over a century. The maps to these coal mines are stored at various public and private locations (if they still exist at all) throughout the commonwealth.  The Pennsylvania Department of Environmental Protection, Office of Active and Abandoned Mine Operations (DEP) is involved in many projects dealing with historic and active mine map restoration and digitization.  
+The DEP has tried to preserve the historic information contained on these maps by scanning the maps into a digital image. The preferred format for archiving these maps is an uncompressed Tagged Image File Format (.TIF) at 400 DPI resolution and 24-bit RGB color depth. Some archival images are stored at a lower DPI due to scanner limitations and/or extremely large size of the original hardcopy.  Various scanners were used at different locations at different times.
+Detailed metadata on the individual map sheets can be found in the Pennsylvania Historic Underground Mine Map Inventory System (PHUMMIS). 
+Many of the mine map images have been georeferenced after an archive image is made.  These maps have been georeferenced to provide the approximate spatial location so that they can be used for many environmental related issues, including mine land reclamation and determination of needs for Mine Subsidence Insurance.  It is understood that there is an inherit loss of accuracy in the georeferencing process and the georeferenced map may not align correctly with base maps and/or established coordinate systems. Therefore these georeferenced maps should ONLY be used for reference information only and NOT be used for an engineering and/or human safety related issues.
+Before a map is georeferenced, it is compressed into a Mr.Sid file format using LizardTech’s GeoExpress. The compressed image is georeferenced in ESRI’s ArcGIS software. An attempt is made to match a minimum of four control points between the source map image and target basemaps/coordinates. The points used to link the mine map to a base map include, but are not limited to: road crossings, monuments, property boundaries, water crossings, structures, coordinates, railroads, etc. When four control points cannot be obtain with this process, additional points may have been used from other previously georeferenced mine map. Some maps were previously georeferenced in other file formats, if the georeferencing was deemed sufficient, a sid image of the same map may have been georeferenced to the previously image using the four corners of the map image. 
+The extents of the georeferenced images are then recorded in a feature class to create a spatial Underground Mine Map Index.  
+</abstract></descript></idinfo>
+	<spdoinfo>
+		<ptvctinf>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+			</geograph>
+			<geodetic>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>DEP Mine Map - California District Mining Office</enttypl>
+			</enttyp>
+		</detailed>
+		<overview><dsoverv>CDO Naming Conventions for Scanned Maps
+
+The standard naming conventions for scanned map images in the California District Office is as follows:
+
+CDO File#_Map Type_Scale_Sheet Number_Projection and/or Revision (if applicable) 
+Ex. 0000_UMM_1000_001
+
+CDO File# - the four digit number assigned to the mine file by the California District Office.
+
+Map Type – This is the ‘Map Type’ code per the PHUMMIS database. See attached “PHUMMIS-Requirements Document”
+
+Scale – The scale of the map sheet.
+
+XXXX where 1” = XXXX’
+Examples:
+100 for 1” = 100’		
+2000 for 1” = 2000’		
+NTS for maps that are ‘not to scale’
+UNK for maps where the scale is unknown or unable to be determined.
+
+For maps that the scale is given in units of measure other than feet, Use the first letter of the unit preceded by the number of units represented in 1”
+
+1M for 1” = 1 Mile
+2M for 1” = 2 Miles
+1_2M for 1” = ½ Mile
+1_8M for 1” = 1/8 Mile
+1R for 1” = 1 Rod
+2R for 1” = 2 Rods
+
+Sheet Number – The Identification number of the individual Mine Map Sheet.  The sheet number portion of the scan name should always be a consistent number of digits for the maps sheets.  This would be done by adding leading ‘0’s’ to the sheet number.  For most mines this would mean making the sheet number a three digit number as follows:
+
+Sheet 1 would be 001
+Sheet 2 would be 002
+Sheet 10 would be 010
+Sheet 100 would be 100
+
+
+If a mine uses sheet numbers that contain both letters and numbers treat them as follows:
+
+Sheet A-1, or A1 would be A01
+Sheet 17C, or 17-C would be 17C
+
+If a mine uses a hyphenated number such as sheet 9-1 convert the hyphen to an underscore:
+
+9-1 would convert to 9_1
+
+Sometimes a mine will add the same letter(s) to the sheet number, it may represent the coal seam they are mining, or the mine the sheet belongs to.
+
+Example:
+
+The Maple Creek Mine always puts an MC at the beginning of the sheet number, representing the sheet is a Maple Creek Mine sheet.
+
+Some mines will put an “E” at the end of the sheet number to represent the E seam or Upper Freeport Coal Seam.
+
+In either case the letter should be dropped.
+
+Projection and/or Revision – When dealing with Six-Month maps, and Permit maps you will need to take in to account revisions to the same map sheet.  This is done as follows:
+
+For Six-Month maps you will need to designate the projection number and possibly a revision number.
+
+For the projection number use an upper case P followed by the projection number, adding a leading 0 for projections under 10.
+
+P01, P10, P63…
+
+If the map you are scanning is a revision to the present projection use a lowercase r and the number of the revision.
+
+P01r1, P10r3, P63r2
+
+When dealing with permit maps such as the ‘Environmental Resource Maps’, the ‘Subsidence Control Plan Maps’, and the ‘Index Maps’ you will have to deal with revisions from time to time.  To do this all you need to do is add a lower case r and the revision number to the scan file name.
+
+r1, r3, r4
+
+.
+
+Examples:
+
+0001_UMM_500_012
+
+The ‘0001’ portion of the scan name would be the ‘CDO_File’ number.  For numbers under 1000 add leading 0’s to make the CDO File number a four-digit number.
+
+The UMM would be the PHUMMIS code for Underground Mine Map.
+
+The 500 would represent the scale of the map. 1” = 500’
+
+The 012 would represent sheet 12 of the 1”= 500’ map series.
+
+Six-Month Maps
+
+0001_SIXM_200_033_P07r1
+
+The 0001 portion of the scan name would be the CDO File Number.  For numbers under 1000 add leading ‘0’s to make the number a four-digit number.
+
+SIXM would represent Six-Month Mine Map.
+
+The 200 would represent the scale of the map. 1” = 200’
+
+033 would be the sheet number.
+
+P07 would be the projection number; in this case it would be the 7th projection for this mine.
+
+r1 would be the projection revision number.
+
+Environmental Resource Map, and Subsidence Control Plan Map
+
+When scanning maps for active or recently abandoned mines the maps will most likely be in Module format and the following naming conventions should be used.
+
+0001_ERM_400_001
+
+The 0001 portion of the scan name would be the CDO File Number.  For numbers under 1000 add leading ‘0’s to make the number a four-digit number.
+
+ERM would represent Environmental Resource Map (New Module 6.3, Old Module 19.1).
+
+The 400 would represent the scale of the map. 1” = 400’
+
+001 would be the sheet number.
+
+0001_SCPM_400_001
+
+The 0001 portion of the scan name would be the CDO File Number.  For numbers under 1000 add leading ‘0’s to make the number a four-digit number.
+
+SCPM would represent Subsidence Control Plan Map  (New Module 22.4, Old Module 19.2).
+
+The 400 would represent the scale of the map. 1” = 400’
+
+001 would be the sheet number.
+</dsoverv><eaover>PHUMMIS Requirements Document – Map Type Codes
+
+Map Types
+Code	Description
+ADMIN	Administration
+AUGER	Auger Mine map
+BASE	Base Map
+CHART	Charts
+CAM	Coal Analysis Map
+CAVE	Cave Map
+CCM	Coal Contour Map
+CNTYM	County Map
+CROSS	Cross Section Map
+SEAM	Coal Seam Map
+DIAGR	Diagrams
+DRILL	Drill Hole Map
+DESGN	Design Map
+ERM	Environmental Resource Map
+GEOLM	Geological Map
+HSHT	H Sheet Map
+INDEX	Index Map
+INSM	Insurance Map
+KSHT	K Sheet Map
+LOCAT	Locational Map
+LITHO	Lithographic Map
+OTHER	Other
+PLANS	Plans
+PLUS	Plus Map
+PERM	Permit Map
+PROPM	Property Map
+QUAD	Quadrangle Map
+RAILR	Rail Road Map
+RECL	Reclamation Map
+SCPM	Subsidence Control Plan Map
+SURF	Surface Mine Map
+SIXM	Six Month Map
+SMMC	Strip Mine Map Coal
+SOILS	Soils Map
+SOM	Surface Operation Map
+SHAFT	Shaft plans
+STRM	Stream Plan Map
+TAX	Tax Map
+TWP	Township Map
+UMM	Underground Mine Map
+WPA	WPA Map
+	
+</eaover></overview></eainfo>
+	<distinfo>
+		<distliab>The USER shall indemnify, save harmless, and, if requested, defend those parties involved with the development and distribution of this data, their officers, agents, and employees from and against any suits, claims, or actions for injury, death, or property damage arising out of the use of or any defect in the FILES or any accompanying documentation. Those parties involved with the development and distribution excluded any and all implied warranties, including warranties or merchantability and fitness for a particular purpose and makes no warranty or representation, either express or implied, with respect to the FILES or accompanying documentation, including its quality, performance, merchantability, or fitness for a particular purpose. The FILES and documentation are provided "as is" and the USER assumes the entire risk as to its quality and performance. Those parties involved with the development and distribution of this data will not be liable for any direct, indirect, special, incidental, or consequential damages arising out of the use or inability to use the FILES or any accompanying documentation.</distliab>
+		<distrib><cntinfo><cntaddr><addrtype>mailing and physical address</addrtype><address>115 Land and Water Building</address><city>University Park</city><state>Pennsylvania</state><postal>16802</postal><country>United States</country></cntaddr><cntvoice>814-865-8792</cntvoice><cntemail>pasda@psu.edu</cntemail><cntorgp><cntorg>Pennsylvania Spatial Data Access (PASDA)</cntorg></cntorgp></cntinfo></distrib></distinfo>
+	<metainfo>
+		<metd>20121010</metd>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metc><cntinfo><cntorgp><cntorg>Pennsylvania Spatial Data Access (PASDA)</cntorg></cntorgp><cntaddr><addrtype>mailing and physical address</addrtype><address>115 Land and Water building</address><city>University Park</city><state>Pennsylvania</state><postal>16802</postal><country>United States</country></cntaddr><cntvoice>814-865-8792</cntvoice><cntemail>pasda@psu.edu</cntemail></cntinfo></metc></metainfo>
+	<dataqual><attracc><attraccr>There are many limiting factors when determining the accuracy of the georeferencing of the information on the mine maps. The original mine maps may have been drawn by more than one draftsman over a time period.  They may have been drawn with unknown accuracy and unknown coordinate systems.  The paper the maps were drawn on may have distorted over the years. The georeferencing software may cause the images to warp along their length and width.  The target control points may have physically and geographically have moved between the time they were drawn on the mine map and drawn/photographed on the base map.  Therefore horizontal accuracy of the georeferenced mine map is UNKNOWN.</attraccr></attracc></dataqual></metadata>
