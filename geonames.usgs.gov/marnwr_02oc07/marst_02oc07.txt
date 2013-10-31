@@ -1,0 +1,15 @@
+PZ|57|EASTERN N. PACIFIC OCEAN|Eastern North Pacific Ocean, and along U.S. West Coast from Canadian border to Mexican border
+PK|58|N. PACIFIC OCEAN NEAR ALASKA|North Pacific Ocean near Alaska, and along Alaska coastaline, including the Bering Sea and the Gulf of Alaska
+PH|59|CENTRAL PACIFIC OCEAN|Central Pacific Ocean, including Hawaiian waters
+PS|61|S. CENTRAL PACIFIC OCEAN|South Central Pacific Ocean, including American Samoa waters
+PM|65|WESTERN PACIFIC OCEAN|Western Pacific Ocean, including Mariana Island waters
+AN|73|NORTHWEST N. ATLANTIC OCEAN|Western North Atlantic Ocean, and along U.S. East Coast, from Canadian border south to Currituck Beach Light, N.C.
+AM|75|WEST N. ATLANTIC OCEAN|Western North Atlantic Ocean, and along U.S. East Coast, south of Currituck Beach Light, N.C., following the coastline into Gulf of Mexico to Ocean Reef FL., including the Caribbean
+GM|77|GULF OF MEXICO|Gulf of Mexico, and along the U.S. Gulf Coast from the Mexican border to Ocean Reef FL.
+LS|91|LAKE SUPERIOR|Lake Superior
+LM|92|LAKE MICHIGAN|Lake Michigan
+LH|93|LAKE HURON|Lake Huron
+LC|94|LAKE ST. CLAIR|Lake St. Clair
+LE|96|LAKE ERIE|Lake Erie
+LO|97|LAKE ONTARIO|Lake Ontario
+SL|98|ST. LAWRENCE RIVER|St. Lawrence River above St. Regis
