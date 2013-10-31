@@ -1,0 +1,485 @@
+Coastal Vulnerability to Sea-Level Rise: A Preliminary
+Database for the U.S. Atlantic Coast
+
+
+Identification_Information: 
+
+     Citation: 
+          Citation_Information: 
+               Originator: U.S. Geological Survey, Woods Hole Field Center 
+               Publication_Date: 20010110 
+               Title: Coastal Vulnerability to Sea-Level Rise: A Preliminary Database for the 
+U.S. Atlantic Coast 
+               Edition: 
+               Geospatial_Data_Presentation_Form: Map 
+               Publication_Information: 
+                    Publication_Place: Woods Hole, Massachusetts 
+                    Publisher: U.S. Geological Survey 
+               Other_Citation_Details: 
+                    This CD-ROM is designed to address the needs of a variety of different 
+users. It contains the geographic
+                    information system (GIS) databases necessary to incorporate data from 
+multiple sources into a common spatial
+                    framework for hazards mapping and analysis. It also contains links to a free 
+user-friendly GIS mapping tool to
+                    allow organizations that do not have GIS software the ability to view and 
+manipulate the data on the
+                    CD-ROM. 
+               Online_Linkage: 
+               Larger_Work_Citation: 
+                    Citation_Information: 
+                         Originator: U.S. Geological Survey, Woods Hole 
+                         Publication_Date: 20010110 
+                         Title: 
+                              Coastal Vulnerability to Sea-Level Rise: A Preliminary Database for 
+the U.S. Atlantic, Pacific,
+                              and Gulf Coasts 
+                         Publication_Information: 
+                              Publication_Place: Woods Hole, Massachusetts 
+                              Publisher: U.S. Geological Survey 
+                         Online_Linkage: 
+     Description: 
+          Abstract: 
+               The goal of this project is to provide a preliminary overview, at a National 
+scale, the relative susceptibility of the Nation's coast to sea- level rise through the use of a 
+coastal vulnerability index (CVI). This initial classification is based upon the variables 
+geomorphology, regional coastal slope, tide range, wave height, relative sea-level rise 
+and shoreline erosion and accretion rates. The combination of these variables and the 
+association of these variables to each other furnish a broad overview of regions where 
+physical changes are likely to occur due to sea-level rise. 
+          Purpose: 
+               The purpose of this data layer is to allow the user to view both the coastal 
+vulnerability index (CVI) and the data from which the CVI is calculated (tides, wave 
+height, relative sea-level rise, coastal slope, geomorphology, and shoreline erosion and 
+accretion rate) for the U.S. Atlantic Coast. The CVI provides insight into the relative 
+potential for coastal change due to future sea-level rise. The maps and data presented here 
+can be viewed in at least two ways: 1) as a base for developing a more complete 
+inventory of variables influencing the coastal vulnerability to future sea-level rise to 
+which other elements can be added as they become available; and 2) as an example of the 
+potential for assessing coastal vulnerability to future sea-level rise using objective 
+criteria. 
+          Supplemental_Information: 
+     Time_Period_of_Content: 
+          Time_Period_Information: 
+               Range_of_Dates/Times: 
+                    Beginning_Date: 
+                    Ending_Date: 
+          Currentness_Reference: publication date 
+     Status: 
+          Progress: Complete 
+          Maintenance_and_Update_Frequency: Continually 
+     Spatial_Domain: 
+          Bounding_Coordinates: 
+               West_Bounding_Coordinate: -81.9678 
+               East_Bounding_Coordinate: -66.9578 
+               North_Bounding_Coordinate: 45.0983 
+               South_Bounding_Coordinate: 24.5485 
+     Keywords: 
+          Theme: 
+               Theme_Keyword_Thesaurus: None 
+               Theme_Keyword: Coastal Hazards 
+               Theme_Keyword: Hazards 
+               Theme_Keyword: Erosion 
+               Theme_Keyword: Shoreline 
+               Theme_Keyword: Shoreline Change 
+               Theme_Keyword: Beach 
+               Theme_Keyword: Beach Erosion 
+               Theme_Keyword: Sea-Level 
+               Theme_Keyword: Sea-Level Rise 
+               Theme_Keyword: Slope 
+               Theme_Keyword: Wave Height 
+               Theme_Keyword: Coastal Geomorphology 
+               Theme_Keyword: Tide Range 
+          Place: 
+               Place_Keyword_Thesaurus: None 
+               Place_Keyword: Maine 
+               Place_Keyword: New Hampshire 
+               Place_Keyword: Massachusetts 
+               Place_Keyword: Rhode Island 
+               Place_Keyword: Connecticut 
+               Place_Keyword: New York 
+               Place_Keyword: New Jersey 
+               Place_Keyword: Maryland 
+               Place_Keyword: Virginia 
+               Place_Keyword: North Carolina 
+               Place_Keyword: South Carolina 
+               Place_Keyword: Georgia 
+               Place_Keyword: Florida 
+               Place_Keyword: Atlantic Coast 
+               Place_Keyword: East Coast 
+     Access_Constraints: none 
+     Use_Constraints: none 
+     Point_of_Contact: 
+          Contact_Information: 
+               Contact_Organization_Primary: 
+                    Contact_Organization: U.S. Geological Survey, Woods Hole Field Center 
+                    Contact_Person: E. Robert Thieler 
+               Contact_Position: Geologist 
+               Contact_Address: 
+                    Address_Type: mailing and physical address 
+                    Address: 384 Woods Hole Road 
+                    City: Woods Hole 
+                    State_or_Province: Massachusetts 
+                    Postal_Code: 02543 
+                    Country: U.S.A 
+               Contact_Voice_Telephone: 508-457-2350 
+               Contact_Facsimile_Telephone: 508-457-2310 
+               Contact_Electronic_Mail_Address: rthieler@usgs.gov 
+               Hours_of_Service: M-F 9-5 EST 
+     Native_Data_Set_Environment: 
+          ArcView version 3.2 shapefile format \data\atlantic\atlantic.shp 
+
+
+
+Data_Quality_Information: 
+
+     Attribute_Accuracy: 
+          Attribute_Accuracy_Report: 
+               The attributes in this dataset are based on A Coastal Hazards Database for the 
+U.S. East Coast (Gornitz, V. and
+               White, T. W. 1992. ORNL/CDIAC-45, NDP-043A. Oak Ridge National 
+Laboratory, Oak Ridge, Tennessee)
+               updated with data from more recent sources. The data has gone through a series 
+of QA/QC procedures, and is
+               therefore believed to accurately reflect the data gathered in the Coastal 
+Vulnerability to Sea-Level Rise Study. 
+     Logical_Consistency_Report: This database is believed to be logically consistent. 
+     Completeness_Report: This database is complete. 
+     Positional_Accuracy: 
+          Horizontal_Positional_Accuracy: 
+               Horizontal_Positional_Accuracy_Report: none 
+          Vertical_Positional_Accuracy: 
+               Vertical_Positional_Accuracy_Report: none 
+     Lineage: 
+          Source_Information: 
+               Source_Citation: 
+                    Citation_Information: 
+                         Originator: U.S. Geological Survey, Woods Hole Field Center 
+                         Publication_Date: 20010110 
+                         Title: Coastal Vulnerability to Sea-Level Rise: A Preliminary Database 
+for the U.S. Atlantic Coast 
+                         Edition: 
+                         Geospatial_Data_Presentation_Form: map 
+                         Publication_Information: 
+                              Publication_Place: Woods Hole, Massachusetts 
+                              Publisher: U.S. Geological Survey 
+                         Other_Citation_Details: 
+                         Online_Linkage: 
+                         Larger_Work_Citation: 
+                              Citation_Information: 
+                                   Originator: U.S. Geological Survey 
+                                   Publication_Date: 20010110 
+                                   Title: 
+                                        Coastal Vulnerability to Sea-Level Rise: A Preliminary 
+Database for the U.S.
+                                        Atlantic, Pacific and Gulf Coasts 
+                                   Publication_Information: 
+                                        Publication_Place: Woods Hole, Massachusetts 
+                                        Publisher: U.S. Geological Survey 
+                                   Online_Linkage: 
+               Source_Scale_Denominator: ~1:2,000,000 
+               Type_of_Source_Media: digital GIS data 
+               Source_Time_Period_of_Content: 
+                    Time_Period_Information: 
+                         Range_of_Dates/Times: 
+                              Beginning_Date: 
+                              Ending_Date: 
+                    Source_Currentness_Reference: 
+               Source_Citation_Abbreviation: 
+               Source_Contribution: 
+          Process_Step: 
+               Process_Description: 
+                    The Coastal Hazards Database for the U.S. East Coast (Gornitz, V. and 
+White, T. W. 1992. ORNL/CDIAC-45, NDP-043A. Oak Ridge National Laboratory, Oak 
+Ridge, Tennessee), NOS tide and sea-level rise data, WIS wave data, state and U.S. 
+Geological Survey erosion/accretion rate data, NGDC and ETOPO5 elevation data and 
+the Living with the Shore series (Duke University Press, Durham, NC) were used to 
+create this digital dataset. An ArcView .shp file was updated with each attribute. 
+               Source_Used_Citation_Abbreviation: 
+               Process_Date: 19991215 
+               Source_Produced_Citation_Abbreviation: 
+               Process_Contact: 
+                    Contact_Information: 
+                         Contact_Person_Primary: 
+                              Contact_Organization: U.S. Geological Survey, Woods Hole Field 
+Center 
+                              Contact_Person: E. Robert Thieler 
+                         Contact_Position: Geologist 
+                         Contact_Address: 
+                              Address_Type: mailing and physical address 
+                              Address: 384 Woods Hole Road 
+                              City: Woods Hole 
+                              State_or_Province: Massachusetts 
+                              Postal_Code: 02543 
+                              Country: U.S.A. 
+                         Contact_Voice_Telephone: 508-457-2350 
+                         Contact_Facsimile_Telephone: 508-457-2310 
+                         Contact_Electronic_Mail_Address: rthieler@usgs.gov 
+                         Hours_of_Service: 9-5 M-F EST 
+
+
+
+Spatial_Data_Organization_Information: 
+
+     Direct_Spatial_Reference_Method: Vector 
+     Point_and_Vector_Object_Information: 
+          SDTS_Terms_Description: 
+               SDTS_Point_and_Vector_Object_Type: Complete Chain 
+               Point_and_Vector_Object_Count: 12288 
+
+
+
+Spatial_Reference_Information: 
+
+     Horizontal_Coordinate_System_Definition: 
+          Geographic: 
+               Latitude_Resolution: 3 arc seconds 
+               Longitude_Resolution: 3 arc seconds 
+               Geographic_Coordinate_Units: Decimal Degrees 
+          Geodetic_Model: 
+               Horizontal_Datum_Name: North American Datum of 1983 
+               Ellipsoid_Name: WGS 84 
+               Semi-major_Axis: 
+               Denominator_of_Flattening_Ratio: 
+
+
+
+Entity_and_Attribute_Information: 
+
+     Detailed_Description: 
+          Entity_Type: 
+               Entity_Type_Label: atlantic.dbf 
+               Entity_Type_Definition: Shapefile Attribute Table 
+               Entity_Type_Definition_Source: None 
+          Attribute: 
+               Attribute_Label: Length 
+               Attribute_Definition: Length of line 
+               Attribute_Definition_Source: Software generated 
+               Attribute_Domain_Values: 
+                    Unrepresentable_Domain: Software computed 
+          Attribute: 
+               Attribute_Label: Id 
+               Attribute_Definition: 
+               Attribute_Definition_Source: 
+               Attribute_Domain_Values: 
+                    Range_Domain: 
+                         Range_Domain_Minimum: 1 
+                         Range_Domain_Maximum: 12288 
+          Attribute: 
+               Attribute_Label: Waves__m_ 
+               Attribute_Definition: Mean Wave Height 
+               Attribute_Definition_Source: WIS hindcast nearshore mean wave height 1976-
+1995 
+               Attribute_Domain_Values: 
+                    Range_Domain: 
+                         Range_Domain_Minimum: 0 
+                         Range_Domain_Maximum: 1.6 
+          Attribute: 
+               Attribute_Label: Waverisk 
+               Attribute_Definition: Relative Risk 
+               Attribute_Definition_Source: 
+               Attribute_Domain_Values: 
+                    Range_Domain: 
+                         Range_Domain_Minimum: 1 
+                         Range_Domain_Maximum: 5 
+          Attribute: 
+               Attribute_Label: Waves 
+               Attribute_Definition: 
+               Attribute_Definition_Source: 
+               Attribute_Domain_Values: 
+                    Unrepresentable_Domain: Character Field 
+          Attribute: 
+               Attribute_Label: Tide__m_ 
+               Attribute_Definition: Mean Tide Range 
+               Attribute_Definition_Source: NOS tide stations 
+               Attribute_Domain_Values: 
+                    Range_Domain: 
+                         Range_Domain_Minimum: 0.09 
+                         Range_Domain_Maximum: 5.6 
+          Attribute: 
+               Attribute_Label: Tiderisk 
+               Attribute_Definition: Relative Tide Risk 
+               Attribute_Definition_Source: 
+               Attribute_Domain_Values: 
+                    Range_Domain: 
+                         Range_Domain_Minimum: 2 
+                         Range_Domain_Maximum: 5 
+          Attribute: 
+               Attribute_Label: Tide 
+               Attribute_Definition: 
+               Attribute_Definition_Source: 
+               Attribute_Domain_Values: 
+                    Unrepresentable_Domain: Character Field 
+          Attribute: 
+               Attribute_Label: Slope____ 
+               Attribute_Definition: Regional Coastal Slope (%) 
+               Attribute_Definition_Source: ETOPO5 and NGDC elevation data 
+               Attribute_Domain_Values: 
+                    Range_Domain: 
+                         Range_Domain_Minimum: 0.00108 
+                         Range_Domain_Maximum: 0.41120 
+          Attribute: 
+               Attribute_Label: Sloperisk 
+               Attribute_Definition: Relative slope risk 
+               Attribute_Definition_Source: 
+               Attribute_Domain_Values: 
+                    Range_Domain: 
+                         Range_Domain_Minimum: 1 
+                         Range_Domain_Maximum: 5 
+          Attribute: 
+               Attribute_Label: Slope 
+               Attribute_Definition: 
+               Attribute_Definition_Source: 
+               Attribute_Domain_Values: 
+                    Unrepresentable_Domain: Character Field 
+          Attribute: 
+               Attribute_Label: Err__m__yr 
+               Attribute_Definition: Erosion and Accretion rates (m/yr) 
+               Attribute_Definition_Source: updated CEIS 
+               Attribute_Domain_Values: 
+                    Range_Domain: 
+                         Range_Domain_Minimum: -24.600 
+                         Range_Domain_Maximum: 25.500 
+          Attribute: 
+               Attribute_Label: Errrisk 
+               Attribute_Definition: Relative erosion risk 
+               Attribute_Definition_Source: 
+               Attribute_Domain_Values: 
+                    Range_Domain: 
+                         Range_Domain_Minimum: 1 
+                         Range_Domain_Maximum: 5 
+          Attribute: 
+               Attribute_Label: Erosion 
+               Attribute_Definition: 
+               Attribute_Definition_Source: 
+               Attribute_Domain_Values: 
+                    Unrepresentable_Domain: Character Field 
+          Attribute: 
+               Attribute_Label: Sl__mm__yr_ 
+               Attribute_Definition: Relative Sea-Level Rise (mm/yr) 
+               Attribute_Definition_Source: NOS tide stations 
+               Attribute_Domain_Values: 
+                    Range_Domain: 
+                         Range_Domain_Minimum: 0.9 
+                         Range_Domain_Maximum: 4.10 
+          Attribute: 
+               Attribute_Label: Slrisk 
+               Attribute_Definition: Relative sea-level rise risk 
+               Attribute_Definition_Source: 
+               Attribute_Domain_Values: 
+                    Range_Domain: 
+                         Range_Domain_Minimum: 1 
+                         Range_Domain_Maximum: 5 
+          Attribute: 
+               Attribute_Label: Sealevel 
+               Attribute_Definition: 
+               Attribute_Definition_Source: 
+               Attribute_Domain_Values: 
+                    Unrepresentable_Domain: Character Field 
+          Attribute: 
+               Attribute_Label: Geom 
+               Attribute_Definition: Geomorphology Risk 
+               Attribute_Definition_Source: 
+               Attribute_Domain_Values: 
+                    Range_Domain: 
+                         Range_Domain_Minimum: 1 
+                         Range_Domain_Maximum: 5 
+          Attribute: 
+               Attribute_Label: Geomorphol 
+               Attribute_Definition: 
+               Attribute_Definition_Source: 
+               Attribute_Domain_Values: 
+                    Unrepresentable_Domain: Character Field 
+          Attribute: 
+               Attribute_Label: Cvivalue 
+               Attribute_Definition: Actual CVI value 
+               Attribute_Definition_Source: Calculated 
+               Attribute_Domain_Values: 
+                    Range_Domain: 
+                         Range_Domain_Minimum: 1.224744871 
+                         Range_Domain_Maximum: 39.528470750 
+          Attribute: 
+               Attribute_Label: Cvirisk 
+               Attribute_Definition: Relative Risk 
+               Attribute_Definition_Source: 
+               Attribute_Domain_Values: 
+                    Range_Domain: 
+                         Range_Domain_Minimum: 1 
+                         Range_Domain_Maximum: 4 
+          Attribute: 
+               Attribute_Label: Cvi 
+               Attribute_Definition: 
+               Attribute_Definition_Source: 
+               Attribute_Domain_Values: 
+                    Unrepresentable_Domain: Character Field 
+     Overview_Description: 
+          Entity_and_Attribute_Overview: 
+          Entity_and_Attribute_Detail_Citation: 
+
+
+
+Distribution_Information: 
+
+     Distributor: 
+          Contact_Information: 
+               Contact_Organization_Primary: 
+                    Contact_Organization: U.S. Geological Survey, Woods Hole Field Center 
+                    Contact_Person: E. Robert Thieler 
+               Contact_Position: Geologist 
+               Contact_Address: 
+                    Address_Type: mailing and physical address 
+                    Address: 384 Woods Hole Road 
+                    City: Woods Hole 
+                    State_or_Province: Massachusetts 
+                    Postal_Code: 02543 
+                    Country: U.S.A. 
+               Contact_Voice_Telephone: 508-457-2350 
+               Contact_Facsimile_Telephone: 508-457-2310 
+               Contact_Electronic_Mail_Address: rthieler@usgs.gov 
+               Hours_of_Service: 9-5 M-F EST 
+     Resource_Description: 
+     Distribution_Liability: 
+          User must assume responsibility to determine the usability of this data. 
+     Standard_Order_Process: 
+          Digital_Form: 
+               Digital_Transfer_Information: 
+                    Format_Name: ESRI shapefile, ESRI .e00 file 
+               Digital_Transfer_Option: 
+                    Offline_Option: 
+                         Offline_Media: CD-ROM 
+                         Recording_Format: ISO 9660 
+                         Compatibility_Information: 
+                              ISO 9660 format allows the CD-ROM to be read by most computer 
+operating systems. 
+          Fees: none 
+          Ordering_Instructions: Contact: E. Robert Thieler
+          USGS Woods Hole Field Center
+          384 Woods Hole Road
+          Woods Hole, MA 02543
+          rthieler@usgs.gov
+
+
+
+Metadata_Reference_Information: 
+
+     Metadata_Date: 20000404 
+     Metadata_Review_Date: 
+     Metadata_Contact: 
+          Contact_Information: 
+               Contact_Organization_Primary: 
+                    Contact_Organization: U.S. Geological Survey, Woods Hole Field Center 
+                    Contact_Person: E. Robert Thieler 
+               Contact_Position: Geologist 
+               Contact_Address: 
+                    Address_Type: Mailing and physical address 
+                    Address: 384 Woods Hole Road 
+                    City: Woods Hole 
+                    State_or_Province: Massachusetts 
+                    Postal_Code: 02543 
+                    Country: U.S.A. 
+               Contact_Voice_Telephone: 508-457-2350 
+               Contact_Facsimile_Telephone: 508-457-2310 
+               Contact_Electronic_Mail_Address: rthieler@usgs.gov 
+               Hours_of_Service: 9-5 M-F EST 
+     Metadata_Standard_Name: FGDC CSDGM 
+     Metadata_Standard_Version: FGDC-STD-001-1998
