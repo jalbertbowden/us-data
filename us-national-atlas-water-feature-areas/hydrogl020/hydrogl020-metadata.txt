@@ -1,0 +1,405 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date: 200301
+      Title: HYDROGL020 - U.S. National Atlas Water Feature Areas: aqueducts, canals, dams, intercoastal waterways, rivers, and streams
+      Geospatial_Data_Presentation_Form: vector digital data
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: U.S. Geological Survey
+      Online_Linkage: http://nationalatlas.gov/atlasftp.html
+      Online_Linkage: http://coastalmap.marine.usgs.gov/GISdata/basemaps/usa/water/hydrogl020.zip
+  Description:
+    Abstract: U.S. National Atlas Water Feature Areas represents the water feature areas of the United States.
+    Purpose: U.S. National Atlas Water Feature Areas provides the water feature areas for geographic display and analysis at regional and national levels.
+    Supplemental_Information: Largest scale when displaying the data: 1:1,000,000.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1995
+        Ending_Date: 2002
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -178.065720
+      East_Bounding_Coordinate: 179.683853
+      North_Bounding_Coordinate: 71.222237
+      South_Bounding_Coordinate: 17.685579
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: General
+      Theme_Keyword: U.S. Geological Survey
+      Theme_Keyword: USGS
+      Theme_Keyword: Hydrography
+      Theme_Keyword: Water
+      Theme_Keyword: Lake
+      Theme_Keyword: Reservoir
+      Theme_Keyword: Pond
+      Theme_Keyword: Canal
+      Theme_Keyword: Double-line stream
+      Theme_Keyword: Shoreline
+      Theme_Keyword: River
+      Theme_Keyword: Stream
+      Theme_Keyword: Intercoastal Waterway
+      Theme_Keyword: Swamp
+      Theme_Keyword: Marsh
+      Theme_Keyword: ArcView shapefile
+      Theme_Keyword: polyline
+    Place:
+      Place_Keyword_Thesaurus: U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of Special Sovereignty, and Their Principal Administrative Divisions (Federal Information Processing Standard (FIPS) 10-4): Washington, DC, National Institute of Standards and Technology.
+      Place_Keyword: United States
+    Place:
+      Place_Keyword_Thesaurus: U.S. Department of Commerce, 1987, Codes for the Identification of the States, the District of Columbia and the Outlying Areas of The United States, and Associated Areas (Federal Information Processing Standard 5-2):  Washington, DC, National Institute of Standards and Technology.
+      Place_Keyword: Alabama
+      Place_Keyword: Alaska
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Massachusetts
+      Place_Keyword: Maryland
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Missouri
+      Place_Keyword: Mississippi
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+      Place_Keyword: Puerto Rico
+      Place_Keyword: Virgin Islands
+      Place_Keyword: U.S. Virgin Islands
+  Access_Constraints: None
+  Use_Constraints: Public domain data from the U.S. government are freely redistributable with proper metadata and source attribution.  Acknowledgment of the National Atlas of the United States of America and (or) the U.S. Geological Survey would be appreciated in products derived from these data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Valerie Paskevich
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: Information Specialist, GIS Coordinator
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2281
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+  Browse_Graphic:
+    Browse_Graphic_File_Name: hydrogl020
+    Browse_Graphic_File_Description: Overview of detail area (U.S. north east) showing data coverage.
+    Browse_Graphic_File_Type: GIF
+  Native_Data_Set_Environment: Microsoft Windows 2000 Version 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 8.2.0.700
+Data_Quality_Information:
+  Logical_Consistency_Report: The data set was checked for topological consistency using the Arc/INFO command BUILD. No other checks for logical consistency were performed on this data set.
+  Completeness_Report:
+    This is a subset of the data set available from the U.S. Geological Survey National Atlas.  Removed unneeded attributes.  Records with "Null" fields have been removed.  Removed features also represented in National Atlas Water Feature Areas.  Removed features with "shoreline"  as not to conflict with other shorelines (e.g. NOS80k) used by the USGS, Coastal and Marine Geology Program, Woods Hole Science Center.
+
+    This data set includes water features for all 50 States, Puerto Rico, and the U.S. Virgin Islands. Data completeness generally reflects the content of the original DLG files.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: The geospatial part of this data set was originally extracted from the individual 1:2,000,000-scale State boundary Digital Line Graph (DLG) files produced by the U.S. Geological Survey which have a positional accuracy of 1,720 meters.  It was updated several times using various sources whose horizontal positional accuracies are unknown.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Atlas
+          Originator: U.S. Geological Survey
+          Publication_Date: 19991109
+          Title: National Atlas Water Features: Streams and Waterbodies (hydrogm020.tar.gz)
+          Geospatial_Data_Presentation_Form: vector digital data
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+          Online_Linkage: http://www.nationalatlas.gov/atlasftp.html
+          Online_Linkage: http://edcftp.cr.usgs.gov/pub/data/nationalatlas/hydrogm020.tar.gz
+          Online_Linkage: http://nationalatlas.gov/hydrom.html
+      Source_Scale_Denominator: 2000000
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1972
+            Ending_Date: 1994
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: USGS National Atlas water features
+      Source_Contribution: Attribute and geospatial data
+    Source_Information:
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Multiple_Dates/Times:
+            Single_Date/Time:
+              Calendar_Date: 1998
+            Single_Date/Time:
+              Calendar_Date: 1999
+        Source_Currentness_Reference: publication date
+    Process_Step:
+      Process_Description:
+        This file was originally digitized by the National Mapping Division based on the sectional maps contained in 'The National Atlas of the United States of America' published by the USGS in 1970.  The 1:2,000,000-scale Digital Line Graph (DLG) data were merged into a single national hydrography coverage. Where necessary to effect the merge, alignment changes were made.  The names were taken from the USGS Topographic 1:100,000-scale maps.  For Alaska, the names were taken from the USGS Topographic 1:250,000-scale maps.  State lines across water bodies were removed from the national coverage.  State attributes were assigned to the features.
+
+        Some spatial features were added and corrected.  Some name attributes were added or corrected.  All occurrences of St. were changed to Saint.  Extra spaces were removed from the attributes.  Hydrographic features for Puerto Rico and the U.S. Virgin Islands were added. A minor adjustment was made to the shoreline in Galveston Bay, Texas.
+      Process_Description:
+        This file was originally digitized by the National Mapping Division based on the sectional maps contained in 'The National Atlas of the United States of America' published by the USGS in 1970.  The 1:2,000,000-scale Digital Line Graph (DLG) data were merged into a single national hydrography coverage. Where necessary to effect the merge, alignment changes were made.  The names were taken from the USGS Topographic 1:100,000-scale maps.  For Alaska, the names were taken from the USGS Topographic 1:250,000-scale maps.  State lines across water bodies were removed from the national coverage.  State attributes were assigned to the features.
+
+        Some spatial features were added and corrected.  Some name attributes were added or corrected.  All occurrences of St. were changed to Saint.  Extra spaces were removed from the attributes.  Hydrographic features for Puerto Rico and the U.S. Virgin Islands were added. A minor adjustment was made to the shoreline in Galveston Bay, Texas.
+      Source_Used_Citation_Abbreviation: National Atlas
+      Process_Date: 1999
+      Process_Date: 1999
+      Source_Produced_Citation_Abbreviation: hydrogl020.dbf
+      Source_Produced_Citation_Abbreviation: hydrogl020.shp
+      Source_Produced_Citation_Abbreviation: hydrogl020.shx
+    Process_Step:
+      Process_Description: Downloaded the archive file hydrogm020.tar.gz containing the data layer hydrogl020 from http://www.nationalatlas.gov/atlasftp.html and extracted it.  Removed unneeded ArcInfo related attributes.  Removed null records.  Removed features also represented in National Atlas Water Feature Areas or available in more detail from other sources (e.g. shoreline).  Created ArcView legend file (.avl).  Created projection file (.prj).
+      Source_Used_Citation_Abbreviation: hydrogl020.dbf
+      Source_Used_Citation_Abbreviation: hydrogl020.shp
+      Source_Used_Citation_Abbreviation: hydrogl020.shx
+      Process_Date: 20040315
+      Source_Produced_Citation_Abbreviation: hydrogl020.dbf
+      Source_Produced_Citation_Abbreviation: hydrogl020.shp
+      Source_Produced_Citation_Abbreviation: hydrogl020.shx
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Valerie Paskevich
+            Contact_Organization: U.S. Geological Survey
+          Contact_Position: Information Specialist, GIS Coordinator
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 384 Woods Hole Road
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+            Country: USA
+          Contact_Voice_Telephone: (508) 548-8700 x2281
+          Contact_Facsimile_Telephone: (508) 457-2310
+          Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: String
+      Point_and_Vector_Object_Count: 42260
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000001
+      Longitude_Resolution: 0.000001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: hydrogl020
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: FEATURE
+      Attribute_Definition: The type of water feature.
+      Attribute_Definition_Source: National Atlas of the United States and the United States Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Aqueduct
+          Enumerated_Domain_Value_Definition: A structure designed to transport water from a supply source to a distribution point, often by gravity.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States and the United States Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Braided Stream
+          Enumerated_Domain_Value_Definition: A stream or river that flows in an intricate network of interlacing channels.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States and the United States Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Canal
+          Enumerated_Domain_Value_Definition: An artificial open waterway constructed to carry water, to irrigate or drain land, to connect two or more bodies of water, or to serve as a waterway for water craft.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States and the United States Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Canal Intermittent
+          Enumerated_Domain_Value_Definition: An artificial open waterway, that contains water part of the year, constructed to carry water, to irrigate or drain land, to connect two or more bodies of water, or to serve as a waterway for water craft.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States and the United States Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Dam
+          Enumerated_Domain_Value_Definition: A barrier constructed to control the flow or level of water.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States and the United States Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Falls
+          Enumerated_Domain_Value_Definition: A vertical or near vertical descent of water over a step or ledge in the bed of the stream.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States and the United States Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Intercoastal Waterway
+          Enumerated_Domain_Value_Definition: A system of rivers, canals and designated channels along the northern border and the Atlantic and Gulf coasts of the United States.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States and the United States Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Stream
+          Enumerated_Domain_Value_Definition: A body of water flowing in a channel or watercourse.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States and the United States Geological Survey
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Stream Intermittent
+          Enumerated_Domain_Value_Definition: A body of water flowing in a channel or watercourse for part of the year.
+          Enumerated_Domain_Value_Definition_Source: National Atlas of the United States and the United States Geological Survey
+    Attribute:
+      Attribute_Label: NAME
+      Attribute_Definition: The water feature name.
+      Attribute_Definition_Source: National Atlas of the United States and the United States Geological Survey
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Names for the features.
+    Attribute:
+      Attribute_Label: STATE
+      Attribute_Definition: The two-letter abbreviation for each state in which the water feature is located.
+      Attribute_Definition_Source: Department of Commerce, National Institute of Standards and Technology
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Federal Information Processing Standards 5-2
+          Codeset_Source: National Institute of Standards and Technology
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions: In addition to the address above there are other ESIC offices throughout the country. A full list of these offices is at <http://mapping.usgs.gov/esic/esic_index.html>.
+  Resource_Description: Downloadable Data: hydrogm020.tar.gz
+  Distribution_Liability: Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://www.nationalatlas.gov
+              Network_Resource_Name: http://edcftp.cr.usgs.gov/pub/data/nationalatlas/hydrogm020.tar.gz
+              Network_Resource_Name: http://nationalatlas.gov/hydrom.html
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SDTS
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://nationalatlas.gov
+              Network_Resource_Name: http://edcftp.cr.usgs.gov/pub/data/nationalatlas/hydm.tar.gz
+              Network_Resource_Name: http://nationalatlas.gov/hydrom.html
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+    Fees: There is no charge for the online option. For National Atlas files ordered on CD-ROM there is a base price of $45.00 per disc, a handling fee of $5.00, and a per-file charge based on file size. The charge for files less than 10 megabytes in size is $1.00. The charge for files that range in size from 10 to 150 megabytes is $7.50. The charge for files of 150 megabytes or larger is $15.00. The charge is $7.50 for the Streams and Waterbodies of the United States data set.
+    Ordering_Instructions: To order files on CD-ROM, please see <http://nationalatlas.gov/atlasftp.html#q12>.
+  Technical_Prerequisites: The data are available in Environmental Systems Research Institute (ESRI) shapefile format.  The user must have ArcGIS® or ArcView® 3.0 or greater software to read and process the data file.  In lieu of ArcView or ArcGIS, the user may utilize another GIS application package capable of importing data.  A free data viewer, arcexplorer, is available from ESRI at www.esri.com.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey, Coastal and Marine Geology Program
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700
+  Resource_Description: Downloadable Data: hydrogl020.zip
+  Distribution_Liability:
+    Although this data set has been used by the U.S. Geological Survey (USGS), no warranty, expressed or implied, is made by the USGS as to the accuracy of the data and/or related materials.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials.
+
+    Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+        Transfer_Size: 24.896
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://coastalmap.marine.usgs.gov/GISdata/basemaps/usa/water/hydrogl020.zip
+        Offline_Option:
+          Offline_Media: CD_ROM
+          Recording_Format: tar
+  Technical_Prerequisites: The data are available in Environmental Systems Research Institute (ESRI) shapefile format.  The user must have ArcGIS® or ArcView® 3.0 or greater software to read and process the data file.  In lieu of ArcView or ArcGIS, the user may utilize another GIS application package capable of importing data.  A free data viewer, arcexplorer, is available from ESRI at www.esri.com.
+Metadata_Reference_Information:
+  Metadata_Date: 20040315
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+        Contact_Person: Valerie Paskevich
+      Contact_Position: Information Specialist, GIS Coordinator
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2281
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
