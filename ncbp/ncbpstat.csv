@@ -1,0 +1,118 @@
+STATNUMB,LONG_DEG,LONG_MIN,LONG_SEC,LAT_DEG,LAT_MIN,LAT_SEC,WATER BODY,CITY,STATE(S),FWS REGION
+1,-68,38,15.87,44,56,26.7,Penobscot River,Old Town,ME,5
+2,-72,37,7.06,41,52,30.78,Connecticut River,Windsor Locks,CT,5
+3,-73,56,49.91,41,36,30.16,Hudson River,Poughkeepsie,NY,5
+4,-74,42,17.7,40,9,42.8,Delaware River,Trenton,NJ/PA,5
+5,-76,9,12.25,39,39,10.46,Susquehanna River,Conowingo Dam,MD,5
+6,-77,13,29.2,38,58,47.7,Potomac River,Little Falls,MD/VA,5
+7,-77,40,52.97,36,29,22.24,Roanoke River,Roanoke Rapids,NC,4
+8,-78,33,37.92,34,38,9.7,Cape Fear River,Elizabethtown,NC,4
+9,-80,6,24.58,33,21,32.62,Cooper River,"Lake Moultrie, Moncks Corner",SC,4
+10,-81,3,48.27,32,4,25.5,Savannah River,Savannah,GA/SC,4
+11,-81,40,16,29,35,33.53,St. John's River,Welaska,FL,4
+12,-80,26,37.3,27,1,8.44,St. Lucie Canal,Indiantown,FL,4
+13,-84,53,3.67,30,42,43.68,Apalachicola River,Jim Woodruff Dam,FL,4
+14,-87,56,41.12,31,14,21.7,Tombigbee River,McIntosh,AL,4
+15,-89,55,30.62,29,53,6.82,Mississippi River,Luling,LA,4
+16,-98,0,28.57,26,3,34.41,Rio Grande,Mission,TX,2
+17,-77,43,21.51,43,2,2.17,Genessee River,Scottsville,NY,5
+18,-76,10,50.2,43,34,1.32,Lake Ontario,Port Ontario,NY,5
+19,-80,8,36.91,42,6,54.61,Lake Erie,Erie,PA,5
+20,-83,24,52.66,43,48,23.05,Lake Huron (Saginaw Bay),Bay Port,MI,3
+21,-87,41,37.8,43,45,59.09,Lake Michigan,Sheboygan,WI,3
+22,-90,44,39.21,46,41,57.3,Lake Superior,Bayfield,WI,3
+23,-81,48,57.64,38,29,7.56,Kanawha River,Winfield,WV,5
+24,-81,27,42.4,39,24,36.23,Ohio River,Marietta,OH/WV,3
+25,-87,22,31.32,36,31,58.13,Cumberland River,Clarksville,TN,4
+26,-90,23,40.64,40,4,33.27,Illinois River,Beardstown,IL,3
+27,-91,1,29.78,42,43,37.62,Mississippi River,Guttenburg,IA/WI,3
+28,-91,56,11.02,34,17,19.99,Arkansas River,Pine Bluff,AR,4
+29,-96,15,1.1,36,8,50.78,Arkansas River,Keystone Reservoir,OK,2
+30,-91,27,44.81,34,51,32.31,White River,Devalls Bluff,AR,4
+31,-95,51,56.22,40,45,41.2,Missouri River,Nebraska City,NE/IA,6
+32,-101,24,59.58,47,29,46.91,Missouri River,Garrison Dam,ND,6
+33,-111,20,1.82,47,29,20.67,Missouri River,Great Falls,MT,6
+34,-97,13,44.77,49,0,0.96,Red River of the North,Noyes,MN/ND,3
+35,-109,15,45.1,40,26,49.06,Green River,Vernal,UT,6
+36,-114,29,20.72,33,0,6.98,Colorado River,Imperial Reservoir,AZ/CA,2
+37,-119,18,1.3,39,37,7.82,Truckee River,Fernley,NV,1
+38,-111,53,10.51,40,21,48.18,Utah Lake,Provo,UT,6
+39,-121,39,33.62,38,45,24.34,Sacramento River,Sacramento,CA,1
+40,-120,51,22.96,37,3,54.35,San Joaqin River,Los Banos,CA,1
+41,-114,51,28.45,42,51,42.38,Snake River,Hagerman,ID,1
+42,-117,2,3.38,46,25,39.49,Snake River,Lewiston,ID/WA,1
+43,-116,18,24.35,45,24,44.2,Salmon River,Riggins,ID,1
+44,-119,59,19.35,46,21,11.65,Yakima River,Granger,WA,1
+45,-122,36,7.08,45,22,8.64,Willamette River,Oregon City,OR,1
+46,-121,48,25.69,45,42,25.01,Columbia River,Cascade Locks,OR/WA,1
+47,-122,25,50.86,41,56,14.9,Klamath River,Hornbrook,CA,1
+48,-123,10,13.89,42,25,33.68,Rogue River,Goldray Dam,OR,1
+49,-147,43,12,64,50,50.64,Chena River,Fairbanks,AK,7
+50,-151,2,56.4,60,28,53.4,Kenai River,Soldatna,AK,7
+51,-69,37,38.87,44,41,51.17,Kennebec River,Hinckley,ME,5
+52,-73,16,6.08,44,31,35.54,Lake Champlain,Burlington,VT,5
+53,-71,19,9.34,42,39,24.78,Merrimac River,Lowell,MA,5
+54,-74,33,21.02,40,32,16.01,Raritan River,Bound Brook,NJ,5
+55,-77,21,20.84,37,23,13.04,James River,Richmond,VA,5
+56,-79,22,7.04,33,50,23.04,Pee Dee River,Johnsonville,SC,4
+57,-81,46,57.5,31,37,21.51,Altamaha River,Doctortown,GA,4
+58,-82,57,13.86,29,35,43.31,Suwanee River,Old Town,FL,4
+59,-87,47,0.69,31,18,45.15,Alabama River,Chrysler,AL,4
+60,-95,47,20.82,29,36,19.3,Brazos River,Richmond,TX,2
+61,-96,12,2.24,29,19,56.81,Colorado River,Wharton,TX,2
+62,-97,52,20.69,28,2,26.16,Nueces River,Mathis,TX,2
+63,-107,11,18.65,33,9,19,Rio Grande,Elephant Butte,NM,2
+64,-105,47,16.67,37,25,25.58,Rio Grande,Alamosa,CO,6
+65,-103,53,51.3,31,54,17.1,Pecos River,Red Bluff Lake,TX,2
+66,-74,46,15.15,44,59,41.95,St. Lawrence River,Massena,NY,5
+67,-79,41,23.82,40,39,52.79,Allegheny River,Natrona,PA,5
+68,-87,57,58.99,38,4,49.6,Wabash River,New Harmony,IN/IL,3
+69,-84,30,10.11,39,5,41.56,Ohio River,Cincinnati,OH/KY,3
+70,-88,39,24.15,37,7,40.57,Ohio River,Metropolis,IL/KY,3
+71,-88,12,45.25,35,18,2.13,Tennessee River,Savannah,TN,4
+72,-90,48,58.1,43,5,40.29,Wisconsin River,Woodman,WI,3
+73,-91,59,38.8,40,44,54.27,Des Moines River,Keosauqua,IA,3
+74,-94,23,9.83,45,56,20.19,Mississippi River,Little Falls,MN,3
+75,-89,31,2.49,37,18,37.43,Mississippi River,Cape Girardeau,MO/IL,3
+76,-90,4,10.62,35,8,58.66,Mississippi River,Memphis,TN/AR,4
+77,-102,55,7.19,38,3,42.79,Arkansas River,John Martin Reservoir,CO,6
+78,-95,40,25.4,36,25,40.93,Verdigris River,Oologah,OK,2
+79,-95,20,24.59,35,18,18.28,Canadian River,Eufaula,OK,2
+80,-90,47,46.09,32,32,53.72,Yazoo River,Redwood,MS,4
+81,-92,26,57.19,31,21,5.91,Red River,Alexandria,LA,4
+82,-96,39,54.44,33,55,27.33,Red River,Lake Texoma,OK/TX,2
+83,-91,33,5.94,38,40,55.13,Missouri River,Hermann,MO,3
+84,-107,34,28.89,45,43,37.3,Big Horn River,Hardin,MT,6
+85,-104,7,49.2,47,40,51.41,Yellowstone River,Sidney,MT,6
+86,-97,38,22.46,43,11,8.63,James River,Olivet,SD,6
+87,-102,0,0.58,41,17,8.4,North Platte River,Lake McConaughy,NE,6
+88,-102,22,53.57,40,57,9.53,South Platte River,Brule,NE,6
+89,-96,19,8.57,41,3,36.61,Platte River,Louisville,NE,6
+90,-94,54,56.67,38,59,19.42,Kansas River,Bonner Springs,KS,6
+91,-114,19,43.14,34,27,54.05,Colorado River,Lake Havasu,AZ/CA,2
+92,-114,44,5.73,36,2,29.96,Colorado River,Lake Mead,NV/AZ,1
+93,-111,28,39.17,36,56,50.79,Colorado River,"Lake Powelle, Page",AZ,2
+94,-110,23,0.93,33,12,47.59,Gila River,San Carlos Reservoir,AZ,2
+95,-111,54,38.73,41,59,55.96,Bear River,Preston,ID,1
+96,-118,48,28.25,46,17,14.14,Snake River,Ice Harbor Dam,WA,1
+97,-119,1,23.93,46,12,17.7,Columbia River,Pasco,WA,1
+98,-119,1,8.09,47,56,27.21,Columbia River,Grand Coulee,WA,1
+99,-158,0,57.6,21,23,18.6,Waikele Stream,Waipahu,HI,1
+100,-157,51,39.6,21,18,50.4,Manoa Stream,Honolulu,HI,1
+101,-70,12,25.04,44,4,30.35,Androscoggin River,Lewiston,ME,5
+102,-87,42,23.47,47,24,2.98,Lake Superior,Keeweenaw Point,MI,3
+103,-84,57,16.85,46,46,15.34,Lake Superior,Whitefish Point,MI,3
+104,-85,30,31.59,45,44,24.58,Lake Michigan,Beaver Island,MI,3
+105,-86,13,18.98,42,40,48.91,Lake Michigan,Saugatuck,MI,3
+106,-83,26,40.1,45,3,9.95,Lake Huron,Alpena,MI,3
+107,-82,47,8.04,42,33,49.74,Lake St. Clair,Mt. Clemens,MI,3
+108,-82,55,49.02,41,31,3.17,Lake Erie,Port Clinton,OH,3
+109,-78,51,44.85,43,18,37.52,Lake Ontario,Roosevelt Beach,NY,5
+110,-76,18,16.6,44,1,14.98,Lake Ontario,Cape Vincent,NY,5
+111,-92,16,38.88,44,27,54.85,Mississippi River,Lake City,MN/WI,3
+112,-90,35,6.57,42,26,25.9,Mississippi River,Dubuque,IA/IL/WI,3
+113,-97,0,5.38,28,30,20.85,San Antonio River,McFaddin,TX,2
+114,-112,8,9.52,41,29,27.43,Bear Creek,Brigham City,UT,6
+115,-114,32,25.52,32,43,8.26,Colorado River,Yuma,AZ/CA,2
+116,-100,41,39.75,48,35,23.7,Souris River,Upham,ND,6
+117,-113,57,43.85,48,18,0.13,Flathead River,Creston,MT,6
