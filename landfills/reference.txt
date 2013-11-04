@@ -1,0 +1,5 @@
+http://catalog.data.gov/dataset/map-of-landfill-locations-1986
+Map of landfill locations, 1986
+This is a point coverage of landfills shown in the 1986 National Water Summary Report (U.S. Geological Survey, 1987). Keywords landfill
+
+http://water.usgs.gov/GIS/metadata/usgswrd/XML/landfill.xml

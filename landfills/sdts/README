@@ -1,0 +1,49 @@
+README File:
+
+This directory contains a Spatial Data Transfer Standard (SDTS), 
+Topological Vector Profile (TVP) compliant transfer. It was produced by 
+SDTSEXPORT, created from ARC/INFO coverages.
+
+Standard Authority:
+        FIPS 173:  The Spatial Data Transfer Standard 
+        Part 4:    Topological Vector Profile, 7/6/93 
+
+ISO 8211 conformance:
+        All files with extension *.DDF are in the ISO 8211 file transfer
+        format.  All SDTS spatial addresses are expressed in two 32 bit 
+        binary sub-fields defined by the ISO8211.  Leader and directory 
+        information is dropped whenever possible.  Files are Level 2 of 
+        ISO 8211. 
+
+Catalog Directory file name: 
+        xxxxCATD.DDF 
+        This file is the catalog directory file and it carries a 
+        listing of every file to be included in the transfer including 
+        file and module names. 
+
+Identification file name: 
+        xxxxIDEN.DDF 
+        This file contains information that describes the overall 
+        characteristics of the data in this transfer, including 
+        it geographical domain. 
+
+Transfer produced by:
+        SDTSEXPORT
+
+References:
+        See documentation on converting SDTS data in ArcDoc. 
+
+Point of Contact: 
+
+        SDTS Contact:  SDTS Task Force         !  Information also 
+                       U.S. Geological Survey  !  available on FTP site 
+                       526 National Center     !  sdts.er.usgs.gov 
+                       Reston, VA  22092       !  (130.11.52.170) 
+                       E-mail:  sdts@usgs.gov  ! 
+ 
+        ESRI Contact:  ESRI Technical Support Center 
+                       380 New York Street, 
+                       Redlands, California 92373-8100 
+                       U.S.A 
+                       E-mail:  support@esri.com 
+                       Fax:     (909) 792-0960 
