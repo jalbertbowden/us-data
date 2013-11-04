@@ -1,0 +1,19 @@
+input
+projection geographic
+units dd
+parameters
+output
+PROJECTION ALBERS
+UNITS METERS
+SPHEROID CLARKE1866
+XSHIFT 0
+YSHIFT 0
+PARAMETERS
+29 30 00
+45 30 00
+-96 00 00
+23 00 00
+0.0
+0.0
+ 
+end

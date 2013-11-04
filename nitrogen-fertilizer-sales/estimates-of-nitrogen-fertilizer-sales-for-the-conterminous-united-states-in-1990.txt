@@ -1,0 +1,3 @@
+Estimates of nitrogen-fertilizer sales for the conterminous United States in 1990
+http://water.usgs.gov/GIS/metadata/usgswrd/XML/nit90.xml
+http://catalog.data.gov/dataset/estimates-of-nitrogen-fertilizer-sales-for-the-conterminous-united-states-in-1990
