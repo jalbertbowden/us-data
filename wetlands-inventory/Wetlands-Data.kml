@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>FWS Wetlands &amp; Riparian</name>
+	<open>1</open>
+	<description><![CDATA[<body style="background-color: #FFFFFF">
+<h3 class="style3"><font color="#008080">Click for information!</font></h3>
+<p><font face="Arial, Helvetica, sans-serif">For more information please visit 
+our website at:</font></p>
+<blockquote>
+	<font face="Arial, Helvetica, sans-serif">
+	<a href="http://www.fws.gov/wetlands/data/index.html">http://www.fws.gov/wetlands/data/index.html</a></font></blockquote>
+<p><font face="Arial, Helvetica, sans-serif">To <strong>Download Wetlands Data</strong>, please follow this link:</font></p>
+<blockquote>
+	<font face="Arial, Helvetica, sans-serif">
+	<a href="http://www.fws.gov/wetlands/Data/Data-Download.html">http://www.fws.gov/wetlands/Data/Data-Download.html</a></font></blockquote>
+<p><font face="Arial, Helvetica, sans-serif">To download the latest version of this script and the latest Google Earth OGC compliant Web Map Service information, please follow this link:</font></p>
+<blockquote>
+	<font face="Arial, Helvetica, sans-serif">
+	<a href="http://www.fws.gov/wetlands/Data/Google-Earth.html">http://www.fws.gov/wetlands/Data/Google-Earth.html</a></font></blockquote>
+<h3><font color="#008080" face="Arial, Helvetica, sans-serif">Wetlands Team</font></h3>
+<p><font face="Arial, Helvetica, sans-serif">For questions or comments about 
+seamless Wetlands spatial data, Wetlands Mapper IMS function and content, OGC 
+Web map service information, eMail the Wetlands Team: <br></br><br>
+	Wetlands_Team@fws.gov</br></font></p>
+</body>]]></description>
+	<LookAt>
+		<longitude>-97.22053916788357</longitude>
+		<latitude>38.11325068438288</latitude>
+		<altitude>0</altitude>
+		<range>3565724.474275306</range>
+		<tilt>8.618353854444484e-015</tilt>
+		<heading>-0.1552574989014097</heading>
+	</LookAt>
+	<NetworkLink>
+		<name>Data</name>
+		<LookAt>
+			<longitude>-97.22053953892112</longitude>
+			<latitude>38.11325032067204</latitude>
+			<altitude>0</altitude>
+			<range>3568793.017519627</range>
+			<tilt>0</tilt>
+			<heading>-0.155257727912386</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<Link>
+			<href>http://107.20.228.18/ArcGIS/services/FWS_Wetlands_GE/MapServer/KmlServer?Composite=false&amp;VectorsToRasters=true&amp;</href>
+			<viewRefreshMode>onStop</viewRefreshMode>
+			<viewRefreshTime>2</viewRefreshTime>
+			<viewFormat>BBOX=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth];CAMERA=[lookatLon],[lookatLat],[lookatRange],[lookatTilt],[lookatHeading];VIEW=[horizFov],[vertFov],[horizPixels],[vertPixels],[terrainEnabled]</viewFormat>
+		</Link>
+	</NetworkLink>
+	<ScreenOverlay id="USFWS Logo">
+		<name>&lt;a href=&quot;http://www.fws.gov&quot;&gt;US Fish and Wildlife Service&lt;/a&gt;</name>
+		<Icon>
+			<href>http://www.fws.gov/home/graphics/logo2005.gif</href>
+		</Icon>
+		<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+		<screenXY x="0.005" y="0.995" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="pixels" yunits="pixels"/>
+	</ScreenOverlay>
+	<ScreenOverlay>
+		<name>Legend: Status Map</name>
+		<description><![CDATA[<h3><font color="#008080">Click for information!</font></h3>For more information regarding Wetland Mapping<br>Status, please follow this link:</br><br></br><br>http://www.fws.gov/wetlands/</br>]]></description>
+		<Icon>
+			<href>http://www.fws.gov/wetlands/data/kml/google_status.png</href>
+		</Icon>
+		<overlayXY x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		<screenXY x="0.72" y="0.02" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="180" y="100" xunits="pixels" yunits="pixels"/>
+	</ScreenOverlay>
+	<ScreenOverlay id="NWILEGEND">
+		<name>Legend: Wetland Types</name>
+		<description><![CDATA[<h3><font color="#008080">Click for information!</font></h3>For more information regarding wetland types<br>and codes, please follow this link:</br><br></br><br>http://www.fws.gov/wetlands/Data/wetland-codes.html</br>]]></description>
+		<Icon>
+			<href>http://www.fws.gov/wetlands/data/kml/wetland_types.png</href>
+		</Icon>
+		<overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		<screenXY x="0.005" y="0.02" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="pixels" yunits="pixels"/>
+	</ScreenOverlay>
+</Folder>
+</kml>
