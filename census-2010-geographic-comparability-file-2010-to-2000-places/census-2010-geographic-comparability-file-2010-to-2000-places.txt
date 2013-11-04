@@ -1,0 +1,28 @@
+http://www.census.gov/geo/maps-data/data/comp-place.html
+Geographic Comparability File, 2010 to 2000 Places
+Concepts
+The geographic comparability file provides a simple relationship between each 2010 place (incorporated place, census designated place [CDP], or consolidated city) and its comparable 2000 place with an additional comments section to describe more detailed changes. For the vast majority of records, there is a one-to-one relationship between a 2010 place and a 2000 place, although names and codes may have changed between censuses. Where a 2010 record has no comparable 2000 place information, most of the 2010 places are newly defined from area not in a place, but the Comments column provides additional information if required.
+
+Comparability for incorporated places is based on continuing governmental status; there may have been substantial boundary changes or other changes that modified the boundaries. For CDPs, comparability is based on the CDP still being defined for its "core" area as determined by local participants and through points identified in the Geographic Names Information System developed to support the U.S. Board on Geographic Names as the official repository of domestic geographic names data. As with incorporated places, comparability implies continuity of definition, but the actual area of a CDP may have changed between 2000 and 2010.
+
+Files
+These files contain diacritical marks. 
+
+Microsoft Excel File (Compressed) [1.1MB]                         Text File (Compressed) [0.5MB]
+
+File Layout and Description
+Field	Description
+STATEFP10	 2010 Census 2-digit FIPS State Code
+PLACEFP10	 2010 Census 5-digit FIPS Place Code
+PLACENS10	 2010 Census 8-digit ANSI Place Code
+NAMELSAD	 2010 Census Place Name with Legal/Statistical Area Description
+STATEFP00	 Census 2000 2-digit FIPS State Code
+PLACEFP00	 Census 2000 5-digit FIPS State Code
+NAMELSAD00	 Census 2000 Place Name and Legal/Statistical Area Description
+Comments	 Notes describing relationship to territory inside or outside Census 2000 place(s)
+As used in the Comments column:
+
+"Predominantly" means formed from approximately 75% or more of a Census 2000 place;
+"Primarily" means formed from approximately 50% up to 75% of a Census 2000 place;
+"Split" always means the old CDP no longer exists;
+The term "part" gives no indication of relative size (except when modified like "small part") and means that not all of the entity was included.
