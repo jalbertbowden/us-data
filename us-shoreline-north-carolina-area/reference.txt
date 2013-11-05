@@ -1,0 +1,3 @@
+http://catalog.data.gov/dataset/nos80k-medium-resolution-digital-vector-u-s-shoreline-shapefile-for-the-north-carolina-area
+NOS80K: Medium Resolution Digital Vector U.S. Shoreline Shapefile for the North Carolina Area
+http://pubs.usgs.gov/of/2005/1306/

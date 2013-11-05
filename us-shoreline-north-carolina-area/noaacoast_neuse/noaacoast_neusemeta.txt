@@ -1,0 +1,195 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office of Coast Survey, and the Strategic Environmental Assessments (SEA) Division of the Office of Ocean Resources Conservation and Assessment
+      Publication_Date: 1994
+      Title: NOS80K: Medium Resolution Digital Vector U.S. Shoreline shapefile for the North Carolina area
+      Geospatial_Data_Presentation_Form: vector digital data
+      Publication_Information:
+        Publication_Place: Silver Spring, MD
+        Publisher: NOAA/NOS/ORCA/SEA
+      Online_Linkage: http://sposerver.nos.noaa.gov/projects/shoreline/shoreline.html
+      Online_Linkage: http://pubs.usgs.gov/of/2005/1306/data/basemap/noaacoast_neuse.zip
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: VeeAnn A. Cross
+          Originator: John F. Bratton
+          Originator: Emile Bergeron
+          Originator: Jeff K. Meunier
+          Originator: John Crusius
+          Originator: Dirk Koopmans
+          Publication_Date: 2005
+          Title: Continuous Resistivity Profiling Data from the Upper Neuse River Estuary, North Carolina, 2004-2005
+          Series_Information:
+            Series_Name: Open-File Report
+            Issue_Identification: 2005-1306
+          Publication_Information:
+            Publication_Place: Woods Hole Science Center, Woods Hole, MA
+            Publisher: U.S. Geological Survey, Coastal and Marine Geology Program
+          Online_Linkage: http://pubs.usgs.gov/of/2005/1306
+  Description:
+    Abstract: The Neuse River Estuary in North Carolina is a broad, V-shaped water body located on the southwestern end of Pamlico Sound. This estuary suffers from severe eutrophication for which several water quality models have recently been developed to aid in the management of nutrient loading to the estuary. In an effort to help constrain model estimates of the fraction of nutrients delivered by direct ground-water discharge, continuous resistivity profile (CRP) measurements were made during the spring of 2004 and 2005. CRP is used to measure electrical resistivity of sediments, a property that is sensitive to difference in salinity of submarine ground water. The 2004 and 2005 surveys used floating resistivity streamers of 100 m and 50 m respectively. The depth penetration of the streamers is approximately 20% of the streamer length which translates to approximately 20-25 m with the 100 m streamer and 12-14 m with the 50 m streamer. These data were processed using AGI's EarthImager 2D software. CRP data enables the mapping of the extent and depth of the fresher ground water within the estuary.
+    Purpose: The NOAA medium resolution shoreline provides a higher detail of the immediate study area around the Neuse River than the state boundary data file.
+    Supplemental_Information: Generally, 1:80,000 NOAA coast charts took precedence and were used when available. For areas where 1:80,000 charts were not readily available, charts with the next closest higher scale (e.g., 1:60,000) were used down to the highest scale available. Alternately, if higher scale charts were not available, charts of the closest lower scale (e.g., 1:100,000) were used down to the lowest scale. The digital shoreline for Florida was obtained from the state. This digital file was originally created from NOAA nautical charts and was not recreated by SEA. Generally, for these shoreline sections (EC80_06, GC80_05, and GC80_06), the highest scale charts available were used to digitize the shoreline. The resultant average mapping scale for the entire Medium Resolution Digital Vector Shoreline is approximately 1:70,000. See NOAA's Medium Resolution Digital Vector Shoreline website for more details on this product: http://sposerver.nos.noaa.gov/projects/shoreline/shoreline.html
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 1994
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Unknown
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -80.404135
+      East_Bounding_Coordinate: -73.971359
+      North_Bounding_Coordinate: 40.511172
+      South_Bounding_Coordinate: 32.533642
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: General
+      Theme_Keyword: NOAA
+      Theme_Keyword: Digital Vector Shoreline
+      Theme_Keyword: ArcView shapefile
+      Theme_Keyword: Digital Geographic Boundaries
+      Theme_Keyword: shore
+      Theme_Keyword: shoreline
+      Theme_Keyword: coast
+    Place:
+      Place_Keyword_Thesaurus: General
+      Place_Keyword: North America
+      Place_Keyword: United States
+      Place_Keyword: South Carolina
+      Place_Keyword: North Carolina
+      Place_Keyword: Virginia
+      Place_Keyword: Maryland
+      Place_Keyword: Delaware
+      Place_Keyword: New Jersey
+      Place_Keyword: District of Columbia
+  Access_Constraints: None.
+  Use_Constraints: Not for navigational purposes.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Steve Rohmann
+        Contact_Organization: NOAA/NOS/SEA/ORCA
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: NOAA
+        Address: 9th Floor
+        Address: 1305 East-West Highway
+        City: Silver Spring
+        State_or_Province: MD
+        Postal_Code: 20910
+        Country: USA
+      Contact_Voice_Telephone: (301) 713-3000 x137
+      Contact_Facsimile_Telephone: (301) 713-4384
+      Contact_Electronic_Mail_Address: Steve.Rohmann@noaa.gov
+  Data_Set_Credit: Please credit National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office of Coast Survey, and the Strategic Environmental Assessments (SEA) Division of the Office of Ocean Resources Conservation and Assessment (ORCA) as the originator of the dataset.
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      The data supplied here are a compilation of information collected from some 270+ current or pre-release National Ocean Service Navigation Charts.  In compiling this product no attempt was made to ascertain the congruency between the charted data, and the real world.  The objective was to simply capture the representative coastline as provided via the NOS Chart. Every effort was made to capture the shoreline on these charts as faithfully as skills and technology allowed, and there is every indication that this was successful.  However, in doing so, the character of those data (all aspects, both good and bad) were conveyed to the digital product.  A character which may or may not be in agreement with the real world. Because of this, the user is advised to exercise caution in making any assumptions about the fallibility, or infallibility, of the spatial information supplied here; especially when circumstances warrant a high degree of absolute positional accuracy.
+
+      Spatial data were derived directly from national Ocean Service Navigation Charts. The NOS Chart Products meet or exceed national Map Accuracy standards (hard copy); the digital data supplied in this compilation should, when plotted at scale, meet or exceed these same cartographic standards.
+  Logical_Consistency_Report: No additional checks for topological consistency were performed on the data.
+  Completeness_Report: This is a subset of the original dataset clipped to the extent of the area of interest near North Carolina.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: The data supplied here are a compilation of information collected from some 270+ current or pre-release National Ocean Service Navigation Charts.  In compiling this product no attempt was made to ascertain the congruency between the charted data, and the real world.  The objective was to simply capture the representative coastline as provided via the NOS Chart. Every effort was made to capture the shoreline on these charts as faithfully as skills and technology allowed, and there is every indication that this was successful.  However, in doing so, the character of those data (all aspects, both good and bad) were conveyed to the digital product.  A character which may or may not be in agreement with the real world. Because of this, the user is advised to exercise caution in making any assumptions about the fallibility, or infallibility, of the spatial information supplied here; especially when circumstances warrant a high degree of absolute positional accuracy.
+  Lineage:
+    Source_Information:
+      Source_Scale_Denominator: 80000
+      Type_of_Source_Media: paper
+    Process_Step:
+      Process_Description: The complete ALLUS80K shapefile was clipped to the GIS project extent.
+      Process_Date: 2005
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: VeeAnn A. Cross
+            Contact_Organization: U.S. Geological Survey
+          Contact_Position: Marine Geologist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 384 Woods Hole Rd.
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+          Contact_Voice_Telephone: (508) 548-8700  x2251
+          Contact_Facsimile_Telephone: (508) 457-2310
+          Contact_Electronic_Mail_Address: vatnipp@usgs.gov
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-polygon
+      Point_and_Vector_Object_Count: 7349
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000000
+      Longitude_Resolution: 0.000000
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: noaacoast_neuse
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: ID
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Steve Rohmann
+        Contact_Organization: NOAA/NOS/SEA/ORCA
+      Contact_Voice_Telephone: (301) 713-3000 x137
+      Contact_Facsimile_Telephone: (301) 713-4384
+      Contact_Electronic_Mail_Address: Steve.Rohmann@noaa.gov
+  Resource_Description: Downloadable Data
+  Distribution_Liability: Although these data have been processed successfully on a computer system at NOAA, no warranty, expressed or implied, is made by NOAA regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty, NOAA warrants the delivery of this product in computer-readable format, and will offer a replacement copy of the product when the product is determined unreadable by computer input peripherals, or when the physical medium is delivered in damaged condition.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Transfer_Size: 9.226
+Metadata_Reference_Information:
+  Metadata_Date: 20050901
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: VeeAnn A. Cross
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: Marine Geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Rd.
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+      Contact_Voice_Telephone: (508) 548-8700  x2251
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: vatnipp@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
