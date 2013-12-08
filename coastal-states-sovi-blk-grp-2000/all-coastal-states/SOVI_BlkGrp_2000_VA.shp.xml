@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Hazards and Vulnerability Research Institute (HVRI), University of South Carolina</origin>
+        <pubdate>2011</pubdate>
+        <title>Social Vulnerability Index (SoVI) for Virginia based on 2000 Census Block Groups</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Columbia, SC</pubplace>
+          <publish>Hazards and Vulnerability Research Institute (HVRI), University of South Carolina</publish>
+        </pubinfo>
+        <onlink>http://www.csc.noaa.gov/digitalcoast/data/SoVI/</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data depicts the social vulnerability of Virginia census block groups to environmental hazards.  Data were culled primarily from the 2000 Decennial Census.</abstract>
+      <purpose>The Social Vulnerability Index (SoVI) measures the social vulnerability of U.S. counties to environmental hazards. The index is a comparative metric that facilitates the examination of the differences in social vulnerability among counties. SoVI is a valuable tool for policy makers and practitioners. It graphically illustrates the geographic variation in social vulnerability. It shows where there is uneven capacity for preparedness and response and where resources might be used most effectively to reduce the pre-existing vulnerability. SoVI also is useful as an indicator in determining the differential recovery from disasters.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2000</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-83.675413
+
+</westbc>
+        <eastbc>-75.242266
+</eastbc>
+        <northbc>39.466012
+
+</northbc>
+        <southbc>36.540738
+
+</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>economy</themekey>
+        <themekey>oceans</themekey>
+        <themekey>society</themekey>
+        <themekey>environment</themekey>
+        <themekey>structure</themekey>
+        <themekey>transportation</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Social Vulnerability Index</themekey>
+        <themekey>Environmental Hazards</themekey>
+        <themekey>Indicators</themekey>
+        <themekey>Comparative Index</themekey>
+        <themekey>Vulnerability</themekey>
+        <themekey>Demographics</themekey>
+        <themekey>Socioeconomics</themekey>
+        <themekey>Resilience</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>United States</placekey>
+        <placekey>Coastal States</placekey>
+        <placekey>Census Block Groups</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>None</useconst>
+    <datacred>Hazards and Vulnerability Research Institute (HVRI), University of South Carolina</datacred>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3500</native>
+  </idinfo>
+  <dataqual>
+    <logic>Standard data quality procedures were followed for compiling the data.</logic>
+    <complete>Data completeness reflects the contents of the 2000 Census Block Group.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Hazards and Vulnerability Research Institute (HVRI), University of South Carolina</origin>
+            <pubdate>2011</pubdate>
+            <title>The Social Vulnerability Index (SoVI)</title>
+            <othercit>NOAA CSC received this data from another Institution (Hazards and Vulnerability Research Institute(HVRI), University of South Carolina). Questions regarding the original data collection and /or processing should be directed to that agency.</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>electronic mail system</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2000</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Hazards and Vulnerability Research Institute, University of South Carolina</srccitea>
+        <srccontr>Census block group level data on social vulnerability to environmental hazards</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Created comparative index of social vulnerability to environmental hazards for census block groups based on socioeconomic and demographic data from the US Census Bureau.</procdesc>
+        <srcused>Hazards and Vulnerability Research Institute, University of South Carolina</srcused>
+        <procdate>2000</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>532</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.0000001</latres>
+        <longres>0.0000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>2000 Census Block Groups</enttypl>
+        <enttypd>2000 Census Block Groups</enttypd>
+        <enttypds>US Census Bureau</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FIPSSTCO
+</attrlabl>
+        <attrdef>County identifier</attrdef>
+        <attrdefs>Federal Information Processing Standard (FIPS)</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>FIPS Code</codesetn>
+            <codesets>National Institute of Standards and Technology (NIST)</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Tract</attrlabl>
+        <attrdef>Unique identifier for each Census tract</attrdef>
+        <attrdefs>US Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Census Tracts</codesetn>
+            <codesets>US Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Group_</attrlabl>
+        <attrdef>Unique identifier for each Census block group</attrdef>
+        <attrdefs>US Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Census Block Groups</codesetn>
+            <codesets>US Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry automated by ESRI</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GISJOIN</attrlabl>
+        <attrdef>Unique identifier for data processing</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute
+
+
+</attrdefs>
+        <attrdomv>
+          <udom>Unique identifier for data processing</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GISJOIN2</attrlabl>
+        <attrdef>Unique identifier for data processing</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Unique identifier for data processing</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STFID</attrlabl>
+        <attrdef>Unique identifier for each block group</attrdef>
+        <attrdefs>US Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Census Block Groups</codesetn>
+            <codesets>US Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OID_</attrlabl>
+        <attrdef>Internal feature number</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>KEY_</attrlabl>
+        <attrdef>Unique identifier for each block group</attrdef>
+        <attrdefs>US Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Census Block Groups</codesetn>
+            <codesets>US Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>Unique identifier for each block group</attrdef>
+        <attrdefs>Federal Information Processing Standard</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Census Block Groups</codesetn>
+            <codesets>US Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>P001001</attrlabl>
+        <attrdef>Total Population from 2000 Census</attrdef>
+        <attrdefs>US Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>2000 Census population count</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>H001001</attrlabl>
+        <attrdef>Total Housing Units from 2000 Census</attrdef>
+        <attrdefs>US Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>2000 Census housing Units count</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FID_1</attrlabl>
+        <attrdef>Internal Feature Number</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>stfips</attrlabl>
+        <attrdef>Unique identifier for the state</attrdef>
+        <attrdefs>Federal Information Processing Standard, National Institute of Standards and Technology (NIST)</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>FIPS codes</codesetn>
+            <codesets>National Institute of Standards and Technology (NIST)</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>stcofips</attrlabl>
+        <attrdef>Unique identifier for the county</attrdef>
+        <attrdefs>Federal Information Processing Standard, National Institute of Standards and Technology (NIST)</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>FIPS codes</codesetn>
+            <codesets>National Institute of Standards and Technology (NIST)</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>name</attrlabl>
+        <attrdef>Block group name</attrdef>
+        <attrdefs>US Census, 2000</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Census block group name</codesetn>
+            <codesets>US Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>name_1</attrlabl>
+        <attrdef>Block group name</attrdef>
+        <attrdefs>US Census, 2000</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Census Block group name</codesetn>
+            <codesets>US Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QBLACK</attrlabl>
+        <attrdef>Percent African American</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent African American</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QINDIAN</attrlabl>
+        <attrdef>Percent Native American</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent Native American</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QASIAN</attrlabl>
+        <attrdef>Percent Asian and Hawaiian Islander</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent Asian and Hawaiian Islander</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QSPANISH</attrlabl>
+        <attrdef>Percent Hispanic</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent Hispanic</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QKIDS</attrlabl>
+        <attrdef>Percent of population under 5 years of age</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent of population under 5 years of age</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QPOP65O</attrlabl>
+        <attrdef>Percent of population age 65 and over</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent of population age 65 and over</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MEDAGE</attrlabl>
+        <attrdef>Median age</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Median age</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QFEMALE</attrlabl>
+        <attrdef>Percent female population</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent female population</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PPUNIT</attrlabl>
+        <attrdef>Average number of people per household</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Average number of people per household</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QRENTER</attrlabl>
+        <attrdef>Percent renter occupied units</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent renter occupied units</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QFHH</attrlabl>
+        <attrdef>Percent female headed households, no spouse present</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent female headed households, no spouse present</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NRRESPC</attrlabl>
+        <attrdef>Nursing home residents per capita</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Nursing home residents per capita</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QCVLUN</attrlabl>
+        <attrdef>Percent civilian unemployment</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent civilian unemployment</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PERCAP</attrlabl>
+        <attrdef>Per capita Income (2000 dollars)</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Per capita Income (2000 dollars)</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QRICH</attrlabl>
+        <attrdef>Percentage of households earning 100,000 or more</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percentage of households earning 100,000 or more</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QPOVTY</attrlabl>
+        <attrdef>Percent living below the poverty level</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent living below the poverty level</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MEAN_HSEVA</attrlabl>
+        <attrdef>Mean House Value</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Mean House Value</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MC_RENT</attrlabl>
+        <attrdef>Mean contract rent for renter occupied housing units</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Mean contract rent for renter occupied housing units</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PHYSICN</attrlabl>
+        <attrdef>Number persons per 100,000 population employed as healthcare practitioners and technical occupations</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Number persons per 100,000 population employed as healthcare practitioners and technical occupations</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QRFRM</attrlabl>
+        <attrdef>Percent rural farm population</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent rural farm population</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QMOHO</attrlabl>
+        <attrdef>Percent of housing units that are mobile homes</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent of housing units that are mobile homes</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QED12LES</attrlabl>
+        <attrdef>Percent of population 25 years or older with no high school diploma</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent of population 25 years or older with no high school diploma</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QCVLBR</attrlabl>
+        <attrdef>Percent of population participating in the labor force</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent of population participating in the labor force</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QFEMLBR</attrlabl>
+        <attrdef>Percent females participating in the labor force</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent females participating in the labor force</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QAGRI</attrlabl>
+        <attrdef>Percent employment in farming, fishing, and forestry occupations</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent employment in farming, fishing, and forestry occupations</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QTRAN</attrlabl>
+        <attrdef>Percent employed in transportation, communications, and other public utilities</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent employed in transportation, communications, and other public utilities</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QSERV</attrlabl>
+        <attrdef>Percent Employed in service industry</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent Employed in service industry</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QSSBEN</attrlabl>
+        <attrdef>Percent of population collecting social security benefits</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent of population collecting social security benefits</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QMIGRA</attrlabl>
+        <attrdef>Percent Foreign Born Citizens Immigrating between 1990 and 2000</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent Foreign Born Citizens Immigrating between 1990 and 2000</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QURBAN</attrlabl>
+        <attrdef>Percent urban population</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Percent urban population</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HODENSTY</attrlabl>
+        <attrdef>Housing Density</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Housing Density</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>stfid_1</attrlabl>
+        <attrdef>Identifier for each block group</attrdef>
+        <attrdefs>US Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Identifier for each block group</codesetn>
+            <codesets>US Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMP1</attrlabl>
+        <attrdef>SoVI Component 1: Native American, Class (Poverty) (+); Refer to Read Me file for driving variables</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>SoVI Component 1: Native American, Class (Poverty) (+); Refer to Read Me file for driving variables</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMP2</attrlabl>
+        <attrdef>SoVI Component 2: Race / Ethnicity, Renters (+); Refer to Read Me file for driving variables</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>SoVI Component 2: Race / Ethnicity, Renters (+); Refer to Read Me file for driving variables</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMP3</attrlabl>
+        <attrdef>SoVI Component 3: Wealth (-); Refer to Read Me file for driving variables</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>SoVI Component 3: Wealth (-); Refer to Read Me file for driving variables</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMP4</attrlabl>
+        <attrdef>SoVI Component 4: Youth, Families (+); Refer to Read Me file for driving variables</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>SoVI Component 4: Youth, Families (+); Refer to Read Me file for driving variables</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMP5</attrlabl>
+        <attrdef>SoVI Component 5: Elderly (+); Refer to Read Me file for driving variables</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>SoVI Component 5: Elderly (+); Refer to Read Me file for driving variables</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMP6</attrlabl>
+        <attrdef>SoVI Component 6: Housing Type (Mobile Homes) (+); Refer to Read Me file for driving variables</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>SoVI Component 6: Housing Type (Mobile Homes) (+); Refer to Read Me file for driving variables</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMP7</attrlabl>
+        <attrdef>SoVI Component 7: Infrastructure Employment (+); Refer to Read Me file for driving variables</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>SoVI Component 7: Infrastructure Employment (+); Refer to Read Me file for driving variables</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMP8</attrlabl>
+        <attrdef>SoVI Component 8: Migrants (+); Refer to Read Me file for driving variables</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>SoVI Component 8: Migrants (+); Refer to Read Me file for driving variables</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SoVI</attrlabl>
+        <attrdef>Aggregate SoVI Score</attrdef>
+        <attrdefs>Hazards and Vulnerability Research Institute</attrdefs>
+        <attrdomv>
+          <udom>Aggregate SoVI Score</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape.area</attrlabl>
+        <attrdef>Feature geometry</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape.len</attrlabl>
+        <attrdef>Feature geometry</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>NOAA Coastal Services Center</cntorg>
+          <cntper>Clearinghouse Manager</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>2234 South Hobson Avenue</address>
+          <city>Charleston</city>
+          <state>South Carolina</state>
+          <postal>29405-2413</postal>
+        </cntaddr>
+        <cntvoice>(843)740-1210</cntvoice>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Any conclusions drawn from the analysis of this information are not the responsibility of the NOAA Coastal Services Center or its partners.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20110426</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>NOAA Coastal Services Center</cntorg>
+          <cntper>Clearinghouse Manager</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>2234 South Hobson Avenue</address>
+          <city>Charleston</city>
+          <state>South Carolina</state>
+          <postal>29405-2413</postal>
+        </cntaddr>
+        <cntvoice>(843)740-1210</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
