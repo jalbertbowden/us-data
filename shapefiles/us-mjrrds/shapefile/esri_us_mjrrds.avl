@@ -1,0 +1,545 @@
+/3.1
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	31
+)
+
+(Legend.2
+	SymType:	0x01
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	17
+	Class:	27
+	Class:	37
+	Class:	46
+	Class:	49
+	Class:	52
+	StdDevs:	1.00000000000000
+	NullSym:	53
+	NullValues:	55
+	StatValues:	56
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Fcc"
+)
+
+(SymList.4
+	Child:	5
+	Child:	7
+	Child:	9
+	Child:	11
+	Child:	13
+	Child:	15
+)
+
+(BLnSym.5
+	Color:	6
+	Width:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.6
+	Red:	0x6400
+	Green:	0x63
+	Blue:	0x63
+)
+
+(BLnSym.7
+	Color:	8
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.8
+	Red:	0xffff
+)
+
+(BLnSym.9
+	Color:	10
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.10
+)
+
+(BLnSym.11
+	Color:	12
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.12
+	Red:	0x7878
+	Green:	0x7878
+	Blue:	0x7878
+)
+
+(BLnSym.13
+	Color:	14
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.14
+	Blue:	0xffff
+)
+
+(BLnSym.15
+	Color:	16
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.16
+	Name:	"Transparent"
+)
+
+(LClass.17
+	IsDisjoint:	1
+	Components:	18
+	Components:	19
+	Components:	20
+	Components:	21
+	Components:	22
+	Components:	23
+	Components:	24
+	Components:	25
+	Components:	26
+	IsText:	1
+	Label:	"Primary road with limited access"
+	MinStr:	"A10"
+	MaxStr:	"A10"
+	Precision:	-3
+)
+
+(LClass.18
+	IsText:	1
+	Label:	"A10"
+	MinStr:	"A10"
+	MaxStr:	"A10"
+	Precision:	-3
+)
+
+(LClass.19
+	IsText:	1
+	Label:	"A11"
+	MinStr:	"A11"
+	MaxStr:	"A11"
+	Precision:	-3
+)
+
+(LClass.20
+	IsText:	1
+	Label:	"A12"
+	MinStr:	"A12"
+	MaxStr:	"A12"
+	Precision:	-3
+)
+
+(LClass.21
+	IsText:	1
+	Label:	"A13"
+	MinStr:	"A13"
+	MaxStr:	"A13"
+	Precision:	-3
+)
+
+(LClass.22
+	IsText:	1
+	Label:	"A14"
+	MinStr:	"A14"
+	MaxStr:	"A14"
+	Precision:	-3
+)
+
+(LClass.23
+	IsText:	1
+	Label:	"A15"
+	MinStr:	"A15"
+	MaxStr:	"A15"
+	Precision:	-3
+)
+
+(LClass.24
+	IsText:	1
+	Label:	"A16"
+	MinStr:	"A16"
+	MaxStr:	"A16"
+	Precision:	-3
+)
+
+(LClass.25
+	IsText:	1
+	Label:	"A17"
+	MinStr:	"A17"
+	MaxStr:	"A17"
+	Precision:	-3
+)
+
+(LClass.26
+	IsText:	1
+	Label:	"A18"
+	MinStr:	"A18"
+	MaxStr:	"A18"
+	Precision:	-3
+)
+
+(LClass.27
+	IsDisjoint:	1
+	Components:	28
+	Components:	29
+	Components:	30
+	Components:	31
+	Components:	32
+	Components:	33
+	Components:	34
+	Components:	35
+	Components:	36
+	IsText:	1
+	Label:	"Primary road"
+	MinStr:	"A20"
+	MaxStr:	"A20"
+	Precision:	-3
+)
+
+(LClass.28
+	IsText:	1
+	Label:	"A20"
+	MinStr:	"A20"
+	MaxStr:	"A20"
+	Precision:	-3
+)
+
+(LClass.29
+	IsText:	1
+	Label:	"A21"
+	MinStr:	"A21"
+	MaxStr:	"A21"
+	Precision:	-3
+)
+
+(LClass.30
+	IsText:	1
+	Label:	"A22"
+	MinStr:	"A22"
+	MaxStr:	"A22"
+	Precision:	-3
+)
+
+(LClass.31
+	IsText:	1
+	Label:	"A23"
+	MinStr:	"A23"
+	MaxStr:	"A23"
+	Precision:	-3
+)
+
+(LClass.32
+	IsText:	1
+	Label:	"A24"
+	MinStr:	"A24"
+	MaxStr:	"A24"
+	Precision:	-3
+)
+
+(LClass.33
+	IsText:	1
+	Label:	"A25"
+	MinStr:	"A25"
+	MaxStr:	"A25"
+	Precision:	-3
+)
+
+(LClass.34
+	IsText:	1
+	Label:	"A26"
+	MinStr:	"A26"
+	MaxStr:	"A26"
+	Precision:	-3
+)
+
+(LClass.35
+	IsText:	1
+	Label:	"A27"
+	MinStr:	"A27"
+	MaxStr:	"A27"
+	Precision:	-3
+)
+
+(LClass.36
+	IsText:	1
+	Label:	"A28"
+	MinStr:	"A28"
+	MaxStr:	"A28"
+	Precision:	-3
+)
+
+(LClass.37
+	IsDisjoint:	1
+	Components:	38
+	Components:	39
+	Components:	40
+	Components:	41
+	Components:	42
+	Components:	43
+	Components:	44
+	Components:	45
+	IsText:	1
+	Label:	"Secondary and connecting road"
+	MinStr:	"A30"
+	MaxStr:	"A30"
+	Precision:	-3
+)
+
+(LClass.38
+	IsText:	1
+	Label:	"A30"
+	MinStr:	"A30"
+	MaxStr:	"A30"
+	Precision:	-3
+)
+
+(LClass.39
+	IsText:	1
+	Label:	"A31"
+	MinStr:	"A31"
+	MaxStr:	"A31"
+	Precision:	-3
+)
+
+(LClass.40
+	IsText:	1
+	Label:	"A32"
+	MinStr:	"A32"
+	MaxStr:	"A32"
+	Precision:	-3
+)
+
+(LClass.41
+	IsText:	1
+	Label:	"A33"
+	MinStr:	"A33"
+	MaxStr:	"A33"
+	Precision:	-3
+)
+
+(LClass.42
+	IsText:	1
+	Label:	"A35"
+	MinStr:	"A35"
+	MaxStr:	"A35"
+	Precision:	-3
+)
+
+(LClass.43
+	IsText:	1
+	Label:	"A36"
+	MinStr:	"A36"
+	MaxStr:	"A36"
+	Precision:	-3
+)
+
+(LClass.44
+	IsText:	1
+	Label:	"A37"
+	MinStr:	"A37"
+	MaxStr:	"A37"
+	Precision:	-3
+)
+
+(LClass.45
+	IsText:	1
+	Label:	"A38"
+	MinStr:	"A38"
+	MaxStr:	"A38"
+	Precision:	-3
+)
+
+(LClass.46
+	IsDisjoint:	1
+	Components:	47
+	Components:	48
+	IsText:	1
+	Label:	"Access ramp"
+	MinStr:	"A60"
+	MaxStr:	"A60"
+	Precision:	-3
+)
+
+(LClass.47
+	IsText:	1
+	Label:	"A60"
+	MinStr:	"A60"
+	MaxStr:	"A60"
+	Precision:	-3
+)
+
+(LClass.48
+	IsText:	1
+	Label:	"A63"
+	MinStr:	"A63"
+	MaxStr:	"A63"
+	Precision:	-3
+)
+
+(LClass.49
+	IsDisjoint:	1
+	Components:	50
+	Components:	51
+	IsText:	1
+	Label:	"Ferry crossing"
+	MinStr:	"A68"
+	MaxStr:	"A68"
+	Precision:	-3
+)
+
+(LClass.50
+	IsText:	1
+	Label:	"A68"
+	MinStr:	"A68"
+	MaxStr:	"A68"
+	Precision:	-3
+)
+
+(LClass.51
+	IsText:	1
+	Label:	"A69"
+	MinStr:	"A69"
+	MaxStr:	"A69"
+	Precision:	-3
+)
+
+(LClass.52
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BLnSym.53
+	Color:	54
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.54
+	Name:	"Transparent"
+)
+
+(NameDict.55
+)
+
+(NameDict.56
+)
+
