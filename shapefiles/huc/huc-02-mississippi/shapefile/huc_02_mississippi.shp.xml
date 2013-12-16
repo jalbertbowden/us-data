@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>USGS (reprojected by Cam Conrad with Iowa DNR)</origin>
+				<pubdate>USGS: 11/2002; IDNR: 07/2004</pubdate>
+				<title>US 2-Digit HUCs for Mississippi River Drainage</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Iowa City, Iowa</pubplace>
+					<publish>Iowa DNR, Geological Survey</publish>
+				</pubinfo>
+				<onlink>ftp://ftp.igsb.uiowa.edu/gis_library/basins/huc_02_mississippi.zip</onlink>
+				<ftname Sync="TRUE">huc_02_mississippi</ftname>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>2-digit hydrologic unit codes, derived from the USGS 1:2,000,000 Hydrologic Units (huc2m) layer.  The original USGS layer and metadata was downloaded from: http://nationalatlas.gov/hucsm.html. The oringal 8-digit HUC layer from USGS was reprojected in UTM NAD 1983 Zone 15N and dissolved by the HUC2 field.  All "Mississippi Region" features in the REG_NAME column were merged to create this layer.</abstract>
+			<purpose>This digital, geographically referenced data set was developed by the Iowa Department of Natural Resources to carry out agency responsibilities related to management, protection, and development of Iowa's natural resources.</purpose>
+			<supplinf>None</supplinf>
+			<langdata Sync="TRUE">en</langdata>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>unknown</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">REQUIRED: Western-most coordinate of the limit of coverage expressed in longitude.</westbc>
+				<eastbc Sync="TRUE">REQUIRED: Eastern-most coordinate of the limit of coverage expressed in longitude.</eastbc>
+				<northbc Sync="TRUE">REQUIRED: Northern-most coordinate of the limit of coverage expressed in latitude.</northbc>
+				<southbc Sync="TRUE">REQUIRED: Southern-most coordinate of the limit of coverage expressed in latitude.</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc Sync="TRUE">-1130730.755434</leftbc>
+				<rightbc Sync="TRUE">1760247.131041</rightbc>
+				<topbc Sync="TRUE">5645265.338985</topbc>
+				<bottombc Sync="TRUE">3204216.704896</bottombc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>huc</themekey>
+			</theme>
+		</keywords>
+		<accconst>Consult USGS: http://nationalatlas.gov/hucsm.html</accconst>
+		<useconst>Consult USGS: http://nationalatlas.gov/hucsm.html</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Cam Conrad</cntper>
+					<cntorg>Iowa Department of Natural Resources</cntorg>
+				</cntperp>
+				<cntpos>IMS Specialist</cntpos>
+				<cntaddr></cntaddr>
+				<cntvoice>515-281-5843</cntvoice>
+				<cntfax>515-281-8895</cntfax>
+				<cntemail>cam.conrad@dnr.state.ia.us</cntemail>
+				<hours>8AM - 5PM</hours>
+				<cntinst>Leave a voice message on phone if no answer.</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<datacred>USGS: http://nationalatlas.gov/hucsm.html</datacred>
+		<native Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+	</idinfo>
+	<dataqual>
+		<posacc>
+			<horizpa>
+				<horizpar>Consult USGS metadata: http://nationalatlas.gov/hucsm.html</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>None</title>
+					</citeinfo>
+				</srccite>
+				<srcscale>2,000,000</srcscale>
+				<typesrc>Electronic file</typesrc>
+			</srcinfo>
+			<procstep>
+				<procdesc>As described in Abstract, original USGS 8-digit HUC layer was reprojected to the UTM NAD83 Zone 15N projection.  The HUC8 boundaries were dissolved to HUC2 boundaries using the HUC2 column.  Then, all "Mississippi Drainage" features in the REG_NAME column were merged to create this layer (6 HUC2 polygons form the Mississippi River Drainage area).</procdesc>
+				<procdate>07/2004</procdate>
+				<procsv>ArcGIS 8.3 ArcToolbox</procsv>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="huc_02_mississippi">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">6</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="huc_02_mississippi">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+				<spindex Sync="TRUE">TRUE</spindex>
+				<efeageom Sync="TRUE">Polygon</efeageom>
+				<efeacnt Sync="TRUE">6</efeacnt>
+			</esriterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<gridsys>
+					<gridsysn>Universal Transverse Mercator</gridsysn>
+					<utm>
+						<utmzone>15</utmzone>
+						<transmer>
+							<sfctrmer>0.999600</sfctrmer>
+							<longcm>-93.000000</longcm>
+							<latprjo>0.000000</latprjo>
+							<feast>500000.000000</feast>
+							<fnorth>0.000000</fnorth>
+						</transmer>
+					</utm>
+				</gridsys>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.001024</absres>
+						<ordres>0.001024</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+				<projcsn>NAD_1983_UTM_Zone_15N</projcsn>
+				<geogcsn>GCS_North_American_1983</geogcsn></cordsysn>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="huc_02_mississippi">
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">FID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">0</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">REG_NAME</attrlabl>
+				<attrdef>The Water Resource Region name.</attrdef>
+				<attalias Sync="TRUE">REG_NAME</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">HUC2</attrlabl>
+				<attrdef>The number of the Water Resource Region.</attrdef>
+				<attalias Sync="TRUE">HUC2</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">11</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">ACRES</attrlabl>
+				<attrdef>Acres in square meters of each HUC polygon.</attrdef>
+				<attalias Sync="TRUE">ACRES</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">50</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">COUNT</attrlabl>
+				<attalias Sync="TRUE">COUNT</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">50</attwidth>
+			</attr>
+			<attr><attrlabl Sync="TRUE">LABEL</attrlabl><attalias Sync="TRUE">LABEL</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">20</attwidth></attr><enttyp><enttypl Sync="TRUE">huc_02_mississippi</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">6</enttypc><enttypd>A subdivision of the Earth, used for the collection and organization of hydrologic data.  Regions, subregions, accounting units, and cataloging units are all types of hydrologic units.  This layer is only the HUC2 drainage areas that drain to the Mississippi River.</enttypd></enttyp></detailed>
+		<detailed>
+			<enttyp>
+				<enttypl Sync="TRUE">us_huc2</enttypl>
+				<enttypd>A subdivision of the Earth, used for the collection and organization of hydrologic data.  Regions, subregions, accounting units, and cataloging units are all types of hydrologic units.</enttypd>
+				<enttypc Sync="TRUE">21</enttypc>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+			</enttyp>
+		</detailed>
+		<overview>
+			<eaover>
+For best description, consult USGS metadata on this website: http://nationalatlas.gov/hucsm.html
+However, view the "Detailed Description" tag in this metadata file for brief descriptions of each field taken from the original USGS layer metatdata.
+</eaover>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Iowa Department of Natural Resources, Geological Survey</cntorg>
+					<cntper>Casey Kohrt</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 Trowbridge Hall</address>
+					<city>Iowa City</city>
+					<state>IA</state>
+					<postal>52242</postal>
+				</cntaddr>
+				<cntvoice>319-335-1353</cntvoice>
+				<cntemail>gis_library@igsb.uiowa.edu</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc>
+		<distliab>This digital, geographically referenced data set was developed by the Iowa Department of Natural Resources to carry out agency responsibilities related to management, protection, and development of Iowa's natural resources.  It resides in the Natural Resources Geographic Information System library. Although efforts have been made to make it useful to the Department, the Department assumes no responsibility for errors in the information.  Similarly the Department assumes no responsibility for the consequences of inappropriate uses or interpretations of the data made by anyone to whom this data has been made available.  The Department bears no responsibility to inform users of any changes made to this data.  Anyone using this data is advised that precision implied by the coverage may far exceed actual precision.  Comments on this data are invited and the Department would appreciate that documented errors be brought to staff attention.  The development of the coverages in the NRGIS Library represents a major investment of staff time and effort.  As a professional responsibility, we expect that the Iowa DNR will receive proper credit when you utilize these GIS coverages and that the original documentation will remain with any redistribution of these coverages.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">0.634</transize>
+					<dssize Sync="TRUE">0.634</dssize>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://www.igsb.uiowa.edu/nrgislibx/</networkr>
+								<networkr>ftp://ftp.igsb.uiowa.edu/gis_library/basins/huc_02_mississippi.zip</networkr></networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20050128</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Iowa Department of Natural Resources - Geological Survey</cntorg>
+					<cntper>Casey Kohrt</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>Mailing and Physical</addrtype>
+					<address>109 Trowbridge Hall</address>
+					<city>Iowa City</city>
+					<state>IA</state>
+					<postal>52242-1319</postal>
+				</cntaddr>
+				<cntvoice>319-335-1353</cntvoice>
+				<cntemail>gis_library@igsb.uiowa.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metac>None</metac>
+		<metuc>None</metuc>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="en"></languageCode>
+		</dataLang>
+		<idCitation>
+			<resTitle Sync="TRUE">huc_02_mississippi</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"></PresFormCd>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd>
+		</spatRpType>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL Sync="TRUE">-1130730.755434</westBL>
+					<northBL Sync="TRUE">5645265.338985</northBL>
+					<southBL Sync="TRUE">3204216.704896</southBL>
+					<eastBL Sync="TRUE">1760247.131041</eastBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+	</dataIdInfo>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<orDesc Sync="TRUE">002</orDesc>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+					<linkage Sync="TRUE">file://\\BURROAK\Library\ims\huc_02_mississippi.shp</linkage>
+				</onLineSrc>
+				<transSize Sync="TRUE">0.634</transSize>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">Shapefile</formatName>
+			</distorFormat>
+		</distributor>
+	</distInfo>
+	<Esri>
+		<ModDate>20050128</ModDate>
+		<ModTime>15200200</ModTime>
+		<SyncDate>20050128</SyncDate>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncTime>15200200</SyncTime>
+		<CreaDate>20041229</CreaDate>
+		<CreaTime>14441900</CreaTime>
+		<MetaID>{6314B292-94A5-43C9-B2D9-C372321EC10B}</MetaID></Esri>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="004"></CharSetCd>
+	</mdChar>
+	<mdDateSt Sync="TRUE">20050128</mdDateSt>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"></ScopeCd>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<mdLang>
+		<languageCode Sync="TRUE" value="en"></languageCode>
+	</mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<spatRepInfo>
+		<VectSpatRep>
+			<topLvl>
+				<TopoLevCd Sync="TRUE" value="001"></TopoLevCd>
+			</topLvl>
+			<geometObjs Name="huc_02_mississippi"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">6</geoObjCnt></geometObjs></VectSpatRep>
+	</spatRepInfo>
+</metadata>
