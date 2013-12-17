@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "CITY_NAME": "Denver", "STATE_NAME": "Colorado", "TYPE": "regional", "REGION_NO": "8", "ST_ADDR": "Building 710", "ZIP": "80225", "ZIP_4": "80255-0267", "OTHER_ADDR": "Box 25267", "Name": "Region VIII" }, "geometry": { "type": "Point", "coordinates": [ -105.119424, 39.720937 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 2, "CITY_NAME": "Denton", "STATE_NAME": "Texas", "TYPE": "regional", "REGION_NO": "6", "ST_ADDR": "800 N. Loop 288", "ZIP": "76209", "ZIP_4": "", "OTHER_ADDR": "Federal Regional Center", "Name": "Region VI" }, "geometry": { "type": "Point", "coordinates": [ -97.089998, 33.222566 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 3, "CITY_NAME": "Honolulu", "STATE_NAME": "Hawaii", "TYPE": "area", "REGION_NO": "9", "ST_ADDR": "Fort Shafter", "ZIP": "96858", "ZIP_4": "96858-5000", "OTHER_ADDR": "Building T-112, Stop 120", "Name": "Pacific Area Division" }, "geometry": { "type": "Point", "coordinates": [ -157.891707, 21.341350 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 4, "CITY_NAME": "San Juan", "STATE_NAME": "Puerto Rico", "TYPE": "area", "REGION_NO": "2", "ST_ADDR": "159 Calle Chardon", "ZIP": "00918", "ZIP_4": "", "OTHER_ADDR": "New San Juan Building", "Name": "Caribbean Area Division" }, "geometry": { "type": "Point", "coordinates": [ -66.062003, 18.426533 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 5, "CITY_NAME": "Kansas City", "STATE_NAME": "Missouri", "TYPE": "regional", "REGION_NO": "7", "ST_ADDR": "9221 Ward Parkway", "ZIP": "64114", "ZIP_4": "64114-3372", "OTHER_ADDR": "Suite 300", "Name": "Region VII" }, "geometry": { "type": "Point", "coordinates": [ -94.600539, 38.961585 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 6, "CITY_NAME": "New York", "STATE_NAME": "New York", "TYPE": "regional", "REGION_NO": "2", "ST_ADDR": "26 Federal Plz.", "ZIP": "10007", "ZIP_4": "10278-0001", "OTHER_ADDR": "Suite 1307", "Name": "Region II" }, "geometry": { "type": "Point", "coordinates": [ -74.004214, 40.715495 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 7, "CITY_NAME": "Boston", "STATE_NAME": "Massachusetts", "TYPE": "regional", "REGION_NO": "1", "ST_ADDR": "99 High St.", "ZIP": "02110", "ZIP_4": "", "OTHER_ADDR": "6th Floor", "Name": "Region I" }, "geometry": { "type": "Point", "coordinates": [ -71.054649, 42.354478 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 8, "CITY_NAME": "Bothell", "STATE_NAME": "Washington", "TYPE": "regional", "REGION_NO": "10", "ST_ADDR": "130 228th St., SW", "ZIP": "98021", "ZIP_4": "98021-9796", "OTHER_ADDR": "", "Name": "Region X" }, "geometry": { "type": "Point", "coordinates": [ -122.235408, 47.791173 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 9, "CITY_NAME": "Oakland", "STATE_NAME": "California", "TYPE": "regional", "REGION_NO": "9", "ST_ADDR": "1111 Broadway", "ZIP": "94607", "ZIP_4": "", "OTHER_ADDR": "Suite 1200", "Name": "Region IX" }, "geometry": { "type": "Point", "coordinates": [ -122.272930, 37.802723 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 10, "CITY_NAME": "Chicago", "STATE_NAME": "Illinois", "TYPE": "regional", "REGION_NO": "5", "ST_ADDR": "536 South Clark St.", "ZIP": "60605", "ZIP_4": "", "OTHER_ADDR": "6th Floor", "Name": "Region V" }, "geometry": { "type": "Point", "coordinates": [ -87.630875, 41.875163 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 11, "CITY_NAME": "Atlanta", "STATE_NAME": "Georgia", "TYPE": "regional", "REGION_NO": "4", "ST_ADDR": "3003 Chamblee-Tucker Rd.", "ZIP": "30341", "ZIP_4": "", "OTHER_ADDR": "", "Name": "Region IV" }, "geometry": { "type": "Point", "coordinates": [ -84.266660, 33.877915 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 12, "CITY_NAME": "Philadelphia", "STATE_NAME": "Pennsylvania", "TYPE": "regional", "REGION_NO": "3", "ST_ADDR": "615 Chestnut St.", "ZIP": "19106", "ZIP_4": "", "OTHER_ADDR": "", "Name": "Region III" }, "geometry": { "type": "Point", "coordinates": [ -75.151083, 39.949294 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 13, "CITY_NAME": "Washington, D.C.", "STATE_NAME": "Washington, D.C.", "TYPE": "national", "REGION_NO": "3", "ST_ADDR": "500 C St. SW", "ZIP": "20472", "ZIP_4": "", "OTHER_ADDR": "", "Name": "Headquarters" }, "geometry": { "type": "Point", "coordinates": [ -77.018699, 38.885290 ] } }
+
+]
+}
