@@ -1,0 +1,112 @@
+﻿<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <title>Sand_Gravel_05112012</title>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <spdom>
+      <bounding>
+        <westbc>-93.762650</westbc>
+        <eastbc>-75.029863</eastbc>
+        <northbc>38.260833</northbc>
+        <southbc>26.389950</southbc>
+      </bounding>
+    </spdom>
+    <keywords />
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcGIS 10.0.0.2414</native>
+  </idinfo>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>97</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Sand_Gravel_05112012</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AreaName</attrlabl>
+        <attrdef>General Name of the resource area depicted such as shoal name</attrdef>
+        <attrdefs>BOEM</attrdefs>
+        <attrdomv>
+          <udom>Name of Resource Area</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>State</attrlabl>
+        <attrdef>Closest coastal state to the resource depicted</attrdef>
+        <attrdefs>BOEM</attrdefs>
+        <attrdomv>
+          <udom>Closest State Name Acronym</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Info</attrlabl>
+        <attrdef>Type of Resource ABA or PBA (Available or Probable Borrow Area)</attrdef>
+        <attrdefs>BOEM</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Link</attrlabl>
+        <attrdef>URL Link to supporting document defining the area depicted</attrdef>
+        <attrdefs>BOEM</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ProjectNO</attrlabl>
+        <attrdef>BOEM Internal Use</attrdef>
+        <attrdefs>BOEM</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Shape_Leng</attrlabl>
+        <attrdomv>
+          <edom />
+          <rdom />
+          <codesetd />
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape_Area</attrlabl>
+        <attrdef>Area of feature in internal units squared.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <metainfo>
+    <metd>20120510</metd>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>

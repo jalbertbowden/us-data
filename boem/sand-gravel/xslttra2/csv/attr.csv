@@ -1,0 +1,11 @@
+﻿attrlabl,attrdef,attrdefs,attr_Id,detailed_Id
+"FID","Internal feature number.","ESRI",0,0
+"OBJECTID","Internal feature number.","ESRI",1,0
+"Shape","Feature geometry.","ESRI",2,0
+"AreaName","General Name of the resource area depicted such as shoal name","BOEM",3,0
+"State","Closest coastal state to the resource depicted","BOEM",4,0
+"Info","Type of Resource ABA or PBA (Available or Probable Borrow Area)","BOEM",5,0
+"Link","URL Link to supporting document defining the area depicted","BOEM",6,0
+"ProjectNO","BOEM Internal Use","BOEM",7,0
+"Shape_Leng","","",8,0
+"Shape_Area","Area of feature in internal units squared.","ESRI",9,0

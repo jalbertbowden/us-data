@@ -1,0 +1,114 @@
+﻿{
+   "idinfo": {
+      "citation": [
+         {
+            "title": "Sand_Gravel_05112012",
+            "geoform": "vector digital data"
+         }
+      ],
+      "spdom": [
+         {
+            "westbc": "-93.762650",
+            "eastbc": "-75.029863",
+            "northbc": "38.260833",
+            "southbc": "26.389950"
+         }
+      ],
+      "keywords": [],
+      "native": "Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcGIS 10.0.0.2414"
+   },
+   "spdoinfo": {
+      "direct": "Vector",
+      "ptvctinf": [
+         {
+            "sdtstype": "GT-polygon composed of chains",
+            "ptvctcnt": "97"
+         }
+      ]
+   },
+   "eainfo": [
+      {
+         "enttyp": [
+            "Sand_Gravel_05112012"
+         ],
+         "attr": [
+            {
+               "attrlabl": "FID",
+               "attrdef": "Internal feature number.",
+               "attrdefs": "ESRI",
+               "attrdomv": [
+                  "Sequential unique whole numbers that are automatically generated."
+               ]
+            },
+            {
+               "attrlabl": "OBJECTID",
+               "attrdef": "Internal feature number.",
+               "attrdefs": "ESRI",
+               "attrdomv": [
+                  "Sequential unique whole numbers that are automatically generated."
+               ]
+            },
+            {
+               "attrlabl": "Shape",
+               "attrdef": "Feature geometry.",
+               "attrdefs": "ESRI",
+               "attrdomv": [
+                  "Coordinates defining the features."
+               ]
+            },
+            {
+               "attrlabl": "AreaName",
+               "attrdef": "General Name of the resource area depicted such as shoal name",
+               "attrdefs": "BOEM",
+               "attrdomv": [
+                  "Name of Resource Area"
+               ]
+            },
+            {
+               "attrlabl": "State",
+               "attrdef": "Closest coastal state to the resource depicted",
+               "attrdefs": "BOEM",
+               "attrdomv": [
+                  "Closest State Name Acronym"
+               ]
+            },
+            {
+               "attrlabl": "Info",
+               "attrdef": "Type of Resource ABA or PBA (Available or Probable Borrow Area)",
+               "attrdefs": "BOEM"
+            },
+            {
+               "attrlabl": "Link",
+               "attrdef": "URL Link to supporting document defining the area depicted",
+               "attrdefs": "BOEM"
+            },
+            {
+               "attrlabl": "ProjectNO",
+               "attrdef": "BOEM Internal Use",
+               "attrdefs": "BOEM"
+            },
+            {
+               "attrlabl": "Shape_Leng",
+               "attrdomv": {
+                  "edom": [],
+                  "rdom": [],
+                  "codesetd": []
+               }
+            },
+            {
+               "attrlabl": "Shape_Area",
+               "attrdef": "Area of feature in internal units squared.",
+               "attrdefs": "ESRI",
+               "attrdomv": [
+                  "Positive real numbers that are automatically generated."
+               ]
+            }
+         ]
+      }
+   ],
+   "metainfo": {
+      "metd": "20120510",
+      "metstdn": "FGDC Content Standard for Digital Geospatial Metadata",
+      "metstdv": "FGDC-STD-001-1998"
+   }
+}
