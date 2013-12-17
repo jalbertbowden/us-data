@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xdt="http://www.w3.org/2005/xpath-datatypes">
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Coastal Services Center (CSC)</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<pubinfo>
+<pubplace>Charleston, SC</pubplace>
+<publish>NOAA&apos;s Ocean Service, Coastal Services Center (CSC)</publish>
+</pubinfo>
+<onlink>http://www.csc.noaa.gov/ArcGISPUB/rest/services/MultipurposeMarineCadastre/MultipurposeMarineCadastre/MapServer</onlink>
+<onlink>http://www.marinecadastre.gov/data/default.aspx</onlink>
+<onlink>http://www.csc.noaa.gov/</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>
+An artificial reef is a human-made underwater structure, typically built to promote marine life in areas with a generally featureless bottom, control erosion, block ship passage, or improve surfing.
+Many reefs are built using objects that were built for other purposes, for example by sinking oil rigs (through the Rigs-to-Reefs program), scuttling ships, or by deploying rubble or construction debris. Other artificial reefs are purpose built (e.g. the reef balls) from PVC or concrete. Shipwrecks may become artificial reefs when preserved on the sea floor. Regardless of construction method, artificial reefs generally provide hard surfaces where algae and invertebrates such as barnacles, corals, and oysters attach; the accumulation of attached marine life in turn provides intricate structure and food for assemblages of fish.
+This is NOT a complete collection of artificial reefs on the seafloor, nor are the locations to be considered exact. The presence and location of the artificial reefs have been derived from multiple state websites. These data are intended for coastal and ocean planning. Not for navigation.
+</abstract>
+<purpose>To support coastal and ocean planning and other activities pursuant to the Energy Policy Act, Coastal Zone Management Act, Magnuson-Stevens Fishery Conservation and Management Act, National Environmental Policy Act, Rivers and Harbors Act and the Submerged Lands Act.</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-158.194482</westbc>
+<eastbc>-70.195180</eastbc>
+<northbc>42.344001</northbc>
+<southbc>20.696978</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>oceans</themekey>
+<themekey>environment</themekey>
+<themekey>biota</themekey>
+</theme>
+<theme>
+<themekt>None</themekt>
+<themekey>artificial</themekey>
+<themekey>coastal</themekey>
+<themekey>fish</themekey>
+<themekey>fisheries</themekey>
+<themekey>habitat</themekey>
+<themekey>haven</themekey>
+<themekey>marine</themekey>
+<themekey>oysters</themekey>
+<themekey>reef</themekey>
+<themekey>reefs</themekey>
+<themekey>refugia</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>National</placekey>
+<placekey>United States</placekey>
+</place>
+</keywords>
+<accconst>None</accconst>
+<useconst>These data are intended for coastal and ocean use planning. Not for navigation.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>NOAA Coastal Services Center</cntorg>
+<cntper>Multipurpose Marine Cadastre Data Steward</cntper>
+</cntorgp>
+<cntpos>Multipurpose Marine Cadastre Data Steward</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>2234 S Hobson Ave</address>
+<city>Charleston</city>
+<state>SC</state>
+<postal>29405</postal>
+</cntaddr>
+<cntvoice>843.740.1200</cntvoice>
+<cntfax>843.740.1224</cntfax>
+<cntemail>nos.csc.mmc@noaa.gov</cntemail>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>The attributes in this dataset are believed to be accurate.</attraccr>
+</attracc>
+<logic>These data are believed to be logically consistent. Geometry is topologically clean.</logic>
+<complete>Spatial and attribute properties are believed to be complete, although attribute information has been simplified. Geometric thresholds from original data are preserved. No tests have been completed for exhaustiveness.</complete>
+<posacc>
+<horizpa>
+<horizpar>Maximum scale of intended use is 1:80,000.</horizpar>
+</horizpa>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Alabama Department of Conservation and Natural Resources</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>http://www.outdooralabama.com/fishing/saltwater/fisheries/artificial-reefs/</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>AL</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>California Department of Fish and Game</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>http://www.dfg.ca.gov/marine/artificialreefs/index.asp</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>CA</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>State of Delaware Department of Natural Resources</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>http://www.dnrec.delaware.gov/fw/Fisheries/Pages/ArtificialReefProgram.aspx</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>DE</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Florida Fish and Wildlife Conservation Commission</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>http://myfwc.com/conservation/saltwater/artificial-reefs/</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>FL</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Georgia Department of Natural Resources, Coastal Resources Division</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>http://www.coastalgadnr.org</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>GA</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>State of Hawaii, Office of Planning</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>http://hawaii.gov/dbedt/op/</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>HI</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Louisiana Department of Wildlife and Fisheries</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>http://www.wlf.louisiana.gov</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>LA</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Maryland Department of Natural Resources</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>http://www.dnr.state.md.us</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>MD</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Massachusetts Office of Coastal Zone Management (CZM)</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>http://www.mass.gov/czm/czm.htm</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>MA</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Mississippi Department of Marine Resources</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>http://www.dmr.ms.gov</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>MI</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>New Jersey Division of Fish and Wildlife</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>http://www.nj.gov/dep/fgw/artreef.htm</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>NJ</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>New York State Department of Environmental Conservation</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>http://www.dec.ny.gov</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>NY</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>North Carolina Division of Marine Fisheries</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>http://portal.ncdenr.org/web/mf/artificial-reefs-program</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>NC</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>South Carolina Department of Natural Resources</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>https://www.dnr.sc.gov/reefguide/artreefgraphic</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>SC</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Texas Parks and Wildlife</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>http://www.tpwd.state.tx.us</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>TX</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Virginia Marine Resources Commission</origin>
+<pubdate>201209</pubdate>
+<title>Artificial Reefs</title>
+<onlink>http://mrc.virginia.gov</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>201209</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>VA</srccitea>
+<srccontr>Reef location and general information obtained from state data sources. Attribute field names may have changed to accommodate for a single nationwide dataset.</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>
+Go to each individual state website and download the shapefile or spreadsheet artificial reef data containing location information.
+For shapefiles, reproject the data into NAD83, and rename attribute field names to those referenced in the data dictionary. Any additional fields can be dismissed.
+For spreadsheets, rename the attribute field names to those referenced in the data dictionary, and convert to shapefiles in the NAD83 projection.
+For polygon shapefiles, calculate the acres of each feature in their respective UTM zones, and record the value in the Acres field.
+Populate state names in the State field.
+Then calculate the centroid of each polygon and save as a point file, and make a note of this in the Comments field (This point has been derived from calculating the centroid of a polygon, which was the actual source data. There may be one or many artificial reefs within the [Acres] acres surrounding this point. For more information, please refer to [State] artificial reefs data.).
+Combine all state shapefiles into a single feature class projected in NAD83.
+</procdesc>
+<procdate>201209</procdate>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Point</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Area point</sdtstype>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.000001</latres>
+<longres>0.000001</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 1980</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>ArtificialReefs</enttypl>
+<enttypd>National Artificial Reef Locations</enttypd>
+<enttypds>NOAA Coastal Services Center</enttypds>
+</enttyp>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>OBJECTID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>reefName</attrlabl>
+<attrdef>Name of reef as specified by authoritative source. If no name was specified in the data, Reef ID was used to populate field.</attrdef>
+<attrdefs>NOAA Coastal Services Center</attrdefs>
+<attrdomv>
+<udom>Unique value.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>reefID</attrlabl>
+<attrdef>Identification name, number or code of reef as specified by authoritative source.</attrdef>
+<attrdefs>NOAA Coastal Services Center</attrdefs>
+<attrdomv>
+<udom>Unique value.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>state</attrlabl>
+<attrdef>State reef is associated with.</attrdef>
+<attrdefs>NOAA Coastal Services Center</attrdefs>
+<attrdomv>
+<udom>Unique value.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>composition</attrlabl>
+<attrdef>Materials that make up the reef.</attrdef>
+<attrdefs>NOAA Coastal Services Center</attrdefs>
+<attrdomv>
+<udom>Unique value.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>description</attrlabl>
+<attrdef>Additional information provided about each reef as specified by authoritative source.</attrdef>
+<attrdefs>NOAA Coastal Services Center</attrdefs>
+<attrdomv>
+<udom>Unique value.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>depth</attrlabl>
+<attrdef>Water depth in feet at reef location. If a range was provided, the deepest depth number was used.</attrdef>
+<attrdefs>NOAA Coastal Services Center</attrdefs>
+<attrdomv>
+<udom>Unique value.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>clearance</attrlabl>
+<attrdef>Height of water in feet from the top of each reef to the surface.</attrdef>
+<attrdefs>NOAA Coastal Services Center</attrdefs>
+<attrdomv>
+<udom>Unique value.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>relief</attrlabl>
+<attrdef>Height of reef in feet.</attrdef>
+<attrdefs>NOAA Coastal Services Center</attrdefs>
+<attrdomv>
+<udom>Unique value.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>acres</attrlabl>
+<attrdef>Amount of acres per reef as specified by authoritative source, or for features where a point has been derived by calculating the centroid of a polygon, the amount of acres per reef calculated per polygon in the feature’s proper UTM zone.</attrdef>
+<attrdefs>NOAA Coastal Services Center</attrdefs>
+<attrdomv>
+<udom>Unique value.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>date</attrlabl>
+<attrdef>Date associated with reef as specified by authoritative source.</attrdef>
+<attrdefs>NOAA Coastal Services Center</attrdefs>
+<attrdomv>
+<udom>Unique value.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>comments</attrlabl>
+<attrdef>Additional information provided about each reef as specified by authoritative source, or an explanation of which features have been derived by calculating the centroid of a polygon.</attrdef>
+<attrdefs>NOAA Coastal Services Center</attrdefs>
+<attrdomv>
+<udom>Unique value.</udom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>NOAA Coastal Services Center</cntorg>
+<cntper>Multipurpose Marine Cadastre Data Steward</cntper>
+</cntorgp>
+<cntpos>Multipurpose Marine Cadastre Data Steward</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>2234 S Hobson Ave</address>
+<city>Charleston</city>
+<state>SC</state>
+<postal>29405</postal>
+</cntaddr>
+<cntvoice>843.740.1200</cntvoice>
+<cntfax>843.740.1224</cntfax>
+<cntemail>nos.csc.mmc@noaa.gov</cntemail>
+</cntinfo>
+</distrib>
+<resdesc>Downloadable Data</resdesc>
+<distliab>These data are intended for coastal and ocean use planning. Not for navigation.</distliab>
+</distinfo>
+<metainfo>
+<metd>201209</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>NOAA Coastal Services Center</cntorg>
+<cntper>Multipurpose Marine Cadastre Data Steward</cntper>
+</cntorgp>
+<cntpos>Multipurpose Marine Cadastre Data Steward</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>2234 S Hobson Ave</address>
+<city>Charleston</city>
+<state>SC</state>
+<postal>29405</postal>
+</cntaddr>
+<cntvoice>843.740.1200</cntvoice>
+<cntfax>843.740.1224</cntfax>
+<cntemail>nos.csc.mmc@noaa.gov</cntemail>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+</metainfo>
+</metadata>
