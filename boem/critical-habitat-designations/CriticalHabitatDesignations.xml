@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xdt="http://www.w3.org/2005/xpath-datatypes">
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Coastal Services Center (CSC)</origin>
+        <pubdate>201211</pubdate>
+        <title>Critical Habitat Designations for the coastal US and US waters as of October 2012</title>
+        <pubinfo>
+          <pubplace>Charleston, SC</pubplace>
+          <publish>NOAA's Ocean Service, Coastal Services Center (CSC)</publish>
+        </pubinfo>
+        <onlink>http://www.csc.noaa.gov/ArcGISPUB/rest/services/MultipurposeMarineCadastre/MultipurposeMarineCadastre/MapServer</onlink>
+        <onlink>http://www.marinecadastre.gov/data/default.aspx</onlink>
+        <onlink>http://www.csc.noaa.gov/</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>
+The Endangered Species Act (ESA) requires the Federal government to designate "critical habitat" for any species it lists under the ESA. Critical habitat is defined as:
+1. Specific areas within the geographical area occupied by the species at the time of listing, if they contain physical or biological features essential to conservation, and those features may require special management considerations or protection; and
+2. Specific areas outside the geographical area occupied by the species if the agency determines that the area itself is essential for conservation.
+</abstract>
+      <purpose>To support coastal and ocean planning and other activities pursuant to the Energy Policy Act, Coastal Zone Management Act, Magnuson-Stevens Fishery Conservation and Management Act, National Environmental Policy Act, Rivers and Harbors Act and the Submerged Lands Act.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>201211</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-179.999989</westbc>
+        <eastbc>179.999989</eastbc>
+        <northbc>74.024896</northbc>
+        <southbc>17.630262</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>oceans</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>National</placekey>
+        <placekey>United States</placekey>
+        <placekey>coastal</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>These data are intended for coastal and ocean use planning. Not for navigation.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>NOAA Coastal Services Center</cntorg>
+          <cntper>Multipurpose Marine Cadastre Data Steward</cntper>
+        </cntorgp>
+        <cntpos>Multipurpose Marine Cadastre Data Steward</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>2234 S Hobson Ave</address>
+          <city>Charleston</city>
+          <state>SC</state>
+          <postal>29405</postal>
+        </cntaddr>
+        <cntvoice>843.740.1200</cntvoice>
+        <cntfax>843.740.1224</cntfax>
+        <cntemail>nos.csc.mmc@noaa.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The attributes in this dataset are believed to be accurate.</attraccr>
+    </attracc>
+    <logic>These data are believed to be logically consistent. Geometry is topologically clean.</logic>
+    <complete>Spatial and attribute properties are believed to be complete, although attribute information has been simplified. Geometric thresholds from original data are preserved. No tests have been completed for exhaustiveness.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Maximum scale of intended use is 1:80,000.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Department of Interior, US Fish &amp; Wildlife Service</origin>
+            <pubdate>20120904</pubdate>
+            <title>Final Critical Habitat (Polygonal  Features)</title>
+            <geoform>vector digital data</geoform>
+            <othercit>The GIS files and their associated coordinates are not the legal source for determining the critical habitat boundaries of species described within this dataset. Inherent in any data set used to develop graphical representations, are limitations of accuracy as determined by, among others, the source, scale and resolution of the data. While the Service makes every effort to represent the critical habitat shown with this data as completely and accurately as possible (given existing time and resource constraints), the USFWS gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. In addition, the USFWS shall not be held liable for improper or incorrect use of the data described and/or contained herein. Graphical representations provided by the use of this data do not represent a legal description of the critical habitat boundary. The user is referred to the critical habitat textual description in the appropriate final rule for this species as published in the Federal Register. These data are to be used only in the context of the definition and purpose of critical habitat. This primarily relates to Section 7 consultation under the Endangered Species Act. These data may be used for planning and land management purposes. They are not to be used for legal survey use.</othercit>
+            <onlink>http://criticalhabitat.fws.gov/docs/crithab/crithab_all/crithab_all_layers.zip</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2012</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Critical Habitat, US Fish &amp; Wildlife Service</srccitea>
+        <srccontr>Incorporated critical habitat which are located on the coast or in the ocean which were not covered under NOAA NMFS designations. Any feature with "USFWS" listed under subregion was incorporated from this source</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Marine Fisheries Service (NMFS)</origin>
+            <pubdate>2012</pubdate>
+            <title>Critical Habitat</title>
+            <pubinfo>
+              <pubplace>Silve Spring, MD</pubplace>
+              <publish>NOAA Fisheries Service</publish>
+            </pubinfo>
+            <onlink>http://www.nmfs.noaa.gov/pr/species/criticalhabitat.htm</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2012</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Critical Habitat Designations, NOAA National Marine Fisheries Service</srccitea>
+        <srccontr>All critical habitat species listed on the NMFS website http://www.nmfs.noaa.gov/pr/species/criticalhabitat.htm were in corporated into this dataset.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Aquired regional data from NMFS as seperate files for each species, compiled these into a single national dataset.  Updated with additional coastal and marine species from USFWS data in October.  All these newly added features have "USFWS" listed under subregion. Created metadata and published data set.</procdesc>
+        <srcused>Critical Habitat Designations, NOAA National Marine Fisheries Service</srcused>
+        <procdate>201210</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>CriticalHabitatDesignations</enttypl>
+        <enttypd>Critical Habitat Designations</enttypd>
+        <enttypds>NOAA Coastal Services Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>species</attrlabl>
+        <attrdef>common name of species</attrdef>
+        <attrdefs>NOAA Coastal Services Center</attrdefs>
+        <attrdomv>
+          <udom>various species</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>region</attrlabl>
+        <attrdef>general region critical habitat is located</attrdef>
+        <attrdefs>NOAA Coastal Services Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Alaska</edomv>
+            <edomvd>Alaska</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Northeast</edomv>
+            <edomvd>Northeast</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Northwest</edomv>
+            <edomvd>Northwest</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pacific Islands</edomv>
+            <edomvd>Pacific Islands</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southeast</edomv>
+            <edomvd>Southeast</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southwest</edomv>
+            <edomvd>Southwest</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>subregion</attrlabl>
+        <attrdef>subregions of where critical habitat is located</attrdef>
+        <attrdefs>NOAA Coastal Services Center</attrdefs>
+        <attrdomv>
+          <udom>various subregion locality names</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>roc</attrlabl>
+        <attrdef>Regional Ocean Council name</attrdef>
+        <attrdefs>NOAA Coastal Services Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Alaska</edomv>
+            <edomvd>Alaska</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Governors' South Atlantic Alliance</edomv>
+            <edomvd>Governors' South Atlantic Alliance</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Gulf of Mexico Alliance</edomv>
+            <edomvd>Gulf of Mexico Alliance</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Northeast Regional Ocean Council</edomv>
+            <edomvd>Northeast Regional Ocean Council</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pacific Islands</edomv>
+            <edomvd>Pacific Islands</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>West Coast Governors' Alliance</edomv>
+            <edomvd>West Coast Governors' Alliance</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>nmfsRegion</attrlabl>
+        <attrdef>NOAA National Marine Fisheries Service Region name</attrdef>
+        <attrdefs>NOAA Coastal Services Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Alaska</edomv>
+            <edomvd>Alaska</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Northeast</edomv>
+            <edomvd>Northeast</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Northwest</edomv>
+            <edomvd>Northwest</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pacific Islands</edomv>
+            <edomvd>Pacific Islands</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southeast</edomv>
+            <edomvd>Southeast</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southwest</edomv>
+            <edomvd>Southwest</edomvd>
+            <edomvds>NOAA Coastal Services Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.STArea()</attrlabl>
+        <attrdef>Area of feature in internal units squared</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Area of feature in internal units squared</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.STLength()</attrlabl>
+        <attrdef>Length of feature in internal units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Length of feature in internal units</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>NOAA Coastal Services Center</cntorg>
+          <cntper>Multipurpose Marine Cadastre Data Steward</cntper>
+        </cntorgp>
+        <cntpos>Multipurpose Marine Cadastre Data Steward</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>2234 S Hobson Ave</address>
+          <city>Charleston</city>
+          <state>SC</state>
+          <postal>29405</postal>
+        </cntaddr>
+        <cntvoice>843.740.1200</cntvoice>
+        <cntfax>843.740.1224</cntfax>
+        <cntemail>nos.csc.mmc@noaa.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>These data are intended for coastal and ocean use planning. Not for navigation.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20121022</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>NOAA Coastal Services Center</cntorg>
+          <cntper>Multipurpose Marine Cadastre Data Steward</cntper>
+        </cntorgp>
+        <cntpos>Multipurpose Marine Cadastre Data Steward</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>2234 S Hobson Ave</address>
+          <city>Charleston</city>
+          <state>SC</state>
+          <postal>29405</postal>
+        </cntaddr>
+        <cntvoice>843.740.1200</cntvoice>
+        <cntfax>843.740.1224</cntfax>
+        <cntemail>nos.csc.mmc@noaa.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
