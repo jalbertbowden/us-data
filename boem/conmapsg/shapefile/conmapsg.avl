@@ -1,0 +1,377 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	45
+	Class:	46
+	Class:	47
+	Class:	48
+	Class:	49
+	Class:	50
+	Class:	51
+	Class:	52
+	Class:	53
+	Class:	54
+	StdDevs:	1.00000000000000
+	NullSym:	55
+	NullValues:	59
+	StatValues:	60
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Sediment"
+)
+
+(SymList.4
+	Child:	5
+	Child:	9
+	Child:	13
+	Child:	17
+	Child:	21
+	Child:	25
+	Child:	29
+	Child:	33
+	Child:	37
+	Child:	41
+)
+
+(BShSym.5
+	Color:	6
+	Outline:	1
+	OutlineColor:	7
+	OutlineWidth:	0.10000000000000
+	BgColor:	8
+)
+
+(TClr.6
+)
+
+(TClr.7
+)
+
+(TClr.8
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.9
+	Color:	10
+	Outline:	1
+	OutlineColor:	11
+	OutlineWidth:	0.10000000000000
+	BgColor:	12
+)
+
+(TClr.10
+	Red:	0xffff
+)
+
+(TClr.11
+)
+
+(TClr.12
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.13
+	Color:	14
+	Outline:	1
+	OutlineColor:	15
+	OutlineWidth:	0.10000000000000
+	BgColor:	16
+)
+
+(TClr.14
+	Red:	0xff00
+	Green:	0xbf7b
+	Blue:	0xfe
+)
+
+(TClr.15
+)
+
+(TClr.16
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.17
+	Color:	18
+	Outline:	1
+	OutlineColor:	19
+	OutlineWidth:	0.10000000000000
+	BgColor:	20
+)
+
+(TClr.18
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.19
+)
+
+(TClr.20
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.21
+	Color:	22
+	Outline:	1
+	OutlineColor:	23
+	OutlineWidth:	0.10000000000000
+	BgColor:	24
+)
+
+(TClr.22
+	Red:	0xa610
+	Green:	0xff00
+	Blue:	0xa559
+)
+
+(TClr.23
+)
+
+(TClr.24
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.25
+	Color:	26
+	Outline:	1
+	OutlineColor:	27
+	OutlineWidth:	0.10000000000000
+	BgColor:	28
+)
+
+(TClr.26
+	Red:	0x189
+	Green:	0x8200
+	Blue:	0x81
+)
+
+(TClr.27
+)
+
+(TClr.28
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.29
+	Color:	30
+	Outline:	1
+	OutlineColor:	31
+	OutlineWidth:	0.10000000000000
+	BgColor:	32
+)
+
+(TClr.30
+	Red:	0xae6d
+	Green:	0xa559
+	Blue:	0xff00
+)
+
+(TClr.31
+)
+
+(TClr.32
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.33
+	Color:	34
+	Outline:	1
+	OutlineColor:	35
+	OutlineWidth:	0.10000000000000
+	BgColor:	36
+)
+
+(TClr.34
+	Red:	0xf7f6
+	Green:	0xa559
+	Blue:	0xff00
+)
+
+(TClr.35
+)
+
+(TClr.36
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.37
+	Color:	38
+	Outline:	1
+	OutlineColor:	39
+	OutlineWidth:	0.10000000000000
+	BgColor:	40
+)
+
+(TClr.38
+	Red:	0xcacc
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(TClr.39
+)
+
+(TClr.40
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.41
+	Color:	42
+	Outline:	1
+	OutlineColor:	43
+	OutlineWidth:	0.10000000000000
+	BgColor:	44
+)
+
+(TClr.42
+	Name:	"Transparent"
+)
+
+(TClr.43
+	Name:	"Transparent"
+)
+
+(TClr.44
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.45
+	IsText:	1
+	Label:	"bedrock"
+	MinStr:	"br"
+	MaxStr:	"br"
+	Precision:	-3
+)
+
+(LClass.46
+	IsText:	1
+	Label:	"gravel"
+	MinStr:	"gr"
+	MaxStr:	"gr"
+	Precision:	-3
+)
+
+(LClass.47
+	IsText:	1
+	Label:	"gravel-sand"
+	MinStr:	"gr-sd"
+	MaxStr:	"gr-sd"
+	Precision:	-3
+)
+
+(LClass.48
+	IsText:	1
+	Label:	"sand"
+	MinStr:	"sd"
+	MaxStr:	"sd"
+	Precision:	-3
+)
+
+(LClass.49
+	IsText:	1
+	Label:	"clay-silt/sand"
+	MinStr:	"cl-st/sd"
+	MaxStr:	"cl-st/sd"
+	Precision:	-3
+)
+
+(LClass.50
+	IsText:	1
+	Label:	"sand/silt/clay"
+	MinStr:	"sd/st/cl"
+	MaxStr:	"sd/st/cl"
+	Precision:	-3
+)
+
+(LClass.51
+	IsText:	1
+	Label:	"sand-clay/silt"
+	MinStr:	"sd-cl/st"
+	MaxStr:	"sd-cl/st"
+	Precision:	-3
+)
+
+(LClass.52
+	IsText:	1
+	Label:	"sand-silt/clay"
+	MinStr:	"sd-st/cl"
+	MaxStr:	"sd-st/cl"
+	Precision:	-3
+)
+
+(LClass.53
+	IsText:	1
+	Label:	"clay"
+	MinStr:	"cl"
+	MaxStr:	"cl"
+	Precision:	-3
+)
+
+(LClass.54
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BShSym.55
+	Color:	56
+	Outline:	1
+	OutlineColor:	57
+	OutlineWidth:	0.10000000000000
+	BgColor:	58
+)
+
+(TClr.56
+	Name:	"Transparent"
+)
+
+(TClr.57
+	Name:	"Transparent"
+)
+
+(TClr.58
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.59
+)
+
+(NameDict.60
+)
+
