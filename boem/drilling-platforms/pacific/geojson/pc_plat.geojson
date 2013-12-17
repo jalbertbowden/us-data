@@ -1,0 +1,51 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "LONGITUDE_": -119.541486, "LATITUDE_N": 34.337675, "PLATFORM_N": "Hogan", "LEASE": 166 }, "geometry": { "type": "Point", "coordinates": [ -119.542443, 34.337672 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -119.552117, "LATITUDE_N": 34.334992, "PLATFORM_N": "Houchin", "LEASE": 166 }, "geometry": { "type": "Point", "coordinates": [ -119.553074, 34.334988 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -120.279183, "LATITUDE_N": 34.350392, "PLATFORM_N": "Heritage", "LEASE": 182 }, "geometry": { "type": "Point", "coordinates": [ -120.280166, 34.350382 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -120.120531, "LATITUDE_N": 34.390731, "PLATFORM_N": "Hondo", "LEASE": 188 }, "geometry": { "type": "Point", "coordinates": [ -120.121508, 34.390723 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -120.167525, "LATITUDE_N": 34.376675, "PLATFORM_N": "Harmony", "LEASE": 190 }, "geometry": { "type": "Point", "coordinates": [ -120.168503, 34.376667 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -119.276258, "LATITUDE_N": 34.117497, "PLATFORM_N": "Gina", "LEASE": 202 }, "geometry": { "type": "Point", "coordinates": [ -119.277202, 34.117502 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -119.400217, "LATITUDE_N": 34.125081, "PLATFORM_N": "Gail", "LEASE": 205 }, "geometry": { "type": "Point", "coordinates": [ -119.401166, 34.125083 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -119.418564, "LATITUDE_N": 34.182342, "PLATFORM_N": "Gilda", "LEASE": 216 }, "geometry": { "type": "Point", "coordinates": [ -119.419514, 34.182343 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -119.467828, "LATITUDE_N": 34.179572, "PLATFORM_N": "Grace", "LEASE": 217 }, "geometry": { "type": "Point", "coordinates": [ -119.468780, 34.179572 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -119.588094, "LATITUDE_N": 34.286617, "PLATFORM_N": "Habitat", "LEASE": 234 }, "geometry": { "type": "Point", "coordinates": [ -119.589053, 34.286615 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -119.560397, "LATITUDE_N": 34.333256, "PLATFORM_N": "Henry", "LEASE": 240 }, "geometry": { "type": "Point", "coordinates": [ -119.561355, 34.333252 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -119.603247, "LATITUDE_N": 34.331344, "PLATFORM_N": "Hillhouse", "LEASE": 240 }, "geometry": { "type": "Point", "coordinates": [ -119.604207, 34.331342 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -119.612469, "LATITUDE_N": 34.331886, "PLATFORM_N": "A", "LEASE": 241 }, "geometry": { "type": "Point", "coordinates": [ -119.613430, 34.331884 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -119.621536, "LATITUDE_N": 34.332342, "PLATFORM_N": "B", "LEASE": 241 }, "geometry": { "type": "Point", "coordinates": [ -119.622497, 34.332339 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -119.630767, "LATITUDE_N": 34.332925, "PLATFORM_N": "C", "LEASE": 241 }, "geometry": { "type": "Point", "coordinates": [ -119.631728, 34.332923 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -118.140686, "LATITUDE_N": 33.595786, "PLATFORM_N": "Edith", "LEASE": 296 }, "geometry": { "type": "Point", "coordinates": [ -118.141585, 33.595808 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -118.128222, "LATITUDE_N": 33.582367, "PLATFORM_N": "Ellen", "LEASE": 300 }, "geometry": { "type": "Point", "coordinates": [ -118.129121, 33.582389 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -118.127089, "LATITUDE_N": 33.583403, "PLATFORM_N": "Elly", "LEASE": 300 }, "geometry": { "type": "Point", "coordinates": [ -118.127987, 33.583425 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -118.116494, "LATITUDE_N": 33.563781, "PLATFORM_N": "Eureka", "LEASE": 301 }, "geometry": { "type": "Point", "coordinates": [ -118.117392, 33.563803 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -120.680817, "LATITUDE_N": 34.469136, "PLATFORM_N": "Harvest", "LEASE": 315 }, "geometry": { "type": "Point", "coordinates": [ -120.681821, 34.469123 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -120.646389, "LATITUDE_N": 34.455083, "PLATFORM_N": "Hermosa", "LEASE": 316 }, "geometry": { "type": "Point", "coordinates": [ -120.647392, 34.455070 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -120.729428, "LATITUDE_N": 34.610419, "PLATFORM_N": "Irene", "LEASE": 441 }, "geometry": { "type": "Point", "coordinates": [ -120.730435, 34.610403 ] } }
+,
+{ "type": "Feature", "properties": { "LONGITUDE_": -120.702289, "LATITUDE_N": 34.495014, "PLATFORM_N": "Hidalgo", "LEASE": 450 }, "geometry": { "type": "Point", "coordinates": [ -120.703294, 34.495000 ] } }
+
+]
+}
