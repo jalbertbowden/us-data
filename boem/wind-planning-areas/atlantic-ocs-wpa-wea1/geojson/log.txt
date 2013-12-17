@@ -1,0 +1,2 @@
+ERROR 4: Failed to create GeoJSON datasource: /var/tmp/MyGeoData-DataCache/2013-12-17-03-25-42_zyxt5/result/Wind Planning Areas/Wind Energy Areas.json.
+GeoJSON driver failed to create /var/tmp/MyGeoData-DataCache/2013-12-17-03-25-42_zyxt5/result/Wind Planning Areas/Wind Energy Areas.json
