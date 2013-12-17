@@ -1,0 +1,778 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xdt="http://www.w3.org/2005/xpath-datatypes">
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Coastal Services Center (CSC)</origin>
+<pubdate>20130322</pubdate>
+<title>Energy facilities located 80km from the coast (including Great Lakes)</title>
+<geoform>vector digital data</geoform>
+<pubinfo>
+<pubplace>Charleston, SC</pubplace>
+<publish>NOAA&apos;s Ocean Service, Coastal Services Center (CSC)</publish>
+</pubinfo>
+<onlink>http://www.csc.noaa.gov/ArcGISPUB/rest/services/MultipurposeMarineCadastre/MultipurposeMarineCadastre/MapServer</onlink>
+<onlink>http://www.marinecadastre.gov/data/default.aspx</onlink>
+<onlink>http://www.csc.noaa.gov/</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>
+This data depicts the locations of facilities that generate electricity derived from the Environmental Protection Agency (EPA) Emissions &amp; Generation Resource Integrated Database (eGRID) which is representative of 2009 facilities.  Only facilities adjacent to the coast and Great Lakes are shown.  Contained within the database are records that define the fuel source and other characteristics of the facility that may benefit ocean planners. In some cases, the presence of a facility may indicate that certain power transmission infrastructure exists nearby. Absence of a facility or lack of sufficient capacity at a facility in a given area may also be an important characteristic in future energy planning activities.
+Please keep in mind this is not representative of the whole eGRID. This dataset can be linked back to the additional content of the eGRID by downloading the data and joining it back to the eGRID spreadsheet using the File Plant Sequence Number field.
+</abstract>
+<purpose>To support coastal and ocean planning and other activities pursuant to the Energy Policy Act, Coastal Zone Management Act, Magnuson-Stevens Fishery Conservation and Management Act, National Environmental Policy Act, Rivers and Harbors Act and the Submerged Lands Act.</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>201204</caldate>
+</sngdate>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-171.737500</westbc>
+<eastbc>-67.003300</eastbc>
+<northbc>71.278900</northbc>
+<southbc>18.974200</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>oceans</themekey>
+</theme>
+<theme>
+<themekt>None</themekt>
+<themekey>Energy</themekey>
+<themekey>Facilities</themekey>
+<themekey>Plants</themekey>
+<themekey>Energy Type</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>National</placekey>
+<placekey>United States</placekey>
+<placekey>Coastal</placekey>
+</place>
+<temporal>
+<tempkt>None</tempkt>
+<tempkey>2009</tempkey>
+</temporal>
+</keywords>
+<accconst>None</accconst>
+<useconst>These data are intended for coastal and ocean use planning. Not for navigation.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>NOAA Coastal Services Center</cntorg>
+<cntper>Multipurpose Marine Cadastre Data Steward</cntper>
+</cntorgp>
+<cntpos>Multipurpose Marine Cadastre Data Steward</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>2234 S Hobson Ave</address>
+<city>Charleston</city>
+<state>SC</state>
+<postal>29405</postal>
+</cntaddr>
+<cntvoice>843.740.1202</cntvoice>
+<cntemail>csc.info@noaa.gov</cntemail>
+</cntinfo>
+</ptcontac>
+<datacred>EPA eGRID via NOAA Coastal Services Center</datacred>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>The attributes in this dataset are believed to be accurate.</attraccr>
+</attracc>
+<logic>These data are believed to be logically consistent. Geometry is topologically clean.</logic>
+<complete>Spatial and attribute properties are believed to be complete, although attribute information has been simplified. Geometric thresholds from original data are preserved. No tests have been completed for exhaustiveness.</complete>
+<posacc>
+<horizpa>
+<horizpar>Maximum scale of intended use is 1:80,000.</horizpar>
+</horizpa>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>U.S. Environmental Protection Agency (EPA), Office of Atmospheric Programs, Clean Air Markets Division</origin>
+<pubdate>20120510</pubdate>
+<title>Emissions &amp; Generation Resource Integrated Database (eGRID)</title>
+<edition>Sixth</edition>
+<geoform>spreadsheet</geoform>
+<pubinfo>
+<pubplace>Washington, DC 20460</pubplace>
+<publish>U.S. Environmental Protection Agency (EPA), Office of Atmospheric Programs,  Clean Air Markets Division</publish>
+</pubinfo>
+<onlink>http://www.epa.gov/cleanenergy/energy-resources/egrid/index.html#download</onlink>
+<onlink>http://www.epa.gov/cleanenergy/energy-resources/egrid/archive.html</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>20120510</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>EPA eGRID</srccitea>
+<srccontr>Zip file containing 2009 eGRID data as excel database and supporting documents published in April 2012. Actual zip file is called &quot;eGRID2012_Version1-0&quot;.</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>1. Downloaded data file (eGRID2012_Version_1.0 - all files) from http://www.epa.gov/cleanenergy/energy-resources/egrid/index.html; 2. read through materials provided within to determine which file to create facilities from; 3. Based on the information read in the eGRID2012_year09_TechnicalSupportDocument.pdf, decided to use the PLNT table data as the resource for this layer.  Users can refer to this technical support document within to determine if other table provided within the parent zip file are useful for their needs.; 4. Copied the information from the plant worksheet into a new excel workbook with no special formatting.; 5. deleted any fields deemed unnecessary for MMC purposes (any fields with no attributes, any ID fields which seemed redundant, etc.).  Will keep a copy of the original table with this data for reference purposes, tables could be joined together with the filePlantSequenceNumber Unique ID, save and close excel.; 6. open blank arcmap - file &gt; Add Data&gt; Add x,y data&gt; browse to edited excel file &gt; make sure x and y fields are pointing to longitude and latitude fields, choose GCS NAD 83 as input coordinate system &gt;ok; 7. Export x,y event by right-clicking on new layer &gt; export data &gt; save as feature class &quot;EnergyFacilities&quot;; 8. Add 80K shoreline buffer to map; 9. Selection Menu &gt; Select by Location &gt; select feature within EnergyFacilities which insect with Shoreline 80km Buffer. Export selection and save as &quot;CoastalEnergyFacilitiesExport&quot;.; 10. In ArcCatalog within the same file geodatabase create a new feature class &quot;CoastalEnergyFacilities&quot; shell to import this CoastalEnergyFacilitiesExport data into, create name alias, coordinate system is NAD 83, import fields from CoastalEnergyFacilitiesExport, sett up all aliaises, field data types, delete latitude and longitude fields, etc.; 11. Load Data into new feature class (CoastalEnergyFacilities).  Right-click on feature class &gt; Load &gt; Load Data &gt; browse to CoastalEnergyFacilitiesExport &gt; Click Add &gt; Next (keep defaults on this screen) &gt;Next (make sure all fields match up properly) &gt; Next (load all of the source data radial should be checked) &gt; Next &gt; Finish; 12. create domains for fields requiring domain (feature class properties &gt; Subtypes &gt; Domains), apply domains to associated fields; 13. create symbology and layer file for feature class, making sure description, source, display fields are set.; 14. Create and validate FGDC compliant metadata.</procdesc>
+<procdate>20130205</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>NOAA Coastal Services Center</cntorg>
+<cntper>Multipurpose Marine Cadastre Data Steward</cntper>
+</cntorgp>
+<cntpos>Multipurpose Marine Cadastre Data Steward</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>2234 S Hobson Ave</address>
+<city>Charleston</city>
+<state>SC</state>
+<postal>29405</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>843.740.1202</cntvoice>
+<cntemail>csc.info@noaa.gov</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.000001</latres>
+<longres>0.000001</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 1980</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>CoastalEnergyFacilities</enttypl>
+<enttypd>Energy facilities located 80km from the coast (including Great Lakes)</enttypd>
+<enttypds>NOAA Coastal Services Center</enttypds>
+</enttyp>
+<attr>
+<attrlabl>OBJECTID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SHAPE</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>filePlantSequenceNumber</attrlabl>
+<attrdef>The plant records in this year 2009 data file are sorted by state postal code abbreviation, plant name, and boiler ID, and are assigned a unique sequential number beginning with 1.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Unique values defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>plantName</attrlabl>
+<attrdef>This field is the name associated with each plant.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Attributes defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>plantOperatorName</attrlabl>
+<attrdef>The name associated with each operating company (EGC) is contained in this field.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Attributes defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>utilityServiceTerritoryName</attrlabl>
+<attrdef>This field contains the name of the owner of the transmission/distribution company/EGC, also known as the utility service territory (a utility company or EGC) [and previously known as the utility service area] in which the plant is located.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Attributes defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>powerControlAreaName</attrlabl>
+<attrdef>This field contains the name of the power control area for the plant. The PCA is associated with the plant’s eGRID subregion and NERC region.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Attributes defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>nercRegionAcronym</attrlabl>
+<attrdef>This field contains the acronym for the NERC region in which the plant is located. The NERC region is associated with the plant’s PCA and eGRID subregion.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Attributes defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>egridSubregionAcronym</attrlabl>
+<attrdef>This field contains the acronym for the eGRID subregion in which the plant is located. The eGRID subregion is associated with the plant’s PCA and NERC region.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Attributes defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>egridSubregionName</attrlabl>
+<attrdef>This field contains the name of the eGRID subregion in which the plant is located.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Attributes defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>countyCentroidFlag</attrlabl>
+<attrdef>This field indicates if the plant’s latitude and longitude are based on the county centroid (1= county centroid used).</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>County centroid used</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>County centroid not used</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>primaryFuel</attrlabl>
+<attrdef>This field contains the plant’s primary fuel based on maximum heat input if the plant combusts any fuel or assignment if the plant does not combust any fuel.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<edom>
+<edomv>AB</edomv>
+<edomvd>Agricultural byproduct</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>BFG</edomv>
+<edomvd>Blast furnace gas</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>BG</edomv>
+<edomvd>Bagasse</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>BIT</edomv>
+<edomvd>Bituminous coal</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>BLQ</edomv>
+<edomvd>Black liquor</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>COG</edomv>
+<edomvd>Coke oven gas</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DFO</edomv>
+<edomvd>Distillate fuel oil, light fuel oil, FO2, diesel oil</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DG</edomv>
+<edomvd>Digester gas (other biomass gas)</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>GEO</edomv>
+<edomvd>Geothermal steam</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>HY</edomv>
+<edomvd>Hydrogen</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>JF</edomv>
+<edomvd>Jet fuel</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>KER</edomv>
+<edomvd>Kerosene</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>LFG</edomv>
+<edomvd>Landfill gas</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>LIG</edomv>
+<edomvd>Lignite coal</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MSB</edomv>
+<edomvd>Municipal solid waste biomass component</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>NG</edomv>
+<edomvd>Natural gas</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>NUC</edomv>
+<edomvd>Nuclear material</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>OBL</edomv>
+<edomvd>Other biomass liquid</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>OBS</edomv>
+<edomvd>Other biomass solid</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>OG</edomv>
+<edomvd>Other gas</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>OO</edomv>
+<edomvd>Other oil</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>OTH</edomv>
+<edomvd>Other (unknown)</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>OTL</edomv>
+<edomvd>Other liquid</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>PC</edomv>
+<edomvd>Petroleum coke</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>PG</edomv>
+<edomvd>Propane gas/LPG</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>PP</edomv>
+<edomvd>Paper pallets</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>PRG</edomv>
+<edomvd>Process gas</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>PUR</edomv>
+<edomvd>Purchased fuel (unknown)</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>RFO</edomv>
+<edomvd>Residual fuel oil, heavy fuel oil, petroleum</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>RG</edomv>
+<edomvd>Refinery gas</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SC</edomv>
+<edomvd>Synthetic coal (syncoal)</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SLW</edomv>
+<edomvd>Sludge waste</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SUB</edomv>
+<edomvd>Subbituminous coal</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SUN</edomv>
+<edomvd>Sun</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>TDF</edomv>
+<edomvd>Tire-derived fuel</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>WAT</edomv>
+<edomvd>Water</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>WC</edomv>
+<edomvd>Waste coal</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>WDL</edomv>
+<edomvd>Wood, wood waste liquid</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>WDS</edomv>
+<edomvd>Wood, wood waste solid</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>WND</edomv>
+<edomvd>Wind</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>WO</edomv>
+<edomvd>Waste oil</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>primaryFuelGenerationCategory</attrlabl>
+<attrdef>This field contains the plant’s primary fuel based on maximum net generation if the plant generates.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<edom>
+<edomv>BIOMASS</edomv>
+<edomvd>Biomass</edomvd>
+<edomvds>NOAA Coastal Services Center</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>COAL</edomv>
+<edomvd>Coal</edomvd>
+<edomvds>NOAA Coastal Services Center</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>GAS</edomv>
+<edomvd>Gas</edomvd>
+<edomvds>NOAA Coastal Services Center</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>GEOTHERMAL</edomv>
+<edomvd>Geothermal</edomvd>
+<edomvds>NOAA Coastal Services Center</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>HYDRO</edomv>
+<edomvd>Hydrokinetic</edomvd>
+<edomvds>NOAA Coastal Services Center</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>OIL</edomv>
+<edomvd>Oil</edomvd>
+<edomvds>NOAA Coastal Services Center</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>OTHRFSL</edomv>
+<edomvd>Other fossil fuel</edomvd>
+<edomvds>NOAA Coastal Services Center</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>NUCLEAR</edomv>
+<edomvd>Nuclear</edomvd>
+<edomvds>NOAA Coastal Services Center</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SOLAR</edomv>
+<edomvd>Solar</edomvd>
+<edomvds>NOAA Coastal Services Center</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>WIND</edomv>
+<edomvd>Wind</edomvd>
+<edomvds>NOAA Coastal Services Center</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>WSTHTOTPUR</edomv>
+<edomvd>Other Unknown/Purchased/Waste Heat</edomvd>
+<edomvds>U.S. EPA/OAP/CAMD</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>capacityFactor</attrlabl>
+<attrdef>This field contains the plant capacity factor, expressed with four decimal places. It is calculated as follows: CAPFAC = (PLNGENAN / (NAMEPCAP * 8760))  Although the value should be between 0 and 1 inclusive, there are outliers.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Units defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>nameplateCapacity</attrlabl>
+<attrdef>This field contains the nameplate capacity of the plant, in MW.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Units defining the features. (MW)</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>annualHeatInput</attrlabl>
+<attrdef>This field is the total annual heat input, in MMBtu, for the plant. For CHP plants, the value is adjusted by the electric allocation factor.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Units defining the features. (MMBtu)</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>annualNetGeneration</attrlabl>
+<attrdef>This field is the total reported annual net generation, in MWh, for the plant.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Units defining the features. (MWh)</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>unadjustedAnnualHeatInput</attrlabl>
+<attrdef>This field, in MMBtu, is the total plant level unadjusted annual heat input.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Units defining the features. (MMBtu)</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>annualTotalNonrenewablesNetGeneration</attrlabl>
+<attrdef>This field, in MWh, contains the annual total nonrenewables net generation for the plant. Nonrenewables are exhaustible energy resources such as coal, oil, gas, other fossil, nuclear power, and other unknown/purchased fuel.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Units defining the features. (MWh)</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>annualTotalRenewablesNetGeneration</attrlabl>
+<attrdef>This field, in MWh, contains the annual total renewables net generation for the plant. Renewables are inexhaustible energy resources such as biomass, wind, solar, geothermal, and hydro.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Units defining the features. (MWh)</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>annualTotalNonhydroRenewablesNetGeneration</attrlabl>
+<attrdef>This field, in MWh, contains the annual total nonhydro renewables net generation for the plant.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Units defining the features. (MWh)</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>annualTotalCombustionNetGeneration</attrlabl>
+<attrdef>This field, in MWh, contains the annual total combustion net generation for the plant.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Units defining the features. (MWh)</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>annualTotalNoncombustionNetGeneration</attrlabl>
+<attrdef>This field, in MWh, contains the annual total noncombustion net generation for the plant.</attrdef>
+<attrdefs>U.S. EPA/OAP/CAMD</attrdefs>
+<attrdomv>
+<udom>Units defining the features. (MWh)</udom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>NOAA Coastal Services Center</cntorg>
+<cntper>Multipurpose Marine Cadastre Data Steward</cntper>
+</cntorgp>
+<cntpos>Multipurpose Marine Cadastre Data Steward</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>2234 S Hobson Ave</address>
+<city>Charleston</city>
+<state>SC</state>
+<postal>29405</postal>
+</cntaddr>
+<cntvoice>843.740.1202</cntvoice>
+<cntemail>csc.info@noaa.gov</cntemail>
+</cntinfo>
+</distrib>
+<resdesc>Downloadable Data</resdesc>
+<distliab>NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user’s needs of such information. The services, information, and data made available on the Multipurpose Marine Cadastre web site are provided ‘as is’ without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation.</distliab>
+</distinfo>
+<metainfo>
+<metd>20130205</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>NOAA Coastal Services Center</cntorg>
+<cntper>Multipurpose Marine Cadastre Data Steward</cntper>
+</cntorgp>
+<cntpos>Multipurpose Marine Cadastre Data Steward</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>2234 S Hobson Ave</address>
+<city>Charleston</city>
+<state>SC</state>
+<postal>29405</postal>
+</cntaddr>
+<cntvoice>843.740.1202</cntvoice>
+<cntemail>csc.info@noaa.gov</cntemail>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+</metainfo>
+</metadata>
