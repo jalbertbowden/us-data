@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1999/1/25 Armenia</name>
+  <Placemark>
+    <name>1999/1/25 Armenia</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/small_res/41/41_821.jpg"/><br><p>At least 1,185 people killed, over 700 missing and presumed killed, over 4,750 injured and about 250,000 homeless. The most affected city was Armenia where 907 people were killed and about 60 percent of the buildings were destroyed, including the police and fire stations. About 60 percent of the buildings were destroyed at Calarca and about 50 percent of the houses were destroyed at Pereira. Landslides blocked several roads including the Manizales-Bogota road. Damage occurred in Caldas, Huila, Quindio, Risaralda, Tolima and Valle del Cauca Departments.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5512&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-75.724,4.461</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Engineering Elements</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_834.jpg"/><br><p>Credit: R.C. Bucknam<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/834">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Engineering Elements</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_835.jpg"/><br><p>Credit: R.C. Bucknam<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/835">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Engineering Elements</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_836.jpg"/><br><p>Credit: R.C. Bucknam<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/836">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Engineering Elements</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_837.jpg"/><br><p>Credit: R.C. Bucknam<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/837">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Engineering Elements</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_838.jpg"/><br><p>Credit: R.C. Bucknam<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/838">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Temporary Housing</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_839.jpg"/><br><p>Credit: R.C. Bucknam<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/839">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Temporary Housing</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_840.jpg"/><br><p>Credit: R.C. Bucknam<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/840">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Infrastructure and Public Buildings</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_821.jpg"/><br><p>Credit: A.P. Asfura<br>Organization: EQE International, Inc.</p><p><br><a href="/hazardimages/picture/show/821">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4.03</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Infrastructure and Public Buildings</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_822.jpg"/><br><p>Credit: A.P. Asfura<br>Organization: EQE International, Inc.</p><p><br><a href="/hazardimages/picture/show/822">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Infrastructure and Public Buildings</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_823.jpg"/><br><p>Credit: A.P. Asfura<br>Organization: EQE International, Inc.</p><p><br><a href="/hazardimages/picture/show/823">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4.05</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Infrastructure and Public Buildings</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_824.jpg"/><br><p>Credit: E.A. Fierro<br>Organization: Wiss, Janney, Elstner Associates, Inc.</p><p><br><a href="/hazardimages/picture/show/824">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Infrastructure and Public Buildings</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_825.jpg"/><br><p>Credit: R.C. Bucknam<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/825">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Residential Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_826.jpg"/><br><p>Credit: R.C. Bucknam<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/826">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Residential Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_827.jpg"/><br><p>Credit: K.I. Shoaf<br>Organization: UCLA School of Public Health</p><p><br><a href="/hazardimages/picture/show/827">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Residential Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_828.jpg"/><br><p>Credit: E.A. Fierro<br>Organization: Wiss, Janney, Elstner Associates, Inc.</p><p><br><a href="/hazardimages/picture/show/828">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Residential Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_829.jpg"/><br><p>Credit: R.C. Bucknam<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/829">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Residential Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_830.jpg"/><br><p>Credit: R.C. Bucknam<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/830">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Engineering Elements</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_831.jpg"/><br><p>Credit: E.A. Fierro<br>Organization: Wiss, Janney, Elstner Associates, Inc.</p><p><br><a href="/hazardimages/picture/show/831">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Engineering Elements</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_832.jpg"/><br><p>Credit: E.A. Fierro<br>Organization: Wiss, Janney, Elstner Associates, Inc.</p><p><br><a href="/hazardimages/picture/show/832">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Engineering Elements</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/41/41_833.jpg"/><br><p>Credit: E.A. Fierro<br>Organization: Wiss, Janney, Elstner Associates, Inc.</p><p><br><a href="/hazardimages/picture/show/833">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-75,4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

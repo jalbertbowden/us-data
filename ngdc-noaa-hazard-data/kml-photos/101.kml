@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+  <name> Mudflows and Earthflows</name>
+  <Placemark>
+    <name>Mudflow, Climax, Colorado</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_127.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1532">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-106.1425,39.4235</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mudflow Scar, Rocky Mountain National Park, Colorado</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_128.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1533">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-105.92,40.376</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Slumgullian Mudflow, Lake City, Colorado</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_129.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1534">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-107.29,37.968</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mudflow, Death Valley, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_130.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1535">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.742,35.74</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Earthflow, Southern Australia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_131.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1536">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>138.193,-35.548</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Earthflow, Mission Pass, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_132.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1537">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.9097,37.5603</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Debris Flow, Slide Mountain, Nevada</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_782.jpg"/><br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1547">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-119.88,39.3129</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Earthflow, Cincinnati, Ohio</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_787.jpg"/><br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1552">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-84.447,39.1226</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mudflow, Toutle River, Washington</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_791.jpg"/><br><p>Credit: D.R. Crandell<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1556">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.73,46.328</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mudflow, Mount Saint Helens, Washington</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_792.jpg"/><br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1557">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.212,46.254</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Debris Flow from Storm King Mountain, Glenwood Springs, Colorado</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_794.jpg"/><br><p>Credit: J. Scheidt<br>Organization: Bureau of Land Management</p><p><br><a href="/hazardimages/picture/show/1559">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-107.408,39.5634</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Debris Flow, Glenwood Springs, Colorado</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_795.jpg"/><br><p>Credit: S. Diehl<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1560">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-107.41,39.56</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bonners Ferry, Idaho</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_800.jpg"/><br><p>Credit: D. Krammer<br>Organization: Disaster Services Boundary County Idaho</p><p><br><a href="/hazardimages/picture/show/1565">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.3056,48.7117</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

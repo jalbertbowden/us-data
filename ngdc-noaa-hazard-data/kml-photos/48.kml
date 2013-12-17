@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1998/7/17 Miyake-Jima</name>
+  <Placemark>
+    <name>1998/7/17 Miyake-Jima</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/small_res/42/42_853.jpg"/><br><p>At least 2,183 people killed, thousands injured, about 9,500 homeless and about 500 missing as a result of a tsunami generated in the Sissano area. Maximum wave heights estimated at 15 meters. Several villages were completely destroyed and others extensively damaged. Maximum recorded wave heights from selected tide stations (peak-to-trough, in cm) were as follows: 40 on Miyake-jima; 30 at Tosa-Shimuzu, Shikoku; 26 at Muroto, Shikoku; 24 at Naze, Amami O-shima; 20 on Tanega-shima; 20 at Kushimoto, Honshu; 6 at Jackson Bay and 4.7 at Kaikoura, New Zealand; 5 on Yap. Felt along much of the northern Papua New Guinea coast.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5501&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>141.926,-2.961</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Arop villages </name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_841.jpg"/><br><p>Credit: Hugh Davies<br>Organization: University of PNG</p><p><br><a href="/hazardimages/picture/show/841">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sissano Lagoon</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_842.jpg"/><br>Organization: National Mapping Bureau of Papua New Guinea</p><p><br><a href="/hazardimages/picture/show/842">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Arop villages #1 and #2</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_843.jpg"/><br>Organization: National Mapping Bureau of Papua New Guinea</p><p><br><a href="/hazardimages/picture/show/843">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Arop #2 village</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_844.jpg"/><br><p>Credit: L. Dengler<br>Organization: Humboldt State University</p><p><br><a href="/hazardimages/picture/show/844">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Arop #2 village</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_845.jpg"/><br><p>Credit: L. Dengler<br>Organization: Humboldt State University</p><p><br><a href="/hazardimages/picture/show/845">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Arop</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_846.jpg"/><br><p>Credit: Hugh Davies<br>Organization: University of PNG</p><p><br><a href="/hazardimages/picture/show/846">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Arop school site</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_847.jpg"/><br><p>Credit: L. Dengler<br>Organization: Humboldt State University</p><p><br><a href="/hazardimages/picture/show/847">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Arop village #1</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_848.jpg"/><br><p>Credit: L. Dengler<br>Organization: Humboldt State University</p><p><br><a href="/hazardimages/picture/show/848">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Arop village #2</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_849.jpg"/><br><p>Credit: L. Dengler<br>Organization: Humboldt State University</p><p><br><a href="/hazardimages/picture/show/849">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sissano Mission</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_850.jpg"/><br><p>Credit: Father Eugene McKinnon, OFM<br>Organization: Hugh Davies, University of PNG</p><p><br><a href="/hazardimages/picture/show/850">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Arop</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_851.jpg"/><br><p>Credit: L. Dengler<br>Organization: Humboldt State University</p><p><br><a href="/hazardimages/picture/show/851">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sissano Government Station</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_852.jpg"/><br><p>Credit: Hugh Davies<br>Organization: University of PNG</p><p><br><a href="/hazardimages/picture/show/852">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Warapu School</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_853.jpg"/><br><p>Credit: Hugh Davies<br>Organization: University of PNG</p><p><br><a href="/hazardimages/picture/show/853">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Arop Community School</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_854.jpg"/><br><p>Credit: Hugh Davies<br>Organization: University of PNG</p><p><br><a href="/hazardimages/picture/show/854">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Arop Community School viewed from the sea</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_855.jpg"/><br><p>Credit: Hugh Davies<br>Organization: University of PNG</p><p><br><a href="/hazardimages/picture/show/855">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Arop Community School</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_856.jpg"/><br><p>Credit: Hugh Davies<br>Organization: University of PNG</p><p><br><a href="/hazardimages/picture/show/856">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Teles</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_857.jpg"/><br><p>Credit: Hugh Davies<br>Organization: University of PNG</p><p><br><a href="/hazardimages/picture/show/857">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Nimas</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_858.jpg"/><br><p>Credit: Hugh Davies<br>Organization: University of PNG</p><p><br><a href="/hazardimages/picture/show/858">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sissano Mission</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_859.jpg"/><br><p>Credit: Hugh Davies<br>Organization: University of PNG</p><p><br><a href="/hazardimages/picture/show/859">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Drawing by a child survivor of the tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/42/42_860.jpg"/><br><p>Credit: L. Dengler<br>Organization: Humboldt State University</p><p><br><a href="/hazardimages/picture/show/860">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>142,-3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1999/8/17 Izmit (Kocaeli)</name>
+  <Placemark>
+    <name>1999/8/17 Izmit (Kocaeli)</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_861.jpg"/><br><p>On August 17, 1999, at 3:02 am local time (00:02 GMT) a magnitude (Mw) 7.4 earthquake occurred on the northern Anatolian fault. The epicenter was located very close to the south shore of the Bay of Izmit, an eastward extension of the Marmara Sea. The location of this earthquake and its proximity to a populous region on the Bay of Izmit contributed greatly to its damaging effects. The total estimated loss for port facilities in the region was around $200 million (US). Subsidence and slumping caused much of the coastal damage, but a tsunami was generated that also caused coastal damage and deaths.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5527&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>29.864,40.748</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>A slope failure in the small harbor of Hereke</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_861.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/861">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29.615,40.786</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>A small slope failure from earthquake-related subsidence in the harbor of Hereke</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_862.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/862">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29.615,40.786</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sirinyali</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_863.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/863">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sirinyali</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_864.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/864">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sirinyali</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_865.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/865">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sirinyali</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_866.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/866">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Yalikent</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_867.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/867">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Yalikent</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_868.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/868">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Halidere</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_873.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/873">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Halidere</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_874.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/874">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Halidere</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_875.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/875">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Halidere</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_876.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/876">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Guzelyali</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_877.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/877">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>28.9,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Guzelyali</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_878.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/878">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>28.9,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Karamursel</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_879.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/879">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29.6,40.6</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Karamursel</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/43/43_880.jpg"/><br><p>Credit: Jose C. Borrero<br>Organization: University of Southern California</p><p><a href="/hazardimages/picture/show/880">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29.6,40.6</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_921.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/921">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>30,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sakarya/Adapazari</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_922.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/922">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>30,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sakarya/Adapazari</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_923.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/923">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>30,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sakarya/Adapazari</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_924.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/924">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>30,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sakarya/Adapazari</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_925.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/925">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>30,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sakarya/Adapazari</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_926.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/926">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>30,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>TEM-Arifiye</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_927.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/927">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>30,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kocaeli/Izmit</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_928.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/928">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>30,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Yuvacik</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_929.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/929">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>30,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Golcuk</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_930.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/930">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Golcuk</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_931.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/931">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>30,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Golcuk</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_932.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/932">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>30,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Golcuk</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_933.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/933">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>30,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Golcuk</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_934.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/934">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>30,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Yuzbasilar</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_935.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/935">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29,39</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Yuzbasilar</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_936.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/936">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29,39</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Degirmendere</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_937.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/937">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29.7379,40.7088</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Ulasli</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_938.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/938">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Yalova</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_939.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/939">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29,40</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Karamursel</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/46/46_940.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/940">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>29.6,40.6</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

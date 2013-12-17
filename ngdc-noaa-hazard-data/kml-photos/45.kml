@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1992/12/12 Flores Region, Maumere</name>
+  <Placemark>
+    <name>1992/12/12 Flores Region, Maumere</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_527.jpg"/><br><p>On December 12, 1992, a magnitude 7.5 Ms (USGS) earthquake at 05:29 UT occurred in the Flores, Indonesia, region producing a tsunami that reached shore in five minutes. The source was a thrust fault dipping 32 degrees to the south and extending about 110 kilometers from Cape Batumanuk to Cape Bunga. The earthquake and tsunami caused at least 2,080 fatalities or missing people, including 1,490 in Maurnere, Flores, and 700 on Babi Island.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5343&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>121.896,-8.48</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Destruction of Riangkroko, Indonesia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_527.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/527">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>123,-8</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial view of Riangkroko, Indonesia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_528.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/528">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>123,-8</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Upper extent of inundation, Riangkroko, Indonesia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_529.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/529">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>123,-8</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tree remains after tsunami, Riangkroko, Indonesia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_530.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/530">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>123,-8</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Remaining debris at Riangkroko, Indonesia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_531.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/531">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>123,-8</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Upper extent of inundation, Riangkroko, Indonesia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_532.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/532">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>123,-8</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Effects of tsunami, Leworahang, Indonesia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_533.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/533">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>123,-8</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Effects of tsunami, Leworahang, Indonesia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_534.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/534">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>123,-8</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Slump area, Leworahang, Indonesia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_535.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/535">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>123,-8</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Slumps at Lewobele, Indonesia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_536.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/536">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>123,-8</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Complete destruction at Kampung Baru, Babi Island, Indonesia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_538.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/538">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>96,2</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Debris dump Kampung Baru, Indonesia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_539.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/539">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>123,-8</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Effects at Wuhring, Flores Island, Indonesia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_540.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/540">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>122,-9</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

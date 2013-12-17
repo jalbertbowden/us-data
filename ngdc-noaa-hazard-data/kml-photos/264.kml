@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name> Cerro Negro</name>
+  <Placemark>
+    <name> Cerro Negro</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/small_res/28/28_562.jpg"/><br><p>This cinder cone in western Nicaragua has a name that means "black hill." It has erupted more than 20 times since its birth in 1850. Explosive eruptions from the central crater are often accompanied by lava flows from the base of the cone. It is the youngest of four cinder cones scattered along a 20 km line east-southeast of Telica.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=null">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-86.7,12.5</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Cerro Negro, Nicaragua</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/small_res/28/28_562.jpg"/><br><p>Credit: R.E. Wilcox<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1507">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-86.702,12.506</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

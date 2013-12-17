@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1992/9/2 Masachapa</name>
+  <Placemark>
+    <name>1992/9/2 Masachapa</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_521.jpg"/><br><p>At least 116 people killed, more than 68 missing and over 13,500 left homeless in Nicaragua. At least 1,300 houses and 185 fishing boats were destroyed along the west coast of Nicaragua. </p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5335&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-87.34,11.742</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage at El Tranisto, Nicaragua</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_521.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/521">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-86.7028,12.0549</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Beach at El Popoyo, Nicaragua</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_522.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/522">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-86.0832,11.4391</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Structures at El Popoyo, Nicaragua</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_523.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/523">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-86.0832,11.4391</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Contrasting construction, El Popoyo, Nicaragua</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_524.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/524">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-86.0832,11.4391</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Structural damage, El Popoyo, Nicaragua</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_525.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/525">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-86.0832,11.4391</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damaged structures, Marsella, Nicaragua</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/26/26_526.jpg"/><br><p>Credit: Harry Yeh<br>Organization: University of Washington</p><p><br><a href="/hazardimages/picture/show/526">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-85.9043,11.2863</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

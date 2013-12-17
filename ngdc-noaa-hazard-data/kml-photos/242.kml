@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1984/4/24 Morgan Hill</name>
+  <Placemark>
+    <name>1984/4/24 Morgan Hill</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_200.jpg"/><br><p>This magnitude 6.2 earthquake caused $30 million in property damage in northern California. The epicenter of the quake was located near Mount Hamilton in the Diablo Range of the California Coast Ranges. The earthquake was felt over an area of 120,000 square kilometers in California and western Nevada.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5030&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-121.698,37.32</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide near Morgan Hill</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_195.jpg"/><br>Organization: Bay Area Regional Earthquake Preparedness Project</p><p><br><a href="/hazardimages/picture/show/195">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.5878,37.1552</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Residence Damage, Morgan Hill</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_196.jpg"/><br>Organization: Bay Area Regional Earthquake Preparedness Project</p><p><br><a href="/hazardimages/picture/show/196">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.6546,37.1322</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Cracks in Roadway, Morgan Hill</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_197.jpg"/><br>Organization: Bay Area Regional Earthquake Preparedness Project</p><p><br><a href="/hazardimages/picture/show/197">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.5903,37.144</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Roadway and Garage Damage, Jackson Oaks (Morgan Hill)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_198.jpg"/><br>Organization: Bay Area Regional Earthquake Preparedness Project</p><p><br><a href="/hazardimages/picture/show/198">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.5903,37.144</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Residence Moved off Foundation, Jackson Oaks (Morgan Hill)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_199.jpg"/><br>Organization: Bay Area Regional Earthquake Preparedness Project</p><p><br><a href="/hazardimages/picture/show/199">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.5903,37.144</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Liquefaction Damage to Earthen Dam, Morgan Hill</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_200.jpg"/><br>Organization: Bay Area Regional Earthquake Preparedness Project</p><p><br><a href="/hazardimages/picture/show/200">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.6291,37.1658</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide Blocks Highway</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_95.jpg"/><br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/95">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.5819,37.1534</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

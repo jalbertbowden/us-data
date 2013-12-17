@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1994/10/4 Shikotan, Kuril Islands</name>
+  <Placemark>
+    <name>1994/10/4 Shikotan, Kuril Islands</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_741.jpg"/><br><p>A magnitude 8.1 earthquake occurred in the southern Kurils and on northern Hokkaido on Tuesday, October 5, 1994, (October 4 at 13:23 GMT). It was a sudden event, without any short- term precursors or foreshocks. The earthquake epicenter was located 80 km east southeast of Shikotan Island. At Kuzhno-Kurilsk, Kunsashir Island, tsunami heights ranged from 2.5-3.0 m. In the older part of town (fronted by a gentle beach) all houses were damaged by the wave that penetrated 200-500 m inland.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5392&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>147.321,43.773</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_741.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/741">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.87</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide Scarp</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_742.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/742">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.87</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide Scarp</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_743.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/743">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.87</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide Scarp</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_744.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/744">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.87</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide Scarp</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_745.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/745">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.87</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Krabosavodskoe</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_746.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/746">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.73,43.835</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Krabosavodskoe</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_747.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/747">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.73,43.835</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Krabosavodskoe</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_748.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/748">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.73,43.835</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Malokurilskoe</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_749.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/749">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.878</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Malokurilskoe</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_750.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/750">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.878</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Krabosavodskoe</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_751.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/751">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.73,43.835</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Krabosavodskoe</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_752.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/752">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.73,43.835</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Japanese cemetery</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_753.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/753">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.75,43.783</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Gorobets Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_754.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/754">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.71,43.822</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Dimitrova Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_755.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/755">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.83,43.783</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Dimitrova Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_756.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/756">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.8</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Dimitrova Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_757.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/757">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.8</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Dimitrova Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_758.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/758">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.8</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Krabovaya Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_759.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/759">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.73,43.833</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Shikotan Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/37/37_760.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/760">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.8</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Malokurilskoe, Shikotan Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_801.jpg"/><br><p>Credit: A. Bobkov<br><p><a href="/hazardimages/picture/show/801">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.878</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Ptichye River</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_802.jpg"/><br><p>Credit: A. Korablev<br><p><a href="/hazardimages/picture/show/802">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.26,44.439</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Cheremushki Street</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_803.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/803">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.878</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Krabosavodskoe</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_804.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/804">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.73,43.835</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Krabosavodskoe</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_805.jpg"/><br><p>Credit: V.K. Gusiakov<br><p><a href="/hazardimages/picture/show/805">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.73,43.835</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Malokurilskoe settlement, Shikotan Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_806.jpg"/><br><p>Credit: V. Kaistrenko<br><p><a href="/hazardimages/picture/show/806">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.878</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Malokurilskoe settlement, Shikotan Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_807.jpg"/><br><p>Credit: V. Kaistrenko<br><p><a href="/hazardimages/picture/show/807">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.878</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Goryachiye Klyuchi</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_808.jpg"/><br><p>Credit: A. Korablev<br><p><a href="/hazardimages/picture/show/808">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>147.72,45.018</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Malokurilskaya Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_809.jpg"/><br><p>Credit: V. Kaistrenko<br><p><a href="/hazardimages/picture/show/809">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.82,43.878</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Vessel carried onshore</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_810.jpg"/><br><p>Credit: Yu Korolyov<br><p><a href="/hazardimages/picture/show/810">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.01,44.37</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Dock - Kunashir Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_811.jpg"/><br><p>Credit: A. Klochkov<br><p><a href="/hazardimages/picture/show/811">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.01,44.371</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Monument - Kunashir Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_812.jpg"/><br><p>Credit: A. Klochkov<br><p><a href="/hazardimages/picture/show/812">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.01,44.372</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bridge - Kunashir Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_813.jpg"/><br><p>Credit: E. Kulikov<br><p><a href="/hazardimages/picture/show/813">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.01,44.37</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kunashir Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_814.jpg"/><br><p>Credit: A. Klochkov<br><p><a href="/hazardimages/picture/show/814">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.01,44.369</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kunashir Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_815.jpg"/><br><p>Credit: A. Korablev<br><p><a href="/hazardimages/picture/show/815">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.01,44.37</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kunashir Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_816.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/816">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.01,44.37</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kunashir Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_817.jpg"/><br><p>Credit: E. Kulikov<br><p><a href="/hazardimages/picture/show/817">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.01,44.37</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kunashir Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_818.jpg"/><br><p>Credit: E. Kulikov<br><p><a href="/hazardimages/picture/show/818">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.01,44.37</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kunashir Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_819.jpg"/><br><p>Credit: E. Kulikov<br><p><a href="/hazardimages/picture/show/819">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.01,44.37</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kunashir Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/40/40_820.jpg"/><br><p>Credit: E. Kulikov<br><p><a href="/hazardimages/picture/show/820">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>146.01,44.37</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

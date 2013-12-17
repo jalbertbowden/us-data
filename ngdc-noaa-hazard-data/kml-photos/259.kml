@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>2011/2/21 Christchurch</name>
+  <Placemark>
+    <name>2011/2/21 Christchurch</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_002.jpg"/><br><p>The February 21, 2011 South Island, New Zealand earthquake occurred as part of the aftershock sequence of the M 7.0 September 3, 2010 Darfield, NZ earthquake. The February 21st earthquake involved oblique-thrust faulting at the easternmost limit of previous aftershocks, and like the mainshock itself is broadly associated with regional plate boundary deformation as the Pacific and Australia plates interact in the central South Island, New Zealand. This latest shock is significantly closer to the main population center of Christchurch, NZ, than is the September 2010 mainshock, in the vicinity of several other moderate (M 4 to 5) sized aftershocks located east of the main rupture zone of the 2010 event. There is no specific structure directly linking this event to the main fault of the 2010 mainshock, although there have been numerous aftershocks along generally east-west linear trends extending east from the end of the previous rupture. The north or north-east trends to the possible fault planes and the oblique thrust faulting mechanism as seen in the focal mechanism solution may reflect an association with similarly-trending faults previously mapped in the Port Hills region, just to the south of Christchurch. Since the September 3, 2010 mainshock, there have been approximately 6 M>=5.0 aftershocks in the Christchurch region. The February 21st earthquake represents the largest aftershock to date, more that half a magnitude unit larger than the previous largest aftershock. </p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=9779&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>172.71,-43.6</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Christchurch Streets</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_001.jpg"/><br>Organization: New Zealand Defence Force</p><p><br><a href="/hazardimages/picture/show/1432">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.63,-43.52</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Christchurch Cathedral</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_002.jpg"/><br>Organization: New Zealand Defence Force</p><p><br><a href="/hazardimages/picture/show/1433">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.6371,-43.5309</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Liquefaction in Christchurch</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_003.jpg"/><br>Organization: New Zealand Defence Force</p><p><br><a href="/hazardimages/picture/show/1434">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.63,-43.52</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Streets Under Liquefaction</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_004.jpg"/><br>Organization: New Zealand Defence Force</p><p><br><a href="/hazardimages/picture/show/1435">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.63,-43.52</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Stadium Liquefaction</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_005.jpg"/><br>Organization: New Zealand Defence Force</p><p><br><a href="/hazardimages/picture/show/1436">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.63,-43.52</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Earthquake Damage in Christchurch</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_006.jpg"/><br><p>Credit: Allison Barden<br><p><a href="/hazardimages/picture/show/1437">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.63,-43.52</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Earthquake Damage in Christchurch</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_007.jpg"/><br><p>Credit: Allison Barden<br><p><a href="/hazardimages/picture/show/1438">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.63,-43.52</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Residential Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_008.jpg"/><br><p>Credit: kebabette<br><p><a href="/hazardimages/picture/show/1439">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.63,-43.52</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Residential Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_009.jpg"/><br><p>Credit: kebabette<br><p><a href="/hazardimages/picture/show/1440">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.63,-43.52</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Residential Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_010.jpg"/><br><p>Credit: kebabette<br><p><a href="/hazardimages/picture/show/1441">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.63,-43.52</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Knox Church, Christchurch</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_011.jpg"/><br><p>Credit: kebabette<br><p><a href="/hazardimages/picture/show/1442">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.6286,-43.5211</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Cracks along path next to the Avon River</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_012.jpg"/><br><p>Credit: Steve Taylor (Ray White)<br><p><a href="/hazardimages/picture/show/1443">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.7138,-43.5063</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>New Brighton, Christchurch</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_013.jpg"/><br><p>Credit: Steve Taylor (Ray White)<br><p><a href="/hazardimages/picture/show/1444">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.7202,-43.5091</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Waitaki Street a week after the Christchurch Earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_014.jpg"/><br><p>Credit: Steve Taylor (Ray White)<br><p><a href="/hazardimages/picture/show/1445">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.72,-43.5107</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Cars parked near TJs Kazbah, 1 Bowhill Road, New Brighton </name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_015.jpg"/><br><p>Credit: Steve Taylor (Ray White)<br><p><a href="/hazardimages/picture/show/1446">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.7261,-43.4954</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>TJs Kazbah, 1 Bowhill Road, New Brighton</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_016.jpg"/><br><p>Credit: Steve Taylor (Ray White)<br><p><a href="/hazardimages/picture/show/1447">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.7261,-43.4954</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>TJs Kazbah, 1 Bowhill Road, New Brighton</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_017.jpg"/><br><p>Credit: Steve Taylor (Ray White)<br><p><a href="/hazardimages/picture/show/1448">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.7261,-43.4954</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Road Liquefaction</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_018.jpg"/><br><p>Credit: Steve Taylor (Ray White)<br><p><a href="/hazardimages/picture/show/1449">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.7126,-43.4863</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Road Liquefaction</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_019.jpg"/><br><p>Credit: Steve Taylor (Ray White)<br><p><a href="/hazardimages/picture/show/1450">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.7126,-43.4863</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Princess Cinema in New Brighton, Christchurch</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_020.jpg"/><br><p>Credit: Steve Taylor (Ray White)<br><p><a href="/hazardimages/picture/show/1451">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.7295,-43.5082</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Back of Princess Cinema in New Brighton, Christchurch</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_021.jpg"/><br><p>Credit: Steve Taylor (Ray White)<br><p><a href="/hazardimages/picture/show/1452">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.7295,-43.5082</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Cathedral of the Blessed Sacrament with crushed car</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_022.jpg"/><br><p>Credit: Steve Taylor (Ray White)<br><p><a href="/hazardimages/picture/show/1453">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.6459,-43.5386</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Cracking and subsidence</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_023.jpg"/><br><p>Credit: Steve Taylor (Ray White)<br><p><a href="/hazardimages/picture/show/1454">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.6792,-43.4967</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Normal School - 31 Kilmore Street</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/259/259_024.jpg"/><br><p>Credit: Steve Taylor (Ray White)<br><p><a href="/hazardimages/picture/show/1455">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>172.6311,-43.5263</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

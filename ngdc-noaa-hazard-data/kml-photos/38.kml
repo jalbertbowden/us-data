@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1975/11/29 Kilauea</name>
+  <Placemark>
+    <name>1975/11/29 Kilauea</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/25/25_517.jpg"/><br><p>Two earthquakes occurred in the morning on Hawaii Island. The first earthquake (3 hours 36 minutes local time, 5.1 Ms, epicenter near the Kilauea crater) awakened the entire population of the island. The second earthquake (4 hours 48 minutes local time, 7.2 Ms, off the southeast coast) caused damage (IX) at Hilo and damage (VIII) at Hawaii Volcanoes National Park. In many places houses were severely damaged, roads were breached and became unusable due to landslides; electric power lines were broken. Maximum subsidence 3.5 meters along the southeast coast. Maximum width of ground cracks 1 meter in the park. There was a brief eruption of the Kilauea Volcano. The second earthquake generated a locally damaging submarine landslide tsunami that was recorded at tide gauge stations in Alaska, California, Galapagos Islands, Peru, and Chile.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=4704&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-155.024,19.334</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii Beach after 1975 Tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/25/25_517.jpg"/><br>Organization: National Park Service</p><p><br><a href="/hazardimages/picture/show/517">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.26,19.3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

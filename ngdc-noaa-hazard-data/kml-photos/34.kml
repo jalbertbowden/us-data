@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1987/10/1 Whittier</name>
+  <Placemark>
+    <name>1987/10/1 Whittier</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_174.jpg"/><br><p>Epicenter: 34.0 degrees N, 118.1 degrees W. Magnitude: 5.9. Damage: $358 million. Eight deaths. The fault which ruptured was located about 11 kilometers below the surface, and 20 kilometers east of downtown Los Angeles. The fault was an extension of the previously identified Whittier Fault. Severe damage was confined mainly to communities of Los Angeles and near the epicenter.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5143&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-118.078,34.061</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Partial Collapse of Store in 1987 Whittier, CA</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_175.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/175">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.1328,34.0924</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Exterior View of Damaged Residence, Whittier, CA</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_178.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/178">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.0361,33.9891</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Porch column tipped when house shifted on foundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/22/22_453.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/453">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Two Views of Auditorium Showing Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_174.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/174">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.1086,34.0981</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Shift of Apartment Building in 1987 Whittier, CA</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_176.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/176">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.1458,34.0602</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Partial Collapse of Parking Garage, Whittier, CA</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_177.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/177">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.0321,33.9611</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Interior View of Damaged Residence, Whittier, CA</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_179.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/179">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.03,33.98</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of Wall of Store</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_180.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/180">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.0373,33.9815</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

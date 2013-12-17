@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1976/2/4 Los Amateos</name>
+  <Placemark>
+    <name>1976/2/4 Los Amateos</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_32.jpg"/><br><p>The magnitude 7.5 earthquake killed 23,000, injured 76,000, and caused $1,100 million in property damage. It was felt over 100,000 square kilometers and was accompanied by extensive surface faulting.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=4711&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-89.101,15.324</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Offset of Trees along Fault, Motagua, Guatemala</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_32.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/32">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90,16</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Twisted Railroad Tracks across Fault, Guatemala</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_33.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/33">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90,16</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide near Guatemala City, Guatemala</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_34.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/34">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90.5927,14.6043</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Liquefaction, Motagua Valley, Guatemala</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_35.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/35">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90,16</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Offset of cement-lined ditch in Guatemala</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_210.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/210">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90,14</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Deformation of rows by 1976 earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_211.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/211">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90.0746,14.939</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tree bisected by fault in Guatemala</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_212.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/212">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90,14</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of Spans on Bridge</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_94.jpg"/><br>Organization: Earthquake Engineering Research Institute</p><p><a href="/hazardimages/picture/show/94">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90.2174,14.6581</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

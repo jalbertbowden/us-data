@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1983/5/2 Coalinga</name>
+  <Placemark>
+    <name>1983/5/2 Coalinga</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_185.jpg"/><br><p>Location: Central California, 20.8 kilometers from Coalinga. Affected area: 205,000 square kilometers. Damage: $31 million. The most serious damage occurred in the eight-block downtown commercial district, but residents were also heavily damaged. More then 800 single-family houses were destroyed or incurred major damage. The majority of the 94 injuries occurred in residential sections of the city.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=4977&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-120.317,36.219</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Interior Damage to School in Coalinga, CA</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/5/5_119.jpg"/><br>Organization: Earthquake Engineering Research Institute</p><p><br><a href="/hazardimages/picture/show/119">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-120.3643,36.1479</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial View of 5th Street and Elm Avenue, Coalinga</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_184.jpg"/><br>Organization: Earthquake Engineering Research Institute</p><p><br><a href="/hazardimages/picture/show/184">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-120.3603,36.1397</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Street Level View of Damaged Building at 5th Street and Elm Avenue, Coaling</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_185.jpg"/><br>Organization: Earthquake Engineering Research Institute</p><p><br><a href="/hazardimages/picture/show/185">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-120.3603,36.1397</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Close-up View of Building at Corner of 5th Street and Elm Avenue, Coalinga</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_186.jpg"/><br><p>Credit: M. Hopper<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/186">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-120.3603,36.1397</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Roof Collapse in Central Business District, Coalinga</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_187.jpg"/><br><p>Credit: M. Hopper<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/187">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-120.3619,36.1399</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to State Theater Building, Coalinga, 1980-1984</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_188.jpg"/><br>Organization: Earthquake Engineering Research Institute</p><p><br><a href="/hazardimages/picture/show/188">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-120.361,36.139</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wall Damage to Building in Downtown Coalinga</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_189.jpg"/><br><p>Credit: M. Hopper<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/189">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-120.3591,36.1374</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second Floor Wall Failure on Coalinga House</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_190.jpg"/><br><p>Credit: M. Hopper<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/190">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-120.3569,36.1377</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Porch Columns Damage, Residence in Coalinga</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_191.jpg"/><br><p>Credit: M. Hopper<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/191">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-120.361,36.139</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Total Collapse of Front of Residence, Coalinga</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_192.jpg"/><br><p>Credit: M. Hopper<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/192">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-120.361,36.139</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Interior Damage, Coalinga Junior High School</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_193.jpg"/><br>Organization: Earthquake Engineering Research Institute</p><p><br><a href="/hazardimages/picture/show/193">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-120.3643,36.1478</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Interior Damage, Coalinga Junior High School</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/9/9_194.jpg"/><br>Organization: Earthquake Engineering Research Institute</p><p><br><a href="/hazardimages/picture/show/194">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-120.3643,36.1478</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

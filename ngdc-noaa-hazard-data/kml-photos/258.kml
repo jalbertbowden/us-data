@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>2010/1/12 Port-au-Prince</name>
+  <Placemark>
+    <name>2010/1/12 Port-au-Prince</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_007.jpg"/><br><p>According to official estimates, 222,570 people killed, 300,000 injured, 1.3 million displaced, 97,294 houses destroyed and 188,383 damaged in the Port-au-Prince area and in much of southern Haiti. This includes at least 4 people killed by a local tsunami in the Petit Paradis area near Leogane. Uplift was observed along the coast from Leogane to L'Acul and subsidence was observed along the coast from Grand Trou to Port Royal. Felt (VII) at Port-au-Prince and Petionville and (V) at Vieux Bourg d'Aquin and Port-de-Paix. Felt (V) at La Vega, Moca and San Cristobal; (IV) at Puerto Plata, Santiago, Santo Domingo and Sosua, Dominican Republic. Felt throughout Haiti and the Dominican Republic. Felt (III) at Oranjestad, Aruba; (IV) at Santiago de Cuba and (III) at Guantanamo, Cuba; (II) in the Kingston-Mona area, Jamaica; (III) at Cockburn Harbour and (II) at Cockburn Town, Turks and Caicos Islands; (II) at Caracas, Venezuela. Felt in parts of The Bahamas, Puerto Rico and the US Virgin Islands and as far as southern Florida, northern Colombia and northwestern Venezuela. </p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=8732&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-72.533,18.457</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Remains of Cathedral in Haiti</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_017.jpg"/><br><p>Credit: Marco Dormino<br>Organization: United Nations</p><p><br><a href="/hazardimages/picture/show/1420">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.3388,18.5491</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Downtown Port-au-Prince Reduced to Rubble</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_024.jpg"/><br><p>Credit: Marco Dormino<br>Organization: United Nations</p><p><br><a href="/hazardimages/picture/show/1422">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.33,18.539</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Staff Member Recovers Portraits from Haiti Mission Ruins</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_026.jpg"/><br><p>Credit: Sophia Paris<br>Organization: United Nations</p><p><br><a href="/hazardimages/picture/show/1421">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.312,18.5389</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Haiti Capital Devastated by Quake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_016.jpg"/><br><p>Credit: Marco Dormino<br>Organization: United Nations</p><p><br><a href="/hazardimages/picture/show/1423">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.33,18.539</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Downtown Port-au-Prince in Ruins After Quake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_025.jpg"/><br><p>Credit: Marco Dormino<br>Organization: United Nations</p><p><br><a href="/hazardimages/picture/show/1424">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.33,18.539</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Building Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_010.jpg"/><br><p>Credit: Eric Quintero<br>Organization: IFRC</p><p><br><a href="/hazardimages/picture/show/1425">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.33,18.539</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Building Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_021.jpg"/><br><p>Credit: Eric Quintero<br>Organization: IFRC</p><p><br><a href="/hazardimages/picture/show/1426">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.33,18.539</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Petionville, Port-au-Prince</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_018.jpg"/><br><p>Credit: Talia Frenkel<br>Organization: American Red Cross</p><p><br><a href="/hazardimages/picture/show/1427">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.2853,18.5142</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Houses destroyed by the earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_031.jpg"/><br><p>Credit: Marko Kokic<br>Organization: IFRC</p><p><br><a href="/hazardimages/picture/show/1428">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.317,18.5359</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Port-au-Prince</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_032.jpg"/><br>Organization: British Red Cross</p><p><br><a href="/hazardimages/picture/show/1429">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.317,18.5359</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage in Port-au-Prince</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_012.jpg"/><br>Organization: Red Cross</p><p><br><a href="/hazardimages/picture/show/1430">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.317,18.5359</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage in Port-au-Prince</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_014.jpg"/><br>Organization: Red Cross</p><p><br><a href="/hazardimages/picture/show/1431">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.317,18.5359</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage near Petit Paradis</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_001.jpg"/><br><p>Credit: Hermann M. Fritz<br>Organization: Georgia Institute of Technology</p><p><br><a href="/hazardimages/picture/show/1412">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.8646,18.4358</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage near Petit Paradis</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_004.jpg"/><br><p>Credit: Hermann M. Fritz<br>Organization: Georgia Institute of Technology</p><p><br><a href="/hazardimages/picture/show/1415">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.8646,18.4358</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage near Petit Paradis</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_002.jpg"/><br><p>Credit: Hermann M. Fritz<br>Organization: Georgia Institute of Technology</p><p><br><a href="/hazardimages/picture/show/1413">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.8646,18.4358</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage near Petit Paradis</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_003.jpg"/><br><p>Credit: Hermann M. Fritz<br>Organization: Georgia Institute of Technology</p><p><br><a href="/hazardimages/picture/show/1414">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.8646,18.4358</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage near Petit Paradis</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_005.jpg"/><br><p>Credit: Hermann M. Fritz<br>Organization: Georgia Institute of Technology</p><p><br><a href="/hazardimages/picture/show/1416">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.8646,18.4358</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_006.jpg"/><br><p>Credit: Hermann M. Fritz<br>Organization: Georgia Institute of Technology</p><p><br><a href="/hazardimages/picture/show/1417">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.8646,18.4358</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage near Petit Paradis</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_007.jpg"/><br><p>Credit: Hermann M. Fritz<br>Organization: Georgia Institute of Technology</p><p><br><a href="/hazardimages/picture/show/1418">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.8646,18.4358</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>School Collapsed by Quake in Slum of Cit Soleil</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/258/258_029.jpg"/><br><p>Credit: Logan Abassi<br>Organization: United Nations</p><p><br><a href="/hazardimages/picture/show/1419">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72.3319,18.5817</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

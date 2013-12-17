@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>2003/5/21 Boumerdes and Algiers</name>
+  <Placemark>
+    <name>2003/5/21 Boumerdes and Algiers</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1080.jpg"/><br><p>A destructive earthquake of magnitude Mw = 6.8 hit the region of Boumerdes and Algiers (Algeria) on May 21, 2003. This is among the strongest seismic events of the mediterranean region and the most important event in the capital Algiers since 1716. It caused a widespread damage in the epicentral region, claimed 2271 human lives, injured 10,000, about 20,000 housing units affected and left about 160,000 homeless. The main shock was felt about 250 km far from the epicenter and triggered sea waves of 1-3 m in amplitude in Balearic islands (Spain). The main shock was followed by many aftershocks among them several are of magnitude greater than 5.0, which added panic to inhabitants. The main shock triggered ground deformation, particularly liquefaction whose features are in different forms and sizes and caused damage and collapse of roads. The epicenter was located offshore about 7 km from the Boumerdes-Dellys coast.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5694&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>3.634,36.964</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bordj-El-Kiffan City, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1096.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1096">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bordj-El-Kiffan City, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1097.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1097">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bordj-El-Kiffan City, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1098.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1098">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bordj-El-Kiffan City, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1099.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1099">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bordj-El-Kiffan City, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1100.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1100">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bordj-El-Kiffan City, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1101.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1101">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bordj-El-Kiffan City, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1102.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1102">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bordj-El-Kiffan City, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1103.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1103">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bordj-El-Kiffan City, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1104.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1104">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bordj-El-Kiffan City, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1105.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1105">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bordj-El-Kiffan City, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1106.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1106">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bordj-El-Kiffan City, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1107.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1107">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to an apartment building with a soft first story in Bordj-El-Kiffan City, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1108.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1108">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.752</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pancake collapse in Kahouat-Chergui, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1109.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1109">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahouat-Chergui, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1110.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1110">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.24,36.81</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahouat-Chergui, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1111.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1111">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.24,36.81</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Building damage in the city of Boumerdes, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1080.jpg"/><br><p>Credit: Ali Nour<br>Organization: CGS; National Center of Applied Research in Earthquake Engineering</p><p><a href="/hazardimages/picture/show/1080">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.47,36.76</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Building damage in the city of Boumerdes, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1081.jpg"/><br><p>Credit: Ali Nour<br>Organization: CGS; National Center of Applied Research in Earthquake Engineering</p><p><a href="/hazardimages/picture/show/1081">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.471,36.76</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to an apartment building in the city of Boumerdes, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1082.jpg"/><br><p>Credit: Ali Nour<br>Organization: CGS; National Center of Applied Research in Earthquake Engineering</p><p><a href="/hazardimages/picture/show/1082">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.47,36.761</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Building damage in the city of Boumerdes, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1083.jpg"/><br><p>Credit: Ali Nour<br>Organization: CGS; National Center of Applied Research in Earthquake Engineering</p><p><a href="/hazardimages/picture/show/1083">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.472,36.76</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Structural damage in the city of Boumerdes, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1084.jpg"/><br><p>Credit: Ali Nour<br>Organization: CGS; National Center of Applied Research in Earthquake Engineering</p><p><a href="/hazardimages/picture/show/1084">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.471,36.761</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to a grain silo Corso, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1085.jpg"/><br>Organization: CGS; National Center of Applied Research in Earthquake Engineering</p><p><a href="/hazardimages/picture/show/1085">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.4667,36.716</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to a grain silo Corso, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1086.jpg"/><br>Organization: CGS; National Center of Applied Research in Earthquake Engineering</p><p><a href="/hazardimages/picture/show/1086">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.4667,36.716</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Slumps and cracks in a road near Algiers, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1087.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1087">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.042,36.767</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Slumps and cracks in a road near Algiers, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1088.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1088">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.042,36.767</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Slumping near Algiers, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1089.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1089">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.042,36.767</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to an apartment building with a soft first story near Algiers, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1090.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1090">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.042,36.767</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Modern building completely collapsed in Boumerdes, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1091.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1091">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.47,36.76</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Modern building completely collapsed in Boumerdes, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1092.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1092">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.47,36.76</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to an apartment building with a soft first story near Algiers, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1093.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1093">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.042,36.767</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bordj-El-Kiffan City, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1094.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1094">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bordj-El-Kiffan City, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/51/51_1095.jpg"/><br><p>Credit: Djillali Benour<br>Organization: University of Bab Ezzour, Algeria</p><p><a href="/hazardimages/picture/show/1095">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>3.2,36.751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

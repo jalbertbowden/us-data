@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1977/3/4 Bucharest</name>
+  <Placemark>
+    <name>1977/3/4 Bucharest</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/15/15_303.jpg"/><br><p>1,500 reported killed, 10,500 injured, and extensive damage
+ in the Bucharest area. Bulgaria reported 20 killed and 165
+ injured. Moscow reported some damage in the Soviet Republic
+ of Moldavia. Felt from Rome to Moscow and from Turkey to
+ Finland.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=4760&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>26.76,45.77</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Rockfalls in the Buzau Mountains caused by March 1977 earthquakes</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/15/15_303.jpg"/><br><p>Credit: Dr. Dan Balteanu<br>Organization: Romanian Academy</p><p><br><a href="/hazardimages/picture/show/303">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>26.627,45.234</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second view of rockfalls in Buzau Mountains</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/15/15_304.jpg"/><br><p>Credit: Dr. Dan Balteanu<br>Organization: Romanian Academy</p><p><br><a href="/hazardimages/picture/show/304">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>26.627,45.234</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Rock block slide along planar surface in eastern Carpathians</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/15/15_305.jpg"/><br><p>Credit: Dr. Dan Balteanu<br>Organization: Romanian Academy</p><p><br><a href="/hazardimages/picture/show/305">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>26.3833,45.4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second view of block slide in eastern Carpathians</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/15/15_306.jpg"/><br><p>Credit: Dr. Dan Balteanu<br>Organization: Romanian Academy</p><p><br><a href="/hazardimages/picture/show/306">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>26.3833,45.4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Translation landslide that blocked valley in Subcarpathians</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/15/15_310.jpg"/><br><p>Credit: Dr. Dan Balteanu<br>Organization: Romanian Academy</p><p><br><a href="/hazardimages/picture/show/310">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>24,48</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1990/6/20 Northern</name>
+  <Placemark>
+    <name>1990/6/20 Northern</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_281.jpg"/><br><p>A magnitude 7.7 earthquake occurred in the Gilan Province between the towns of Rudbar and Manjil in northern Iran on Thursday, June 21, 1990 (June 20 at 21:00 GMT). The event, the largest ever to be recorded in that part of the Caspian Sea region, may have been composed of two or more closely-spaced earthquakes occurring in rapid succession. These quakes, exceptionally close to the surface for this region, were also unusually destructive.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5248&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>49.409,36.957</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Unnreinforced Masonry Infill Walls, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_289.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/289">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.583,37.284</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Building with Reinforced Infill Walls, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_290.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/290">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.4161,36.7425</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage Due to Inadequate Cross-Bracing, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_291.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/291">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.4161,36.7425</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tilt of 8-story Steel Structure, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_292.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/292">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.583,37.284</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Building with Rod Bracing, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_293.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/293">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.4693,36.8564</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Concrete Frame Construction, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_294.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/294">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49,36</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of Mid-Rise Concrete Building, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_295.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/295">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49,36</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Total Failure of Mid-Rise Concrete Building, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_296.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/296">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.583,37.284</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Elevated Concrete Water Tank, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_297.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/297">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.583,37.284</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of Concrete Water Tank, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_298.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/298">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.583,37.284</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pier Displacement of Concrete Bridge, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_299.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/299">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49,36</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sefid Rud Dam, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_300.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/300">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.7311,37.1179</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Building Damaged by Ground Failure, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_281.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/281">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.4161,36.7425</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Differential Settlement, Liquefaction, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_282.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/282">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.4161,36.7425</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Destruction of Unreinforced Masonry Buildings, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_283.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/283">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.4161,36.7425</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of Unreinforced Masonry Buildings, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_284.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/284">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.44,36.777</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Parapet and Roof Collapse, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_286.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/286">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.5839,37.2793</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>X-Cracking in Shear Walls, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_287.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/287">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.583,37.284</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Structural Damage to Walls, Iran</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/14/14_288.jpg"/><br><p>Credit: M. Mehrain<br>Organization: Dames and Moore</p><p><a href="/hazardimages/picture/show/288">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>49.583,37.284</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

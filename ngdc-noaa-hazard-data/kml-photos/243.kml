@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1986/7/8 Palm Springs</name>
+  <Placemark>
+    <name>1986/7/8 Palm Springs</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_96.jpg"/><br><p>The magnitude 6.0 earthquake caused $4.5 million in property damage and injured at least 29 people. Landslides occurred in the area. The shock was felt throughout much of southern California and in Las Vegas, Nevada, Lake Havasu City, Arizona and in the northern Baja California area of the United States and Mexico.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5100&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-116.61,34</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Rockfall on Highway</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_171.jpg"/><br>Organization: Bay Area Regional Earthquake Preparedness Project</p><p><br><a href="/hazardimages/picture/show/171">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.54,33.83</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Display Window</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_172.jpg"/><br>Organization: Bay Area Regional Earthquake Preparedness Project</p><p><br><a href="/hazardimages/picture/show/172">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.54,33.83</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Rockfall Blocks Highway</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_96.jpg"/><br>Organization: Bay Area Regional Earthquake Preparedness Project</p><p><br><a href="/hazardimages/picture/show/96">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-117,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed Concrete Block Fence</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_173.jpg"/><br>Organization: Bay Area Regional Earthquake Preparedness Project</p><p><br><a href="/hazardimages/picture/show/173">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.54,33.83</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Porch Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_170.jpg"/><br>Organization: Bay Area Regional Earthquake Preparedness Project</p><p><br><a href="/hazardimages/picture/show/170">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.54,33.83</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1971/2/9 San Fernando</name>
+  <Placemark>
+    <name>1971/2/9 San Fernando</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_31.jpg"/><br><p>The magnitude 6.7 earthquake killed 66 and caused $0.5-1.0 billion property damage. </p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=4558&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4,34.412</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage at I-5 and I-210 Freeway Interchange (1971)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_401.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/401">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4893,34.3171</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage at I-5 and C-14 Freeway Interchange (1971)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_402.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/402">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5083,34.337</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Van Norman Dam (Lower San Fernando Dam) (1971)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_404.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/404">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4833,34.2977</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed condenser banks at the Sylmar Converter Station (1971)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_405.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/405">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4787,34.2809</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Buckled sidewalks in front of Juvenile Hall (1971)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_406.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/406">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4834,34.3162</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>A home in Crestview Park on Almetz Street (1971)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_408.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/408">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.435,34.3273</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Compression of Freeway, San Fernando, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_31.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/31">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.489,34.3176</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial view of the damage to the San Fernando Veterans Administration Hospital and complex (1971)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_411.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/411">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4833,34.2444</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial view of damaged Olive View Hospital (1971)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_414.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/414">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4463,34.3257</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damaged Juvenile Hall Facilities (1971)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_416.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/416">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4834,34.3162</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Interior damage to a building in the San Fernando Mall (1971)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_417.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/417">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5557,34.2396</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>First-story column failure, San Fernando, CA</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/22/22_441.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/441">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4463,34.3257</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Spirally wrapped column failure on interstate, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/22/22_442.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/442">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4907,34.3168</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed column, Interstate 5/210 interchange, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/22/22_443.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/443">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4907,34.3168</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Column failure, Holy Cross Hospital</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/22/22_444.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/444">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4604,34.2801</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Failure of several columns, Foothills Freeway overpass</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/22/22_445.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/445">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.3817,34.2755</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed Overpass</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_92.jpg"/><br><p>Credit: J.R. Evans<br><p><a href="/hazardimages/picture/show/92">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.489,34.3176</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

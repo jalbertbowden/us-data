@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1988/12/7 Leninakan-Spitak-Kirovakan</name>
+  <Placemark>
+    <name>1988/12/7 Leninakan-Spitak-Kirovakan</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_98.jpg"/><br><p>The magnitude 6.9 earthquake shook northwestern Armenia, and was followed four minutes later by a magnitude 5.8 aftershock. The earthquakes affected an area 80 kilometers in diameter. This set includes damage photographs taken in and around the devastated cities of Spitak and Leninakan, where 25,000 deaths occurred. Location: Northwestern Armenian SSR, 18 kilometers north northwest of Spitak. Damage: $14.2 billion. Fifteen thousand were injured and 517,000 lost their homes. The death toll (25,000) could have been much worse had it not been for the heroic rescue of 15,000 who were pulled from the rubble.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5184&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>44.185,40.987</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Interior Collapse at School in Spitak, Armenia, 1988</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/5/5_120.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/120">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.268,40.838</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of Stone Masonry Bearing-Wall, Halavar, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_221.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/221">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.3886,40.766</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed Structures, Halavar, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_222.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/222">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.3886,40.766</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed Stone Masonry Building, Halavar, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_223.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/223">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.3886,40.766</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed Masonry Building, Arevashok, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_224.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/224">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.2727,40.8615</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of Composite Structure, Spitak, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_225.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/225">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.268,40.838</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Sugar Beet Refinery, Spitak, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_226.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/226">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.2683,40.8379</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Flour Mill Complex, Spitak, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_227.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/227">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.268,40.8381</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Granary Spitak, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_228.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/228">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.2682,40.8382</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Communications Building, Spitak, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_229.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/229">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.2681,40.8381</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Partial Collapse of Masonry Building, Spitak, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_230.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/230">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.2681,40.8382</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Partial Destruction of Masonry Building, Spitak, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_231.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/231">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.268,40.8383</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of Stone Masonry Building, Spitak, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_232.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/232">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.268,40.838</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Central Spitak, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_233.jpg"/><br><p>Credit: G. Sobolev<br>Organization: Academy of Sciences of U.S.S.R.</p><p><a href="/hazardimages/picture/show/233">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.268,40.838</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage Concrete-Frame Building, Leninakan, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_234.jpg"/><br><p>Credit: G. Sobolev<br>Organization: Academy of Sciences of U.S.S.R.</p><p><a href="/hazardimages/picture/show/234">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>43.8473,40.7898</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of Floors, Leninakan, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_235.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/235">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>43.8473,40.7898</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of Church of the Holy Saviour of All, Leninakan, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_236.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/236">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>43.8412,40.7841</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Earthquake-induced Landslide, Halavar, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_237.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/237">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.3886,40.766</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Iceberg Produced by Broken Pipe near Spitak, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_238.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/238">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.2683,40.8379</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Thrust fault, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_239.jpg"/><br><p>Credit: G. Sobolev<br>Organization: Academy of Sciences of U.S.S.R.</p><p><a href="/hazardimages/picture/show/239">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Right-lateral Strike Slip Fault near Spitak, Armenia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/11/11_240.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/240">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>44.268,40.838</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Blocking of Roadways Caused by Building Collapse</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_98.jpg"/><br><p>Credit: C.J. Langer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/98">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>43.8475,40.7894</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

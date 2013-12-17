@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1999/9/20 Nantou</name>
+  <Placemark>
+    <name>1999/9/20 Nantou</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/small_res/47/47_958.jpg"/><br><p>At least 2,297 people killed, 8,700 injured, 600,000 people left homeless and about 82,000 housing units damaged by the earthquake and larger aftershocks. Damage estimated at 14 billion U.S. dollars. Maximum intensity (VI JMA) in Nan-touand Tai-chung Counties. Half of a village was lost by subsidence into the Ta-an Hsi and landslides blocked the Ching-shui Hsi, creating a large lake. Two other lakes were created by substantial ground deformation near the epicenter. Surface faulting occurred along 75 km of the Chelungpu Fault. Felt (V JMA) at Chia-i and I-lan; (IV JMA) at Kao-hsiung, Taipei and Tai-tung; (IV JMA) on Lan Yu and Peng-hu Tao; (III JMA) at Hua-lien. Felt strongly in Fujian, Guangdong and Zhejiang Provinces. Felt (IV) in Hong Kong. Also felt (II JMA) on Iriomote-jima and Yonaguni- jima; (I JMA) on Ishigaki-jima and Miyako-jima, Ryukyu Islands.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5535&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>120.982,23.772</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Along Chelungpu Fault</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_941.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/941">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>121,24</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Along Chelungpu Fault</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_942.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/942">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>121,24</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Along Chelungpu Fault</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_943.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/943">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>121,24</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Taichung</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_944.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/944">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>121,24</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Taichung</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_945.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/945">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>121,24</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Taichung</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_946.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/946">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>121,24</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fengyuan</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_947.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/947">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.731,24.25</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fengyuan</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_948.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/948">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.731,24.25</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fengyuan</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_949.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/949">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.731,24.25</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fengyuan</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_950.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/950">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.769,24.283</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fengyuan</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_951.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/951">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.769,24.283</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fengyuan</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_952.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/952">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.769,24.283</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fengyuan</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_953.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/953">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.769,24.283</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Dongshi</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_954.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/954">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>121,24</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Dongshi</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_955.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/955">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>121,24</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Dongshi</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_956.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/956">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>121,24</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Dongshi</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_957.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/957">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>121,24</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Dongshi</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_958.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/958">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>121,24</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Dongshi</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_959.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/959">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>121,24</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Dongshi</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/47/47_960.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/960">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>121,24</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

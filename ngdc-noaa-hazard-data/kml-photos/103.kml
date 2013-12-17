@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+  <name> Faults</name>
+  <Placemark>
+    <name>Aerial view of San Andreas fault</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_202.jpg"/><br><p><a href="/hazardimages/picture/show/1607">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-119.6387,35.1083</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>View of cross section of San Andreas fault</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_203.jpg"/><br><p>Credit: Clifford E. Harwood<br><p><a href="/hazardimages/picture/show/1608">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.1344,34.561</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second view of cross section of San Andreas fault</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_204.jpg"/><br><p>Credit: Clifford E. Harwood<br><p><a href="/hazardimages/picture/show/1609">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.133,34.5609</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Drain offset caused by seismic creep</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_205.jpg"/><br>Organization: University of California, Berkeley</p><p><br><a href="/hazardimages/picture/show/1610">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.8943,37.2372</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fence offset produced by 1906 San Francisco earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_206.jpg"/><br><p>Credit: G.K. Gilbert<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1611">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-119.1993,36.1056</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>En echelon fractures along Imperial fault</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_207.jpg"/><br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1612">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.211,32.842</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Offset of woodpile along Imperial fault</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_208.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1613">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.551,33.075</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Offset of rows in plowed field</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_209.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1614">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.55,33.074</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Offset of cement-lined ditch in Guatemala</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_210.jpg"/><br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1615">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-88.93,15.41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fault scarp near Hebgen Lake, Montana</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_213.jpg"/><br>Organization: National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/1618">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-111.251,44.7945</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fault scarp caused by Borah Peak, Idaho earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_214.jpg"/><br><p>Credit: R.C. Bucknam<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1619">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-113.8499,44.129</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fault scarp and horizontal offset near Dickey, Idaho</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_215.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1620">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-113.818,44.2415</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Oblique-slip fault scarp near Pleasant Valley, Nevada</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_216.jpg"/><br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1621">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-117.6428,40.5635</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Oblique-slip fault scarp at Flamingo Heights, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_217.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1622">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.4386,34.2416</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Blind thrust fault scarp at El Asnam, Algeria</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_219.jpg"/><br><p>Credit: H.C. Shah<br>Organization: Stanford University</p><p><br><a href="/hazardimages/picture/show/1624">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>1.3321,36.164</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Under-thrust fault from nuclear test</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_220.jpg"/><br><p>Credit: L.M. Gard, Jr.<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1625">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-103.8656,32.2626</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Reverse fault near Clark County, Montana</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_218.jpg"/><br><p>Credit: M.R. Mudge<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1623">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-112.7368,47.6107</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tree bisected by fault in Guatemala</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_212.jpg"/><br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1617">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-91.4711,15.3243</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Deformation of rows by 1976 earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_211.jpg"/><br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1616">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-91.4711,15.3242</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

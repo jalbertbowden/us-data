@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+  <name> Slumps and Subsidence</name>
+  <Placemark>
+    <name>Slump, Pacific Palisades, Southern California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_133.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1538">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5297,34.0342</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Earthflow, Chalet Du Fer, Leysin, Switzerland</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_134.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1539">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>7.0304,46.3721</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Head of Slump, Black Hills, North Dakota</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_135.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1540">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-103.52,46.91</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Subsidence, San Joaquin Valley, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_136.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1541">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-120,36</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sinking, Coal Mine Collapse, Lafayette, Colorado</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_137.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1542">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-105.09,39.99</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

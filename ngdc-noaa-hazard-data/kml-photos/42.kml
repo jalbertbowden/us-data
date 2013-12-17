@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1980/5/18 Mount Saint Helens</name>
+  <Placemark>
+    <name>1980/5/18 Mount Saint Helens</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_621.jpg"/><br><p>An earthquake occurred at 15 32 UT, only seconds before the explosion that began the eruption of Mount St. Helens volcano. This eruption and blast blew off the top of the volcano, reducing its elevation by 396 meters, killed 31 people and caused an estimated property damage of between $0.5 billion and $2 billion. About 53 earthquakes having magnitude larger than 4.5 were located near Mount St. Helens before the main event and eruption. No earthquakes having magnitudes higher than 4.5 were located following the eruption.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=null">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-122.194,46.214</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mount Saint Helens, WA, before Volcanic Activity Began</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_621.jpg"/><br>Organization: Department of Natural Resources, State of Washington</p><p><br><a href="/hazardimages/picture/show/621">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Buried Cascade Ashes Witness to Previous Volcanic Activity in the Cascades</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_622.jpg"/><br>Organization: University of Colorado at Boulder</p><p><br><a href="/hazardimages/picture/show/622">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>First Evidence of Activity at Mount Saint Helens, WA</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_623.jpg"/><br>Organization: Department of Natural Resources, State of Washington</p><p><br><a href="/hazardimages/picture/show/623">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Ash Darkens Slopes of Mount Saint Helens, WA, as Activity Continues</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_624.jpg"/><br>Organization: Department of Natural Resources, State of Washington</p><p><br><a href="/hazardimages/picture/show/624">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second Crater is Formed at the Summit of Mount Saint Helens, WA</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_625.jpg"/><br>Organization: Department of Natural Resources, State of Washington</p><p><br><a href="/hazardimages/picture/show/625">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>"Bulge" Forms on N-NE Flank of Mount Saint Helens, Washington</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_626.jpg"/><br>Organization: Department of Natural Resources, State of Washington</p><p><br><a href="/hazardimages/picture/show/626">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Steam Eruption at Mount Saint Helens, WA, Prior to May 18, 1980 Eruption</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_627.jpg"/><br><p>Credit: D. Wellman<br>Organization: NOAA</p><p><br><a href="/hazardimages/picture/show/627">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>The Ash Cloud Formed by the May 18th Eruption at Mount Saint Helens, WA</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_628.jpg"/><br>Organization: Department of Natural Resources, State of Washington</p><p><br><a href="/hazardimages/picture/show/628">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Ash Cloud from Distance of Three Miles, Mount Saint Helens, WA</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_629.jpg"/><br><p>Credit: D. Wellman<br>Organization: NOAA</p><p><br><a href="/hazardimages/picture/show/629">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial View of Mount Saint Helens after Major Eruption of May 18, 1980</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_630.jpg"/><br>Organization: Department of Natural Resources, State of Washington</p><p><br><a href="/hazardimages/picture/show/630">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mount Saint Helens, WA and Devastation Produced by May 18, 1980 Eruption</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_631.jpg"/><br>Organization: Department of Natural Resources, State of Washington</p><p><br><a href="/hazardimages/picture/show/631">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Eruption Cloud from Yakima, Washington</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_632.jpg"/><br><p>Credit: D. Wellman<br>Organization: NOAA</p><p><br><a href="/hazardimages/picture/show/632">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-120,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Ash Fall at Sand Point, Idaho</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_633.jpg"/><br><p>Credit: David Schoolcraft<br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/633">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116,48</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Uprooted Trees in Blast Devastated Area near Mount Saint Helens, WA</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_634.jpg"/><br>Organization: Department of Natural Resources, State of Washington</p><p><br><a href="/hazardimages/picture/show/634">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Deforestation Resulting from the 5/18/1980, Blast at Mount Saint Helens, WA</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_635.jpg"/><br>Organization: Department of Natural Resources, State of Washington</p><p><br><a href="/hazardimages/picture/show/635">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mud Flow on Toutle River Resulting from Mt St Helens Eruption 1980</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_636.jpg"/><br>Organization: Department of Natural Resources, State of Washington</p><p><br><a href="/hazardimages/picture/show/636">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>"Crater" Formed from Contact of Hot Volcanic Debris with Water, Mount Saint Helens, Washington</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_637.jpg"/><br>Organization: Department of Natural Resources, State of Washington</p><p><br><a href="/hazardimages/picture/show/637">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Spirit Lake after 5/18/1980 Eruption at Mt St Helens</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_638.jpg"/><br>Organization: Department of Natural Resources, State of Washington</p><p><br><a href="/hazardimages/picture/show/638">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Snow Plow Removes Volcanic Ash near Coeur D'Alene, ID</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_639.jpg"/><br><p>Credit: David Schoolcraft<br>Organization: NOAA National Geophysical Data Center</p><p><br><a href="/hazardimages/picture/show/639">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116,47</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Lava Dome, Mt Saint Helens 3 Years after May 18, 1980, Eruption</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/31/31_640.jpg"/><br>Organization: University of Colorado at Boulder</p><p><br><a href="/hazardimages/picture/show/640">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,46</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

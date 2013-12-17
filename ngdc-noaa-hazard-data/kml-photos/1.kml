@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1959/8/18 Hebgen Lake</name>
+  <Placemark>
+    <name>1959/8/18 Hebgen Lake</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_21.jpg"/><br><p>The magnitude 7.1 earthquake killed 28 people and caused $11 million property damage. Affected area: 1,554,000 sq km</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=4199&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-111.215,44.712</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Slide and Alluvial Fan, Madison River, Montana</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_125.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado at Boulder</p><p><a href="/hazardimages/picture/show/125">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-111.3359,44.864</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Compression of Fence, Hebgen Lake, Montana</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_21.jpg"/><br><p>Credit: J.R. Stacy<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/21">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-111.0811,44.655</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Slumping of Highway into Hebgen Lake, Montana</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_22.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/22">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-111.263,44.8222</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fault scarp near Hebgen Lake, Montana</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_213.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/213">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-111.2007,44.8453</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Highway Slumped into lake after Earthquake Shaking, Hebgen Lake, MT</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_82.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/82">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-111.263,44.8222</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of Stone Entry at Elementary School</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/5/5_110.jpg"/><br><p>Credit: R.W. Bayley<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/110">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-111.1084,44.6652</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1999/11/12 Duzce</name>
+  <Placemark>
+    <name>1999/11/12 Duzce</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_881.jpg"/><br><p>The magnitude 7.2 quake occurred at 6.57 pm local time (16:57 GMT). Duzce lies on the eastern fringe of the region hit by the August 17 quake. Some areas experienced a one-two punch from the 1999 earthquakes. The death toll from the November quake was reported to be 260 people. More than 1,282 were injured and at least 102 buildings were destroyed.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5543&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>31.161,40.758</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_881.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/881">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_882.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/882">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_883.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/883">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_884.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/884">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_885.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/885">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_886.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/886">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_887.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/887">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_888.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/888">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_889.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/889">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>null</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_890.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/890">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_891.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/891">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_892.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/892">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_893.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/893">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_894.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/894">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_895.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/895">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_896.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/896">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_897.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/897">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_898.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/898">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Duzce</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_899.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/899">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaynasli</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/44/44_900.jpg"/><br><p>Credit: Roger Bilham<br>Organization: University of Colorado,  Dept. of Geological Sciences</p><p><a href="/hazardimages/picture/show/900">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>31,41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

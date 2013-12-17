@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1993/7/12 Hokkaido</name>
+  <Placemark>
+    <name>1993/7/12 Hokkaido</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_541.jpg"/><br><p>On July 12, 1993, a magnitude 7.6 Ms (7.7 Mw) (HRV) earthquake at 13:17 UT in the Sea of Japan near Hokkaido caused a back-arc tsunami that caused damage in all of the countries bordering the Sea of Japan. The earthquake had a rupture length of 150 kilometers, a movement of 2.5 meters and a dip to the east of 24 degrees. The tsunami was 32 meters high on Okishuri, Island, where the most destruction occurred. The whole island subsided by 5-80 centimeters. </p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5357&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>139.197,42.851</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami and fire damage SE Okushiri Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_541.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/541">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.496,42.0888</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami damage at Aonae, Okushiri Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_542.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/542">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4458,42.0638</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Clock at Aonae showing arrival time of wave</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_543.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/543">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.449,42.063</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Scattered debris at Aonae, Okushiri Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_544.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/544">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4491,42.063</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Beached fishing boat at Aonae, Okushiri Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_545.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/545">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4672,42.063</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>View to north of damage to prosperous tourist area at Aonae, Okushiri Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_546.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/546">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4506,42.0523</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>View to south of above area</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_547.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/547">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4672,42.063</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Debris scattered near harbor at Aonae, Okushiri Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_548.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/548">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4511,42.0636</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>High water mark of five meters shown on side of damaged house</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_549.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/549">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4493,42.0633</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Small fishing boats deposited near harbor at Aonae</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_550.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/550">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4508,42.0625</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Clock half burried in sand shows travel time of twenty minutes</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_551.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/551">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4496,42.0627</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Large barge that was moved 75 m by waves</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_552.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/552">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4489,42.0592</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fishing boat deposited on concrete shore protection barrier, Aonae</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_553.jpg"/><br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/553">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4514,42.0606</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>A small valley on the west side of Okushiri Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_554.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/554">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.41,42.165</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage at Monai, west Okushiri Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_555.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/555">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4247,42.1088</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Debris Line at Monai, West Okushiri Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_556.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/556">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4247,42.1088</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Debris on highway overpass near Monai, Okushiri Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_557.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/557">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4248,42.1088</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Debris in overhead utility wires on west Okushiri Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_558.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/558">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4277,42.1381</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Vegetation stripped from hillside, west Okushiri Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_559.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/559">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.4276,42.1382</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Waves overtopped roadway, west Okushiri Island</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/27/27_560.jpg"/><br><p>Credit: Commander Dennis J. Sigrist<br>Organization: International Tsunami Information Center</p><p><br><a href="/hazardimages/picture/show/560">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>139.408,42.1606</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

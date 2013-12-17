@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1979/10/15 El Centro</name>
+  <Placemark>
+    <name>1979/10/15 El Centro</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_37.jpg"/><br><p>The magnitude 6.9 earthquake caused $30 million property damage and injured 91 people.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=4847&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-115.324,32.634</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Imperial County Services Building Before and After 1979 Earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_161.jpg"/><br><p>Credit: Bay Area Regional Earthquake Preparedness Project<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/161">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.56,32.79</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Earth Cracks near El Centro</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_162.jpg"/><br>Organization: University of Colorado at Boulder</p><p><br><a href="/hazardimages/picture/show/162">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.562,32.792</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sand Boil Near El Centro, 1979</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_163.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/163">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.562,32.792</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Merchandise on Floor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_164.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/164">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.5317,32.9787</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fallen Porch</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_165.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/165">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.5382,32.9775</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fault Trace across Lettuce Field</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_166.jpg"/><br>Organization: University of Colorado at Boulder</p><p><br><a href="/hazardimages/picture/show/166">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.562,32.792</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Theater at Brawley</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/8/8_167.jpg"/><br>Organization: Bay Area Regional Earthquake Preparedness Project</p><p><br><a href="/hazardimages/picture/show/167">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.5338,32.9789</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Support Pillar Failure, Imperial County Services Building, El Centro</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_36.jpg"/><br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/36">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.562,32.792</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Offset of Lettuce Rows across Fault, El Centro, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_37.jpg"/><br>Organization: University of Colorado at Boulder</p><p><br><a href="/hazardimages/picture/show/37">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.562,32.792</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Slumping near El Centro, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_38.jpg"/><br>Organization: University of Colorado at Boulder</p><p><br><a href="/hazardimages/picture/show/38">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.562,32.792</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sand Boil produced by Liquefaction, El Centro, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_39.jpg"/><br>Organization: University of Colorado at Boulder</p><p><br><a href="/hazardimages/picture/show/39">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.562,32.792</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>En echelon fractures along Imperial fault</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_207.jpg"/><br>Organization: University of Colorado at Boulder</p><p><br><a href="/hazardimages/picture/show/207">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115,32</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Offset of woodpile along Imperial fault</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_208.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/208">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115,33</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Offset of rows in plowed field</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_209.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/209">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115,33</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Imperial County Services Building</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/22/22_447.jpg"/><br><p>Credit: G. Reagor<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/447">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.562,32.792</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damaged columns, Imperial County Services Building</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/22/22_448.jpg"/><br><p>Credit: C. Reed<br>Organization: California Geology</p><p><br><a href="/hazardimages/picture/show/448">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.562,32.792</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

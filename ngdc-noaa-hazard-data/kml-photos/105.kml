@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href></href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name> Erosional Landforms</name>
+  <Placemark>
+    <name>Hanging Valley, Yosemite National Park, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_499.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1584">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-119.5969,37.7564</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Glacier in Ice Fields Parkway, Canada</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_500.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1585">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.2,52.72</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Headlands and arches on Oregon coast</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_481.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1566">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.331,44.511</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Headlands and sea stacks on Oregon coast</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_482.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1567">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.33,44.51</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Alcove in canyon wall, Lake Powell, Arizona</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_483.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1568">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-111.311,36.9194</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Delicate Arch, Moab, Utah</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_484.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1569">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-109.4993,38.7436</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Balancing Rock, Moab, Utah</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_485.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1570">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-109.588,38.724</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Rainbow Bridge, Arizona</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_486.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1571">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-110.9642,37.0775</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Alcove in canyon wall, Lake Powell, Arizona</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_487.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1572">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-111.311,36.9194</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Cross-bedding, Zion National Park, Utah</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_488.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1573">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-112.982,37.211</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Cliff erosion, Bryce Canyon, Utah</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_489.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1574">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-112.182,37.5849</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Canyonlands, Moab, Utah</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_490.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1575">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-109.9,38.208</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Whittier Trail, Canyonlands, Utah</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_491.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1576">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-109.91,38.2081</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>San Andreas Fault, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_492.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1577">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.11,34.527</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Devils Tower, Wyoming</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_493.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1578">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-104.6968,44.5892</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>V-shaped valley, Zion National Park, Utah</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_494.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1579">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-113.24,37.197</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mature Grand Valley, Colorado</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_495.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1580">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-108.694,39.0552</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>U-shaped valley, Alberta, Canada</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_496.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1581">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.14,56.51</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>U-shaped valley, Rocky Mountain National Park, Colorado</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_497.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1582">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-105.69,40.2827</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Glacial erosion, Grand Tetons, Wyoming</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/24/24_498.jpg"/><br><p>Credit: John Lockridge, Longmont, Colorado<br><p><a href="/hazardimages/picture/show/1583">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-110.843,43.799</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

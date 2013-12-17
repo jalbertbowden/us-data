@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1992/6/27 Mount Spurr</name>
+  <Placemark>
+    <name>1992/6/27 Mount Spurr</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/small_res/35/35_719.jpg"/><br><p>Following 39 years of inactivity, Crater Peak vent on the south flank of Mount Spurr volcano burst into eruption at 7:04 a.m. Alaska daylight time (ADT) on June 27, 1992. The Municipality of Anchorage reported nearly $2 million in damage, office closures, and cleanup costs from the August eruption. In addition, there were numerous, small-scale losses incurred by businesses. No loss of life resulted directly from the eruptions. However, two heart attacks, one fatal, from shoveling ashfall were reported in Anchorage.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=null">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-152.25,61.3</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Warm lake within the Crater Peak basin prior to eruption</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/35/35_702.jpg"/><br><p>Credit: R.G. McGimsey<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1491">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-152.2518,61.3036</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Steam rising from the Crater Peak vent</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/35/35_703.jpg"/><br><p>Credit: T.P. Miller<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1492">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-152.2544,61.2997</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to seismometer on Crater Peak by the June 27 eruption</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/35/35_704.jpg"/><br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1493">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-152.2561,61.3017</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>The ash column from the August 18 eruption</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/35/35_705.jpg"/><br><p>Credit: R.G. McGimsey<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1494">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-152.2561,61.3017</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Ash cloud rising off south flank of Crater Peak</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/35/35_706.jpg"/><br><p>Credit: R.G. McGimsey<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1495">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-152.2534,61.2939</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>South flank of Crater Peak showing bomb impact craters</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/35/35_707.jpg"/><br><p>Credit: C.A. Neal<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1496">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-152.2534,61.2939</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>New magma within the pyroclastic flow deposits</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/35/35_708.jpg"/><br><p>Credit: C.A. Neal<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1497">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-152.2561,61.3017</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Inflated gneiss ejected in 1992</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/35/35_709.jpg"/><br><p>Credit: T.P. Miller<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1498">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-152.2561,61.3017</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Successive pyroclastic avalanches</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/35/35_710.jpg"/><br><p>Credit: C.A. Neal<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1499">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-152.2561,61.3017</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Geologist near one of bomb craters on south flank of Crater Peak</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/35/35_711.jpg"/><br><p>Credit: C.A. Gardner<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1500">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-152.2534,61.2939</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fallout from tephra cloud deposited on the ground</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/35/35_712.jpg"/><br><p>Credit: R.G. McGimsey<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1501">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-152.2561,61.3017</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>The inside of Crater Peak after the August eruption</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/35/35_713.jpg"/><br><p>Credit: T.P. Miller<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1502">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-152.2544,61.2997</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>September eruption of Crater Peak</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/35/35_717.jpg"/><br><p>Credit: C.A. Gardner<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1503">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-152.2561,61.3017</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>The Crater Peak vent after the September eruption</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/35/35_719.jpg"/><br><p>Credit: C.A. Neal<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1504">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-152.2544,61.2997</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Plume of gas from Crater Peak as seen from Anchorage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/35/35_720.jpg"/><br><p>Credit: M.P. Doukas<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1505">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.9,61.219</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

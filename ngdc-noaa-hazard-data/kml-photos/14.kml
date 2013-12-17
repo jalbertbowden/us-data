@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1989/10/18 Loma Prieta</name>
+  <Placemark>
+    <name>1989/10/18 Loma Prieta</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_99.jpg"/><br><p>The magnitude 7.1 earthquake occurred near Loma Prieta in the Santa Cruz mountains. Movement occurred along a 40-km segment of the San Andreas fault from southwest of Los Gatos to north of San Juan Bautista.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5213&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-121.883,37.036</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed Home, Boulder Creek, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_241.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/241">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.1027,37.1136</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Home in Boulder Creek, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_242.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/242">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.1281,37.154</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide, Scott's Valley, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_243.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/243">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.0173,37.0654</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>House Damage, Santa Cruz Mountains, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_244.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/244">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.9948,37.1524</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Major Damage to 90-year-old Home, Los Gatos, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_245.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/245">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.9718,37.225</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Parapet and Arch, Bike Shop, Los Gatos, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_246.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/246">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.9839,37.2225</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Parapet, Downtown Liquors, San Jose, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_247.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/247">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.8871,37.3354</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Masonry Building, San Jose, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_248.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/248">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.8871,37.3354</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Facade Cracking, San Jose, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_249.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/249">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.8904,37.3362</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fissures, Santa Cruz Mountains, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_250.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/250">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.8202,37.0845</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fissure on San Andreas Summit Road, Santa Cruz, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_251.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/251">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.9801,37.1445</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Church, Santa Cruz Mountains, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_252.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/252">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.9336,37.1066</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Porch Damage, Wood Frame House, Santa Cruz Mountains, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_253.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/253">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.9464,37.1131</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tree Snapped Off by the Earthquake, Santa Cruz Mountains</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_254.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/254">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.9476,37.1023</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Pacific Garden Mall, Santa Cruz, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_255.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/255">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.0264,36.9748</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Close-up View of Damage to Pacific Garden Mall, Santa Cruz, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_256.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/256">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.0264,36.9748</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Shops in Aptos, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_257.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/257">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.9025,36.9773</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Parapet Damage, Beach Street, Watsonville, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_258.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/258">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.7565,36.9105</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Parapet Damage, Main and Second Street, Watsonville, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_259.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/259">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.7557,36.9092</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed Cypress section of Interstate 880</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/22/22_454.jpg"/><br><p>Credit: Wilshire<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/454">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,37</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bases chipped when columns tipped during Loma Prieta earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/22/22_455.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/455">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.9,37.3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Structure, Shifted on Foundation, Watsonville, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/12/12_260.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/260">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.7573,36.9173</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of Freeway</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_99.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/99">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.3048,37.8092</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to San Francisco-Oakland Bay Bridge</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_100.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/100">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.34,37.821</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed 4th-Story Wall, San Francisco, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_261.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/261">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.3998,37.7746</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damaged Cars in which 5 People Were Killed, San Francisco, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_262.jpg"/><br><p>Credit: D. Perkins<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/262">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.3998,37.7739</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Cracks in Building, Marina District, San Francisco</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_263.jpg"/><br><p>Credit: D. Perkins<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/263">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4364,37.8056</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>House Shifted on Foundation, Marina District, San Francisco</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_264.jpg"/><br><p>Credit: D. Perkins<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/264">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4364,37.8056</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed Building, San Francisco</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_265.jpg"/><br><p>Credit: D. Perkins<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/265">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4364,37.8056</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>View of Damage along Jefferson Street, San Francisco</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_267.jpg"/><br><p>Credit: D. Perkins<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/267">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.44,37.806</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Shored Building in the Marina District, San Francisco</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_268.jpg"/><br><p>Credit: D. Perkins<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/268">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.44,37.804</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Detail of Shoring to Garage, Marina District, San Francisco</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_269.jpg"/><br><p>Credit: D. Perkins<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/269">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.44,37.804</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed Building in the Marina District, San Francisco</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_270.jpg"/><br><p>Credit: D. Perkins<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/270">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.44,37.804</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed Building, Marina District, 2nd View</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_271.jpg"/><br><p>Credit: D. Perkins<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/271">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.44,37.804</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Rubble Left after Fire in Marina District</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_272.jpg"/><br><p>Credit: D. Perkins<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/272">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4435,37.8028</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Demolished Cars and Rubble, Marina District</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_273.jpg"/><br><p>Credit: D. Perkins<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/273">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4435,37.8028</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sidewalk Damage Produced by Liquefaction, Marina District, San Francisco</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_274.jpg"/><br><p>Credit: D. Perkins<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/274">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4353,37.8044</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Evidence of Liquefaction in the Marina District, San Francisco</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_275.jpg"/><br><p>Credit: D. Perkins<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/275">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.44,37.804</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Top Floor of Clay Building, Oakland, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_276.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/276">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.2754,37.8028</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial View of Collapsed Interstate 880, Oakland, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_277.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/277">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.3042,37.806</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Side View of the Collapsed Section of Interstate 880, Oakland, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_278.jpg"/><br><p>Credit: C. Stover<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/278">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.3042,37.806</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>View of Damage to San Francisco Oakland Bay Bridge</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_279.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/279">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.34,37.821</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Truss Support Bearing Shoe, San Francisco Oakland Bay Bridge</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/13/13_280.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/280">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.34,37.821</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

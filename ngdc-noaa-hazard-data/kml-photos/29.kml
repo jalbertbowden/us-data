@@ -1,0 +1,2140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1946/4/1 Unimak Island</name>
+  <Placemark>
+    <name>1946/4/1 Unimak Island</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_81.jpg"/><br><p>On April 1, 1946, at 12:29 [local time] a rather strong magnitude 7.4 earthquake occurred with source to the south of Unimak Island, causing one of the most destructive tsunamis in the Pacific Ocean.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=3822&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-163.19,53.32</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kamehameha Avenue</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-001.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1113">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.1,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Poloin Valley</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-002.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1114">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.5</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-003.jpg"/><br><p>Credit: James W. Duncan<br><p><a href="/hazardimages/picture/show/1115">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wailuku River</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-004.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1116">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.09,19.727</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-005.jpg"/><br><p>Credit: Harry A. Simms, Sr.<br><p><a href="/hazardimages/picture/show/1117">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Putumaile</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-006-001.jpg"/><br><p>Credit: Harry A. Simms; Sr.<br><p><a href="/hazardimages/picture/show/1118">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.86,21.3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Putumaile</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-006-002.jpg"/><br><p>Credit: Harry A. Simms, Sr.<br><p><a href="/hazardimages/picture/show/1119">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.86,21.3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Putumaile</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-006-003.jpg"/><br><p>Credit: Harry A. Simms, Sr.<br><p><a href="/hazardimages/picture/show/1120">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.86,21.3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wailuku River</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-007.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1121">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.09,19.727</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wailuku River</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-008.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1122">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.09,19.727</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Coconut Island, Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-009-001.jpg"/><br><p>Credit: Ed Lusby<br><p><a href="/hazardimages/picture/show/1123">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.07,19.73</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Coconut Island, Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-009-002.jpg"/><br><p>Credit: Ed Lusby<br><p><a href="/hazardimages/picture/show/1124">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.07,19.73</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-010.jpg"/><br><p>Credit: James W. Duncan<br><p><a href="/hazardimages/picture/show/1125">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-011.jpg"/><br><p>Credit: James W. Duncan<br><p><a href="/hazardimages/picture/show/1126">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-012.jpg"/><br><p>Credit: James W. Duncan<br><p><a href="/hazardimages/picture/show/1127">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wailoa River Basin</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-013.jpg"/><br><p>Credit: Harry A. Simms, Sr.<br><p><a href="/hazardimages/picture/show/1128">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.07,19.725</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wailoa River Basin</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-014.jpg"/><br>Organization: NOAA</p><p><a href="/hazardimages/picture/show/1129">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.07,19.725</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Scotch Cap lighthouse</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-015.jpg"/><br>Organization: U.S. Coast Guard</p><p><a href="/hazardimages/picture/show/1130">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-164.79,54.403</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Coast</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-016.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1131">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sugar Mill</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-017.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1132">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.13,19.9</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Maunawai</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-018.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1133">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.82,21.3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Barbers Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-019.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1134">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.1,21.313</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kawela Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-020.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1135">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.01,21.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Maunalua Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-021.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1136">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.79,21.258</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Keahi Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-022.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1137">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.98,21.321</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaneohe Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-023.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1138">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.84,21.513</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Scotch Cap lighthouse</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-024.jpg"/><br>Organization: U.S. Coast Guard</p><p><a href="/hazardimages/picture/show/1139">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-164.79,54.403</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Scotch Cap lighthouse</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-025.jpg"/><br>Organization: U.S. Coast Guard</p><p><a href="/hazardimages/picture/show/1140">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-164.79,54.403</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Scotch Cap lighthouse</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-031.jpg"/><br>Organization: U.S. Coast Guard</p><p><a href="/hazardimages/picture/show/1141">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-164.79,54.403</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Scotch Cap lighthouse</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-032.jpg"/><br>Organization: U.S. Coast Guard</p><p><a href="/hazardimages/picture/show/1142">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-164.79,54.403</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Scotch Cap lighthouse</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-033.jpg"/><br>Organization: U.S. Coast Guard</p><p><a href="/hazardimages/picture/show/1143">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-164.79,54.403</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Maui</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-034.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1144">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-156.4,20.9</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-035.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1145">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-037.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1146">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.84,21.513</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-038.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1147">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.84,21.513</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Half Moon Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-331.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1383">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.43,37.465</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pacific Grove, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-332.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1384">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.92,36.619</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Noyo Cove, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-333.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1385">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-123.81,39.427</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-334.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1386">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-123.76,39.194</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Pier</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-335.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1387">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-336.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1388">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Pier</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-337.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1389">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Pier</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-338.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1390">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-339.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1391">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Piers</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-340.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1392">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-341.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1393">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Coconut Island, Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-342.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1394">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.07,19.73</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wailuku River</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-344.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1395">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.09,19.727</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-345.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1396">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Downtown Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-346.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1397">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.09,19.739</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Downtown Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-347.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1398">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.09,19.739</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Waterfront Area</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-348.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1399">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wave advancing on Hilo Sugar Mill</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-349.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1400">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.08,19.845</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-350.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1401">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Coast</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-353.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1402">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.08,19.724</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kapanaea Beach</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-354-001.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1403">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.81,20.25</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kapanaea Beach</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-354-002.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1404">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.81,20.25</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kapanaea Beach</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-355.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1405">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.81,20.25</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahului</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-356.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1406">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-156.47,20.899</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahului</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-357.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1407">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-156.47,20.899</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kapanaea Beach</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-358.jpg"/><br>Organization: Joint Tsunami Research Effort</p><p><a href="/hazardimages/picture/show/1408">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.81,20.25</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-039.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1148">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.72,21.459</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pyramid Rock</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-040.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1149">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.77,21.464</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mokapu Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-042.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1150">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.72,21.459</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-044.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1152">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.72,21.459</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mokapu</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-045.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1153">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.72,21.459</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mokapu</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-046.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1154">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.72,21.459</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kapoho Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-047.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1155">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-154.82,19.5</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kailua Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-048.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1156">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.99,19.639</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bellows Field</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-049.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1157">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.71,21.358</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Waikiki Beach</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-051.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1158">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.84,21.29</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-052.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1159">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.83,21.277</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Waikiki Beach</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-053.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1160">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.84,21.29</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Maunalua Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-054.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1161">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.79,21.258</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Maunalua Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-055.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1162">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.79,21.258</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Maunalua Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-056.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1163">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.79,21.258</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wailupe, Maunalua Bay, and Koko Head</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-057.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1164">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.76,21.284</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Maunalua Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-059.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1165">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.79,21.258</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hanauma Bay and Makapuu</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-060.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1166">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.69,21.272</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hanauma Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-061.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1167">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.69,21.272</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Makapuu</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-062.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1168">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.65,21.31</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Waimanalo Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-063.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1169">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.7,21.348</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Waikiki Beach</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-064.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1170">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.84,21.29</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-074.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1171">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.57,19.91</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Camp Erdman</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-075.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1172">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.22,21.582</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kawaihapai</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-078.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1173">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.2,21.58</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaena Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-080.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1174">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.263,21.567</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaena Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-082.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1175">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.263,21.567</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mokapu</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-043.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1151">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.72,21.459</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaiaka Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-085.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1176">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.12,21.589</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Puaena Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-086.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1177">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.12,21.603</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Waimea Bay, Pupukea</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-087.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1178">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.07,21.642</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Haleiwa</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-088.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1179">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.11,21.592</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Haleiwa</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-089.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1180">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.11,21.592</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-091.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1181">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.19,21.44</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaneilio Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-092.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1182">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.19,21.44</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaena Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-094.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1183">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.263,21.567</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaena Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-095.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1184">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.263,21.567</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaena Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-096.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1185">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.263,21.567</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaena Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-097.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1186">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.263,21.567</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-098.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1187">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.57,19.91</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaena Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-099.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1188">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.263,21.567</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Makapuu</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-100.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1189">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.65,21.31</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kepuhi Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-102.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1190">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.35,22.21</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pu'u Huluhulu Ridge and Nanakuli</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-104.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1191">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.15,21.392</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-107.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1192">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.57,19.91</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-109.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1193">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.72,21.4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Makapuu</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-111.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1194">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.65,21.31</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-112.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1195">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.57,19.91</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-113.jpg"/><br>Organization: U.S. Navy</p><p><a href="/hazardimages/picture/show/1196">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.57,19.91</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Koko Head and  Makapuu Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-114.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1197">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.66,21.3</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Koko Head</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-115.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1198">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.69,21.28</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-116.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1199">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.57,19.91</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Koko Head</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-117.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1200">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.69,21.28</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-118.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1201">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.57,19.91</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Near Kahana Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-120.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1202">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.87,21.567</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahana Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-122.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1203">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.867,21.565</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-124.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1204">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.57,19.91</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-125.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1205">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.57,19.91</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-126-001.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1206">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-127.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1208">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-128.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1209">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-131.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1210">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-132.jpg"/><br>Organization: University of Hawaii</p><p><a href="/hazardimages/picture/show/1211">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Maui</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-133.jpg"/><br>Organization: University of Hawaii</p><p><a href="/hazardimages/picture/show/1212">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-156.38,20.917</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Maui</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-134.jpg"/><br>Organization: University of Hawaii</p><p><a href="/hazardimages/picture/show/1213">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-156.38,20.917</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Maui</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-135.jpg"/><br>Organization: University of Hawaii</p><p><a href="/hazardimages/picture/show/1214">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-156.38,20.917</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Breakwater</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-139.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1215">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-140.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1216">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-141.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1217">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-142.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1218">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Downtown Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-143.jpg"/><br>Organization: U.S. Navy</p><p><a href="/hazardimages/picture/show/1219">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.09,19.739</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-144.jpg"/><br>Organization: U.S. Navy</p><p><a href="/hazardimages/picture/show/1220">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-145.jpg"/><br>Organization: U.S. Navy</p><p><a href="/hazardimages/picture/show/1221">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-146.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1222">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-147.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1223">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.067,19.74</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Downtown Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-149.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1225">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.09,19.739</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-153.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1226">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-156.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1227">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.13,19.9</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-157.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1228">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-158.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1229">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.13,19.9</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-159.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1230">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.067,19.74</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Molokai</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-160.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1231">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.02,21.162</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-161.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1232">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.067,19.74</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Pier</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-162.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1233">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Pier</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-163.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1234">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Oahu</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-166.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1235">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.99,21.45</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Pier</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-126-002.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1207">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fort Kamehameha</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-167.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1236">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.96,21.322</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Keahi Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-168.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1237">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.98,21.321</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Barbers Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-169.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1238">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.1,21.313</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Barbers Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-170.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1239">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.1,21.313</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Barbers Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-172.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1240">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.1,21.313</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Barbers Point and Browns Camp</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-173.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1241">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.1,21.313</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Punaluu</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-174.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1242">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.89,21.594</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Browns Camp</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-176.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1243">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.13,21.351</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahana Bay and Punaluu</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-178.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1244">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.867,21.565</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-179.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1245">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.87,21.56</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Paumalu</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-181.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1246">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.03,21.681</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-182.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1247">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.0074,21.6993</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-183.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1248">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-185.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1249">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-186.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1250">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-187.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1251">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-188.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1252">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-189.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1253">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-190.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1254">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-191.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1255">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-192.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1256">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-193.jpg"/><br>Organization: U.S. Navy</p><p><a href="/hazardimages/picture/show/1257">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-194.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1258">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-195.jpg"/><br>Organization: U.S. Navy</p><p><a href="/hazardimages/picture/show/1259">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-196.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1260">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-197.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1261">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-198.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1262">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kalanai Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-199.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1263">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.93,21.66</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Laie Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-200.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1264">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.91,21.649</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-202.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1265">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.9,21.6</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Punaluu</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-203.jpg"/><br>Organization: U.S. Navy</p><p><a href="/hazardimages/picture/show/1266">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.89,21.594</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Punaluu, Oahu, Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-204.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1267">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.89,21.594</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Barbers Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-206.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1268">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.1,21.313</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Laie Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-208.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/1269">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.91,21.649</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-211.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1270">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-212.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1271">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-213.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1272">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-214.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1273">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-215.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1274">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-216.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1275">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-217.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1276">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-218.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1277">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-219.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1278">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-220.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1279">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-221.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1280">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahului</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-222.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1281">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-156.47,20.899</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahului</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-223.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1282">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-156.47,20.899</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahului</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-224.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1283">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-156.47,20.899</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahului</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-225.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1284">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-156.47,20.899</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahului</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-226.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1285">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-156.47,20.899</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahului</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-227.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1286">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-156.47,20.899</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Nawiliwili</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-228.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1287">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.35,21.959</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Nawiliwili</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-229.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1288">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.35,21.959</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Port Allen</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-230.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1289">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.6,21.9</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Port Allen</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-231.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1290">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.6,21.9</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaunakakai Harbor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-232.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1291">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.03,21.084</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Haena</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-233.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1292">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.57,22.221</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Haena</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-234.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1293">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.57,22.221</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Haena</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-235.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1294">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.57,22.221</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wainiha Beach, Kilauea</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-236.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1295">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.54,22.215</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kauai</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-237.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1296">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.54,22.215</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wainiha Beach, Kilauea</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-238.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1297">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.54,22.215</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wainiha Beach, Kilauea</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-239.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1298">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.54,22.215</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hanalei Beach</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-240.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1299">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.49,22.217</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Honono Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-241.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1300">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.5,22.2</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Moloaa Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-242.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1301">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.33,22.19</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kalihiwai Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-243.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1302">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.43,22.22</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kalihiwai Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-244.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1303">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.43,22.22</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kalihiwai Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-245.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1304">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.43,22.22</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kalihiwai Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-246.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1305">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.43,22.22</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Moloaa Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-247.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1306">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.33,22.19</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Moloaa Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-248.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1307">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.33,22.19</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Nawiliwili</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-249.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1308">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-159.35,21.959</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-250.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1309">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-251.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1310">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-252.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1311">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-253.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1312">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-254.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1313">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-255.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1314">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-256.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1315">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kahuku Army Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-257.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1316">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.97,21.71</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kawela Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-258.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1317">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.01,21.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kawela Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-259.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1318">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.01,21.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kawela Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-260.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1319">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.01,21.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sunset Beach</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-261.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1320">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.05,21.664</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Haleiwa</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-262.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1321">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.11,21.592</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Haleiwa</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-263.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1322">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.11,21.592</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Haleiwa</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-264.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1323">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.11,21.592</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Bore Destroys Bridge on Wailuku River, HI</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_81.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/81">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.0878,19.7282</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mokuleia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-265.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1324">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.15,21.58</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mokuleia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-266.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1325">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.15,21.58</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Scotch Cap Lighthouse before Tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/25/25_501.jpg"/><br>Organization: U.S. Coast Guard</p><p><a href="/hazardimages/picture/show/501">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-164,55</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Camp Erdman</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-268.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1327">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.22,21.582</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaena Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-269.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1328">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.263,21.567</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaena Point</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-270.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1329">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.263,21.567</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Waianae</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-271.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1330">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.18,21.45</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Waianae</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-272.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1331">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.2,21.45</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Koko Crater</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-273.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1332">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.68,21.29</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Koko Crater</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-274.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1333">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.68,21.29</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Makapuu</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-275.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1334">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.65,21.31</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Lanikai</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-276.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1335">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.74,21.404</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fort Hase</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-277.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1336">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.74,21.449</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fort Hase</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-278.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1337">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.74,21.449</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaaawa</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-279.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1338">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.85,21.56</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaaawa Jungle Training Camp</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-280.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1339">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.85,21.56</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaaawa</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-281.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1340">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.85,21.56</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaaawa Territorial Highway</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-282.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1341">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.85,21.56</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Washout of Territorial Highway near Kahului</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-284.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1342">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-156.47,20.898</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Paia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-286.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1343">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-156.38,20.915</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sugar Mill</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-287.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1344">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.13,19.9</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kamehameha Avenue</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-288.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1345">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.1,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Railroad</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-289.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1346">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,21.5</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Railroad</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-290.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1347">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,21.5</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wreckage of railroad tracks and buildings near shore</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-291.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1348">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,21.5</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-292.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1349">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.086,19.723</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kamehameha Avenue</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-296.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1350">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.1,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kamehameha Avenue</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-297.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1351">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.1,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mokuleia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-267.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1326">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.15,21.58</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kamehameha Avenue</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-298.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1352">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.1,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wreckage of building on Kamehameha Avenue</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-299.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1353">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.09,19.728</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wreckage of buildings along Kamehameha Avenue</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-300.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1354">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.09,19.728</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kamehameha Avenue</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-301.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1355">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.1,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Coconut Island, Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-302.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1356">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.07,19.73</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Pier</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-305.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1357">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.05,19.732</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Pier</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-306.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1358">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.05,19.732</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Coast Guard</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-307.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1359">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wreckage of Navy marine railway</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-308.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1360">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.9562,21.3517</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Army</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-309.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1361">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Army</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-310.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1362">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Pier</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-311.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1363">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.05,19.732</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hilo Pier</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-312.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1364">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.05,19.732</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Keaukaha</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-313.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1365">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.046,19.731</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Keaukaha</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-314.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1366">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.046,19.731</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Keaukaha</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-315.jpg"/><br><p>Credit: Orville T. Magoon<br><p><a href="/hazardimages/picture/show/1367">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.046,19.731</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Half Moon Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-317.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1369">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.43,37.465</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Water receding at Half Moon Bay, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-318.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1370">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.43,37.465</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Caspar Beach, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-319.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1371">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-123.76,39.56</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Noyo Cove, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-320.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1372">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-123.81,39.427</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Half Moon Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-321.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1373">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.43,37.465</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Half Moon Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-322.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1374">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.43,37.465</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Muir Beach</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-323.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1375">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.58,37.863</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Santa Cruz, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-324.jpg"/><br>Organization: NOAA</p><p><a href="/hazardimages/picture/show/1376">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.02,36.964</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Santa Cruz, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-325.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1377">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.02,36.964</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Santa Cruz, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-326.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1378">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.02,36.964</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Muir Beach</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-327.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1379">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.58,37.863</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Noyo Cove, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-328.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1380">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-123.81,39.427</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Half Moon Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-329.jpg"/><br><p>Credit: Manuel Sousa<br><p><a href="/hazardimages/picture/show/1381">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.43,37.465</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Half Moon Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/128/b46d01-330.jpg"/><br><p>Credit: Howard Anderson<br><p><a href="/hazardimages/picture/show/1382">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.43,37.465</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Scotch Cap Lighthouse after Tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/25/25_502.jpg"/><br>Organization: U.S. Coast Guard</p><p><a href="/hazardimages/picture/show/502">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-164,55</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>1946 Alaska Tsunami Strikes Hawaiian Beach</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/25/25_503.jpg"/><br><p>Credit: Mrs. Harry A. Simms, Sr.<br><p><a href="/hazardimages/picture/show/503">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Wave Generated in Alaska Runs Up On Hawaiian Beach</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/25/25_504.jpg"/><br><p>Credit: Mrs. Harry A. Simms, Sr.<br><p><a href="/hazardimages/picture/show/504">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-157.0472,21.1063</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Clubhouse in Hilo, HI Wrecked by 1946 Tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/25/25_505.jpg"/><br>Organization: U.S. Army Corps of Engineers</p><p><a href="/hazardimages/picture/show/505">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.0897,19.7322</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Generated in Alaska Breaks Pier in Hilo, HI</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/25/25_506.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/506">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.0497,19.7327</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>2010/5/27 Pacaya</name>
+  <Placemark>
+    <name>2010/5/27 Pacaya</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/262/262_001.jpg"/><br><p>A television reporter was killed by a shower of burning rocks when he got too close to the volcano, about 15 miles (25 kilometers) south of Guatemala City. On 29 May, a 90-m-wide lava flow that traveled SSE at an estimated rate of 100 m per hour burned three houses on the Pacaya Grande ranch.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=null">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-90.601,14.381</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Volcan Pacaya post-eruption</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/262/262_001.jpg"/><br><p>Credit: Brianna Hetland<br><p><a href="/hazardimages/picture/show/1516">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90.55,14.4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>El Cedro</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/262/262_002.jpg"/><br><p>Credit: Brianna Hetland<br><p><a href="/hazardimages/picture/show/1517">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-88.7667,15.7667</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>San Francisco village</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/262/262_003.jpg"/><br><p>Credit: Brianna Hetland<br><p><a href="/hazardimages/picture/show/1518">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90.609,14.403</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Lava bombs</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/262/262_004.jpg"/><br><p>Credit: Brianna Hetland<br><p><a href="/hazardimages/picture/show/1519">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-91.453,14.951</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pacaya National Park Entrance</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/262/262_005.jpg"/><br><p>Credit: Brianna Hetland<br><p><a href="/hazardimages/picture/show/1520">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90.6319,14.4</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tephra</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/262/262_006.jpg"/><br><p>Credit: Brianna Hetland<br><p><a href="/hazardimages/picture/show/1521">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90.609,14.402</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Vegetation Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/262/262_007.jpg"/><br><p>Credit: Brianna Hetland<br><p><a href="/hazardimages/picture/show/1522">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90.61,14.404</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Lava bombs</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/262/262_008.jpg"/><br><p>Credit: Brianna Hetland<br><p><a href="/hazardimages/picture/show/1523">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90.606,14.403</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fire</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/262/262_009.jpg"/><br><p>Credit: Brianna Hetland<br><p><a href="/hazardimages/picture/show/1524">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90.607,14.404</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Coffee Farms</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/262/262_010.jpg"/><br><p>Credit: Brianna Hetland<br><p><a href="/hazardimages/picture/show/1525">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-90.587,14.413</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

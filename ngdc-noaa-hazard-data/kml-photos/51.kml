@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>2004/12/26 Sumatra</name>
+  <Placemark>
+    <name>2004/12/26 Sumatra</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/small_res/49/49_992.jpg"/><br><p>This is the fourth largest earthquake in the world since 1900 and is the largest since the 1964 Prince William Sound, Alaska earthquake. The earthquake caused severe damage and casualties in northern Sumatra, Indonesia and in the Nicobar Islands, India. More than 297,248 people were either killed or listed as missing and presumed dead and 1,126,900 were displaced by the earthquake and subsequent tsunami in 13 countries in South Asia and East Africa. The estimated economic losses exceeded $10 billion</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5823&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>95.982,3.295</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Velankanni/Nagapattinam District/Tamil Nadu/ India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_992.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/992">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>79.84,10.68</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Velankanni/Nagapattinam District/Tamil Nadu/ India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_993.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/993">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>79.84,10.68</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Velankanni/Nagapattinam District/Tamil Nadu/ India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_994.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/994">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>79.84,10.68</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Velankanni/Nagapattinam District/Tamil Nadu/ India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_995.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/995">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>79.84,10.68</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Velankanni/Nagapattinam District/Tamil Nadu/ India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_996.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/996">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>79.84,10.68</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mudaliar Kuppam/Villupuram District/Tamil Nadu/ India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_997.jpg"/><br><p>Credit: Havidan Rodriguez<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/997">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.028,12.314</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kannappachetty Kulam Kuppam/Union territory of Pondicherry/India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1029.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1029">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>79.835,10.923</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Karaikal/Union territory of Pondicherry/ India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1030.jpg"/><br><p>Credit: Havidan Rodriguez<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1030">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>79.835,10.923</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Karaikal/Union territory of Pondicherry/ India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1031.jpg"/><br><p>Credit: Havidan Rodriguez<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1031">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>79.835,10.923</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pushapavanam/ Nagapattinam District/Tamil Nadu/ India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1033.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1033">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>79.853,10.449</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pushapavanam/ Nagapattinam District/Tamil Nadu/ India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1034.jpg"/><br><p>Credit: Havidan Rodriguez<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1034">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>79.853,10.449</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Relief Camp Between Ambalangoda and Galle Sri Lanka</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1035.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1035">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.117,6.119</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hambanto in the South Eastern portion of Sri Lanka</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1036.jpg"/><br><p>Credit: Havidan Rodriguez<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1036">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>81.12,6.128</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hambanto in the South Eastern portion of Sri Lanka</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1037.jpg"/><br><p>Credit: Havidan Rodriguez<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1037">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>81.12,6.128</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>South Western Coast of Sri Lanka</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1039.jpg"/><br><p>Credit: Havidan Rodriguez<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1039">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.3,6</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Relief camp set up between Ambalangoda and Galle</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1040.jpg"/><br><p>Credit: Havidan Rodriguez<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1040">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.117,6.119</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Nagai/ Nagapattinam District/Tamil Nadu/ India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1043.jpg"/><br><p>Credit: Havidan Rodriguez<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1043">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>79.849,10.763</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kinniya/ On the Eastern Coast of Sri Lanka just Outside the town of trincomallee</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1045.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1045">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>81.19,8.49</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kinniya/ On the Eastern Coast of Sri Lanka just Outside the town of trincomallee</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1046.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1046">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>81.19,8.49</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mudaliar Kuppam/Villupuram District/Tamil Nadu/ India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1047.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1047">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.028,12.314</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sulerikattu Kuppam/Kancheepuram District/ Tamil Nadu/India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1048.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1048">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.2,12.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sulerikattu Kuppam/Kancheepuram District/ Tamil Nadu/India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1049.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1049">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.2,12.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mudaliar Kuppam/Villupuram District/Tamil Nadu/ India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1050.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1050">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.028,12.314</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Karaikal/Union territory of Pondicherry/ India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1051.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1051">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>79.835,10.923</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Karaikal/Union territory of Pondicherry/ India</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1052.jpg"/><br><p>Credit: Joseph Trainor<br>Organization: University of Delaware, Disaster Relief Center</p><p><br><a href="/hazardimages/picture/show/1052">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>79.835,10.923</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Triton Hotel, Sri Lanka</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1053.jpg"/><br><p>Credit: Chris Chapman<br>Organization: Schlumberger Cambridge Research, Cambridge, U.K</p><p><br><a href="/hazardimages/picture/show/1053">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.03,6.313</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Beach at Triton Hotel, Sri Lanka 1</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1054.jpg"/><br><p>Credit: Chris Chapman<br>Organization:  Schlumberger Cambridge Research, Cambridge, U.K</p><p><br><a href="/hazardimages/picture/show/1054">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.0305,6.3131</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Beach at Triton Hotel, Sri Lanka 2</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1055.jpg"/><br><p>Credit: Chris Chapman<br>Organization:  Schlumberger Cambridge Research, Cambridge, U.K</p><p><br><a href="/hazardimages/picture/show/1055">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.0303,6.3131</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pool at Triton Hotel, Sri Lanka 1</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1056.jpg"/><br><p>Credit: Chris Chapman<br>Organization: Schlumberger Cambridge Research, Cambridge, U.K</p><p><br><a href="/hazardimages/picture/show/1056">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.0302,6.3132</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pool at Triton Hotel, Sri Lanka 2</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1057.jpg"/><br><p>Credit: Chris Chapman<br>Organization: Schlumberger Cambridge Research, Cambridge, U.K</p><p><br><a href="/hazardimages/picture/show/1057">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.0302,6.3133</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pool at Triton Hotel, Sri Lanka 3</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1058.jpg"/><br><p>Credit: Chris Chapman<br>Organization: Schlumberger Cambridge Research, Cambridge, U.K</p><p><br><a href="/hazardimages/picture/show/1058">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.0301,6.3129</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Triton Hotel, Sri Lanka</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1059.jpg"/><br><p>Credit: Chris Chapman<br>Organization: Schlumberger Cambridge Research, Cambridge, U.K</p><p><br><a href="/hazardimages/picture/show/1059">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.0307,6.3129</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Triton Hotel, Sri Lanka</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1060.jpg"/><br><p>Credit: Chris Chapman<br>Organization: Schlumberger Cambridge Research, Cambridge, U.K</p><p><br><a href="/hazardimages/picture/show/1060">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.0303,6.3129</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Triton Hotel, Sri Lanka</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1061.jpg"/><br><p>Credit: Chris Chapman<br>Organization: Schlumberger Cambridge Research, Cambridge, U.K</p><p><br><a href="/hazardimages/picture/show/1061">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.03,6.3129</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Triton Hotel, Sri Lanka</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1062.jpg"/><br><p>Credit: Chris Chapman<br>Organization: Schlumberger Cambridge Research, Cambridge, U.K</p><p><br><a href="/hazardimages/picture/show/1062">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.0304,6.3129</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Triton Hotel, Sri Lanka</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1063.jpg"/><br><p>Credit: Chris Chapman<br>Organization: Schlumberger Cambridge Research, Cambridge, U.K</p><p><br><a href="/hazardimages/picture/show/1063">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.0305,6.3129</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Triton Hotel, Sri Lanka</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1064.jpg"/><br><p>Credit: Chris Chapman<br>Organization: Schlumberger Cambridge Research, Cambridge, U.K</p><p><br><a href="/hazardimages/picture/show/1064">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.0306,6.3129</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Triton Hotel, Sri Lanka</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/49/49_1065.jpg"/><br><p>Credit: Chris Chapman<br>Organization: Schlumberger Cambridge Research, Cambridge, U.K</p><p><br><a href="/hazardimages/picture/show/1065">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>80.0302,6.3129</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

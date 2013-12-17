@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>2007/4/1 Solomon Islands</name>
+  <Placemark>
+    <name>2007/4/1 Solomon Islands</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/small_res/48/48_961.jpg"/><br><p>An earthquake measuring 8.1 struck 345 kilometers northwest of the Solomon Islands' capital Honiara at 0740 local time on 2 April. (2040 GMT 1 April). The earthquake created a tsunami causing significant damage in the Solomon Islands. Large tsunami waves (reports range from 2m to 10m) are reported to have struck the islands in the Western Province area of Solomon Islands and some parts of Papua New Guinea. The National Disaster Council (NDC) in the Solomon Islands reports that the affected area includes Gizo, Simbo, Ranogga, Shortlands, Munda, Noro, Vella la Vella, Kolombangarra and parts of the southern coast of Choiseul. Aerial surveillance on 2 April showed that the worst-affected areas appear to be the southern coast of Gizo, Simbo island and the central southern coast of Choiseul between Moli and Posarae and Sasamunga. At least 34 were killed and several dozen missing. 5,500 people are thought to have been displaced in total. The Ministry of Health and Medical Services (MHMS) estimates that up to 50,000 people may be affected out of a total population of 100,000 in Western and Choiseul provinces.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=7457&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>157.043,-8.466</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage at Kelaua</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/48/48_961.jpg"/><br><p>Credit: Dilex Sebom<br>Organization: Woodlark Mining Limited</p><p><br><a href="/hazardimages/picture/show/961">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>147.28,-2.1</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage at Kelaua</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/48/48_962.jpg"/><br><p>Credit: Dilex Sebom<br>Organization: Woodlark Mining Limited</p><p><br><a href="/hazardimages/picture/show/962">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>147.28,-2.1</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage at Kelaua</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/48/48_963.jpg"/><br><p>Credit: Dilex Sebom<br>Organization: Woodlark Mining Limited</p><p><br><a href="/hazardimages/picture/show/963">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>147.28,-2.1</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage at Unumatana</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/48/48_964.jpg"/><br><p>Credit: John Beba<br>Organization: Woodlark Mining Limited</p><p><br><a href="/hazardimages/picture/show/964">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>152.75,-9</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage at Kelaua</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/48/48_965.jpg"/><br><p>Credit: John Beba<br>Organization: Woodlark Mining Limited</p><p><br><a href="/hazardimages/picture/show/965">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>147.28,-2.1</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage at Unumatana</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/48/48_966.jpg"/><br><p>Credit: John Beba<br>Organization: Woodlark Mining Limited</p><p><br><a href="/hazardimages/picture/show/966">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>152.75,-9</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage at Unumatana</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/48/48_967.jpg"/><br><p>Credit: John Beba<br>Organization: Woodlark Mining Limited</p><p><br><a href="/hazardimages/picture/show/967">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>152.75,-9</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage at Unumatana</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/48/48_968.jpg"/><br><p>Credit: John Beba<br>Organization: Woodlark Mining Limited</p><p><br><a href="/hazardimages/picture/show/968">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>152.75,-9</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

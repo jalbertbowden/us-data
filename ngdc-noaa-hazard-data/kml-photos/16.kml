@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1992/4/25 Cape Mendocino</name>
+  <Placemark>
+    <name>1992/4/25 Cape Mendocino</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_321.jpg"/><br><p>On April 25, 1992 at 11:06 am local time (April 25 at 18:06 GMT), a magnitude 7.1 earthquake occurred in the Cape Mendocino area. Two additional earthquakes, magnitudes 6.6 and 6.7 occurred the next morning (April 26 at 00:41 and 04:18 am local time). The first earthquake was located six miles north of Petrolia, California, in a sparsely populated part of southwestern Humboldt County. Five small communities were located within a 50-mile radius of these events: Honeydew, Petrolia, Rio Dell, Scotia, and Ferndale.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5321&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-124.316,40.368</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Garage slid down hill due to earth shaking</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_321.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/321">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.1064,40.4995</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>View of mall at Scotia that was destroyed by earthquake-caused fire</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_322.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/322">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.1009,40.4824</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second view of Scotia mall</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_323.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/323">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.1009,40.4824</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Support pillar on Scotia's Lumber Museum</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_324.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/324">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.1027,40.4842</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to 70-year old house and chimney in Honeydew</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_325.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/325">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.1231,40.2432</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Remains of Petrolia's business district after earthquake and fire</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_326.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/326">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.2872,40.3253</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Chimney damage in Petrolia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_327.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/327">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.2872,40.3253</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Earthquake bounced this front-end loader one foot into the air</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_328.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/328">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.2872,40.3253</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Petrolia residence shifted on foundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_329.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/329">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.2872,40.3253</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Residence south of Petrolia that shifted off foundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_330.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/330">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.2872,40.3253</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second view of damage to residence south of Petrolia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_331.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/331">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.2872,40.3253</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Third view of damage to residence south of Petrolia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_332.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/332">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.2872,40.3253</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Removal of landslide on Mattole Road</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_333.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/333">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.3416,40.3454</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide on Mattole Road</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_334.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/334">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.3416,40.3454</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Cracks on Mattole Road</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_335.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/335">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.2683,40.5299</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Ferndale's Valley Grocery lost brick facade smashing two cars</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_336.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/336">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.2647,40.5762</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Victorian wood-frame home slide on foundation in Ferndale</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_337.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/337">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.2619,40.5754</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Chimney damage to Victorian home in Ferndale</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_338.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/338">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.2619,40.5754</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sandblow in Mattole showing liquefaction</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_339.jpg"/><br><p>Credit: T. Dunklin, Humboldt State University<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/339">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.2925,40.3186</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Uplift of coastline near Mussel Rocks caused death of organisms</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/16/16_340.jpg"/><br><p>Credit: T. Dunklin, Humboldt State University<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/340">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.1585,41.1428</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

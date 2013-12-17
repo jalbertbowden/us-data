@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1960/5/22 Puerto Montt, Valdivia</name>
+  <Placemark>
+    <name>1960/5/22 Puerto Montt, Valdivia</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/25/25_512.jpg"/><br><p>On May 22, 1960, a Mw 9.5 earthquake, the largest earthquake ever instrumentally recorded, occurred in southern Chile. The series of earthquakes that followed ravaged southern Chile and ruptured over a period of days a 1,000 km section of the fault, one of the longest ruptures ever reported. The number of fatalities associated with both the earthquake and tsunami has been estimated to be between 490 and 5,700. Reportedly there were 3,000 injured, and initially there were 717 missing in Chile. The Chilean government estimated 2,000,000 people were left homeless and 58,622 houses were completely destroyed. Damage (including tsunami damage) was more than $500 million U.S. dollars.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=4227&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-74.5,-39.5</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Isla Mocha</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_901.jpg"/><br><p>Credit: Pierre St. Amand<br><p><a href="/hazardimages/picture/show/901">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-73.922,-38.34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Inundation at Valdivia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_903.jpg"/><br><p>Credit: Pierre St. Amand<br><p><a href="/hazardimages/picture/show/903">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-73.412,-39.868</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Valdivia</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_904.jpg"/><br><p>Credit: Pierre St. Amand<br><p><a href="/hazardimages/picture/show/904">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-73.412,-39.868</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami damage in Hilo, showing debris left by the waves</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_920.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/920">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Gulf of Corral</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_905.jpg"/><br><p>Credit: Luis Bernucci<br><p><a href="/hazardimages/picture/show/905">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-73.412,-39.868</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage at Corral after the tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_906.jpg"/><br><p>Credit: Pierre St. Amand<br><p><a href="/hazardimages/picture/show/906">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-73.412,-39.868</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial view of the Carlos Haverbeck in the port of Corral after the tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_907.jpg"/><br><p>Credit: Pierre St. Amand<br><p><a href="/hazardimages/picture/show/907">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-73.412,-39.868</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Puerto Montt</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_908.jpg"/><br><p>Credit: Pierre St. Amand<br><p><a href="/hazardimages/picture/show/908">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-73,-41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Ancud</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_909.jpg"/><br><p>Credit: Pierre St. Amand<br><p><a href="/hazardimages/picture/show/909">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-73.83,-41.863</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Isla Chiloe</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_910.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/910">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-74,-43</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Castro</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_911.jpg"/><br><p>Credit: Pierre St. Amand<br><p><a href="/hazardimages/picture/show/911">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-73.762,-42.482</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Quellon</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_912.jpg"/><br><p>Credit: Pierre St. Amand<br><p><a href="/hazardimages/picture/show/912">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-73.609,-43.122</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Cordon Caulle</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_913.jpg"/><br><p>Credit: Pierre St. Amand<br><p><a href="/hazardimages/picture/show/913">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-72,-41</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Half Moon Bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_914.jpg"/><br><p>Credit: Don Tocher<br><p><a href="/hazardimages/picture/show/914">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,37</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami at Hilo, Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_915.jpg"/><br><p>Credit: James Hamasaki<br><p><a href="/hazardimages/picture/show/915">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Arrival of a wave of the tsunami at Waimea Bay, Oahu</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_916.jpg"/><br>Organization: Honolulu Star Bulletin</p><p><a href="/hazardimages/picture/show/916">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-158.06,21.64</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Beginning of clean-up operations at Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_917.jpg"/><br>Organization: Pacific Tide Party</p><p><a href="/hazardimages/picture/show/917">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aftermath of the tsunami in the Waiakea area of Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_918.jpg"/><br>Organization: Sunset Newspaper</p><p><a href="/hazardimages/picture/show/918">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Extensive building damage in the water front area of Hilo</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/45/45_919.jpg"/><br><p>Credit: W.G. Van Dorn<br><p><a href="/hazardimages/picture/show/919">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial View of Chilean Coast after 1960 Tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/25/25_512.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/512">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-74,-42</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aftermath of 1960 Chilean Tsunami in Hilo, HI</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/25/25_513.jpg"/><br>Organization: U.S. Navy</p><p><a href="/hazardimages/picture/show/513">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155,19.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

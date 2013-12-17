@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1994/1/17 Northridge</name>
+  <Placemark>
+    <name>1994/1/17 Northridge</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_203.jpg"/><br><p>	At 4:31 am local time (12:31 GMT) on Monday, January 17, 1994, a magnitude 6.8 earthquake twenty miles west northwest of downtown Los Angeles awoke nearly everyone in southern California. Damage was most extensive in the San Fernando Valley, the Simi Valley, and in the northern part of the Los Angeles Basin. It took 57 lives and caused $10 billion in property damage. This set depicts the damage in Northridge the epicentral area.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5372&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-118.537,34.213</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage in Sylmar Mobile Home Park</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_382.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/382">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4667,34.327</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage in historical area of Fillmore</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_383.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/383">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.9182,34.3977</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to unreinforced masonry building in Fillmore</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_384.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/384">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.9136,34.3999</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Kaiser Clinic in Granada Hills</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_385.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/385">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5027,34.2627</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second View of damage to Kaiser Clinic</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_386.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/386">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5027,34.2627</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Total collapse of end wall in Reseda</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_387.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/387">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5273,34.2012</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of apartment building over garage in Reseda</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_388.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/388">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5356,34.2012</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second view of same building</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_389.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/389">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5356,34.2012</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to cast-in-place garage in Van Nuys</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_390.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/390">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4485,34.1867</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damaged apartment in Sherman Oaks</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_391.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/391">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.448,34.154</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to tilt-up building in Chatsworth</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_392.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/392">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.468,34.1542</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Chimney damage in Santa Monica</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_393.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/393">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.491,34.068</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to car dealership in Santa Monica</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_394.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/394">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.489,34.025</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wall failure in retrofitted masonry building</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_395.jpg"/><br><p>Credit: Tiffany Meyers<br><p><a href="/hazardimages/picture/show/395">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4702,34.0421</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Near-collapse of second floor, hospital in Santa Monica</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_396.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/396">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4795,34.0305</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Upper floor damage, unreinforced masonry, Santa Monica</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_397.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/397">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.489,34.025</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Unreinforced masonry apartment, Santa Monica</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_398.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/398">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.489,34.025</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Failure of I-10 in Culver City</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_399.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/399">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.3756,34.0368</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to historic Los Angeles Memorial Coliseum</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_400.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/400">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.2878,34.0141</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage at I-5 and C-14 Interchange (1994)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_403.jpg"/><br><p>Credit: Mehmet Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/403">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5083,34.337</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Buckled sidewalks in northern Granada Hills (1994)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_407.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/407">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.504,34.2943</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>I5 and SR14 Freeway collapse</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/19/19_381.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/381">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5087,34.3364</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Partial collapse of Bullocks Department Store</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_361.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/361">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5554,34.2389</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second view of Bullocks Department Store</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_362.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/362">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5554,34.2389</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Back side of Bullocks Department Store</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_363.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/363">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5554,34.2389</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Cracking in store at Northridge Mall</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_364.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/364">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5554,34.2389</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to parking structure at Northridge Mall</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_365.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/365">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5554,34.2389</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second view of damage to parking structure</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_366.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/366">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5554,34.2389</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Garage that incurred little damage at Northridge Mall</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_367.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/367">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5554,34.2389</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed roof near Northridge Mall</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_368.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/368">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5609,34.2308</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of first floor at Northridge Meadows Apts.</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_369.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/369">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.536,34.2283</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second view of damage at Northridge Meadows Apts.</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_370.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/370">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.536,34.2283</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Partially collapsed apartment building</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_371.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/371">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.536,34.2283</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed apartment building in Northridge</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_372.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/372">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.536,34.2283</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of building onto carport</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_373.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/373">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.536,34.2283</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second view of collapsed apartment building</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_374.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/374">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.536,34.2283</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Relatively undamaged apartment building</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_375.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/375">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.536,34.2283</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Interior of damaged apartment building</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_376.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/376">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5554,34.2283</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second view interior of damaged apartment building</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_377.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/377">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5554,34.2283</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Partially collapsed parking structure, Cal State Univ.</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_378.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/378">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5276,34.2413</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second view of collapsed parking structure</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_379.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/379">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5276,34.2413</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Undamaged Great Western Bank Building</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/18/18_380.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/380">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5663,34.2387</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to a single family home on a ridge north of the San Fernando Valley (1994)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_409.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/409">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.435,34.3273</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>View of cross section of San Andreas fault</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_203.jpg"/><br><p>Credit: Clifford E. Harwood<br>Organization: Encino, California</p><p><a href="/hazardimages/picture/show/203">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.1321,34.5625</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Second view of cross section of San Andreas fault</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_204.jpg"/><br><p>Credit: Clifford E. Harwood<br>Organization: Encino, California</p><p><a href="/hazardimages/picture/show/204">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.1321,34.5625</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Northridge Meadows Apartment Building (1994)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_410.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/410">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.536,34.2283</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage at Building Three of the Veterans Administration Hospital in Sepulveda (1994)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_412.jpg"/><br><p>Credit: Mehmet Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/412">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4833,34.2444</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kaiser Permanente Medical Building, Granada Hills (1994)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_413.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/413">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5027,34.2627</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Olive View Hospital replacement fares well in 1994 quake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_415.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/415">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.4463,34.3257</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Northridge Fashion Center's two-story Bullocks Department Store (1994)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_418.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/418">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5557,34.2396</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Parking structure at the Northridge Fashion Center (1994)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_419.jpg"/><br><p>Credit: E.V. Leyendecker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/419">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5557,34.2396</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed parking structure at California State University in Northridge (1994)</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/20/20_420.jpg"/><br><p>Credit: Mehmet Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/420">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118.5276,34.2413</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Overpass columns damaged in Northridge earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/22/22_456.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/456">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122,38</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Parking garage columns damaged in Northridge earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/22/22_457.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/457">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Splayed column bases, Northridge earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/22/22_458.jpg"/><br><p>Credit: J. Dewey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/458">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Failed bridge support, Northridge earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/22/22_459.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/459">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>"Short column" effect, Northridge earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/22/22_460.jpg"/><br><p>Credit: M. Celebi<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/460">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-118,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1970/5/31 Huaraz</name>
+  <Placemark>
+    <name>1970/5/31 Huaraz</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_29.jpg"/><br><p>In 1970, an earthquake-induced rock and snow avalanche on Mt. Huascaran, Peru, buried the towns of Yungay and Ranrahirca. The magnitude 7.8 earthquake killed 66,794 and caused $250 million in property damage. Several towns were almost totally destroyed. With factors of landslides and floods, was one of the largest disasters in the Southern Hemisphere.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=4531&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-78.8,-9.2</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Rock and Snow Avalanche, Mt. Hauscaran, Peru</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_123.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado at Boulder</p><p><a href="/hazardimages/picture/show/123">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-77.622,-9.1</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Rock and Snow Avalanche, Mount Huascaran, Peru</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_785.jpg"/><br><p>Credit: G. Pflafker<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/785">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-77.622,-9.1</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Before View of City Street, Huaraz, Peru</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_29.jpg"/><br>Organization: University of Colorado at Boulder</p><p><a href="/hazardimages/picture/show/29">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-77.518,-9.521</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>After View of City Street, Huaraz, Peru</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_30.jpg"/><br>Organization: University of Colorado at Boulder</p><p><a href="/hazardimages/picture/show/30">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-77.518,-9.521</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

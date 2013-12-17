@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1906/4/18 San Francisco</name>
+  <Placemark>
+    <name>1906/4/18 San Francisco</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_41.jpg"/><br><p>The 1906 San Francisco earthquake was the largest event (magnitude 8.3) to occur in the conterminous United States in the 20th Century. Recent estimates indicate that as many as 3,000 people lost their lives in the earthquake and ensuing fire. In terms of 1906 dollars, the total property damage amounted to about $24 million from the earthquake and $350 million from the fire. The fire destroyed 28,000 buildings in a 520-block area of San Francisco. </p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=2768&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-122.48,37.67</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fault Trace Breaks Fence NW of Woodville</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_41.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/41">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-119.1988,36.1027</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Skinner's Barn Offset by Fault Trace</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_42.jpg"/><br><p>Credit: G.K. Gilbert<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/42">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.7881,38.0408</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fault Severs House, Santa Cruz County</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_43.jpg"/><br><p>Credit: R.L. Humphrey<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/43">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.935,37.125</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Road Cracks Caused by Earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_44.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/44">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4193,37.7793</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Buckling of Union Street</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_45.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/45">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.438,37.7968</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Compression of Street Car Rails</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_46.jpg"/><br><p>Credit: G.K. Gilbert<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/46">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4173,37.7636</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tipped House on Howard Street</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_47.jpg"/><br><p>Credit: G.K. Gilbert<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/47">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4173,37.7636</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Compression of Paving in Mission District</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_48.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/48">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4173,37.7627</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tilted Buildings Caused by Ground Failures</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_49.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/49">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4195,37.7751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Horses Killed by Falling Bricks</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_50.jpg"/><br><p>Credit: Eric Swenson<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/50">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4195,37.7751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Severely Damaged San Francisco City Hall</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_51.jpg"/><br><p>Credit: W.C. Mendenhall<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/51">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4193,37.7793</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Library at Stanford University</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_52.jpg"/><br><p>Credit: W.C. Mendenhall<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/52">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.1675,37.4258</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Memorial Church, Stanford University</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_53.jpg"/><br><p>Credit: W.C. Mendenhall<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/53">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.1704,37.427</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Store in Palo Alto</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_54.jpg"/><br><p>Credit: W.C. Mendenhall<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/54">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.142,37.449</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to First Baptist Church in Oakland</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_55.jpg"/><br><p>Credit: G.K. Gilbert<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/55">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.27,37.812</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of City Hall at Santa Rosa</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_56.jpg"/><br>Organization: University of California at Berkeley</p><p><a href="/hazardimages/picture/show/56">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.711,38.438</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Panoramic View of San Francisco in Flames</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_57.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/57">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4195,37.7751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tent Camp for Earthquake Victims</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_58.jpg"/><br><p>Credit: Eric Swenson<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/58">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4195,37.7751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>View of Devastation Looking Toward Market Street</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_59.jpg"/><br><p>Credit: Eric Swenson<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/59">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4205,37.7745</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Panoramic View of Nearly Total Devastation of San Francisco</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/2/2_60.jpg"/><br>Organization: San Francisco Examiner</p><p><a href="/hazardimages/picture/show/60">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.4195,37.7751</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Library at Stanford University</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/5/5_102.jpg"/><br><p>Credit: W.C. Mendenhall<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/102">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.1671,37.4266</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Chapel at Stanford University</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/5/5_103.jpg"/><br><p>Credit: W.C. Mendenhall<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/103">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.1704,37.4271</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

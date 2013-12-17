@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>2011/3/11 Tohoku</name>
+  <Placemark>
+    <name>2011/3/11 Tohoku</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_027.jpg"/><br><p>The March 11 earthquake generated a devastating tsunami that was observed all over the Pacific and caused tremendous devastation locally, including an accident at the Fukushima Daiichi Nuclear Power Plant.
+</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=9799&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>142.369,38.322</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Otsuchi</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_001.jpg"/><br>Organization: IFRC</p><p><br><a href="/hazardimages/picture/show/1456">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.9048,39.3588</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Road through Kamaishi</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_002.jpg"/><br><p>Credit: Patrick Fuller<br>Organization: IFRC</p><p><br><a href="/hazardimages/picture/show/1457">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.8856,39.2758</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Panorama of Otsuchi</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_003.jpg"/><br><p>Credit: Patrick Fuller<br>Organization: IFRC</p><p><br><a href="/hazardimages/picture/show/1458">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.9048,39.3588</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Yamada Town</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_004.jpg"/><br><p>Credit: Katherine Mueller<br>Organization: IFRC</p><p><br><a href="/hazardimages/picture/show/1459">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.9537,39.4754</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Ishinomaki</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_005.jpg"/><br>Organization: Japanese Red Cross</p><p><br><a href="/hazardimages/picture/show/1460">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.3096,38.4326</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Otsuchi</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_006.jpg"/><br>Organization: Japanese Red Cross</p><p><br><a href="/hazardimages/picture/show/1461">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.9048,39.3588</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Otsuchi</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_007.jpg"/><br>Organization: Japanese Red Cross</p><p><br><a href="/hazardimages/picture/show/1462">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.9048,39.3588</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Otsuchi Fire Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_008.jpg"/><br>Organization: Japanese Red Cross</p><p><br><a href="/hazardimages/picture/show/1463">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.9048,39.3588</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Otsuchi</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_009.jpg"/><br>Organization: Japanese Red Cross</p><p><br><a href="/hazardimages/picture/show/1464">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.9048,39.3588</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Iwate Prefecture</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_010.jpg"/><br>Organization: Japanese Red Cross</p><p><br><a href="/hazardimages/picture/show/1465">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.89,39.35</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Ishinomaki Store Damage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_012.jpg"/><br>Organization: Japanese Red Cross</p><p><br><a href="/hazardimages/picture/show/1467">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.3,38.424</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Otsuchi Road Damage </name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_011.jpg"/><br>Organization: Japanese Red Cross</p><p><br><a href="/hazardimages/picture/show/1466">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.89,39.355</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Uranohama Port, Oshima</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_013.jpg"/><br><p>Credit: Cpl. Megan Angel<br>Organization: U.S. Marine Corps</p><p><br><a href="/hazardimages/picture/show/1468">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.6129,38.8649</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Uranohama Port, Oshima</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_014.jpg"/><br><p>Credit: Cpl. Megan Angel<br>Organization: U.S. Marine Corps</p><p><br><a href="/hazardimages/picture/show/1469">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.6129,38.8649</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Yotsube town</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_015.jpg"/><br><p>Credit: Tomoyuki Kawashima<br><p><a href="/hazardimages/picture/show/1470">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>140.9914,38.2578</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Gamou-Mae St.</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_016.jpg"/><br><p>Credit: Tomoyuki Kawashima<br><p><a href="/hazardimages/picture/show/1471">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>140.9859,38.2491</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Onagawa Harbor, Ishinomaki</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_017.jpg"/><br><p>Credit: Shunichi Koshimura<br><p><a href="/hazardimages/picture/show/1472">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.4453,38.4457</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Onagawa, Ishinomaki</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_018.jpg"/><br><p>Credit: Shunichi Koshimura<br><p><a href="/hazardimages/picture/show/1473">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.4453,38.4457</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Onagawa, Ishinomaki</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_019.jpg"/><br><p>Credit: Shunichi Koshimura<br><p><a href="/hazardimages/picture/show/1474">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.4453,38.4457</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Onagawa, Ishinomaki</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_020.jpg"/><br><p>Credit: Shunichi Koshimura<br><p><a href="/hazardimages/picture/show/1475">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.4453,38.4457</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Onagawa, Ishinomaki</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_021.jpg"/><br><p>Credit: Shunichi Koshimura<br><p><a href="/hazardimages/picture/show/1476">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.4453,38.4457</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Onagawa, Ishinomaki</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_022.jpg"/><br><p>Credit: Shunichi Koshimura<br><p><a href="/hazardimages/picture/show/1477">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.4453,38.4457</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Onagawa, Ishinomaki</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_023.jpg"/><br><p>Credit: Shunichi Koshimura<br><p><a href="/hazardimages/picture/show/1478">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.4453,38.4457</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Onagawa, Ishinomaki</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_024.jpg"/><br><p>Credit: Shunichi Koshimura<br><p><a href="/hazardimages/picture/show/1479">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.4453,38.4457</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Onagawa, Ishinomaki</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_025.jpg"/><br><p>Credit: Shunichi Koshimura<br><p><a href="/hazardimages/picture/show/1480">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.4453,38.4457</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Onagawa, Ishinomaki</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_026.jpg"/><br><p>Credit: Shunichi Koshimura<br><p><a href="/hazardimages/picture/show/1481">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.4453,38.4457</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial of Sukuiso, Japan</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_027.jpg"/><br><p>Credit: Dylan McCord<br>Organization: U.S. Navy</p><p><br><a href="/hazardimages/picture/show/1482">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.9537,39.4754</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Ofunato</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_028.jpg"/><br><p>Credit: Gunnery Sgt. Leo A. Salinas<br>Organization: U.S. Marine Corps</p><p><br><a href="/hazardimages/picture/show/1483">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.714,39.072</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Minato</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_029.jpg"/><br><p>Credit: Lance Cpl. Ethan Johnson<br>Organization: U.S. Marine Corps</p><p><br><a href="/hazardimages/picture/show/1484">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>140.99,38.27</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Minato</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_030.jpg"/><br><p>Credit: Lance Cpl. Ethan Johnson<br>Organization: U.S. Marine Corps</p><p><br><a href="/hazardimages/picture/show/1485">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>140.99,38.27</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Ofunato</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_031.jpg"/><br><p>Credit: Gunnery Sgt. Leo A. Salinas<br>Organization: U.S. Marine Corps</p><p><br><a href="/hazardimages/picture/show/1486">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>141.714,39.072</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aichi</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_032.jpg"/><br><p>Credit: Lance Cpl. Garry Welch<br>Organization: U.S. Marine Corps</p><p><br><a href="/hazardimages/picture/show/1487">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>136.85,35.07</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Keauhou Bay, Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_033.jpg"/><br><p>Credit: Steve Dunleavy-SmugMug<br><p><a href="/hazardimages/picture/show/1488">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.9618,19.5625</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Keauhou Bay, Hawaii</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_034.jpg"/><br><p>Credit: Steve Dunleavy-SmugMug<br><p><a href="/hazardimages/picture/show/1489">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-155.962,19.5615</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Crescent City, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/256/256_035.jpg"/><br><p>Credit: Todd Williams<br>Organization: Cascadia GeoSciences</p><p><br><a href="/hazardimages/picture/show/1490">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-124.1917,41.7464</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

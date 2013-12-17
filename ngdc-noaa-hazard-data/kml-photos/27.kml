@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>2005/10/8 Kashmir</name>
+  <Placemark>
+    <name>2005/10/8 Kashmir</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/50/50_1066.jpg"/><br><p>A devastating earthquake shook the western Himalaya and adjoining regions on the morning of 8th October 2005. The magnitude 7.6 earthquake killed at least 86,000 people, injured more than 69,000 and caused extensive damage in northern Pakistan. The heaviest damage occurred in the Muzaffarabad area, Kashmir where entire villages were destroyed and at Uri where 80 percent of the town was destroyed. At least 32,335 buildings collapsed in Anantnag, Baramula, Jammu and Srinagar, Kashmir. Buildings collapsed in Abbottabad, Gujranwala, Gujrat, Islamabad, Lahore and Rawalpindi, Pakistan. At least 1,360 people killed and 6,266 injured in India. At least one person killed and some buildings collapsed in Afghanistan. Landslides and rockfalls damaged or destroyed several mountain roads and highways cutting off access to the region for several days. Landslides occurred farther north near the towns of Gilgit and Skardu, Kashmir. Liquefaction and sandblows occurred in the western part of Vale of Kashmir and near Jammu.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=6778&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>73.588,34.539</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Batmaloo, Srinagar</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/50/50_1066.jpg"/><br><p>Credit: John Beba<br>Organization: Earthquake Monitoring Division, Geological Survey of India</p><p><a href="/hazardimages/picture/show/1066">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>74,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hazratbal shrine, Srinagar</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/50/50_1067.jpg"/><br><p>Credit: John Beba<br>Organization: Earthquake Monitoring Division, Geological Survey of India</p><p><a href="/hazardimages/picture/show/1067">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>75,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Baramulla</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/50/50_1068.jpg"/><br><p>Credit: John Beba<br>Organization: Earthquake Monitoring Division, Geological Survey of India</p><p><a href="/hazardimages/picture/show/1068">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>74,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bunihar temple</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/50/50_1069.jpg"/><br><p>Credit: John Beba<br>Organization: Earthquake Monitoring Division, Geological Survey of India</p><p><a href="/hazardimages/picture/show/1069">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>74,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Partial collapse suffered by Datta mender near Mohura</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/50/50_1070.jpg"/><br><p>Credit: John Beba<br>Organization: Earthquake Monitoring Division, Geological Survey of India</p><p><a href="/hazardimages/picture/show/1070">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>74,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Failure of terrace slopes on right bank of Jhelum River near Mohura</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/50/50_1071.jpg"/><br><p>Credit: John Beba<br>Organization: Earthquake Monitoring Division, Geological Survey of India</p><p><a href="/hazardimages/picture/show/1071">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>74,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Highway Collapses</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/50/50_1072.jpg"/><br><p>Credit: John Beba<br>Organization: Earthquake Monitoring Division, Geological Survey of India</p><p><a href="/hazardimages/picture/show/1072">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>76,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Salamabad village</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/50/50_1073.jpg"/><br><p>Credit: John Beba<br>Organization: Earthquake Monitoring Division, Geological Survey of India</p><p><a href="/hazardimages/picture/show/1073">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>73,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Blockade of Muzaffarabad highway</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/50/50_1074.jpg"/><br><p>Credit: John Beba<br>Organization: Earthquake Monitoring Division, Geological Survey of India</p><p><a href="/hazardimages/picture/show/1074">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>74,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sultan Teka</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/50/50_1075.jpg"/><br><p>Credit: John Beba<br>Organization: Earthquake Monitoring Division, Geological Survey of India</p><p><a href="/hazardimages/picture/show/1075">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>74,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kamalkot village</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/50/50_1076.jpg"/><br><p>Credit: John Beba<br>Organization: Earthquake Monitoring Division, Geological Survey of India </p><p><a href="/hazardimages/picture/show/1076">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>74,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kamalkot village</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/50/50_1077.jpg"/><br><p>Credit: John Beba<br>Organization: Earthquake Monitoring Division, Geological Survey of India </p><p><a href="/hazardimages/picture/show/1077">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>74,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Kamalkot</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/50/50_1078.jpg"/><br><p>Credit: John Beba<br>Organization: Earthquake Monitoring Division, Geological Survey of India</p><p><a href="/hazardimages/picture/show/1078">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>74,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Main Boundary thrust (MBT) </name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/50/50_1079.jpg"/><br><p>Credit: John Beba<br>Organization: Earthquake Monitoring Division, Geological Survey of India</p><p><a href="/hazardimages/picture/show/1079">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>74,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

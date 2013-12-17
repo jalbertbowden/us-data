@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1991/6/15 Pinatubo</name>
+  <Placemark>
+    <name>1991/6/15 Pinatubo</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_691.jpg"/><br><p>Mount Pinatubo is an andesitic island arc volcano, located on the southwestern part of the island of Luzon in the Philippines. Prior to 1991, it had been dormant for more than 635 years. After months of rumbling, the volcano stirred to life on April 2, 1991. The next two and a half months were marked by generally increasing volcanic and seismic activity at the site. On June 15, a cataclysmic eruption began with a tremendous explosion. This slide set shows the early stages of the eruption phase, the cataclysmic eruption of June 15, and the effects and aftermath of the eruption. Subsequent calamities caused by the ash, pyroclastic flows, mud flows, and flooding are also depicted.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=null">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>120.35,15.13</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial View of Area Devastated by April 2 Explosions</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_681.jpg"/><br><p>Credit: C.G. Newhall<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/681">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.35,15.158</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial View of April 2 Explosion Craters</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_682.jpg"/><br><p>Credit: C.G. Newhall<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/682">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.36,15.1581</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Close-Up of April 2 Explosion Craters</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_683.jpg"/><br><p>Credit: R. Batalon<br>Organization: U.S. Air Force</p><p><br><a href="/hazardimages/picture/show/683">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.35,15.158</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Geologists Examine Ash Deposits from April 2 Eruption</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_684.jpg"/><br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/684">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.35,15.158</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>June 12, 1991, Eruption Cloud from Clark Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_685.jpg"/><br><p>Credit: R.S. Culbreth<br>Organization: U.S. Air Force</p><p><br><a href="/hazardimages/picture/show/685">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.5559,15.1849</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>View of June 12, 1991, Eruption Cloud</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_686.jpg"/><br><p>Credit: K. Jackson<br>Organization: U.S. Air Force</p><p><br><a href="/hazardimages/picture/show/686">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.5559,15.1849</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>View of Major Eruption Cloud on June 15, 1991</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_687.jpg"/><br><p>Credit: R. Lapointe<br>Organization: U.S. Air Force</p><p><br><a href="/hazardimages/picture/show/687">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.5559,15.1849</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial View of Pinatubo Crater after Major Eruption</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_688.jpg"/><br><p>Credit: R. Batalon<br>Organization: U.S. Air Force</p><p><br><a href="/hazardimages/picture/show/688">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.35,15.158</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial View Pinatubo Pyroclastic Deposits</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_689.jpg"/><br><p>Credit: R.P. Hoblitt<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/689">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.35,15.158</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial View of Small Explosion in Pinatubo Crater</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_690.jpg"/><br><p>Credit: T.J. Casadevall<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/690">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.35,15.158</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial View of Crater Lake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_691.jpg"/><br><p>Credit: T.C. Pierson<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/691">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.35,15.158</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Effects of Ash Fall on Plane</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_692.jpg"/><br><p>Credit: R.L. Rieger<br>Organization: U.S. Navy</p><p><br><a href="/hazardimages/picture/show/692">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.2712,14.7952</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Effects of Ash Fall at Clark Air Base</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_693.jpg"/><br><p>Credit: T.J. Casadevall<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/693">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.5559,15.1849</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Effect of Ash Fall on Native Hut</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_694.jpg"/><br><p>Credit: R.P. Hoblitt<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/694">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.3435,15.1802</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Resettlement Camp</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_695.jpg"/><br><p>Credit: T.J. Casadevall<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/695">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.35,15.158</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial View of Valley Filled with Mudflows</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_696.jpg"/><br><p>Credit: T.J. Casadevall<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/696">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.5493,15.2255</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Scientists Observe a Hot Mudflow</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_697.jpg"/><br><p>Credit: T.J. Casadevall<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/697">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.5573,15.2199</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Mudflow Collapses Bridges in Angeles City</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_698.jpg"/><br><p>Credit: T.J. Casadevall<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/698">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.592,15.1551</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial View Flooding in Village</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_699.jpg"/><br><p>Credit: T.J. Casadevall<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/699">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.6153,14.9979</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Satellite Photos Showing Movement of Aerosol Cloud</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/34/34_700.jpg"/><br><p>Credit: Larry Stowe<br>Organization: NOAA/NESDIS Office of Research and Applications</p><p><br><a href="/hazardimages/picture/show/700">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>120.35,15.158</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

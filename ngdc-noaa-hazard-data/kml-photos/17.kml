@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1992/6/28 Landers and Big Bear</name>
+  <Placemark>
+    <name>1992/6/28 Landers and Big Bear</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_217.jpg"/><br><p>Southern California residents were rudely awakened Sunday morning June 28, 1992 at 04:57 am (June 28 at 11:57 GMT), by an earthquake of magnitude 7.6 (Ms) followed by a smaller 6.7 (Ms) magnitude earthquake about three hours later (June 28 at 15:05 GMT). The largest shock occurred approximately 6 miles southwest of Landers, California and 110 miles east of Los Angeles. The second earthquake was entered approximately 8 miles southeast of Big Bear City in the San Bernardino Mountains near Barton Flats. A distance of 17 miles and 7,000 feet in elevation separate the two earthquake locations.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5328&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-116.436,34.201</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Four to six foot fault scarp, Landers earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/17/17_341.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/341">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.5483,34.5386</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Liquefaction adjacent to Santa Ana River near Big Bear epicenter</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/17/17_342.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/342">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-117,34</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Ground cracking near Aberdeen</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/17/17_343.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/343">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.4344,34.1895</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Buckled water tank lifted off base by Landers earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/17/17_344.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/344">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.3937,34.265</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to bowling alley near Landers epicenter</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/17/17_350.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/350">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.3953,34.1299</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Detail of damage to bowling alley</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/17/17_351.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/351">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.3953,34.1299</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Monument Market near Landers epicenter</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/17/17_352.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/352">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.3108,34.1351</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Detail of damage to Monument Market</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/17/17_353.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/353">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.3108,34.1351</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslides along Highway 18 in the San Bernardino Mountains</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/17/17_354.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/354">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-117.276,34.184</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Repair of earthquake-damaged road</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/17/17_355.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/355">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-117.276,34.184</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Path of huge boulder dislodged by Big Bear earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/17/17_356.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/356">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.9188,34.0887</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Dislodged boulder destroyed forest in its path</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/17/17_357.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/357">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.9188,34.0887</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>One of the large dislodged boulders rests against a tree</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/17/17_358.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/358">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.9188,34.0887</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapse of a chimney on home at Big Bear City</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/17/17_359.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/359">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.8428,34.2616</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Roof damage to restaurant in Big Bear City</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/17/17_360.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/360">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.9037,34.2436</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Oblique-slip fault scarp at Flamingo Heights, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/10/10_217.jpg"/><br><p>Credit: Lindie Brewer<br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/217">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-116.4398,34.2592</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1995/1/16 Hanshin-Awaji (Kobe)</name>
+  <Placemark>
+    <name>1995/1/16 Hanshin-Awaji (Kobe)</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_421.jpg"/><br><p>On the morning of January 17, 1995 (January 16 at 20:46 GMT), a major earthquake occurred near the City of Kobe, Japan. The greatest intensity of shaking for the 6.9 magnitude earthquake was in a narrow corridor of two to four kilometers stretching 40 km along the coast of Osaka Bay. The worst destruction ran along the previously undetected fault on the coast, east of Kobe. Kobe's major businesses and port facilities, and residences are located on this strip. This earthquake caused 5,480 deaths, and totally destroyed more than 192,000 houses and buildings.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=5399&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>135.018,34.583</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Badly damaged communication building</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_421.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/421">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.193,34.688</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Totally collapsed Buddhist temple</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_422.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/422">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.19,34.69</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Lobby of Oriental Hotel</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_423.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/423">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.193,34.688</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damaged Kobe waterfront</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_424.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/424">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.1949,34.6702</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Cars and buildings have slipped into the bay</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_425.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/425">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.1949,34.6702</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed fifth floor of high rise</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_426.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/426">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.19,34.69</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed walkway between two buildings</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_427.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/427">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.19,34.69</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed first floor of retail store</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_428.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/428">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.19,34.69</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Leaning office building</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_429.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/429">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.19,34.69</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Office building with partially destroyed first floor</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_430.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/430">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.19,34.69</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Completely destroyed concrete frame building</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_431.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/431">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.19,34.69</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed fifth floor in central business district</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_432.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/432">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.19,34.69</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Truck crushed beneath fallen debris</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_433.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/433">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.19,34.69</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Completely destroyed apartment complex</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_434.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/434">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.19,34.69</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed first and second stories</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_435.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/435">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.19,34.69</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Major split in foundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_436.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/436">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.19,34.69</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Smoke from Kobe fires</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_437.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/437">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.19,34.69</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damaged support for Kobe expressway</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_438.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/438">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.2007,34.6852</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed residential building</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_439.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/439">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.19,34.69</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Collapsed residential garage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/21/21_440.jpg"/><br><p>Credit: Dr. Roger Hutchison<br><p><a href="/hazardimages/picture/show/440">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>135.19,34.69</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

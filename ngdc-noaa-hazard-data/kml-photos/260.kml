@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>2009/9/29 Samoa Islands</name>
+  <Placemark>
+    <name>2009/9/29 Samoa Islands</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_001.jpg"/><br><p>At least 149 people killed in Samoa, 34 killed in American Samoa and 9 killed, 7 injured and 500 displaced on Niuatoputapu, Tonga. Widespread damage to infrastructure occurred at Pago Pago, American Samoa, in many parts of Samoa and on Niuatoputapu, Tonga. Nearly all of the casualties and damage was caused by large tsunamis, with run up heights of 12 meters at Poloa, 7 meters at Pago Pago and Tula, American Samoa and 3 meters on Niuatoputapu. Felt in much of American Samoa, Samoa and northern Tonga and as far away as Wallis and Futuna Islands.</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=8408&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-172.095,-15.489</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_001.jpg"/><br><p><a href="/hazardimages/picture/show/1626">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7011,-14.2738</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_002.jpg"/><br><p><a href="/hazardimages/picture/show/1627">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7011,-14.2738</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_003.jpg"/><br><p><a href="/hazardimages/picture/show/1628">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7011,-14.2738</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_004.jpg"/><br><p><a href="/hazardimages/picture/show/1629">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7011,-14.2738</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_005.jpg"/><br><p><a href="/hazardimages/picture/show/1630">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7038,-14.2723</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_006.jpg"/><br><p><a href="/hazardimages/picture/show/1631">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7021,-14.2731</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_007.jpg"/><br><p><a href="/hazardimages/picture/show/1632">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7023,-14.2734</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_008.jpg"/><br><p><a href="/hazardimages/picture/show/1633">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.703,-14.2734</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_009.jpg"/><br><p><a href="/hazardimages/picture/show/1634">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7035,-14.2729</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_010.jpg"/><br><p><a href="/hazardimages/picture/show/1635">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7035,-14.2727</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_011.jpg"/><br><p><a href="/hazardimages/picture/show/1636">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7021,-14.2732</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_012.jpg"/><br><p><a href="/hazardimages/picture/show/1637">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7024,-14.273</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_013.jpg"/><br><p><a href="/hazardimages/picture/show/1638">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7023,-14.2729</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_014.jpg"/><br><p><a href="/hazardimages/picture/show/1639">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7019,-14.2729</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_015.jpg"/><br><p><a href="/hazardimages/picture/show/1640">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.702,-14.2729</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_016.jpg"/><br><p><a href="/hazardimages/picture/show/1641">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7019,-14.2734</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_017.jpg"/><br><p><a href="/hazardimages/picture/show/1642">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7019,-14.2734</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_018.jpg"/><br><p><a href="/hazardimages/picture/show/1643">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7016,-14.2724</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Pago Pago Tsunami inundation</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_019.jpg"/><br><p><a href="/hazardimages/picture/show/1644">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7013,-14.2724</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Debris Following Tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_020.jpg"/><br><p><a href="/hazardimages/picture/show/1645">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7018,-14.2733</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Debris Following Tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_021.jpg"/><br><p><a href="/hazardimages/picture/show/1646">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7024,-14.2738</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Debris Following Tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_022.jpg"/><br><p><a href="/hazardimages/picture/show/1647">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7029,-14.2734</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Debris Following Tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_023.jpg"/><br><p><a href="/hazardimages/picture/show/1648">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7025,-14.2739</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Debris Following Tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_024.jpg"/><br><p><a href="/hazardimages/picture/show/1649">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.703,-14.273</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Debris Following Tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/260/260_025.jpg"/><br><p><a href="/hazardimages/picture/show/1650">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-170.7029,-14.2734</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

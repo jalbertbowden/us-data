@@ -1,0 +1,3 @@
+http://ngdc.noaa.gov/hazard/data/kml/
+
+http://ngdc.noaa.gov/hazard/data/kml/photos/

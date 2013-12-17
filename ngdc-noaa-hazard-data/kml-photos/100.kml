@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+  <name> Rockfalls and Slides</name>
+  <Placemark>
+    <name>Talus cones, Glen Canyon</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_121.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1526">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-111.5,36.9</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Rock Slide, Frank, Alberta, Canada</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_122.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1527">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-114.41,49.57</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Rock and Snow Avalanche, Mt. Hauscaran, Peru</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_123.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1528">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-77.6224,-9.1043</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Rockfall Avalanche, Mt. Rainer, Washington</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_124.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1529">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.712,46.8494</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Slide and Alluvial Fan, Madison River, Montana</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_125.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1530">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-111.427,44.828</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Talus Cones in the Canadian Rockies</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_126.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1531">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-115.57,51.185</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Rock Glaciers, Mt. Sopris, Colorado</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_138.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1543">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-107.176,39.262</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Solifluction Flows, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_139.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1544">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-143.69,62.813</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Creep, Marathon, Texas</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/6/6_140.jpg"/><br><p>Credit: B. Bradley<br>Organization: University of Colorado</p><p><br><a href="/hazardimages/picture/show/1545">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-102.989,30.212</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide Overview Map of the Conterminous United States</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_781.jpg"/><br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1546">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-95.3,40.7</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide, Thistle, Utah</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_783.jpg"/><br><p>Credit: R.L. Schuster<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1548">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-111.5,39.9935</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide, The Mameyes, Puerto Rico</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_784.jpg"/><br><p>Credit: R.W. Jibson<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1549">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-65.77,18.37</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Rock and Snow Avalanche, Mount Huascaran, Peru</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_785.jpg"/><br><p>Credit: G. Pflafker<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1550">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-77.623,-9.103</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Rockfall, Yosemite National Park, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_788.jpg"/><br><p>Credit: Edwin Harp<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1553">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-119.5677,37.7313</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Sinkhole, Winter Park, Florida</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_789.jpg"/><br><p>Credit: A.S. Navory<br><p><a href="/hazardimages/picture/show/1554">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-81.34,28.6</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide, McClure Pass, Colorado</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_790.jpg"/><br><p>Credit: Terry Taylor<br>Organization: Colorado State Patrol</p><p><br><a href="/hazardimages/picture/show/1555">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-107.2838,39.1293</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide, Golden, Colorado</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_793.jpg"/><br><p>Credit: W.M. Brown, III<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1558">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-105.236,39.755</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide, Zion National Park, Utah</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_796.jpg"/><br><p>Credit: R.L. Schuster<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1561">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-112.99,37.2</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide and Debris Flow, La Conchita, California</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_797.jpg"/><br><p>Credit: R.L. Schuster<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1562">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-119.421,34.3491</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide, Colorado Springs, Colorado</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_798.jpg"/><br>Organization: Colorado Geological Survey</p><p><br><a href="/hazardimages/picture/show/1563">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-104.82,38.838</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Landslide and Debris Flows, Stella, Washington</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/39/39_799.jpg"/><br><p>Credit: R.L. Schuster<br>Organization: U.S. Geological Survey</p><p><br><a href="/hazardimages/picture/show/1564">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-123.1233,46.191</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

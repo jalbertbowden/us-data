@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+<Style id="event">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/star.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+  <name>1964/3/28 Prince William Sound</name>
+  <Placemark>
+    <name>1964/3/28 Prince William Sound</name>
+    <description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_23.jpg"/><br><p>The earthquake was one of the largest earthquakes ever recorded on the North American Continent. It was a magnitude 8.4 earthquake, felt over 500,000 square miles. This great earthquake and ensuing tsunami took 125 lives (tsunami 110, earthquake 15).</p><p><a href="http://www.ngdc.noaa.gov/nndc/struts/results?&t=101650&s=13&d=22,26,13,12&nd=display&eq_0=4311&t=101650&s=13&d=399,26,13,12&nd=display">More information from NGDC</a></p>]]></description>
+    <Point>
+      <coordinates>-147.73,61.04</coordinates>
+    </Point>
+    <styleUrl>#event</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Uplifted dock, Prince William Sound, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_141.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/141">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-146.4603,60.411</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Subsidence at Portage, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_142.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/142">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-148.9844,60.8239</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Hanning Bay Fault Scarp, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_143.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/143">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-147.69,59.96</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Underwater Landslides at Seward, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_144.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/144">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.43,60.11</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Government Hill Landslide, Anchorage, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_145.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/145">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.87,61.23</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>"L" Street Landslide, Anchorage, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_146.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/146">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.9,61.21</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damaged Four Seasons Apartments Anchorage, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_147.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/147">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.903,61.219</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Scarp in "L" Street Slide, Anchorage, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_148.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/148">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.9,61.21</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Fourth Avenue, Anchorage, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_149.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/149">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.88,61.219</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fourth Avenue Landslide Scarp, Anchorage, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_150.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/150">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.88,61.219</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Turnagain Heights Landslide, Anchorage, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_151.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/151">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.94,61.19</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fissured Highway Embankment, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_153.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/153">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-148.9856,60.8435</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bridge Damage, Twentymile River, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_154.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/154">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-148.9885,60.8452</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bridge Damage on the Copper River, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_155.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/155">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-144.7433,60.6733</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Rails at Seward Port, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_156.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/156">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.4319,60.1202</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tank Farm Fire, Valdez, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_157.jpg"/><br>Organization: Earthquake Engineering Research Institute</p><p><a href="/hazardimages/picture/show/157">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-146.34,61.135</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage to Spruce Trees, Port Valdez, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_158.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/158">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-146.5876,61.1263</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage near Seward, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_159.jpg"/><br>Organization: U.S. Department of the Interior</p><p><a href="/hazardimages/picture/show/159">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.45,60.11</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage near Resurrection Bay, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/7/7_160.jpg"/><br>Organization: U.S. Department of the Interior</p><p><a href="/hazardimages/picture/show/160">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.4334,60.1174</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Slumping of Turnagain Heights Subdivision, Anchorage, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_24.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/24">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.94,61.19</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Car Straddles Crack in Road</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_83.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/83">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-147,61</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Fourth Ave. Anchorage</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_84.jpg"/><br>Organization: Earthquake Engineering Research Institute</p><p><a href="/hazardimages/picture/show/84">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.88,61.219</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Compression of Railroad Track</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_85.jpg"/><br>Organization: University of Colorado at Boulder</p><p><a href="/hazardimages/picture/show/85">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-147,61</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Damage to Railroad Bridge</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_86.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/86">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-144.7433,60.6733</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tsunami Damage to Railroad Facilities</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_87.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/87">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.4319,60.1202</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Boat Beached by Tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/4/4_88.jpg"/><br>Organization: University of Colorado at Boulder</p><p><a href="/hazardimages/picture/show/88">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.4429,60.1178</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>School Split by Slumping Ground, 1964, Alaska</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/5/5_111.jpg"/><br>Organization: NOAA National Geophysical Data Center</p><p><a href="/hazardimages/picture/show/111">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-149.87,61.23</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Surge Wave Produced by 1964 Alaska Earthquake</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/25/25_514.jpg"/><br>Organization: U.S. Geological Survey</p><p><a href="/hazardimages/picture/show/514">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-148.684,60.775</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Aerial View of Valdez, AK after 1964 Tsunami</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/25/25_515.jpg"/><br>Organization: U.S. Department of the Interior</p><p><a href="/hazardimages/picture/show/515">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-146.34,61.135</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<visibility>1</visibility>
+<Style id="photo-inactive">
+  <IconStyle><scale>0.7</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<Style id="photo-active">
+  <IconStyle><scale>1</scale><Icon><href>http://www.ngdc.noaa.gov/hazard/data/kml/photos/photography.png</href></Icon></IconStyle>
+  <LabelStyle><scale>1</scale></LabelStyle>
+  <BalloonStyle><text><![CDATA[<div style="width:165px;"><h4>$[name]</h4><p><br />$[description]</p>]]></text></BalloonStyle>
+</Style>
+<StyleMap id="photo">
+  <Pair><key>normal</key><styleUrl>#photo-inactive</styleUrl></Pair>
+  <Pair><key>highlight</key><styleUrl>#photo-active</styleUrl></Pair>
+</StyleMap>
+  <name> Seismic Creep</name>
+  <Placemark>
+    <name>Calaveras fault crosses street in Hollister</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_461.jpg"/><br><p>Credit: Joe Dellinger<br><p><a href="/hazardimages/picture/show/1586">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.4075,36.8541</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Creep on Locust Street as it looked in 1966 and 1992</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_462.jpg"/><br><p>Credit: Dr. Edward Berg (left); Joe Dellinger (right)<br><p><a href="/hazardimages/picture/show/1587">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.4075,36.8546</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Tipped house foundation along fault</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_463.jpg"/><br><p>Credit: Joe Dellinger<br><p><a href="/hazardimages/picture/show/1588">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.4078,36.8547</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Fault trace crosses intersection</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_464.jpg"/><br><p>Credit: Joe Dellinger<br><p><a href="/hazardimages/picture/show/1589">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.4075,36.8539</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Effect of 16 years of creep on curb</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_465.jpg"/><br><p>Credit: Joe Dellinger<br><p><a href="/hazardimages/picture/show/1590">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.4076,36.8541</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Walkway as it appeared in 1985 and in 1991</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_466.jpg"/><br><p>Credit: Joe Dellinger<br><p><a href="/hazardimages/picture/show/1591">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.4075,36.8532</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Two photos depicting same deformed curb in 1966 and 1992</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_467.jpg"/><br><p>Credit: Dr. Edward Berg<br>Organization: SOEST, University of Hawaii</p><p><br><a href="/hazardimages/picture/show/1592">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.4075,36.8527</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Wavy curb produced by seismic creep</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_468.jpg"/><br><p>Credit: Joe Dellinger<br><p><a href="/hazardimages/picture/show/1593">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.4077,36.8525</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Curb on opposite side of street</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_469.jpg"/><br><p>Credit: Joe Dellinger<br><p><a href="/hazardimages/picture/show/1594">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.4078,36.8527</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bend in curb caused by seismic creep</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_470.jpg"/><br><p>Credit: Dr. Edward Berg<br>Organization: SOEST, University of Hawaii</p><p><br><a href="/hazardimages/picture/show/1595">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.4076,36.8526</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Bend in sidewalk, Hollister</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_471.jpg"/><br><p>Credit: Joe Dellinger<br><p><a href="/hazardimages/picture/show/1596">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.4073,36.8505</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Offset of street's center line at fault trace</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_473.jpg"/><br><p>Credit: Joe Dellinger<br><p><a href="/hazardimages/picture/show/1598">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.4067,36.8505</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Offset of culvert near Almaden Cienega Winery</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_474.jpg"/><br><p>Credit: Joe Dellinger<br><p><a href="/hazardimages/picture/show/1599">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.3891,36.7536</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Building damage caused by creep in Hayward</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_475.jpg"/><br><p>Credit: Sue Hirschfeld<br><p><a href="/hazardimages/picture/show/1600">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.0817,37.6718</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>En echelon shears crossing street, Hayward</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_476.jpg"/><br><p>Credit: Sue Hirschfeld<br><p><a href="/hazardimages/picture/show/1601">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.1125,37.7035</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Curb offset in 1974 and in 1993</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_477.jpg"/><br><p>Credit: Sue Hirschfeld<br><p><a href="/hazardimages/picture/show/1602">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.0911,37.6798</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Offset of fence in Hayward</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_478.jpg"/><br><p>Credit: Sue Hirschfeld<br><p><a href="/hazardimages/picture/show/1603">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.0623,37.6485</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Effect of creep on stadium</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_479.jpg"/><br><p>Credit: Sue Hirschfeld<br><p><a href="/hazardimages/picture/show/1604">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-122.2508,37.8709</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Distorted Fence, Melendy Ranch</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_480.jpg"/><br><p>Credit: Joe Dellinger<br><p><a href="/hazardimages/picture/show/1605">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.183,36.5673</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+  <Placemark>
+    <name>Broken curb, Hollister</name>
+<description><![CDATA[<img width="160" height="100" src="http://www.ngdc.noaa.gov/hazard/icons/med_res/23/23_472.jpg"/><br><p>Credit: Joe Dellinger<br><p><a href="/hazardimages/picture/show/1597">More Information</a></p>]]></description>
+    <Point>
+      <coordinates>-121.4063,36.8505</coordinates>
+    </Point>
+    <styleUrl>#photo</styleUrl>    <snippet></snippet>  </Placemark>
+</Document>
+</kml>
